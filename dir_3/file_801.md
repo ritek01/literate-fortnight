@@ -1,3 +1,0 @@
-wA7im1nvckHdgvyOaqnU
-FtFj4tNv
-JFVMD5
