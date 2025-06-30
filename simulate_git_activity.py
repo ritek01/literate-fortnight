@@ -7,7 +7,7 @@ import time
 from pathlib import Path
 
 # Configuration
-NUM_FILES = 2100  # Slightly over 2000 files
+NUM_FILES = 2200  # Slightly over 2000 files
 NUM_DIRS = 20
 FILE_EXTENSIONS = ['.txt', '.md', '.json', '.yaml', '.yml']
 CONTENT_LENGTH_MIN = 10
@@ -42,17 +42,17 @@ def create_files():
     print(f"Creating {NUM_FILES} files across {NUM_DIRS} directories...")
     
     # Create directories
-    directories = []
-    for i in range(NUM_DIRS):
-        dir_name = f"dir_{i+1}"
-        os.makedirs(dir_name, exist_ok=True)
-        directories.append(dir_name)
+    # directories = []
+    # for i in range(NUM_DIRS):
+    #     dir_name = f"dir_{i+1}"
+    #     os.makedirs(dir_name, exist_ok=True)
+    #     directories.append(dir_name)
     
     # Create files
     created_files = []
     for i in range(NUM_FILES):
         # Select a directory
-        directory = random.choice(directories)
+        directory = "dir_new"
         # Create a filename
         extension = random.choice(FILE_EXTENSIONS)
         filename = f"file_{i+1}{extension}"
@@ -120,33 +120,33 @@ def main():
     commit_files("Initial commit with 2000+ files")
     
     # Modify files
-    print("\nStep 2: Modifying files...")
-    remaining_files = list(all_files)  # Make a copy
-    modified_files = modify_files(remaining_files, FILES_TO_MODIFY)
-    commit_files(f"Modified {len(modified_files)} files")
+    # print("\nStep 2: Modifying files...")
+    # remaining_files = list(all_files)  # Make a copy
+    # modified_files = modify_files(remaining_files, FILES_TO_MODIFY)
+    # commit_files(f"Modified {len(modified_files)} files")
     
-    # Delete files
-    print("\nStep 3: Deleting files...")
-    deleted_files = delete_files(remaining_files, FILES_TO_DELETE)
-    # Remove deleted files from our tracking list
-    for file in deleted_files:
-        if file in remaining_files:
-            remaining_files.remove(file)
-    commit_files(f"Deleted {len(deleted_files)} files")
+    # # Delete files
+    # print("\nStep 3: Deleting files...")
+    # deleted_files = delete_files(remaining_files, FILES_TO_DELETE)
+    # # Remove deleted files from our tracking list
+    # for file in deleted_files:
+    #     if file in remaining_files:
+    #         remaining_files.remove(file)
+    # commit_files(f"Deleted {len(deleted_files)} files")
     
-    # Rename files
-    print("\nStep 4: Renaming files...")
-    renamed_files = rename_files(remaining_files, FILES_TO_RENAME)
-    # Update our tracking list with new filenames
-    for old_file in renamed_files:
-        if old_file in remaining_files:
-            remaining_files.remove(old_file)
-    commit_files(f"Renamed {len(renamed_files)} files")
+    # # Rename files
+    # print("\nStep 4: Renaming files...")
+    # renamed_files = rename_files(remaining_files, FILES_TO_RENAME)
+    # # Update our tracking list with new filenames
+    # for old_file in renamed_files:
+    #     if old_file in remaining_files:
+    #         remaining_files.remove(old_file)
+    # commit_files(f"Renamed {len(renamed_files)} files")
     
-    # Final modifications
-    print("\nStep 5: Final modifications...")
-    final_modified = modify_files(remaining_files, FILES_TO_MODIFY // 2)
-    commit_files(f"Final modifications to {len(final_modified)} files")
+    # # Final modifications
+    # print("\nStep 5: Final modifications...")
+    # final_modified = modify_files(remaining_files, FILES_TO_MODIFY // 2)
+    # commit_files(f"Final modifications to {len(final_modified)} files")
     
     # Push changes
     print("\nPushing changes to remote...")
