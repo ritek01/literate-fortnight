@@ -24,10 +24,11 @@ def random_content(length=None):
         length = random.randint(CONTENT_LENGTH_MIN, CONTENT_LENGTH_MAX)
     return ''.join(random.choice(string.ascii_letters + string.digits + ' \n') for _ in range(length))
 
-def run_git_command(command):
+def run_git_command(command, *args):
     """Run a git command and print the output"""
-    print(f"Running: git {command}")
-    result = subprocess.run(['git'] + command.split(), 
+    cmd = ['git', command] + list(args)
+    print(f"Running: {' '.join(cmd)}")
+    result = subprocess.run(cmd, 
                            capture_output=True, 
                            text=True)
     if result.returncode != 0:
@@ -68,8 +69,8 @@ def create_files():
 
 def commit_files(message):
     """Add all files and create a commit"""
-    run_git_command("add .")
-    run_git_command(f'commit -m "{message}"')
+    run_git_command("add", ".")
+    run_git_command("commit", "-m", message)
 
 def modify_files(files, count):
     """Modify a subset of files"""
@@ -149,7 +150,7 @@ def main():
     
     # Push changes
     print("\nPushing changes to remote...")
-    run_git_command("push -u origin main")
+    run_git_command("push", "-u", "origin", "main-patch")
     
     print("\nSimulation complete!")
 
