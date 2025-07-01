@@ -44,7 +44,7 @@ def create_files():
     # Create directories
     directories = []
     for i in range(NUM_DIRS):
-        dir_name = f"dir_new_1{i+1}"
+        dir_name = f"dir_new_2{i+1}"
         os.makedirs(dir_name, exist_ok=True)
         directories.append(dir_name)
     
@@ -126,13 +126,13 @@ def main():
     # commit_files(f"Modified {len(modified_files)} files")
     
     # # Delete files
-    # print("\nStep 3: Deleting files...")
-    # deleted_files = delete_files(remaining_files, FILES_TO_DELETE)
-    # # Remove deleted files from our tracking list
-    # for file in deleted_files:
-    #     if file in remaining_files:
-    #         remaining_files.remove(file)
-    # commit_files(f"Deleted {len(deleted_files)} files")
+    print("\nStep 3: Deleting files...")
+    deleted_files = delete_files(remaining_files, FILES_TO_DELETE)
+    # Remove deleted files from our tracking list
+    for file in deleted_files:
+        if file in remaining_files:
+            remaining_files.remove(file)
+    commit_files(f"Deleted {len(deleted_files)} files")
     
     # # Rename files
     # print("\nStep 4: Renaming files...")
