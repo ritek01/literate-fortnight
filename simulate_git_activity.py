@@ -44,7 +44,7 @@ def create_files():
     # Create directories
     directories = []
     for i in range(NUM_DIRS):
-        dir_name = f"dir_new_{i+1}"
+        dir_name = f"dir_new_1{i+1}"
         os.makedirs(dir_name, exist_ok=True)
         directories.append(dir_name)
     
@@ -120,33 +120,33 @@ def main():
     commit_files("Initial commit with 278+ files")
     
     # Modify files
-    print("\nStep 2: Modifying files...")
-    remaining_files = list(all_files)  # Make a copy
-    modified_files = modify_files(remaining_files, FILES_TO_MODIFY)
-    commit_files(f"Modified {len(modified_files)} files")
+    # print("\nStep 2: Modifying files...")
+    # remaining_files = list(all_files)  # Make a copy
+    # modified_files = modify_files(remaining_files, FILES_TO_MODIFY)
+    # commit_files(f"Modified {len(modified_files)} files")
     
-    # Delete files
-    print("\nStep 3: Deleting files...")
-    deleted_files = delete_files(remaining_files, FILES_TO_DELETE)
-    # Remove deleted files from our tracking list
-    for file in deleted_files:
-        if file in remaining_files:
-            remaining_files.remove(file)
-    commit_files(f"Deleted {len(deleted_files)} files")
+    # # Delete files
+    # print("\nStep 3: Deleting files...")
+    # deleted_files = delete_files(remaining_files, FILES_TO_DELETE)
+    # # Remove deleted files from our tracking list
+    # for file in deleted_files:
+    #     if file in remaining_files:
+    #         remaining_files.remove(file)
+    # commit_files(f"Deleted {len(deleted_files)} files")
     
-    # Rename files
-    print("\nStep 4: Renaming files...")
-    renamed_files = rename_files(remaining_files, FILES_TO_RENAME)
-    # Update our tracking list with new filenames
-    for old_file in renamed_files:
-        if old_file in remaining_files:
-            remaining_files.remove(old_file)
-    commit_files(f"Renamed {len(renamed_files)} files")
+    # # Rename files
+    # print("\nStep 4: Renaming files...")
+    # renamed_files = rename_files(remaining_files, FILES_TO_RENAME)
+    # # Update our tracking list with new filenames
+    # for old_file in renamed_files:
+    #     if old_file in remaining_files:
+    #         remaining_files.remove(old_file)
+    # commit_files(f"Renamed {len(renamed_files)} files")
     
-    # Final modifications
-    print("\nStep 5: Final modifications...")
-    final_modified = modify_files(remaining_files, FILES_TO_MODIFY // 2)
-    commit_files(f"Final modifications to {len(final_modified)} files")
+    # # Final modifications
+    # print("\nStep 5: Final modifications...")
+    # final_modified = modify_files(remaining_files, FILES_TO_MODIFY // 2)
+    # commit_files(f"Final modifications to {len(final_modified)} files")
     
     # Push changes
     print("\nPushing changes to remote...")
