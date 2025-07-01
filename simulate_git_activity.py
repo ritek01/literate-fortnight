@@ -7,7 +7,7 @@ import time
 from pathlib import Path
 
 # Configuration
-NUM_FILES = 2200  # Slightly over 2000 files
+NUM_FILES = 279  # Slightly over 2000 files
 NUM_DIRS = 20
 FILE_EXTENSIONS = ['.txt', '.md', '.json', '.yaml', '.yml']
 CONTENT_LENGTH_MIN = 10
@@ -52,7 +52,7 @@ def create_files():
     created_files = []
     for i in range(NUM_FILES):
         # Select a directory
-        directory = "dir_new_2"
+        directory = "dire_new_3"
         # Create a filename
         extension = random.choice(FILE_EXTENSIONS)
         filename = f"file_{i+1}{extension}"
@@ -150,7 +150,7 @@ def main():
     
     # Push changes
     print("\nPushing changes to remote...")
-    run_git_command("push", "-u", "origin", "main-patch")
+    run_git_command("push", "-u", "origin", "main-2")
     
     print("\nSimulation complete!")
 
