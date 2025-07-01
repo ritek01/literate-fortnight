@@ -117,7 +117,7 @@ def main():
     # Create initial files
     print("Step 1: Creating initial files...")
     all_files = create_files()
-    commit_files("Initial commit with 2000+ files")
+    commit_files("Initial commit with 278+ files")
     
     # Modify files
     # print("\nStep 2: Modifying files...")
@@ -150,7 +150,7 @@ def main():
     
     # Push changes
     print("\nPushing changes to remote...")
-    run_git_command("push", "-u", "origin", "main-2")
+    run_git_command("push", "-u", "origin", "main-3")
     
     print("\nSimulation complete!")
 
