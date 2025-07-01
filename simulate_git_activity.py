@@ -52,7 +52,7 @@ def create_files():
     created_files = []
     for i in range(NUM_FILES):
         # Select a directory
-        directory = "500_files"
+        directory = "1000_files"
         # Create a filename
         extension = random.choice(FILE_EXTENSIONS)
         filename = f"file_{i+1}{extension}"
@@ -150,7 +150,7 @@ def main():
     
     # Push changes
     print("\nPushing changes to remote...")
-    run_git_command("push", "-u", "origin", "main-3")
+    run_git_command("push", "-u", "origin", "main-4")
     
     print("\nSimulation complete!")
 
