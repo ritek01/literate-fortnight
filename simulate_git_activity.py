@@ -7,7 +7,7 @@ import time
 from pathlib import Path
 
 # Configuration
-NUM_FILES = 279  # Slightly over 2000 files
+NUM_FILES = 500  # Slightly over 2000 files
 NUM_DIRS = 20
 FILE_EXTENSIONS = ['.txt', '.md', '.json', '.yaml', '.yml']
 CONTENT_LENGTH_MIN = 10
@@ -52,7 +52,7 @@ def create_files():
     created_files = []
     for i in range(NUM_FILES):
         # Select a directory
-        directory = "dir_new_5"
+        directory = "500_files"
         # Create a filename
         extension = random.choice(FILE_EXTENSIONS)
         filename = f"file_{i+1}{extension}"
