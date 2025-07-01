@@ -7,7 +7,7 @@ import time
 from pathlib import Path
 
 # Configuration
-NUM_FILES = 2100  # Slightly over 2000 files
+NUM_FILES = 298  # Slightly over 2000 files
 NUM_DIRS = 20
 FILE_EXTENSIONS = ['.txt', '.md', '.json', '.yaml', '.yml']
 CONTENT_LENGTH_MIN = 10
@@ -44,7 +44,7 @@ def create_files():
     # Create directories
     directories = []
     for i in range(NUM_DIRS):
-        dir_name = f"dir_new_2{i+1}"
+        dir_name = f"dir_new_3{i+1}"
         os.makedirs(dir_name, exist_ok=True)
         directories.append(dir_name)
     
@@ -121,18 +121,18 @@ def main():
     
     # Modify files
     # print("\nStep 2: Modifying files...")
-    remaining_files = list(all_files)  # Make a copy
+    # remaining_files = list(all_files)  # Make a copy
     # modified_files = modify_files(remaining_files, FILES_TO_MODIFY)
     # commit_files(f"Modified {len(modified_files)} files")
     
     # # Delete files
-    print("\nStep 3: Deleting files...")
-    deleted_files = delete_files(remaining_files, FILES_TO_DELETE)
+    # print("\nStep 3: Deleting files...")
+    # deleted_files = delete_files(remaining_files, FILES_TO_DELETE)
     # Remove deleted files from our tracking list
-    for file in deleted_files:
-        if file in remaining_files:
-            remaining_files.remove(file)
-    commit_files(f"Deleted {len(deleted_files)} files")
+    # for file in deleted_files:
+    #     if file in remaining_files:
+    #         remaining_files.remove(file)
+    # commit_files(f"Deleted {len(deleted_files)} files")
     
     # # Rename files
     # print("\nStep 4: Renaming files...")
