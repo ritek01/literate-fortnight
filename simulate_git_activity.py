@@ -121,7 +121,7 @@ def main():
     
     # Modify files
     # print("\nStep 2: Modifying files...")
-    # remaining_files = list(all_files)  # Make a copy
+    remaining_files = list(all_files)  # Make a copy
     # modified_files = modify_files(remaining_files, FILES_TO_MODIFY)
     # commit_files(f"Modified {len(modified_files)} files")
     
