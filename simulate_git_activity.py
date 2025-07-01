@@ -52,7 +52,7 @@ def create_files():
     created_files = []
     for i in range(NUM_FILES):
         # Select a directory
-        directory = "dir_new"
+        directory = "dir_new_2"
         # Create a filename
         extension = random.choice(FILE_EXTENSIONS)
         filename = f"file_{i+1}{extension}"
