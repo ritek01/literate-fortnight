@@ -44,7 +44,7 @@ def create_files():
     # Create directories
     directories = []
     for i in range(NUM_DIRS):
-        dir_name = f"dir_{i+1}"
+        dir_name = f"dir_new_{i+1}"
         os.makedirs(dir_name, exist_ok=True)
         directories.append(dir_name)
     
@@ -150,7 +150,7 @@ def main():
     
     # Push changes
     print("\nPushing changes to remote...")
-    run_git_command("push", "-u", "origin", "main-3")
+    run_git_command("push", "-u", "origin", "main")
     
     print("\nSimulation complete!")
 
