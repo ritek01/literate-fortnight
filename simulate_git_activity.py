@@ -147,7 +147,6 @@ def main():
     # print("\nStep 5: Final modifications...")
     # final_modified = modify_files(remaining_files, FILES_TO_MODIFY // 2)
     # commit_files(f"Final modifications to {len(final_modified)} files")
-    
     # Push changes
     print("\nPushing changes to remote...")
     run_git_command("push", "-u", "origin", "main")
