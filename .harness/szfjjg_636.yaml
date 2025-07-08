@@ -1,0 +1,6 @@
+service:
+  name: lqnxqioq
+  identifier: lqnxqioq
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

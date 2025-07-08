@@ -1,0 +1,6 @@
+service:
+  name: dkhqtgjn
+  identifier: dkhqtgjn
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

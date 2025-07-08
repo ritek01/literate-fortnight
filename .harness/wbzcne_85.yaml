@@ -1,0 +1,6 @@
+service:
+  name: yzqfszqh
+  identifier: yzqfszqh
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

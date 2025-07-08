@@ -1,0 +1,6 @@
+service:
+  name: zvfrzukp
+  identifier: zvfrzukp
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

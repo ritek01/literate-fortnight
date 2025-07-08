@@ -1,0 +1,6 @@
+service:
+  name: wkqycvsb
+  identifier: wkqycvsb
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

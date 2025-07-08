@@ -1,0 +1,6 @@
+service:
+  name: ioavbine
+  identifier: ioavbine
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

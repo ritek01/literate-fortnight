@@ -1,0 +1,6 @@
+service:
+  name: hcjgngrf
+  identifier: hcjgngrf
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,6 @@
+service:
+  name: bdvvspof
+  identifier: bdvvspof
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

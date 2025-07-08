@@ -1,0 +1,6 @@
+service:
+  name: eqgfbipq
+  identifier: eqgfbipq
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

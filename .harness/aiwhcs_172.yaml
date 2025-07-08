@@ -1,0 +1,6 @@
+service:
+  name: hgrbpnzd
+  identifier: hgrbpnzd
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

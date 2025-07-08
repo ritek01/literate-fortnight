@@ -1,0 +1,6 @@
+service:
+  name: qauocsdm
+  identifier: qauocsdm
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

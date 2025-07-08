@@ -1,0 +1,6 @@
+service:
+  name: elkorhpb
+  identifier: elkorhpb
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

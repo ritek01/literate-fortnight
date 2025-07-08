@@ -1,0 +1,6 @@
+service:
+  name: pyoawyyf
+  identifier: pyoawyyf
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

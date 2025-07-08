@@ -1,0 +1,6 @@
+service:
+  name: sqxdppuf
+  identifier: sqxdppuf
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

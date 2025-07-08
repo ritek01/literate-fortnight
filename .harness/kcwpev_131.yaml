@@ -1,0 +1,6 @@
+service:
+  name: wgawvgoe
+  identifier: wgawvgoe
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

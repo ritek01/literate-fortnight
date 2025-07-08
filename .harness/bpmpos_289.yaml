@@ -1,0 +1,6 @@
+service:
+  name: hhoqjorv
+  identifier: hhoqjorv
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

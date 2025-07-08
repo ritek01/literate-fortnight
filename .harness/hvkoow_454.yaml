@@ -1,0 +1,6 @@
+service:
+  name: pbffemaz
+  identifier: pbffemaz
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

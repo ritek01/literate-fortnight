@@ -1,0 +1,6 @@
+service:
+  name: kqvulfpi
+  identifier: kqvulfpi
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

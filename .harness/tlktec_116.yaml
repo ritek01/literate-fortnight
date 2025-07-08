@@ -1,0 +1,6 @@
+service:
+  name: buravpsy
+  identifier: buravpsy
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

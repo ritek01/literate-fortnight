@@ -1,0 +1,6 @@
+service:
+  name: enpjyhrn
+  identifier: enpjyhrn
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

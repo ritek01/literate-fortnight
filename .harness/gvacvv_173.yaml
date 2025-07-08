@@ -1,0 +1,6 @@
+service:
+  name: labdvxeq
+  identifier: labdvxeq
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

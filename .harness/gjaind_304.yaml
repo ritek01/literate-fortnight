@@ -1,0 +1,6 @@
+service:
+  name: geelgqrv
+  identifier: geelgqrv
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,6 @@
+service:
+  name: lirppori
+  identifier: lirppori
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

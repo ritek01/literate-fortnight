@@ -1,0 +1,6 @@
+service:
+  name: pzescqzv
+  identifier: pzescqzv
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

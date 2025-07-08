@@ -1,0 +1,6 @@
+service:
+  name: hqspumzk
+  identifier: hqspumzk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

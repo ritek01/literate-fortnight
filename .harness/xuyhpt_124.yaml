@@ -1,0 +1,6 @@
+service:
+  name: rurraqqr
+  identifier: rurraqqr
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

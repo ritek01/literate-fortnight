@@ -1,0 +1,6 @@
+service:
+  name: bsmykggk
+  identifier: bsmykggk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

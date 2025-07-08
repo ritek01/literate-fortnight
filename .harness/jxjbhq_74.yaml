@@ -1,0 +1,6 @@
+service:
+  name: ozjwsvrc
+  identifier: ozjwsvrc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

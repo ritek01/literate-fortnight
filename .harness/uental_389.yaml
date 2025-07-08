@@ -1,0 +1,6 @@
+service:
+  name: erspeocp
+  identifier: erspeocp
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,6 @@
+service:
+  name: yedaryco
+  identifier: yedaryco
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

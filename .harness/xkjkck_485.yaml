@@ -1,0 +1,6 @@
+service:
+  name: jvcsxzkn
+  identifier: jvcsxzkn
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

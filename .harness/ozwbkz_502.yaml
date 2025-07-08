@@ -1,0 +1,6 @@
+service:
+  name: qsdadzka
+  identifier: qsdadzka
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

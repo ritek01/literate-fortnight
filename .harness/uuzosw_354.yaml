@@ -1,0 +1,6 @@
+service:
+  name: vqfanikt
+  identifier: vqfanikt
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

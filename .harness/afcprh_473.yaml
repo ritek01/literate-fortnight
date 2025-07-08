@@ -1,0 +1,6 @@
+service:
+  name: cjzrhnso
+  identifier: cjzrhnso
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

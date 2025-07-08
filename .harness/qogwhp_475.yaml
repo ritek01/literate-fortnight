@@ -1,0 +1,6 @@
+service:
+  name: gbzxffcz
+  identifier: gbzxffcz
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

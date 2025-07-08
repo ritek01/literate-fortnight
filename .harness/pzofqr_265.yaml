@@ -1,0 +1,6 @@
+service:
+  name: xzripdfq
+  identifier: xzripdfq
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,6 @@
+service:
+  name: oaevouak
+  identifier: oaevouak
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

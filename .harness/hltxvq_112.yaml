@@ -1,0 +1,6 @@
+service:
+  name: gmnfenms
+  identifier: gmnfenms
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

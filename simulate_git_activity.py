@@ -42,11 +42,11 @@ def create_files():
     print(f"Creating {NUM_FILES} files across {NUM_DIRS} directories...")
     
     # Create directories
-    directories = []
-    for i in range(NUM_DIRS):
-        dir_name = f"dir_new1_1{i+1}"
-        os.makedirs(dir_name, exist_ok=True)
-        directories.append(dir_name)
+    # directories = []
+    # for i in range(NUM_DIRS):
+    #     dir_name = f"dir_new1_1{i+1}"
+    #     os.makedirs(dir_name, exist_ok=True)
+    #     directories.append(dir_name)
     
     # Create files
     created_files = []

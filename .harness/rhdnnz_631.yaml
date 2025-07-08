@@ -1,0 +1,6 @@
+service:
+  name: nqcnvjxp
+  identifier: nqcnvjxp
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

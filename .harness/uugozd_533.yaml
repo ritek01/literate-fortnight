@@ -1,0 +1,6 @@
+service:
+  name: cyjgbcrn
+  identifier: cyjgbcrn
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,6 @@
+service:
+  name: ynqbzxlo
+  identifier: ynqbzxlo
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

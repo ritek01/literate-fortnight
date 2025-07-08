@@ -1,0 +1,6 @@
+service:
+  name: cziamuas
+  identifier: cziamuas
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,6 @@
+service:
+  name: vslbvbvx
+  identifier: vslbvbvx
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

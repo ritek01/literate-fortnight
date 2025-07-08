@@ -1,0 +1,6 @@
+service:
+  name: hzfqvmxi
+  identifier: hzfqvmxi
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

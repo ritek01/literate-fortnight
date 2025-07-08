@@ -1,0 +1,6 @@
+service:
+  name: siefoaqb
+  identifier: siefoaqb
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

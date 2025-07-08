@@ -1,0 +1,6 @@
+service:
+  name: edpathvn
+  identifier: edpathvn
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

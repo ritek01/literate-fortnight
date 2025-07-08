@@ -1,0 +1,6 @@
+service:
+  name: fixsrnlw
+  identifier: fixsrnlw
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,6 @@
+service:
+  name: oprmoxwo
+  identifier: oprmoxwo
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

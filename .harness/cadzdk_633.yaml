@@ -1,0 +1,6 @@
+service:
+  name: sqibeynd
+  identifier: sqibeynd
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

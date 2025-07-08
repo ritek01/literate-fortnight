@@ -1,0 +1,6 @@
+service:
+  name: mmkvyhyf
+  identifier: mmkvyhyf
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

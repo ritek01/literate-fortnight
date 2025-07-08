@@ -1,0 +1,6 @@
+service:
+  name: cdhotnrh
+  identifier: cdhotnrh
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

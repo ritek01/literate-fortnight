@@ -1,0 +1,6 @@
+service:
+  name: jnnqdmsm
+  identifier: jnnqdmsm
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

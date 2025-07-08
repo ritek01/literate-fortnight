@@ -1,0 +1,6 @@
+service:
+  name: abpmvxws
+  identifier: abpmvxws
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

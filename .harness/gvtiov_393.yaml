@@ -1,0 +1,6 @@
+service:
+  name: jksneymr
+  identifier: jksneymr
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

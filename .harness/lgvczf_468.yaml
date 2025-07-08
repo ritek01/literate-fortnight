@@ -1,0 +1,6 @@
+service:
+  name: hkkvltwy
+  identifier: hkkvltwy
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

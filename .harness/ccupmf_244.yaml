@@ -1,0 +1,6 @@
+service:
+  name: ioartorb
+  identifier: ioartorb
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

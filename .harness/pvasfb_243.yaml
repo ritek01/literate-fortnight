@@ -1,0 +1,6 @@
+service:
+  name: djsnkzmt
+  identifier: djsnkzmt
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

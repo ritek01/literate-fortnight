@@ -1,0 +1,6 @@
+service:
+  name: etchranr
+  identifier: etchranr
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

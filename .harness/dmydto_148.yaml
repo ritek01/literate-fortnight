@@ -1,0 +1,6 @@
+service:
+  name: meyurrbx
+  identifier: meyurrbx
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

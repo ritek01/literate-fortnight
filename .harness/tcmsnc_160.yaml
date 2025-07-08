@@ -1,0 +1,6 @@
+service:
+  name: vtavjmch
+  identifier: vtavjmch
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

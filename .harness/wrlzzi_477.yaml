@@ -1,0 +1,6 @@
+service:
+  name: lprxxakk
+  identifier: lprxxakk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,6 @@
+service:
+  name: hzdifwoi
+  identifier: hzdifwoi
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,6 @@
+service:
+  name: ckkijywy
+  identifier: ckkijywy
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,6 @@
+service:
+  name: wuwxehuw
+  identifier: wuwxehuw
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,6 @@
+service:
+  name: tixesmxb
+  identifier: tixesmxb
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

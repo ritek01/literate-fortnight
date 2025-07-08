@@ -1,0 +1,6 @@
+service:
+  name: nbizflno
+  identifier: nbizflno
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

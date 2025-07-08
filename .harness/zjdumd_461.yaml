@@ -1,0 +1,6 @@
+service:
+  name: cmozsnbf
+  identifier: cmozsnbf
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

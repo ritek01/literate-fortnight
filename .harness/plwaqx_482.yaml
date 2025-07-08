@@ -1,0 +1,6 @@
+service:
+  name: kmwvsqav
+  identifier: kmwvsqav
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

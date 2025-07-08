@@ -1,0 +1,6 @@
+service:
+  name: jzpacxtq
+  identifier: jzpacxtq
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

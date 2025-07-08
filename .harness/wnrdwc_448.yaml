@@ -1,0 +1,6 @@
+service:
+  name: hfjbcsxx
+  identifier: hfjbcsxx
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

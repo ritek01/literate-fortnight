@@ -1,0 +1,6 @@
+service:
+  name: ienthigr
+  identifier: ienthigr
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

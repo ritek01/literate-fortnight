@@ -1,0 +1,6 @@
+service:
+  name: ngbmegqx
+  identifier: ngbmegqx
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

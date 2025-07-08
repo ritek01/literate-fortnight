@@ -1,0 +1,6 @@
+service:
+  name: dhhubduv
+  identifier: dhhubduv
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

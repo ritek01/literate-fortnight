@@ -1,0 +1,6 @@
+service:
+  name: sujrdonl
+  identifier: sujrdonl
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

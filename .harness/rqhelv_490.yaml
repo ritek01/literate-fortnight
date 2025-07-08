@@ -1,0 +1,6 @@
+service:
+  name: fjmzvrgd
+  identifier: fjmzvrgd
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

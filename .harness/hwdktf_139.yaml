@@ -1,0 +1,6 @@
+service:
+  name: yduavbzg
+  identifier: yduavbzg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

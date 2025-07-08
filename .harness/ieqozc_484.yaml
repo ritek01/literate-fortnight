@@ -1,0 +1,6 @@
+service:
+  name: mvhgokyu
+  identifier: mvhgokyu
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

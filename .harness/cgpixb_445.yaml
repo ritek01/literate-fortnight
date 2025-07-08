@@ -1,0 +1,6 @@
+service:
+  name: athzwtol
+  identifier: athzwtol
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

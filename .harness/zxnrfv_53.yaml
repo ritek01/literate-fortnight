@@ -1,0 +1,6 @@
+service:
+  name: pgcxvwfq
+  identifier: pgcxvwfq
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

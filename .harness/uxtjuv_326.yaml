@@ -1,0 +1,6 @@
+service:
+  name: ouqhswsg
+  identifier: ouqhswsg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

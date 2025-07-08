@@ -1,0 +1,6 @@
+service:
+  name: lkdspuva
+  identifier: lkdspuva
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,6 @@
+service:
+  name: buorrmpu
+  identifier: buorrmpu
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

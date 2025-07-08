@@ -1,0 +1,6 @@
+service:
+  name: fhsqsdmb
+  identifier: fhsqsdmb
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

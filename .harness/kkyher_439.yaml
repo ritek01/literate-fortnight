@@ -1,0 +1,6 @@
+service:
+  name: ptolixqz
+  identifier: ptolixqz
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

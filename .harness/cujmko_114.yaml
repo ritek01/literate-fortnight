@@ -1,0 +1,6 @@
+service:
+  name: pldscfqt
+  identifier: pldscfqt
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

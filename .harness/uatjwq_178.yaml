@@ -1,0 +1,6 @@
+service:
+  name: gwxmkazq
+  identifier: gwxmkazq
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

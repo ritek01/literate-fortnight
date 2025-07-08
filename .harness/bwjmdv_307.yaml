@@ -1,0 +1,6 @@
+service:
+  name: vnfgmipe
+  identifier: vnfgmipe
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

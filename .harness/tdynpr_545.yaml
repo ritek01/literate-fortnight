@@ -1,0 +1,6 @@
+service:
+  name: vieaoyhf
+  identifier: vieaoyhf
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

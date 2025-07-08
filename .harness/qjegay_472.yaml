@@ -1,0 +1,6 @@
+service:
+  name: fczvyulp
+  identifier: fczvyulp
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,6 @@
+service:
+  name: trplppor
+  identifier: trplppor
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

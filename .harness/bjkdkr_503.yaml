@@ -1,0 +1,6 @@
+service:
+  name: deyfwypf
+  identifier: deyfwypf
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

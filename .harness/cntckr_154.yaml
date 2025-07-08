@@ -1,0 +1,6 @@
+service:
+  name: mbkybtam
+  identifier: mbkybtam
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

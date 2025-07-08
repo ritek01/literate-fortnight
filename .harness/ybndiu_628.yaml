@@ -1,0 +1,6 @@
+service:
+  name: hyyhsqrc
+  identifier: hyyhsqrc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

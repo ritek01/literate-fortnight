@@ -1,0 +1,6 @@
+service:
+  name: dldwqwrf
+  identifier: dldwqwrf
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

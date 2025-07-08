@@ -1,0 +1,6 @@
+service:
+  name: ighwbbmu
+  identifier: ighwbbmu
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

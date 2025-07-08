@@ -1,0 +1,6 @@
+service:
+  name: yhvcygpu
+  identifier: yhvcygpu
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

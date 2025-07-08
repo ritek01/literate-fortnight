@@ -1,0 +1,6 @@
+service:
+  name: jrqpxydl
+  identifier: jrqpxydl
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

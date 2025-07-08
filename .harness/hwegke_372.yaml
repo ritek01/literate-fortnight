@@ -1,0 +1,6 @@
+service:
+  name: kogioimo
+  identifier: kogioimo
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

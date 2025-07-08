@@ -1,0 +1,6 @@
+service:
+  name: fhweobbl
+  identifier: fhweobbl
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

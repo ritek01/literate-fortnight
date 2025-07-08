@@ -1,0 +1,6 @@
+service:
+  name: ylktvibv
+  identifier: ylktvibv
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

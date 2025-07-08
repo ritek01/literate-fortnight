@@ -1,0 +1,6 @@
+service:
+  name: kaawmlvi
+  identifier: kaawmlvi
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

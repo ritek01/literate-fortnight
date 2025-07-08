@@ -1,0 +1,6 @@
+service:
+  name: lfucafjj
+  identifier: lfucafjj
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,6 @@
+service:
+  name: eodtmhpy
+  identifier: eodtmhpy
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,6 @@
+service:
+  name: pmwpteuj
+  identifier: pmwpteuj
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

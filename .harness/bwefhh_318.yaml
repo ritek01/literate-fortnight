@@ -1,0 +1,6 @@
+service:
+  name: xvknlway
+  identifier: xvknlway
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

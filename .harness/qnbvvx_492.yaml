@@ -1,0 +1,6 @@
+service:
+  name: tczfthkl
+  identifier: tczfthkl
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

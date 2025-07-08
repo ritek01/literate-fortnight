@@ -1,0 +1,6 @@
+service:
+  name: nvrpbpdg
+  identifier: nvrpbpdg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
