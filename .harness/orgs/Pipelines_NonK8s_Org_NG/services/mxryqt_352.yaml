@@ -1,0 +1,7 @@
+service:
+  name: poepfdgm
+  identifier: poepfdgm
+  orgIdentifier: Pipelines_NonK8s_Org_NG
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

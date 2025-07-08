@@ -1,0 +1,7 @@
+service:
+  name: gdjziwuh
+  identifier: gdjziwuh
+  orgIdentifier: Pipelines_NonK8s_Org_NG
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

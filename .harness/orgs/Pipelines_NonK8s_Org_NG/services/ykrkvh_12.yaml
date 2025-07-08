@@ -1,0 +1,7 @@
+service:
+  name: qjpnrtfa
+  identifier: qjpnrtfa
+  orgIdentifier: Pipelines_NonK8s_Org_NG
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

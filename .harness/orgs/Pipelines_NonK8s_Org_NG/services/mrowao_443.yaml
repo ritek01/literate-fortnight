@@ -1,0 +1,7 @@
+service:
+  name: zsrpzekv
+  identifier: zsrpzekv
+  orgIdentifier: Pipelines_NonK8s_Org_NG
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

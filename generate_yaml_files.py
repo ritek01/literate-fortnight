@@ -14,6 +14,7 @@ def create_yaml_file(file_path, name, identifier):
     yaml_content = f"""service:
   name: {name}
   identifier: {identifier}
+  orgIdentifier: Pipelines_NonK8s_Org_NG
   serviceDefinition:
     spec: {{}}
     type: Kubernetes
@@ -27,15 +28,15 @@ def create_yaml_file(file_path, name, identifier):
         f.write(yaml_content)
 
 def main():
-    """Generate 671 YAML files with random names and identifiers."""
+    """Generate 541 YAML files with random names and identifiers."""
     # Create .harness directory if it doesn't exist
-    harness_dir = os.path.join(os.getcwd(), '.harness')
+    harness_dir = os.path.join(os.getcwd(), '.harness/orgs/Pipelines_NonK8s_Org_NG/services')
     os.makedirs(harness_dir, exist_ok=True)
     
-    print(f"Generating 671 YAML files in {harness_dir}...")
+    print(f"Generating 541 YAML files in {harness_dir}...")
     
-    # Generate 671 files
-    for i in range(1, 672):
+    # Generate 541 files
+    for i in range(1, 541):
         # Generate random name for the file
         file_name = f"{generate_random_string(6)}_{i}.yaml"
         file_path = os.path.join(harness_dir, file_name)
@@ -51,7 +52,7 @@ def main():
         if i % 50 == 0:
             print(f"Generated {i} files...")
     
-    print(f"Successfully generated 671 YAML files in {harness_dir}")
+    print(f"Successfully generated 541 YAML files in {harness_dir}")
 
 if __name__ == "__main__":
     main()

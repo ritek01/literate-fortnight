@@ -1,0 +1,7 @@
+service:
+  name: jmlkwohr
+  identifier: jmlkwohr
+  orgIdentifier: Pipelines_NonK8s_Org_NG
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: cepigiak
+  identifier: cepigiak
+  orgIdentifier: Pipelines_NonK8s_Org_NG
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

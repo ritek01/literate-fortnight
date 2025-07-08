@@ -1,0 +1,7 @@
+service:
+  name: dkhsgdmi
+  identifier: dkhsgdmi
+  orgIdentifier: Pipelines_NonK8s_Org_NG
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

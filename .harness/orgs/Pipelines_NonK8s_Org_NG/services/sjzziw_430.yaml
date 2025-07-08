@@ -1,0 +1,7 @@
+service:
+  name: akxubqyg
+  identifier: akxubqyg
+  orgIdentifier: Pipelines_NonK8s_Org_NG
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
