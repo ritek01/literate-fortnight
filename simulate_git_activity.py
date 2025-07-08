@@ -7,7 +7,7 @@ import time
 from pathlib import Path
 
 # Configuration
-NUM_FILES = 298  # Slightly over 2000 files
+NUM_FILES = 2345  # Slightly over 2000 files
 NUM_DIRS = 20
 FILE_EXTENSIONS = ['.txt', '.md', '.json', '.yaml', '.yml']
 CONTENT_LENGTH_MIN = 10
@@ -44,7 +44,7 @@ def create_files():
     # Create directories
     directories = []
     for i in range(NUM_DIRS):
-        dir_name = f"dir_new_3{i+1}"
+        dir_name = f"dir_new1_1{i+1}"
         os.makedirs(dir_name, exist_ok=True)
         directories.append(dir_name)
     
