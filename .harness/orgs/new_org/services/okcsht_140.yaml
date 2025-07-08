@@ -1,0 +1,6 @@
+service:
+  name: gnpqtemu
+  identifier: gnpqtemu
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,6 @@
+service:
+  name: fsxpsfzf
+  identifier: fsxpsfzf
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

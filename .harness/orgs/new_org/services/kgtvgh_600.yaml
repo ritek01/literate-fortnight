@@ -1,0 +1,6 @@
+service:
+  name: mibopkwu
+  identifier: mibopkwu
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

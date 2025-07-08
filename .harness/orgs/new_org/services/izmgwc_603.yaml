@@ -1,0 +1,6 @@
+service:
+  name: rkrtqjde
+  identifier: rkrtqjde
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,6 @@
+service:
+  name: olqqitpo
+  identifier: olqqitpo
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

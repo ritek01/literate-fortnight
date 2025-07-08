@@ -1,0 +1,6 @@
+service:
+  name: lraedjna
+  identifier: lraedjna
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

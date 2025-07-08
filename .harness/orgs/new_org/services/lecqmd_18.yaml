@@ -1,0 +1,6 @@
+service:
+  name: afktvota
+  identifier: afktvota
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

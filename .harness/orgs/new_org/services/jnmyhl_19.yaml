@@ -1,0 +1,6 @@
+service:
+  name: jiicxxfr
+  identifier: jiicxxfr
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

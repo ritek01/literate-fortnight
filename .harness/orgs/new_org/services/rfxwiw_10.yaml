@@ -1,0 +1,6 @@
+service:
+  name: gfcnhcym
+  identifier: gfcnhcym
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

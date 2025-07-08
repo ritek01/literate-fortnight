@@ -1,0 +1,6 @@
+service:
+  name: shyxmwjz
+  identifier: shyxmwjz
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

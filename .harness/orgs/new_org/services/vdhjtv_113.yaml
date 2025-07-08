@@ -1,0 +1,6 @@
+service:
+  name: twjifgjp
+  identifier: twjifgjp
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

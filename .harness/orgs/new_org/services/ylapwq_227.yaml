@@ -1,0 +1,6 @@
+service:
+  name: xhaubdok
+  identifier: xhaubdok
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

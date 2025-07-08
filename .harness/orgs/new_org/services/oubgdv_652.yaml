@@ -1,0 +1,6 @@
+service:
+  name: bhachjus
+  identifier: bhachjus
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

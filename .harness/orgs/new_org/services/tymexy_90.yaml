@@ -1,0 +1,6 @@
+service:
+  name: bckqpvgs
+  identifier: bckqpvgs
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

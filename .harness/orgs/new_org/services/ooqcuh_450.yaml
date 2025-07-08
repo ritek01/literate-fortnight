@@ -1,0 +1,6 @@
+service:
+  name: gtpgnxkr
+  identifier: gtpgnxkr
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

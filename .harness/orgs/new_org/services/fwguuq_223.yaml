@@ -1,0 +1,6 @@
+service:
+  name: hzzrldhb
+  identifier: hzzrldhb
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

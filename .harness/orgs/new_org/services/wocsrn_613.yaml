@@ -1,0 +1,6 @@
+service:
+  name: hlxpvhgo
+  identifier: hlxpvhgo
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

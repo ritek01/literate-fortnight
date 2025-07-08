@@ -1,0 +1,6 @@
+service:
+  name: xbkxfbqm
+  identifier: xbkxfbqm
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

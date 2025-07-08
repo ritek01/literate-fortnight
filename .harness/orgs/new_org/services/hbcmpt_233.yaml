@@ -1,0 +1,6 @@
+service:
+  name: jttsgeyf
+  identifier: jttsgeyf
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

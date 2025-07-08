@@ -1,0 +1,6 @@
+service:
+  name: dalzhsrd
+  identifier: dalzhsrd
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

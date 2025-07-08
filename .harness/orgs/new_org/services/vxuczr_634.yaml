@@ -1,0 +1,6 @@
+service:
+  name: dpsobrok
+  identifier: dpsobrok
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

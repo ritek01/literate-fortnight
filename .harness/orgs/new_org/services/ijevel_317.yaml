@@ -1,0 +1,6 @@
+service:
+  name: ujdyfkea
+  identifier: ujdyfkea
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

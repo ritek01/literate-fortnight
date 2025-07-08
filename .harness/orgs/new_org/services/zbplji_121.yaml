@@ -1,0 +1,6 @@
+service:
+  name: poqanogs
+  identifier: poqanogs
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

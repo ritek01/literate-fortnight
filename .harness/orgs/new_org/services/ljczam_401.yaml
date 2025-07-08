@@ -1,0 +1,6 @@
+service:
+  name: nlbejzkk
+  identifier: nlbejzkk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

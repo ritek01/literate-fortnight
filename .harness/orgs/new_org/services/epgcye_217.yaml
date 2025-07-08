@@ -1,0 +1,6 @@
+service:
+  name: zpobfmxz
+  identifier: zpobfmxz
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

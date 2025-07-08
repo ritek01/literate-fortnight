@@ -1,0 +1,6 @@
+service:
+  name: tcwwamtq
+  identifier: tcwwamtq
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

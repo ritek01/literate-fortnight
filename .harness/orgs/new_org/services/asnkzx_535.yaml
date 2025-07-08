@@ -1,0 +1,6 @@
+service:
+  name: lgdhgtzu
+  identifier: lgdhgtzu
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

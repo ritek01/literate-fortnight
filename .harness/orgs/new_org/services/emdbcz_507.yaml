@@ -1,0 +1,6 @@
+service:
+  name: keztayor
+  identifier: keztayor
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

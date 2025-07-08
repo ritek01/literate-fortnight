@@ -1,0 +1,6 @@
+service:
+  name: mxpflbeu
+  identifier: mxpflbeu
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

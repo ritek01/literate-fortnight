@@ -1,0 +1,6 @@
+service:
+  name: sjqynizu
+  identifier: sjqynizu
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

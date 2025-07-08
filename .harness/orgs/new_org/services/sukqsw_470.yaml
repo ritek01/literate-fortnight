@@ -1,0 +1,6 @@
+service:
+  name: krdverdq
+  identifier: krdverdq
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

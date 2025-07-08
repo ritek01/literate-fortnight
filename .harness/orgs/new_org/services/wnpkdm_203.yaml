@@ -1,0 +1,6 @@
+service:
+  name: xypiroku
+  identifier: xypiroku
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

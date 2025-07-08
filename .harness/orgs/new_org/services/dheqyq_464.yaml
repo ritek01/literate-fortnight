@@ -1,0 +1,6 @@
+service:
+  name: nkkfzddn
+  identifier: nkkfzddn
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

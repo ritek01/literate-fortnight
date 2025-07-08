@@ -1,0 +1,6 @@
+service:
+  name: mecgyuna
+  identifier: mecgyuna
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

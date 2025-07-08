@@ -1,0 +1,6 @@
+service:
+  name: rxtrwmtq
+  identifier: rxtrwmtq
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

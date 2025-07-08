@@ -1,0 +1,6 @@
+service:
+  name: tvvoqbnz
+  identifier: tvvoqbnz
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

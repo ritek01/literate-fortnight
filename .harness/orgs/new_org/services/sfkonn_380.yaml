@@ -1,0 +1,6 @@
+service:
+  name: yowxkguv
+  identifier: yowxkguv
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

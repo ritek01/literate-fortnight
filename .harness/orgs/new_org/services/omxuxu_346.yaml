@@ -1,0 +1,6 @@
+service:
+  name: aywwsgcu
+  identifier: aywwsgcu
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

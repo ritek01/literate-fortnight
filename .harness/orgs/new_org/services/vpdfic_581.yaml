@@ -1,0 +1,6 @@
+service:
+  name: unlyxdks
+  identifier: unlyxdks
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

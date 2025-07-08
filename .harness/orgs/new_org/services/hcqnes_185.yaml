@@ -1,0 +1,6 @@
+service:
+  name: bugnrfkb
+  identifier: bugnrfkb
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

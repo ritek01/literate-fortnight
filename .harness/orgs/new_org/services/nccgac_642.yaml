@@ -1,0 +1,6 @@
+service:
+  name: sxriipie
+  identifier: sxriipie
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

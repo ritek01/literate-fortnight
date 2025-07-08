@@ -1,0 +1,6 @@
+service:
+  name: hnpfxmbl
+  identifier: hnpfxmbl
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

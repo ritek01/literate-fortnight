@@ -1,0 +1,6 @@
+service:
+  name: bvymyqfq
+  identifier: bvymyqfq
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

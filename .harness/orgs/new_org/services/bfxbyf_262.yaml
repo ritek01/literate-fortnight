@@ -1,0 +1,6 @@
+service:
+  name: ujtlcmlt
+  identifier: ujtlcmlt
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

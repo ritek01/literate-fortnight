@@ -1,0 +1,6 @@
+service:
+  name: twfetsxu
+  identifier: twfetsxu
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

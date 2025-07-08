@@ -1,0 +1,6 @@
+service:
+  name: pqqpmafr
+  identifier: pqqpmafr
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

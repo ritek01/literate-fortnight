@@ -1,0 +1,6 @@
+service:
+  name: fzvtvusw
+  identifier: fzvtvusw
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

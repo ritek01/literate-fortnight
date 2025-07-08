@@ -1,0 +1,6 @@
+service:
+  name: qxyhgbct
+  identifier: qxyhgbct
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

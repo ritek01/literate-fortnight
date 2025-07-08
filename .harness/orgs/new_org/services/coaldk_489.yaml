@@ -1,0 +1,6 @@
+service:
+  name: rssncmcc
+  identifier: rssncmcc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

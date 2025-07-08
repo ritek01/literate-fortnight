@@ -1,0 +1,6 @@
+service:
+  name: akzsymrz
+  identifier: akzsymrz
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

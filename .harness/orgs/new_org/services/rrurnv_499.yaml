@@ -1,0 +1,6 @@
+service:
+  name: tzjcinpi
+  identifier: tzjcinpi
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

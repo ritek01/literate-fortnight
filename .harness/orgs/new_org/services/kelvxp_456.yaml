@@ -1,0 +1,6 @@
+service:
+  name: lsfsggsh
+  identifier: lsfsggsh
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

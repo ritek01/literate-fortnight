@@ -1,0 +1,6 @@
+service:
+  name: rkzvfsng
+  identifier: rkzvfsng
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

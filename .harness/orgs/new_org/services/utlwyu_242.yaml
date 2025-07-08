@@ -1,0 +1,6 @@
+service:
+  name: vvmcfgec
+  identifier: vvmcfgec
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

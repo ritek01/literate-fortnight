@@ -1,0 +1,6 @@
+service:
+  name: mrcgficp
+  identifier: mrcgficp
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

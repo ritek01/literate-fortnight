@@ -1,0 +1,6 @@
+service:
+  name: prkyibth
+  identifier: prkyibth
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

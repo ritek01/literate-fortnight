@@ -1,0 +1,6 @@
+service:
+  name: hhqyylmn
+  identifier: hhqyylmn
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

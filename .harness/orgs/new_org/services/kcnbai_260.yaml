@@ -1,0 +1,6 @@
+service:
+  name: hdzxhltw
+  identifier: hdzxhltw
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

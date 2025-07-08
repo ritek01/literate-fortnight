@@ -1,0 +1,6 @@
+service:
+  name: oydfvzcs
+  identifier: oydfvzcs
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

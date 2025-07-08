@@ -1,0 +1,6 @@
+service:
+  name: sybbhmqk
+  identifier: sybbhmqk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

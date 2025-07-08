@@ -1,0 +1,6 @@
+service:
+  name: mdyieddf
+  identifier: mdyieddf
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

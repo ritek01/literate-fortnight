@@ -1,0 +1,6 @@
+service:
+  name: aryvreso
+  identifier: aryvreso
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

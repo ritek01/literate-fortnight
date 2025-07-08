@@ -1,0 +1,6 @@
+service:
+  name: vttogjag
+  identifier: vttogjag
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

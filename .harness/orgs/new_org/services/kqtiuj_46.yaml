@@ -1,0 +1,6 @@
+service:
+  name: idnzhwzk
+  identifier: idnzhwzk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

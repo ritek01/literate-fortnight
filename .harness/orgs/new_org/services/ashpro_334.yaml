@@ -1,0 +1,6 @@
+service:
+  name: rlsbckbk
+  identifier: rlsbckbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

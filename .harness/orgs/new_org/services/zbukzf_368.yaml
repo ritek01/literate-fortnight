@@ -1,0 +1,6 @@
+service:
+  name: rgzptdgh
+  identifier: rgzptdgh
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

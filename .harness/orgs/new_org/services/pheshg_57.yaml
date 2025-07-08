@@ -1,0 +1,6 @@
+service:
+  name: vtllpzbq
+  identifier: vtllpzbq
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

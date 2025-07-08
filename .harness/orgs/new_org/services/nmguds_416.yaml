@@ -1,0 +1,6 @@
+service:
+  name: wnxbqpsc
+  identifier: wnxbqpsc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

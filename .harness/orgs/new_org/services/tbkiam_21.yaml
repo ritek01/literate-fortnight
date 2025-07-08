@@ -1,0 +1,6 @@
+service:
+  name: devazrgb
+  identifier: devazrgb
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

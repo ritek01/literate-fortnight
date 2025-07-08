@@ -1,0 +1,6 @@
+service:
+  name: xatynbri
+  identifier: xatynbri
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

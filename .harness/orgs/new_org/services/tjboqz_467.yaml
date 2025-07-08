@@ -1,0 +1,6 @@
+service:
+  name: sgutexjk
+  identifier: sgutexjk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

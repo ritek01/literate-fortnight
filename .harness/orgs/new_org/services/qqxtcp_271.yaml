@@ -1,0 +1,6 @@
+service:
+  name: laspjjtb
+  identifier: laspjjtb
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,6 @@
+service:
+  name: hmcdjuni
+  identifier: hmcdjuni
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

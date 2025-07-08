@@ -1,0 +1,6 @@
+service:
+  name: xmrwyvfx
+  identifier: xmrwyvfx
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,6 @@
+service:
+  name: tyrvogze
+  identifier: tyrvogze
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

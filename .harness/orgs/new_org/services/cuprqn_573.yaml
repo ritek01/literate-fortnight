@@ -1,0 +1,6 @@
+service:
+  name: ipzicwfq
+  identifier: ipzicwfq
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

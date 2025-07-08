@@ -1,0 +1,6 @@
+service:
+  name: mwbebdaz
+  identifier: mwbebdaz
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

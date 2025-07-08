@@ -1,0 +1,6 @@
+service:
+  name: bzfqdfhh
+  identifier: bzfqdfhh
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

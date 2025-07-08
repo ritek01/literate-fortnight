@@ -1,0 +1,6 @@
+service:
+  name: thasxssa
+  identifier: thasxssa
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

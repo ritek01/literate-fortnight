@@ -1,0 +1,6 @@
+service:
+  name: ivvauziv
+  identifier: ivvauziv
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

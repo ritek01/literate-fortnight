@@ -1,0 +1,6 @@
+service:
+  name: chkfunwz
+  identifier: chkfunwz
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

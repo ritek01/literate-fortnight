@@ -1,0 +1,6 @@
+service:
+  name: youwqpft
+  identifier: youwqpft
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

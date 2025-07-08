@@ -1,0 +1,6 @@
+service:
+  name: jpzxfusi
+  identifier: jpzxfusi
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

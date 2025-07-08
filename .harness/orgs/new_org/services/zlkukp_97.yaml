@@ -1,0 +1,6 @@
+service:
+  name: kyljmcma
+  identifier: kyljmcma
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,6 @@
+service:
+  name: vmrdmgnv
+  identifier: vmrdmgnv
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

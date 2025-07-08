@@ -1,0 +1,6 @@
+service:
+  name: dzpuegon
+  identifier: dzpuegon
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

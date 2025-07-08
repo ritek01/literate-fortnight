@@ -1,0 +1,6 @@
+service:
+  name: ikrubexm
+  identifier: ikrubexm
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

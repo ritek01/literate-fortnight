@@ -1,0 +1,6 @@
+service:
+  name: vjhoubbo
+  identifier: vjhoubbo
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

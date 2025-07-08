@@ -1,0 +1,6 @@
+service:
+  name: ucjshhqd
+  identifier: ucjshhqd
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

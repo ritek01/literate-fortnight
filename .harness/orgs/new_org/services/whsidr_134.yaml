@@ -1,0 +1,6 @@
+service:
+  name: yyrcdvax
+  identifier: yyrcdvax
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

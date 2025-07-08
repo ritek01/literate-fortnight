@@ -1,0 +1,6 @@
+service:
+  name: lsafowkn
+  identifier: lsafowkn
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

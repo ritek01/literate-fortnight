@@ -1,0 +1,6 @@
+service:
+  name: mlbyccns
+  identifier: mlbyccns
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

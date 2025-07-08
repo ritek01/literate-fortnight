@@ -1,0 +1,6 @@
+service:
+  name: xfufkapc
+  identifier: xfufkapc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,6 @@
+service:
+  name: lofdpdkt
+  identifier: lofdpdkt
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

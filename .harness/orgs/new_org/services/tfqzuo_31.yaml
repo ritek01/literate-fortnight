@@ -1,0 +1,6 @@
+service:
+  name: iadqjhah
+  identifier: iadqjhah
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

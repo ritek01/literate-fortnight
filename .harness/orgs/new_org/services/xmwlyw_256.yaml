@@ -1,0 +1,6 @@
+service:
+  name: eierzmqd
+  identifier: eierzmqd
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

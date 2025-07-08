@@ -1,0 +1,6 @@
+service:
+  name: yxjaajee
+  identifier: yxjaajee
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

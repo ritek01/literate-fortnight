@@ -1,0 +1,6 @@
+service:
+  name: srsvryxv
+  identifier: srsvryxv
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

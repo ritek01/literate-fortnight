@@ -1,0 +1,6 @@
+service:
+  name: kklfztoi
+  identifier: kklfztoi
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

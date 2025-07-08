@@ -1,0 +1,6 @@
+service:
+  name: whrufrsu
+  identifier: whrufrsu
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

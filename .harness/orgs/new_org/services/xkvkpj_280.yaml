@@ -1,0 +1,6 @@
+service:
+  name: wvfcbkre
+  identifier: wvfcbkre
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

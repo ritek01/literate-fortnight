@@ -1,0 +1,6 @@
+service:
+  name: dqyoeujo
+  identifier: dqyoeujo
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

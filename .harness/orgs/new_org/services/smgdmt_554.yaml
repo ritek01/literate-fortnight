@@ -1,0 +1,6 @@
+service:
+  name: lxmnndpr
+  identifier: lxmnndpr
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

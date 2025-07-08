@@ -1,0 +1,6 @@
+service:
+  name: anygrypv
+  identifier: anygrypv
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

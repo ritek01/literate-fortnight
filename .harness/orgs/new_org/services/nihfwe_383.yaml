@@ -1,0 +1,6 @@
+service:
+  name: tfcnbdmz
+  identifier: tfcnbdmz
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

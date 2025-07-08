@@ -1,0 +1,6 @@
+service:
+  name: qvpueffc
+  identifier: qvpueffc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

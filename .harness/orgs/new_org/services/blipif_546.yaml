@@ -1,0 +1,6 @@
+service:
+  name: wounejqz
+  identifier: wounejqz
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

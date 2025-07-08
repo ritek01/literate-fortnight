@@ -1,0 +1,6 @@
+service:
+  name: tntcducf
+  identifier: tntcducf
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,6 @@
+service:
+  name: qroyhlct
+  identifier: qroyhlct
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

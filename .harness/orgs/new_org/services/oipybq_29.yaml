@@ -1,0 +1,6 @@
+service:
+  name: vqykjvsd
+  identifier: vqykjvsd
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

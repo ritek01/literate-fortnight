@@ -1,0 +1,6 @@
+service:
+  name: aqnmsyhm
+  identifier: aqnmsyhm
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

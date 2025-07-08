@@ -1,0 +1,6 @@
+service:
+  name: czurwkip
+  identifier: czurwkip
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
