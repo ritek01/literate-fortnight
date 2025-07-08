@@ -1,0 +1,6 @@
+service:
+  name: fipasyyp
+  identifier: fipasyyp
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

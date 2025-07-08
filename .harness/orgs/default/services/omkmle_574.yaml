@@ -1,0 +1,6 @@
+service:
+  name: rquqtezu
+  identifier: rquqtezu
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

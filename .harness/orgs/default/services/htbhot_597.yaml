@@ -1,0 +1,6 @@
+service:
+  name: sdksencf
+  identifier: sdksencf
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,6 @@
+service:
+  name: dlglhwpm
+  identifier: dlglhwpm
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

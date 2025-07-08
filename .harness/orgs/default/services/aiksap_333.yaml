@@ -1,0 +1,6 @@
+service:
+  name: wpcvsgjf
+  identifier: wpcvsgjf
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

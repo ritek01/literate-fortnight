@@ -1,0 +1,6 @@
+service:
+  name: gvnxswhe
+  identifier: gvnxswhe
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

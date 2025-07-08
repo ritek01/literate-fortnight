@@ -1,0 +1,6 @@
+service:
+  name: wgjjalas
+  identifier: wgjjalas
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

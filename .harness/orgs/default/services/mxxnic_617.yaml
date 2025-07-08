@@ -1,0 +1,6 @@
+service:
+  name: dymdoeyz
+  identifier: dymdoeyz
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

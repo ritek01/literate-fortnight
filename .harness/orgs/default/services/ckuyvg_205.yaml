@@ -1,0 +1,6 @@
+service:
+  name: ompvvkel
+  identifier: ompvvkel
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

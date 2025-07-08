@@ -1,0 +1,6 @@
+service:
+  name: gvkspoju
+  identifier: gvkspoju
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

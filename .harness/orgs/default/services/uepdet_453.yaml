@@ -1,0 +1,6 @@
+service:
+  name: vsfontiz
+  identifier: vsfontiz
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

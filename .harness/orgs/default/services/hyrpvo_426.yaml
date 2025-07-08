@@ -1,0 +1,6 @@
+service:
+  name: wflasaqd
+  identifier: wflasaqd
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

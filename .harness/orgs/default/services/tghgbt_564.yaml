@@ -1,0 +1,6 @@
+service:
+  name: udieiumg
+  identifier: udieiumg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

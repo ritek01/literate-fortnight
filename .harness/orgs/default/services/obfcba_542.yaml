@@ -1,0 +1,6 @@
+service:
+  name: kdphlljv
+  identifier: kdphlljv
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

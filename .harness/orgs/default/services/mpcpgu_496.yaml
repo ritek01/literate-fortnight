@@ -1,0 +1,6 @@
+service:
+  name: phxzqtxb
+  identifier: phxzqtxb
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

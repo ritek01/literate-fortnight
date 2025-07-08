@@ -1,0 +1,6 @@
+service:
+  name: zpkngfzm
+  identifier: zpkngfzm
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

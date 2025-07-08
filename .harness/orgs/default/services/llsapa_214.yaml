@@ -1,0 +1,6 @@
+service:
+  name: cdnnbntz
+  identifier: cdnnbntz
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,6 @@
+service:
+  name: xiydrsoy
+  identifier: xiydrsoy
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

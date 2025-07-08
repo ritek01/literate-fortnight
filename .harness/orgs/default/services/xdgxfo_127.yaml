@@ -1,0 +1,6 @@
+service:
+  name: pyxvyosl
+  identifier: pyxvyosl
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,6 @@
+service:
+  name: tkrmitlv
+  identifier: tkrmitlv
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

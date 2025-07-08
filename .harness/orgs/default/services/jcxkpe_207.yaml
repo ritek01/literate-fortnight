@@ -1,0 +1,6 @@
+service:
+  name: cpzzfhvk
+  identifier: cpzzfhvk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

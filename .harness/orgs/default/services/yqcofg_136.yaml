@@ -1,0 +1,6 @@
+service:
+  name: cbzzxgrj
+  identifier: cbzzxgrj
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

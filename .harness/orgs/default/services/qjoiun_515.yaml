@@ -1,0 +1,6 @@
+service:
+  name: oxmchoed
+  identifier: oxmchoed
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

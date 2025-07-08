@@ -1,0 +1,6 @@
+service:
+  name: otpfomhe
+  identifier: otpfomhe
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

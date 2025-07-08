@@ -1,0 +1,6 @@
+service:
+  name: ofiotuga
+  identifier: ofiotuga
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,6 @@
+service:
+  name: ouykrmgx
+  identifier: ouykrmgx
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

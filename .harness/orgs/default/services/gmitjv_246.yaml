@@ -1,0 +1,6 @@
+service:
+  name: usfqbsjy
+  identifier: usfqbsjy
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

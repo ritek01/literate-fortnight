@@ -1,0 +1,6 @@
+service:
+  name: hjtuqvke
+  identifier: hjtuqvke
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,6 @@
+service:
+  name: acphrkxb
+  identifier: acphrkxb
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

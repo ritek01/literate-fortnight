@@ -1,0 +1,6 @@
+service:
+  name: ppfkvvyz
+  identifier: ppfkvvyz
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

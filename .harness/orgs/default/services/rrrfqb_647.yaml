@@ -1,0 +1,6 @@
+service:
+  name: kuvxwzfb
+  identifier: kuvxwzfb
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

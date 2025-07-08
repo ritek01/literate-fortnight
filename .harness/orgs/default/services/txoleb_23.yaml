@@ -1,0 +1,6 @@
+service:
+  name: kgmksshg
+  identifier: kgmksshg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

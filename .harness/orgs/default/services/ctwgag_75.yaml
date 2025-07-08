@@ -1,0 +1,6 @@
+service:
+  name: kfskrbxa
+  identifier: kfskrbxa
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

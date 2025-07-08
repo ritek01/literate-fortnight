@@ -1,0 +1,6 @@
+service:
+  name: nduypzds
+  identifier: nduypzds
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

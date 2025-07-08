@@ -1,0 +1,6 @@
+service:
+  name: updrgbdm
+  identifier: updrgbdm
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

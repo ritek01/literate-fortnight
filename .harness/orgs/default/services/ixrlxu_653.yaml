@@ -1,0 +1,6 @@
+service:
+  name: sohduzaa
+  identifier: sohduzaa
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

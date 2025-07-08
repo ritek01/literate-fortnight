@@ -1,0 +1,6 @@
+service:
+  name: kdnxmzef
+  identifier: kdnxmzef
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

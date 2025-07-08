@@ -1,0 +1,6 @@
+service:
+  name: kbtfcued
+  identifier: kbtfcued
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,6 @@
+service:
+  name: jbanqnsu
+  identifier: jbanqnsu
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

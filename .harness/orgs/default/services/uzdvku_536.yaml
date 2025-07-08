@@ -1,0 +1,6 @@
+service:
+  name: edffkodw
+  identifier: edffkodw
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

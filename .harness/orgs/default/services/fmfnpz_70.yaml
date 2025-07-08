@@ -1,0 +1,6 @@
+service:
+  name: gwynirnj
+  identifier: gwynirnj
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

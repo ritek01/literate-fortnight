@@ -1,0 +1,6 @@
+service:
+  name: yuljfzqj
+  identifier: yuljfzqj
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

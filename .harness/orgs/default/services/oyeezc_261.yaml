@@ -1,0 +1,6 @@
+service:
+  name: rmyglmbf
+  identifier: rmyglmbf
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

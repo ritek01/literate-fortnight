@@ -1,0 +1,6 @@
+service:
+  name: btjmkmov
+  identifier: btjmkmov
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,6 @@
+service:
+  name: tstceyby
+  identifier: tstceyby
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,6 @@
+service:
+  name: sukbemyw
+  identifier: sukbemyw
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

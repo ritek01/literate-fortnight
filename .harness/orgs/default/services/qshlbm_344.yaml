@@ -1,0 +1,6 @@
+service:
+  name: cytjliki
+  identifier: cytjliki
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,6 @@
+service:
+  name: lzyusobm
+  identifier: lzyusobm
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,6 @@
+service:
+  name: ftomnvtk
+  identifier: ftomnvtk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

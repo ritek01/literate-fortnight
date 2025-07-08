@@ -1,0 +1,6 @@
+service:
+  name: ehmkeyhz
+  identifier: ehmkeyhz
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

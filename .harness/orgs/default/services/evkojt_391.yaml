@@ -1,0 +1,6 @@
+service:
+  name: fpqlafbh
+  identifier: fpqlafbh
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

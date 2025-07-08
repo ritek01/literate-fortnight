@@ -1,0 +1,6 @@
+service:
+  name: ukjsldmu
+  identifier: ukjsldmu
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

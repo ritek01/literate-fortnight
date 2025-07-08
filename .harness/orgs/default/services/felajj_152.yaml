@@ -1,0 +1,6 @@
+service:
+  name: qnezdflz
+  identifier: qnezdflz
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

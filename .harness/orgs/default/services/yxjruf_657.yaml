@@ -1,0 +1,6 @@
+service:
+  name: yvyjgcgm
+  identifier: yvyjgcgm
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,6 @@
+service:
+  name: qsvargmf
+  identifier: qsvargmf
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

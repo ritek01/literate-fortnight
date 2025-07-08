@@ -1,0 +1,6 @@
+service:
+  name: pzggmqvx
+  identifier: pzggmqvx
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

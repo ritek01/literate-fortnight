@@ -1,0 +1,6 @@
+service:
+  name: nruoltrs
+  identifier: nruoltrs
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,6 @@
+service:
+  name: mdicookv
+  identifier: mdicookv
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

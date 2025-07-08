@@ -1,0 +1,6 @@
+service:
+  name: ymltthvg
+  identifier: ymltthvg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

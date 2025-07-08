@@ -1,0 +1,6 @@
+service:
+  name: xoqgstmu
+  identifier: xoqgstmu
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

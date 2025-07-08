@@ -1,0 +1,6 @@
+service:
+  name: dbgjnksy
+  identifier: dbgjnksy
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

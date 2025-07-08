@@ -1,0 +1,6 @@
+service:
+  name: ucwzlfgi
+  identifier: ucwzlfgi
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

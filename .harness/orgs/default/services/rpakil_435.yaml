@@ -1,0 +1,6 @@
+service:
+  name: krojglyr
+  identifier: krojglyr
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

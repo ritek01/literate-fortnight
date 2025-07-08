@@ -1,0 +1,6 @@
+service:
+  name: wmxydczx
+  identifier: wmxydczx
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

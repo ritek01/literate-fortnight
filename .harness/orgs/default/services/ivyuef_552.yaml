@@ -1,0 +1,6 @@
+service:
+  name: mggjbxrj
+  identifier: mggjbxrj
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

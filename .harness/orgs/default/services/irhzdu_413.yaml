@@ -1,0 +1,6 @@
+service:
+  name: sjnmvibu
+  identifier: sjnmvibu
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

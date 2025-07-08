@@ -1,0 +1,6 @@
+service:
+  name: ocywkxlb
+  identifier: ocywkxlb
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

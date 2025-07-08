@@ -1,0 +1,6 @@
+service:
+  name: tsqnfkoo
+  identifier: tsqnfkoo
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

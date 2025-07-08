@@ -1,0 +1,6 @@
+service:
+  name: ohjlbosu
+  identifier: ohjlbosu
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,6 @@
+service:
+  name: mngtbwdn
+  identifier: mngtbwdn
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

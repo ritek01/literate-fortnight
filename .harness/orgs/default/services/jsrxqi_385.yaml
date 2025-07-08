@@ -1,0 +1,6 @@
+service:
+  name: klvhdjas
+  identifier: klvhdjas
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

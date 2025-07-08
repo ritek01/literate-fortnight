@@ -1,0 +1,6 @@
+service:
+  name: hnmcnpor
+  identifier: hnmcnpor
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,6 @@
+service:
+  name: aqerzlwy
+  identifier: aqerzlwy
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,6 @@
+service:
+  name: dlwmgjwc
+  identifier: dlwmgjwc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

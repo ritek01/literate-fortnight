@@ -1,0 +1,6 @@
+service:
+  name: ecikygox
+  identifier: ecikygox
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

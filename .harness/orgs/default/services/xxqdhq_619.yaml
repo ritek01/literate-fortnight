@@ -1,0 +1,6 @@
+service:
+  name: mcoddkgx
+  identifier: mcoddkgx
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

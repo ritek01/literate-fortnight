@@ -1,0 +1,6 @@
+service:
+  name: axuevwvn
+  identifier: axuevwvn
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

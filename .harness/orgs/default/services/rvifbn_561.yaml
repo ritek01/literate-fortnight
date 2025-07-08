@@ -1,0 +1,6 @@
+service:
+  name: bjwyzixs
+  identifier: bjwyzixs
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

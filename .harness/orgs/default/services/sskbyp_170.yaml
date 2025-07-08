@@ -1,0 +1,6 @@
+service:
+  name: fvrbiytt
+  identifier: fvrbiytt
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

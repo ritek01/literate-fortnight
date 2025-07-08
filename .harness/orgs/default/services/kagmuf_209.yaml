@@ -1,0 +1,6 @@
+service:
+  name: ylcguezu
+  identifier: ylcguezu
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

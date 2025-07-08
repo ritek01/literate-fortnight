@@ -1,0 +1,6 @@
+service:
+  name: uwumwlho
+  identifier: uwumwlho
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

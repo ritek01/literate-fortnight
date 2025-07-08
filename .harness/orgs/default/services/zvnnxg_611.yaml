@@ -1,0 +1,6 @@
+service:
+  name: dhqagbru
+  identifier: dhqagbru
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

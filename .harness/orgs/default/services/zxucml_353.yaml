@@ -1,0 +1,6 @@
+service:
+  name: yzgymwpf
+  identifier: yzgymwpf
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

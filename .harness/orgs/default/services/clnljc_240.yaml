@@ -1,0 +1,6 @@
+service:
+  name: ejtnscos
+  identifier: ejtnscos
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

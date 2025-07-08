@@ -1,0 +1,6 @@
+service:
+  name: qwymuska
+  identifier: qwymuska
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

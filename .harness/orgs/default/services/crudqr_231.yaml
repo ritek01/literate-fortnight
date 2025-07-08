@@ -1,0 +1,6 @@
+service:
+  name: djijarjw
+  identifier: djijarjw
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

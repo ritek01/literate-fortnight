@@ -1,0 +1,6 @@
+service:
+  name: ejeyecoh
+  identifier: ejeyecoh
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,6 @@
+service:
+  name: sjvwgjiw
+  identifier: sjvwgjiw
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

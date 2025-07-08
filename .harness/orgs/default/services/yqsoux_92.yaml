@@ -1,0 +1,6 @@
+service:
+  name: zlpelsrn
+  identifier: zlpelsrn
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

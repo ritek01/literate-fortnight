@@ -1,0 +1,6 @@
+service:
+  name: rmeaczce
+  identifier: rmeaczce
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

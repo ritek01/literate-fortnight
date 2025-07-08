@@ -1,0 +1,6 @@
+service:
+  name: wjkcrpnq
+  identifier: wjkcrpnq
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

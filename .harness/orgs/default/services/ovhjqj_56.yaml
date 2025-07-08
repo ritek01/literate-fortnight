@@ -1,0 +1,6 @@
+service:
+  name: bepzchzh
+  identifier: bepzchzh
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

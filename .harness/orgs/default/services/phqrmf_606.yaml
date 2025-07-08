@@ -1,0 +1,6 @@
+service:
+  name: fiekxnhs
+  identifier: fiekxnhs
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,6 @@
+service:
+  name: lrmwcbgs
+  identifier: lrmwcbgs
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

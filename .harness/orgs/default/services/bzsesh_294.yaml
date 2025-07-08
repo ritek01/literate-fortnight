@@ -1,0 +1,6 @@
+service:
+  name: orlatbde
+  identifier: orlatbde
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

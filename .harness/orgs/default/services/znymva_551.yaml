@@ -1,0 +1,6 @@
+service:
+  name: pwvraema
+  identifier: pwvraema
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

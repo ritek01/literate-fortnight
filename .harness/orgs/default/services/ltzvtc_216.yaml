@@ -1,0 +1,6 @@
+service:
+  name: edwngovy
+  identifier: edwngovy
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

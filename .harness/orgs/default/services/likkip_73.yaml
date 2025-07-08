@@ -1,0 +1,6 @@
+service:
+  name: iewsfukd
+  identifier: iewsfukd
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

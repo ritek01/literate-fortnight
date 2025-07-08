@@ -1,0 +1,6 @@
+service:
+  name: vsjjjnvd
+  identifier: vsjjjnvd
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

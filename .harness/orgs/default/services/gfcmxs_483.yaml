@@ -1,0 +1,6 @@
+service:
+  name: uhcpifrj
+  identifier: uhcpifrj
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

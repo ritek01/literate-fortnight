@@ -1,0 +1,6 @@
+service:
+  name: vhycejhv
+  identifier: vhycejhv
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

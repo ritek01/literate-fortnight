@@ -1,0 +1,6 @@
+service:
+  name: ktfretzu
+  identifier: ktfretzu
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

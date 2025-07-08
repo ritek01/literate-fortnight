@@ -1,0 +1,6 @@
+service:
+  name: jxsfyoqb
+  identifier: jxsfyoqb
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
