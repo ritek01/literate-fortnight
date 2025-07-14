@@ -1,0 +1,7 @@
+service:
+  name: byexhiyr
+  identifier: byexhiyr
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

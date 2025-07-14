@@ -1,0 +1,7 @@
+service:
+  name: jxtvnbvp
+  identifier: jxtvnbvp
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: ktfwlrqz
+  identifier: ktfwlrqz
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

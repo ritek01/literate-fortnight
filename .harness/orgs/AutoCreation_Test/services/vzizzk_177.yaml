@@ -1,0 +1,7 @@
+service:
+  name: irpfhmmi
+  identifier: irpfhmmi
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: wdziilge
+  identifier: wdziilge
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

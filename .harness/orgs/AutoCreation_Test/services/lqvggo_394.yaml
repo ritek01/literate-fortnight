@@ -1,0 +1,7 @@
+service:
+  name: vfmfzkxd
+  identifier: vfmfzkxd
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

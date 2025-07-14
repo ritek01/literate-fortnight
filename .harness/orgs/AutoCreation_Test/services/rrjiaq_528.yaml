@@ -1,0 +1,7 @@
+service:
+  name: byzmvyql
+  identifier: byzmvyql
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: oradaevh
+  identifier: oradaevh
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

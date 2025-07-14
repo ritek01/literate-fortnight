@@ -1,0 +1,7 @@
+service:
+  name: ilevutlh
+  identifier: ilevutlh
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: vaxnejqu
+  identifier: vaxnejqu
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

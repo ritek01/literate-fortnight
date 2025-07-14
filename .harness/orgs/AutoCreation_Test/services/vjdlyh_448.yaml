@@ -1,0 +1,7 @@
+service:
+  name: yaulwbhy
+  identifier: yaulwbhy
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: cefrwgif
+  identifier: cefrwgif
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

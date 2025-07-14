@@ -1,0 +1,7 @@
+service:
+  name: ueczsawr
+  identifier: ueczsawr
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: hqoazwzv
+  identifier: hqoazwzv
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: mplemrlv
+  identifier: mplemrlv
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

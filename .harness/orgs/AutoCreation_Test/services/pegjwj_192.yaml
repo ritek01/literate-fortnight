@@ -1,0 +1,7 @@
+service:
+  name: rrfbkpxi
+  identifier: rrfbkpxi
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: enypwwuj
+  identifier: enypwwuj
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: vstcfmzv
+  identifier: vstcfmzv
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

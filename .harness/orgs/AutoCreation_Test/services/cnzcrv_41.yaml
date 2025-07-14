@@ -1,0 +1,7 @@
+service:
+  name: rufbgqaj
+  identifier: rufbgqaj
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

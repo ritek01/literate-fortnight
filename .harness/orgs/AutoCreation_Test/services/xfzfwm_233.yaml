@@ -1,0 +1,7 @@
+service:
+  name: xsreimjd
+  identifier: xsreimjd
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

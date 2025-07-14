@@ -1,0 +1,7 @@
+service:
+  name: puyoqlqp
+  identifier: puyoqlqp
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

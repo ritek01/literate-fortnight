@@ -1,0 +1,7 @@
+service:
+  name: uhjenqgu
+  identifier: uhjenqgu
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

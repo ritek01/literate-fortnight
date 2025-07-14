@@ -1,0 +1,7 @@
+service:
+  name: tflvkjjp
+  identifier: tflvkjjp
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

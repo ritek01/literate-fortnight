@@ -1,0 +1,7 @@
+service:
+  name: rochkcko
+  identifier: rochkcko
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

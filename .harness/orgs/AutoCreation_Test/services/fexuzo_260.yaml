@@ -1,0 +1,7 @@
+service:
+  name: bfbopait
+  identifier: bfbopait
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

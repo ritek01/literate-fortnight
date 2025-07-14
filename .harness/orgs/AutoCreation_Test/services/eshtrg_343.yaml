@@ -1,0 +1,7 @@
+service:
+  name: bcjswfrc
+  identifier: bcjswfrc
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

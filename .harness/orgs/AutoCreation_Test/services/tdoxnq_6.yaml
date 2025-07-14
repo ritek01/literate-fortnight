@@ -1,0 +1,7 @@
+service:
+  name: ybamtsaz
+  identifier: ybamtsaz
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

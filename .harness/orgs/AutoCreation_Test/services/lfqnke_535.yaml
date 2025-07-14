@@ -1,0 +1,7 @@
+service:
+  name: ytunzpaq
+  identifier: ytunzpaq
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

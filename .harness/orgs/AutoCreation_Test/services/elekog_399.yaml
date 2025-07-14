@@ -1,0 +1,7 @@
+service:
+  name: faxukqmc
+  identifier: faxukqmc
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: njuqjnsf
+  identifier: njuqjnsf
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

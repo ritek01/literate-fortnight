@@ -1,0 +1,7 @@
+service:
+  name: jxepjbla
+  identifier: jxepjbla
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

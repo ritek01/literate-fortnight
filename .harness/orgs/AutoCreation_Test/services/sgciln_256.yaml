@@ -1,0 +1,7 @@
+service:
+  name: qfhliyyf
+  identifier: qfhliyyf
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

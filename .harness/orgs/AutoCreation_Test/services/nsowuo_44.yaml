@@ -1,0 +1,7 @@
+service:
+  name: rzsbhfdw
+  identifier: rzsbhfdw
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

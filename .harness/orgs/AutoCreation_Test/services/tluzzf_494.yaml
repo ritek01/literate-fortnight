@@ -1,0 +1,7 @@
+service:
+  name: ecwdnyza
+  identifier: ecwdnyza
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

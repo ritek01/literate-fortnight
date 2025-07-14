@@ -1,0 +1,7 @@
+service:
+  name: hitmzrbc
+  identifier: hitmzrbc
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

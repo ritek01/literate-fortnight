@@ -1,0 +1,7 @@
+service:
+  name: mpobaoas
+  identifier: mpobaoas
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

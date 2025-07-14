@@ -1,0 +1,7 @@
+service:
+  name: epwjweox
+  identifier: epwjweox
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

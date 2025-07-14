@@ -1,0 +1,7 @@
+service:
+  name: bbqiwzis
+  identifier: bbqiwzis
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

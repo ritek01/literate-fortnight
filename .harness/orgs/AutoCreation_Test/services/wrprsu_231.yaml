@@ -1,0 +1,7 @@
+service:
+  name: hyiqucnf
+  identifier: hyiqucnf
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

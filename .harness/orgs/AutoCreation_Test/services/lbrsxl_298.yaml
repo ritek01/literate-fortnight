@@ -1,0 +1,7 @@
+service:
+  name: watzmrus
+  identifier: watzmrus
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

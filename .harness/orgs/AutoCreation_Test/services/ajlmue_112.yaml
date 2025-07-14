@@ -1,0 +1,7 @@
+service:
+  name: yzphfkfs
+  identifier: yzphfkfs
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: tdawtryf
+  identifier: tdawtryf
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

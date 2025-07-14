@@ -1,0 +1,7 @@
+service:
+  name: atccqsem
+  identifier: atccqsem
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

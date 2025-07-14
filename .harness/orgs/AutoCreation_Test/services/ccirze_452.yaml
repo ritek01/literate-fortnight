@@ -1,0 +1,7 @@
+service:
+  name: qykhtofb
+  identifier: qykhtofb
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: aeikudrx
+  identifier: aeikudrx
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

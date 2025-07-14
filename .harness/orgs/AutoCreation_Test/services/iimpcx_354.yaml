@@ -1,0 +1,7 @@
+service:
+  name: grcfkfeh
+  identifier: grcfkfeh
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: emyehico
+  identifier: emyehico
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

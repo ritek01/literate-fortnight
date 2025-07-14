@@ -1,0 +1,7 @@
+service:
+  name: oklzrwfg
+  identifier: oklzrwfg
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

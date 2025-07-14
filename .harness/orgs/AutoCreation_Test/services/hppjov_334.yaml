@@ -1,0 +1,7 @@
+service:
+  name: ldgpakxf
+  identifier: ldgpakxf
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: gzvcznru
+  identifier: gzvcznru
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

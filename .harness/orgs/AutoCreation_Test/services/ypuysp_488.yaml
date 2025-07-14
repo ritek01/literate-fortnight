@@ -1,0 +1,7 @@
+service:
+  name: fjchachh
+  identifier: fjchachh
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

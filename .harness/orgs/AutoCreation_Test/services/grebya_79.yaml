@@ -1,0 +1,7 @@
+service:
+  name: ubpayfmf
+  identifier: ubpayfmf
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: bxjegnck
+  identifier: bxjegnck
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

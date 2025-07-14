@@ -1,0 +1,7 @@
+service:
+  name: msejuwnj
+  identifier: msejuwnj
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

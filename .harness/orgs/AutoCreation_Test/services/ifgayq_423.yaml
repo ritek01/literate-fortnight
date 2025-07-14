@@ -1,0 +1,7 @@
+service:
+  name: mpxbydbh
+  identifier: mpxbydbh
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

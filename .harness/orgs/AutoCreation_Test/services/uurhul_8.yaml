@@ -1,0 +1,7 @@
+service:
+  name: vmxlmkjz
+  identifier: vmxlmkjz
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

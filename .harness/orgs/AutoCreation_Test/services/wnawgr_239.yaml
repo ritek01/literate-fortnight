@@ -1,0 +1,7 @@
+service:
+  name: lsaqqyeq
+  identifier: lsaqqyeq
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

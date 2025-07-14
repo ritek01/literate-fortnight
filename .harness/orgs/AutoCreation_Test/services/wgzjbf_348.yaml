@@ -1,0 +1,7 @@
+service:
+  name: mtcsvdmq
+  identifier: mtcsvdmq
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

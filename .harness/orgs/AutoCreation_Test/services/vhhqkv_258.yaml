@@ -1,0 +1,7 @@
+service:
+  name: jncuqhws
+  identifier: jncuqhws
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: ljkxsvrn
+  identifier: ljkxsvrn
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: xqjjllwc
+  identifier: xqjjllwc
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

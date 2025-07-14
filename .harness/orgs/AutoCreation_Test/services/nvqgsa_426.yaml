@@ -1,0 +1,7 @@
+service:
+  name: anhvgpbu
+  identifier: anhvgpbu
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

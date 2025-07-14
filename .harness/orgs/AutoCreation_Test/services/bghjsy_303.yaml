@@ -1,0 +1,7 @@
+service:
+  name: byfvjady
+  identifier: byfvjady
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

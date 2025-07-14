@@ -1,0 +1,7 @@
+service:
+  name: pnxgvyam
+  identifier: pnxgvyam
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

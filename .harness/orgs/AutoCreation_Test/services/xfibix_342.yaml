@@ -1,0 +1,7 @@
+service:
+  name: gqkyldpv
+  identifier: gqkyldpv
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

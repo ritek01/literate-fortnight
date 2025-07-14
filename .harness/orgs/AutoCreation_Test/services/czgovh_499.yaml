@@ -1,0 +1,7 @@
+service:
+  name: jmgjtpng
+  identifier: jmgjtpng
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

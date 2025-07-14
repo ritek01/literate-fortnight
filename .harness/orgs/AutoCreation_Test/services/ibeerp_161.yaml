@@ -1,0 +1,7 @@
+service:
+  name: rpyrcect
+  identifier: rpyrcect
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

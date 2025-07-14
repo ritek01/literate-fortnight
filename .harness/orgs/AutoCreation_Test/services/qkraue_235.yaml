@@ -1,0 +1,7 @@
+service:
+  name: saenrcou
+  identifier: saenrcou
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: wbislfda
+  identifier: wbislfda
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

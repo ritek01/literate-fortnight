@@ -1,0 +1,7 @@
+service:
+  name: uamqcojc
+  identifier: uamqcojc
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

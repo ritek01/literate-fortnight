@@ -1,0 +1,7 @@
+service:
+  name: bsjpctif
+  identifier: bsjpctif
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

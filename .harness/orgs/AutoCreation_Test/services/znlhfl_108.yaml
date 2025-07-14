@@ -1,0 +1,7 @@
+service:
+  name: trsezhnn
+  identifier: trsezhnn
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

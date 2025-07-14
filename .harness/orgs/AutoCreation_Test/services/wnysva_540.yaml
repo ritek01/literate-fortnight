@@ -1,0 +1,7 @@
+service:
+  name: wioxpgcq
+  identifier: wioxpgcq
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

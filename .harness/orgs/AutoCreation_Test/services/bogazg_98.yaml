@@ -1,0 +1,7 @@
+service:
+  name: uygyilpv
+  identifier: uygyilpv
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

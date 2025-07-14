@@ -1,0 +1,7 @@
+service:
+  name: gfnpdkgk
+  identifier: gfnpdkgk
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

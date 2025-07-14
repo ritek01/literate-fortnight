@@ -1,0 +1,7 @@
+service:
+  name: junnnxln
+  identifier: junnnxln
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: bzupxsvf
+  identifier: bzupxsvf
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

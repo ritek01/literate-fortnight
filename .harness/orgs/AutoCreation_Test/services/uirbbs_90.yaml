@@ -1,0 +1,7 @@
+service:
+  name: qftgwoha
+  identifier: qftgwoha
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

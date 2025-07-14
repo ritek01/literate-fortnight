@@ -1,0 +1,7 @@
+service:
+  name: lgwurtsy
+  identifier: lgwurtsy
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

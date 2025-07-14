@@ -1,0 +1,7 @@
+service:
+  name: hclmgxus
+  identifier: hclmgxus
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

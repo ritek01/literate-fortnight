@@ -1,0 +1,7 @@
+service:
+  name: savinygz
+  identifier: savinygz
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

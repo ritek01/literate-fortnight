@@ -1,0 +1,7 @@
+service:
+  name: yrrlbdec
+  identifier: yrrlbdec
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

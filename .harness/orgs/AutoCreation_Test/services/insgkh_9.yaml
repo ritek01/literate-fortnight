@@ -1,0 +1,7 @@
+service:
+  name: ohsbqjzr
+  identifier: ohsbqjzr
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

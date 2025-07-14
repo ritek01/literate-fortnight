@@ -1,0 +1,7 @@
+service:
+  name: iphjdlau
+  identifier: iphjdlau
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

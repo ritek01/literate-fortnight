@@ -1,0 +1,7 @@
+service:
+  name: npmrtfkl
+  identifier: npmrtfkl
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

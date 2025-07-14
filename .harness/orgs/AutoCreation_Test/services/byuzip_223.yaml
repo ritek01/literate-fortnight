@@ -1,0 +1,7 @@
+service:
+  name: qnsodvpe
+  identifier: qnsodvpe
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

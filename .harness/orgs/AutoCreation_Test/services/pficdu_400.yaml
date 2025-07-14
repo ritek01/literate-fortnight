@@ -1,0 +1,7 @@
+service:
+  name: emjxjvxz
+  identifier: emjxjvxz
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

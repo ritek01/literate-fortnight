@@ -1,0 +1,7 @@
+service:
+  name: etxevgmt
+  identifier: etxevgmt
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

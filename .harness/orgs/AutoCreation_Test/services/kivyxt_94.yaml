@@ -1,0 +1,7 @@
+service:
+  name: vphmvnbi
+  identifier: vphmvnbi
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

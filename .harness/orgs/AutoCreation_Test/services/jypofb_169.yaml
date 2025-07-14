@@ -1,0 +1,7 @@
+service:
+  name: sgjpvsmk
+  identifier: sgjpvsmk
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

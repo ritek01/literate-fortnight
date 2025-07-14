@@ -1,0 +1,7 @@
+service:
+  name: mxrzgfxy
+  identifier: mxrzgfxy
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

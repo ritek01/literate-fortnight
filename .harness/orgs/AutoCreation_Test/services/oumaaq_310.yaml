@@ -1,0 +1,7 @@
+service:
+  name: vadzzfnm
+  identifier: vadzzfnm
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: qhonmcrf
+  identifier: qhonmcrf
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

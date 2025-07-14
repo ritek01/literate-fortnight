@@ -1,0 +1,7 @@
+service:
+  name: sdkbkugo
+  identifier: sdkbkugo
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: qppanaao
+  identifier: qppanaao
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

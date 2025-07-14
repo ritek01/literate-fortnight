@@ -1,0 +1,7 @@
+service:
+  name: tkhzxxxo
+  identifier: tkhzxxxo
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

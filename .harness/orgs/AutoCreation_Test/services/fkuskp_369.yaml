@@ -1,0 +1,7 @@
+service:
+  name: dliifnrh
+  identifier: dliifnrh
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

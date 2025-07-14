@@ -1,0 +1,7 @@
+service:
+  name: hlqpteql
+  identifier: hlqpteql
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

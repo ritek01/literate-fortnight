@@ -1,0 +1,7 @@
+service:
+  name: acxaisom
+  identifier: acxaisom
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

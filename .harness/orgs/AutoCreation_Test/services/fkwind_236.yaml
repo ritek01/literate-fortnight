@@ -1,0 +1,7 @@
+service:
+  name: fmyuodue
+  identifier: fmyuodue
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

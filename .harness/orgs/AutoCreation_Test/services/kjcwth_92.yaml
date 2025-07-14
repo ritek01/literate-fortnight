@@ -1,0 +1,7 @@
+service:
+  name: qcsridnv
+  identifier: qcsridnv
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

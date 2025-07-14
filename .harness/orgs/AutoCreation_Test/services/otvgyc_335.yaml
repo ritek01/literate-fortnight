@@ -1,0 +1,7 @@
+service:
+  name: rlpjsvie
+  identifier: rlpjsvie
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

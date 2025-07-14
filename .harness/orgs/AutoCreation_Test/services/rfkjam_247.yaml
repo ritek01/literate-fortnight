@@ -1,0 +1,7 @@
+service:
+  name: ntrtrbyn
+  identifier: ntrtrbyn
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: rmhkjjoa
+  identifier: rmhkjjoa
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

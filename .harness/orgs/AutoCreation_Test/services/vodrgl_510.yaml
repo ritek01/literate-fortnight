@@ -1,0 +1,7 @@
+service:
+  name: ipslcsfe
+  identifier: ipslcsfe
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

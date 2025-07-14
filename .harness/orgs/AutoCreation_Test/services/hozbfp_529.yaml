@@ -1,0 +1,7 @@
+service:
+  name: nvydyiza
+  identifier: nvydyiza
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

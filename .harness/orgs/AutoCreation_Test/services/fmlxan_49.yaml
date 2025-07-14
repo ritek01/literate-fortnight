@@ -1,0 +1,7 @@
+service:
+  name: htyhetae
+  identifier: htyhetae
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

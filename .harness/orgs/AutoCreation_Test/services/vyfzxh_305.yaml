@@ -1,0 +1,7 @@
+service:
+  name: jibgrcyb
+  identifier: jibgrcyb
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

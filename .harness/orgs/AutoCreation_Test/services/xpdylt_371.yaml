@@ -1,0 +1,7 @@
+service:
+  name: zabhateh
+  identifier: zabhateh
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

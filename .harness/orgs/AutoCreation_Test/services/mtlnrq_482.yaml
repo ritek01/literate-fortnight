@@ -1,0 +1,7 @@
+service:
+  name: srjgowiq
+  identifier: srjgowiq
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

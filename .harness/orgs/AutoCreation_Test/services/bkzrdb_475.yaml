@@ -1,0 +1,7 @@
+service:
+  name: fvcvxlsd
+  identifier: fvcvxlsd
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

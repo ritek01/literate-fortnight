@@ -1,0 +1,7 @@
+service:
+  name: etsvxedi
+  identifier: etsvxedi
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

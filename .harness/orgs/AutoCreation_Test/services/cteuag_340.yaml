@@ -1,0 +1,7 @@
+service:
+  name: camojvsv
+  identifier: camojvsv
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

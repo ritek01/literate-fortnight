@@ -1,0 +1,7 @@
+service:
+  name: nkxtsoji
+  identifier: nkxtsoji
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

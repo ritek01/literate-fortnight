@@ -1,0 +1,7 @@
+service:
+  name: doxhbfbl
+  identifier: doxhbfbl
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: nxdccshn
+  identifier: nxdccshn
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: sgatoagv
+  identifier: sgatoagv
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

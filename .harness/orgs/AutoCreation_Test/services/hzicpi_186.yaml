@@ -1,0 +1,7 @@
+service:
+  name: wpzhmhaj
+  identifier: wpzhmhaj
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

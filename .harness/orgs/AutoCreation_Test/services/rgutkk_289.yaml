@@ -1,0 +1,7 @@
+service:
+  name: vqppawch
+  identifier: vqppawch
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: eyaorsqh
+  identifier: eyaorsqh
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

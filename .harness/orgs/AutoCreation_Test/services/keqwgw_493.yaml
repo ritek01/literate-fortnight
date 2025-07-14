@@ -1,0 +1,7 @@
+service:
+  name: hfgzvafc
+  identifier: hfgzvafc
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

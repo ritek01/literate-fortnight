@@ -1,0 +1,7 @@
+service:
+  name: yjnxaulu
+  identifier: yjnxaulu
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: seohofqa
+  identifier: seohofqa
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

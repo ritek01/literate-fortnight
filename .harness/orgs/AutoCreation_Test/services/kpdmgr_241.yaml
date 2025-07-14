@@ -1,0 +1,7 @@
+service:
+  name: nkjmiwbr
+  identifier: nkjmiwbr
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

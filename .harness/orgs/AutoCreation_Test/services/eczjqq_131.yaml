@@ -1,0 +1,7 @@
+service:
+  name: ymhwhfxs
+  identifier: ymhwhfxs
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

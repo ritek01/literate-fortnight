@@ -1,0 +1,7 @@
+service:
+  name: xbsvtqvh
+  identifier: xbsvtqvh
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

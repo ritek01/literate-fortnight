@@ -1,0 +1,7 @@
+service:
+  name: zoznrxps
+  identifier: zoznrxps
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

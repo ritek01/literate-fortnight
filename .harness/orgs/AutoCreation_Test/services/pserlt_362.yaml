@@ -1,0 +1,7 @@
+service:
+  name: igckywwx
+  identifier: igckywwx
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

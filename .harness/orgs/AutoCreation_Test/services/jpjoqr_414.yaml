@@ -1,0 +1,7 @@
+service:
+  name: keqfnxin
+  identifier: keqfnxin
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

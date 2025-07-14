@@ -1,0 +1,7 @@
+service:
+  name: rzuenwna
+  identifier: rzuenwna
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
