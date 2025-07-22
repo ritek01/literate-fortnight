@@ -1,0 +1,7 @@
+service:
+  name: jgwwyuro
+  identifier: jgwwyuro
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

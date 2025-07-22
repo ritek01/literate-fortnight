@@ -1,0 +1,7 @@
+service:
+  name: pdferxqq
+  identifier: pdferxqq
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

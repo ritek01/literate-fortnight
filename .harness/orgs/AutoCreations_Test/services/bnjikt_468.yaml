@@ -1,0 +1,7 @@
+service:
+  name: ahdlwicb
+  identifier: ahdlwicb
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

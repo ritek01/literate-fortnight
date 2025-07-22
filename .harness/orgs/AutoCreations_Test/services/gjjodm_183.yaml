@@ -1,0 +1,7 @@
+service:
+  name: wpbumnig
+  identifier: wpbumnig
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

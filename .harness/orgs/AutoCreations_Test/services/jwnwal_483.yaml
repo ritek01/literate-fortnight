@@ -1,0 +1,7 @@
+service:
+  name: oqumdmas
+  identifier: oqumdmas
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

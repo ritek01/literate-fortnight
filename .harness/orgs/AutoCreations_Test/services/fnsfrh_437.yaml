@@ -1,0 +1,7 @@
+service:
+  name: unqteqpz
+  identifier: unqteqpz
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

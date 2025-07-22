@@ -1,0 +1,7 @@
+service:
+  name: cmerfeht
+  identifier: cmerfeht
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

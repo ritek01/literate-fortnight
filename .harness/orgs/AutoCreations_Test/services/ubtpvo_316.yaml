@@ -1,0 +1,7 @@
+service:
+  name: omqgflvn
+  identifier: omqgflvn
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

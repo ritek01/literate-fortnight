@@ -1,0 +1,7 @@
+service:
+  name: pectivfo
+  identifier: pectivfo
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

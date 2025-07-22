@@ -1,0 +1,7 @@
+service:
+  name: zniturdq
+  identifier: zniturdq
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

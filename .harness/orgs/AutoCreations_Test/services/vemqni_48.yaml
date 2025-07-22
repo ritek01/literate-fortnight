@@ -1,0 +1,7 @@
+service:
+  name: floaviip
+  identifier: floaviip
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

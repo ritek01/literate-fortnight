@@ -1,0 +1,7 @@
+service:
+  name: zubzuzrw
+  identifier: zubzuzrw
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

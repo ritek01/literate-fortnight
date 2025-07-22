@@ -1,0 +1,7 @@
+service:
+  name: ovlhwwup
+  identifier: ovlhwwup
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

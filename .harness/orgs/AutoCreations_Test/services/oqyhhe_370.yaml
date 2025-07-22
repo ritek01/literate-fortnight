@@ -1,0 +1,7 @@
+service:
+  name: ijiibawm
+  identifier: ijiibawm
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

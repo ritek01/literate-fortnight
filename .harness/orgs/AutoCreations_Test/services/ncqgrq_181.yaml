@@ -1,0 +1,7 @@
+service:
+  name: pjoqpopd
+  identifier: pjoqpopd
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

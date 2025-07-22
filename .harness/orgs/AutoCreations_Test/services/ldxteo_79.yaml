@@ -1,0 +1,7 @@
+service:
+  name: obefmlya
+  identifier: obefmlya
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

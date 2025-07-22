@@ -1,0 +1,7 @@
+service:
+  name: jsjnrobx
+  identifier: jsjnrobx
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

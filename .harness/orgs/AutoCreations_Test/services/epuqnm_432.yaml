@@ -1,0 +1,7 @@
+service:
+  name: cgqhzlen
+  identifier: cgqhzlen
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

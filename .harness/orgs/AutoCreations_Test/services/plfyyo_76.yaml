@@ -1,0 +1,7 @@
+service:
+  name: mbggxfbj
+  identifier: mbggxfbj
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

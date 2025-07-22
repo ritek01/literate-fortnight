@@ -1,0 +1,7 @@
+service:
+  name: xffohntl
+  identifier: xffohntl
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

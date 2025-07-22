@@ -1,0 +1,7 @@
+service:
+  name: vdxqfabm
+  identifier: vdxqfabm
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

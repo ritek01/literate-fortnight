@@ -1,0 +1,7 @@
+service:
+  name: ffopqcld
+  identifier: ffopqcld
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

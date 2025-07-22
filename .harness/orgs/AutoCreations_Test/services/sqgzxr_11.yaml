@@ -1,0 +1,7 @@
+service:
+  name: xcuynrpc
+  identifier: xcuynrpc
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

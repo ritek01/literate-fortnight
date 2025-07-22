@@ -1,0 +1,7 @@
+service:
+  name: vmtbefaa
+  identifier: vmtbefaa
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

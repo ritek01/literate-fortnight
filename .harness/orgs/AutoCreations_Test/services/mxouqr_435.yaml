@@ -1,0 +1,7 @@
+service:
+  name: lffpdegt
+  identifier: lffpdegt
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

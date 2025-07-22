@@ -1,0 +1,7 @@
+service:
+  name: vbofloto
+  identifier: vbofloto
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

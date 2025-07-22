@@ -1,0 +1,7 @@
+service:
+  name: eibfttke
+  identifier: eibfttke
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

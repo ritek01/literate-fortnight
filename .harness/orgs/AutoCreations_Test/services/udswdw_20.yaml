@@ -1,0 +1,7 @@
+service:
+  name: gnewxddt
+  identifier: gnewxddt
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

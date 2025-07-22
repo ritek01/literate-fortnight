@@ -1,0 +1,7 @@
+service:
+  name: dyeyxvta
+  identifier: dyeyxvta
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

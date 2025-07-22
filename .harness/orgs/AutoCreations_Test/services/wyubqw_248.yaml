@@ -1,0 +1,7 @@
+service:
+  name: abhqmszo
+  identifier: abhqmszo
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

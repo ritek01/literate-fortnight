@@ -1,0 +1,7 @@
+service:
+  name: qeuojrfw
+  identifier: qeuojrfw
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

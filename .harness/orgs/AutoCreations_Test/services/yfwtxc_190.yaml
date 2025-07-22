@@ -1,0 +1,7 @@
+service:
+  name: etcmhqkq
+  identifier: etcmhqkq
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

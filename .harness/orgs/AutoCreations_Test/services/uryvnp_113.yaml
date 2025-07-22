@@ -1,0 +1,7 @@
+service:
+  name: nvhkjgjx
+  identifier: nvhkjgjx
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

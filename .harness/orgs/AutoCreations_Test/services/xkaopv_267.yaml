@@ -1,0 +1,7 @@
+service:
+  name: lxixlrdi
+  identifier: lxixlrdi
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

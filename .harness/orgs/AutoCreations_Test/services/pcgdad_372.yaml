@@ -1,0 +1,7 @@
+service:
+  name: qvpkvhmo
+  identifier: qvpkvhmo
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

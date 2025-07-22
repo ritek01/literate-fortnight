@@ -1,0 +1,7 @@
+service:
+  name: flkuuxis
+  identifier: flkuuxis
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: acyhggpy
+  identifier: acyhggpy
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

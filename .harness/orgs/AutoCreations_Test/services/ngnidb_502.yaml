@@ -1,0 +1,7 @@
+service:
+  name: tudmcayt
+  identifier: tudmcayt
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

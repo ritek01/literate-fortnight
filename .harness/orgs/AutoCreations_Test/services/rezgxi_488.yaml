@@ -1,0 +1,7 @@
+service:
+  name: nkgpqgkw
+  identifier: nkgpqgkw
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

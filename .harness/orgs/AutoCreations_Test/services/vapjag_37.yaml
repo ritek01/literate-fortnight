@@ -1,0 +1,7 @@
+service:
+  name: abdjsofs
+  identifier: abdjsofs
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: nfixeita
+  identifier: nfixeita
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

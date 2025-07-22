@@ -1,0 +1,7 @@
+service:
+  name: pwkcbeyk
+  identifier: pwkcbeyk
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

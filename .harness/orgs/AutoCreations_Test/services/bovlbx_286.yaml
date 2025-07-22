@@ -1,0 +1,7 @@
+service:
+  name: dydjplsb
+  identifier: dydjplsb
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

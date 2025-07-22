@@ -1,0 +1,7 @@
+service:
+  name: olgbhvyh
+  identifier: olgbhvyh
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

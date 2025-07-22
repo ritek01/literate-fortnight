@@ -1,0 +1,7 @@
+service:
+  name: okvveevr
+  identifier: okvveevr
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

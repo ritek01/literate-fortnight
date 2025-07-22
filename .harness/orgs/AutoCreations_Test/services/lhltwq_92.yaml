@@ -1,0 +1,7 @@
+service:
+  name: lezphcde
+  identifier: lezphcde
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: fckjbfsv
+  identifier: fckjbfsv
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

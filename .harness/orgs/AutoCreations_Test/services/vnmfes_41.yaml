@@ -1,0 +1,7 @@
+service:
+  name: fovvbqpg
+  identifier: fovvbqpg
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

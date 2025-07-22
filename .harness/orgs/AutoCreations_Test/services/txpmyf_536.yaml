@@ -1,0 +1,7 @@
+service:
+  name: enrmsiof
+  identifier: enrmsiof
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

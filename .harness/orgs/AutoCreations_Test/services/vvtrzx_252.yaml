@@ -1,0 +1,7 @@
+service:
+  name: cjjvavbo
+  identifier: cjjvavbo
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

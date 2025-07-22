@@ -1,0 +1,7 @@
+service:
+  name: jtoyhvub
+  identifier: jtoyhvub
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

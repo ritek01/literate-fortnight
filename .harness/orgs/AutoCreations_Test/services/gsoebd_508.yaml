@@ -1,0 +1,7 @@
+service:
+  name: fxypwaoj
+  identifier: fxypwaoj
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

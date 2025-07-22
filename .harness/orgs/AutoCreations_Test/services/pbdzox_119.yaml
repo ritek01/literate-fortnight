@@ -1,0 +1,7 @@
+service:
+  name: tpdspszd
+  identifier: tpdspszd
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

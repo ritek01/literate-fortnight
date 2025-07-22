@@ -1,0 +1,7 @@
+service:
+  name: louybusd
+  identifier: louybusd
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

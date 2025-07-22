@@ -1,0 +1,7 @@
+service:
+  name: iklcnldh
+  identifier: iklcnldh
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

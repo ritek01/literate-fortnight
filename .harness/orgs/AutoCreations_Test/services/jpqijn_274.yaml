@@ -1,0 +1,7 @@
+service:
+  name: hstonfrk
+  identifier: hstonfrk
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

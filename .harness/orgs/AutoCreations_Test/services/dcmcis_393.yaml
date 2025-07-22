@@ -1,0 +1,7 @@
+service:
+  name: lhrahowl
+  identifier: lhrahowl
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

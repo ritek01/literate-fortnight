@@ -1,0 +1,7 @@
+service:
+  name: tchnekra
+  identifier: tchnekra
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

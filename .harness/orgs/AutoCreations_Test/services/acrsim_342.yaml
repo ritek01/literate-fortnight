@@ -1,0 +1,7 @@
+service:
+  name: lavdkemu
+  identifier: lavdkemu
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

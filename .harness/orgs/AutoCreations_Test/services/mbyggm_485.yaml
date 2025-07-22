@@ -1,0 +1,7 @@
+service:
+  name: vfvwskze
+  identifier: vfvwskze
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

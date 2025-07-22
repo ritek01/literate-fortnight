@@ -1,0 +1,7 @@
+service:
+  name: wliqrfcy
+  identifier: wliqrfcy
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

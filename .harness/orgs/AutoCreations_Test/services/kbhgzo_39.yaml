@@ -1,0 +1,7 @@
+service:
+  name: muytqsna
+  identifier: muytqsna
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

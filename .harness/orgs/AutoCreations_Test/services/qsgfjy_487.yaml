@@ -1,0 +1,7 @@
+service:
+  name: vxzqzdmx
+  identifier: vxzqzdmx
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

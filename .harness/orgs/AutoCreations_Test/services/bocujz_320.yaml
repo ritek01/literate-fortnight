@@ -1,0 +1,7 @@
+service:
+  name: ocbprzty
+  identifier: ocbprzty
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

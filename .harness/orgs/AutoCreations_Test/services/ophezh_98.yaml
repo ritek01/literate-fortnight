@@ -1,0 +1,7 @@
+service:
+  name: kdwdhktu
+  identifier: kdwdhktu
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

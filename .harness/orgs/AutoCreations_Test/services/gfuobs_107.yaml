@@ -1,0 +1,7 @@
+service:
+  name: dbvqvotp
+  identifier: dbvqvotp
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

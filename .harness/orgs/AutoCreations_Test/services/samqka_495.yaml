@@ -1,0 +1,7 @@
+service:
+  name: kjubahuh
+  identifier: kjubahuh
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

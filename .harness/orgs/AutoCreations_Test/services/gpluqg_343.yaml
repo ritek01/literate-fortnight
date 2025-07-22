@@ -1,0 +1,7 @@
+service:
+  name: avfwzews
+  identifier: avfwzews
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: oazeisrh
+  identifier: oazeisrh
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

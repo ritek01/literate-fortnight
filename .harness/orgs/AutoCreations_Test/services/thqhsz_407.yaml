@@ -1,0 +1,7 @@
+service:
+  name: abapdmal
+  identifier: abapdmal
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

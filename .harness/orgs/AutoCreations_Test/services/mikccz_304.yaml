@@ -1,0 +1,7 @@
+service:
+  name: tnljebsh
+  identifier: tnljebsh
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

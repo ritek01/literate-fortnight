@@ -1,0 +1,7 @@
+service:
+  name: avvkxlvt
+  identifier: avvkxlvt
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: slxsraup
+  identifier: slxsraup
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

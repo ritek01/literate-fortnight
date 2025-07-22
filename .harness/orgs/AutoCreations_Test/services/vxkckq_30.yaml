@@ -1,0 +1,7 @@
+service:
+  name: bayiyqwm
+  identifier: bayiyqwm
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

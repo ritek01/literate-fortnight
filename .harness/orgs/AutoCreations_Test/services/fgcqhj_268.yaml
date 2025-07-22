@@ -1,0 +1,7 @@
+service:
+  name: xbgniygp
+  identifier: xbgniygp
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

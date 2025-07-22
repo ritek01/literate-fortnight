@@ -1,0 +1,7 @@
+service:
+  name: carfjikw
+  identifier: carfjikw
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: eidpavli
+  identifier: eidpavli
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

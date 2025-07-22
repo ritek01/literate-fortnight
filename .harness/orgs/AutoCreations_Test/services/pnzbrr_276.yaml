@@ -1,0 +1,7 @@
+service:
+  name: nyzqbdzh
+  identifier: nyzqbdzh
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

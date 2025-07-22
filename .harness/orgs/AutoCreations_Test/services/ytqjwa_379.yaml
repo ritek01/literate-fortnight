@@ -1,0 +1,7 @@
+service:
+  name: tmaoybaj
+  identifier: tmaoybaj
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

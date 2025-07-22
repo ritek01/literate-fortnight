@@ -1,0 +1,7 @@
+service:
+  name: rxxfixkl
+  identifier: rxxfixkl
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

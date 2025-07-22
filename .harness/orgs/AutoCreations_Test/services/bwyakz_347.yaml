@@ -1,0 +1,7 @@
+service:
+  name: mktsccsi
+  identifier: mktsccsi
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

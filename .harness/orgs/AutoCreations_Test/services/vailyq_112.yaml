@@ -1,0 +1,7 @@
+service:
+  name: jsxdotrr
+  identifier: jsxdotrr
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

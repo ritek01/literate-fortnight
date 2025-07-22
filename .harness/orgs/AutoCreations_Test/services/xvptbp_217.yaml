@@ -1,0 +1,7 @@
+service:
+  name: psqzywsv
+  identifier: psqzywsv
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

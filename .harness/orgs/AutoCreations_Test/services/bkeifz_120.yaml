@@ -1,0 +1,7 @@
+service:
+  name: qddnytcp
+  identifier: qddnytcp
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

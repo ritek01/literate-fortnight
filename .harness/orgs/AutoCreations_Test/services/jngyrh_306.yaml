@@ -1,0 +1,7 @@
+service:
+  name: zrumhsrp
+  identifier: zrumhsrp
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

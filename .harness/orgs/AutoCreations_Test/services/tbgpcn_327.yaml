@@ -1,0 +1,7 @@
+service:
+  name: uqncsxvf
+  identifier: uqncsxvf
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

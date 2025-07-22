@@ -1,0 +1,7 @@
+service:
+  name: ipwgvjxk
+  identifier: ipwgvjxk
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

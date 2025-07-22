@@ -1,0 +1,7 @@
+service:
+  name: gjeldrvp
+  identifier: gjeldrvp
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

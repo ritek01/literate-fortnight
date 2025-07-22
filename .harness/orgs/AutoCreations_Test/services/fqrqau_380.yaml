@@ -1,0 +1,7 @@
+service:
+  name: udvgvgxp
+  identifier: udvgvgxp
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

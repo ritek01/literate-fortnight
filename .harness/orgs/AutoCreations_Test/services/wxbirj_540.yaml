@@ -1,0 +1,7 @@
+service:
+  name: nsfaxxif
+  identifier: nsfaxxif
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

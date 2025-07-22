@@ -1,0 +1,7 @@
+service:
+  name: pdfobbem
+  identifier: pdfobbem
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

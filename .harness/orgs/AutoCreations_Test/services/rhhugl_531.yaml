@@ -1,0 +1,7 @@
+service:
+  name: fmcwzviz
+  identifier: fmcwzviz
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

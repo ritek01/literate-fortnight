@@ -1,0 +1,7 @@
+service:
+  name: pvordtyz
+  identifier: pvordtyz
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

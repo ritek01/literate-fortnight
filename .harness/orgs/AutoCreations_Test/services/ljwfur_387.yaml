@@ -1,0 +1,7 @@
+service:
+  name: crrjjlsd
+  identifier: crrjjlsd
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

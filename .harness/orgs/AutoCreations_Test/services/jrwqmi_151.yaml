@@ -1,0 +1,7 @@
+service:
+  name: atibsrdb
+  identifier: atibsrdb
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

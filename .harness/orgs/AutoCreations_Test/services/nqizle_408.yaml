@@ -1,0 +1,7 @@
+service:
+  name: wmvjbbnz
+  identifier: wmvjbbnz
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

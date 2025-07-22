@@ -1,0 +1,7 @@
+service:
+  name: klrdvetr
+  identifier: klrdvetr
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

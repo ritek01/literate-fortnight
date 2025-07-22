@@ -1,0 +1,7 @@
+service:
+  name: npjxftdx
+  identifier: npjxftdx
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

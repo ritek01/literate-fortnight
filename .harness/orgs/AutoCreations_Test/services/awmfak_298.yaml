@@ -1,0 +1,7 @@
+service:
+  name: fbtpqgzj
+  identifier: fbtpqgzj
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

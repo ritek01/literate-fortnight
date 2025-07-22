@@ -1,0 +1,7 @@
+service:
+  name: jxshsjwv
+  identifier: jxshsjwv
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

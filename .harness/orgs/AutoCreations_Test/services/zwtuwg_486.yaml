@@ -1,0 +1,7 @@
+service:
+  name: fgjeurtk
+  identifier: fgjeurtk
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

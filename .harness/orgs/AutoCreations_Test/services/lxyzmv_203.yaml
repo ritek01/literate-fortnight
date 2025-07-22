@@ -1,0 +1,7 @@
+service:
+  name: jrspssyb
+  identifier: jrspssyb
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

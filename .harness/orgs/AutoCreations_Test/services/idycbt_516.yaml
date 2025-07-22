@@ -1,0 +1,7 @@
+service:
+  name: ungvongp
+  identifier: ungvongp
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

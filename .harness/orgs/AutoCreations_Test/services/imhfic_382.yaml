@@ -1,0 +1,7 @@
+service:
+  name: bbtskpmx
+  identifier: bbtskpmx
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

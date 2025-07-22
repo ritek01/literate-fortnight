@@ -1,0 +1,7 @@
+service:
+  name: uytwkyuh
+  identifier: uytwkyuh
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

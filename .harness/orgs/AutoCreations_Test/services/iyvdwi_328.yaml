@@ -1,0 +1,7 @@
+service:
+  name: lzwniofl
+  identifier: lzwniofl
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

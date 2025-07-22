@@ -1,0 +1,7 @@
+service:
+  name: gdculrcp
+  identifier: gdculrcp
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

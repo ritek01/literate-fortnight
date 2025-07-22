@@ -1,0 +1,7 @@
+service:
+  name: lomsvmpn
+  identifier: lomsvmpn
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

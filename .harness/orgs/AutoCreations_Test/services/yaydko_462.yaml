@@ -1,0 +1,7 @@
+service:
+  name: xfabwzfe
+  identifier: xfabwzfe
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

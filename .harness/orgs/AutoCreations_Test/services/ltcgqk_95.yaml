@@ -1,0 +1,7 @@
+service:
+  name: ymrdnahv
+  identifier: ymrdnahv
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

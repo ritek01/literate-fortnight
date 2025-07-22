@@ -1,0 +1,7 @@
+service:
+  name: pebfiknw
+  identifier: pebfiknw
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

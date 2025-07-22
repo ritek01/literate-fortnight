@@ -1,0 +1,7 @@
+service:
+  name: odsucobu
+  identifier: odsucobu
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

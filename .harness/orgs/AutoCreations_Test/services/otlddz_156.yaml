@@ -1,0 +1,7 @@
+service:
+  name: ddihycxi
+  identifier: ddihycxi
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

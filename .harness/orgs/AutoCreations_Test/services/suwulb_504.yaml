@@ -1,0 +1,7 @@
+service:
+  name: zqoqolfw
+  identifier: zqoqolfw
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

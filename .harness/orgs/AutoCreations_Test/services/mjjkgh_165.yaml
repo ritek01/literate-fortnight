@@ -1,0 +1,7 @@
+service:
+  name: nclvoxep
+  identifier: nclvoxep
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

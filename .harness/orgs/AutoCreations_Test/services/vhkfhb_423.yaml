@@ -1,0 +1,7 @@
+service:
+  name: zuzhgmtc
+  identifier: zuzhgmtc
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

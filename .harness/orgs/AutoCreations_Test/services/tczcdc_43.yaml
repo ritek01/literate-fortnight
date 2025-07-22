@@ -1,0 +1,7 @@
+service:
+  name: sqfljoet
+  identifier: sqfljoet
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

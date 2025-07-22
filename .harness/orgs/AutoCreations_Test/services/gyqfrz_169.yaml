@@ -1,0 +1,7 @@
+service:
+  name: fzedfqbd
+  identifier: fzedfqbd
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

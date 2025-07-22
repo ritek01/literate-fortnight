@@ -1,0 +1,7 @@
+service:
+  name: ymuwvcjn
+  identifier: ymuwvcjn
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

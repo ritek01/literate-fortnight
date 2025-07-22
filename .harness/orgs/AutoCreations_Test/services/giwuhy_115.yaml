@@ -1,0 +1,7 @@
+service:
+  name: myrueioq
+  identifier: myrueioq
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: njbhvynu
+  identifier: njbhvynu
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

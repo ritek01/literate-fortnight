@@ -1,0 +1,7 @@
+service:
+  name: axykmkcz
+  identifier: axykmkcz
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

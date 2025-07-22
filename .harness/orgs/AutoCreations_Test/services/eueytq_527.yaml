@@ -1,0 +1,7 @@
+service:
+  name: otbyojmf
+  identifier: otbyojmf
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

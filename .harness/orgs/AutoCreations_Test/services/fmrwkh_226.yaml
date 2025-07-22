@@ -1,0 +1,7 @@
+service:
+  name: rxiwmqjq
+  identifier: rxiwmqjq
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

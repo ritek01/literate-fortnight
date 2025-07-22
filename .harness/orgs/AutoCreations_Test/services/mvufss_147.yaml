@@ -1,0 +1,7 @@
+service:
+  name: lrllbzby
+  identifier: lrllbzby
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

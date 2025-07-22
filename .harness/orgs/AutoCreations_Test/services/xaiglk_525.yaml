@@ -1,0 +1,7 @@
+service:
+  name: fyzwkbju
+  identifier: fyzwkbju
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

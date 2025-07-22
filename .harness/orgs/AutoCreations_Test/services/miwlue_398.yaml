@@ -1,0 +1,7 @@
+service:
+  name: zxvhhkjz
+  identifier: zxvhhkjz
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

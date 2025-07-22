@@ -1,0 +1,7 @@
+service:
+  name: enoglrys
+  identifier: enoglrys
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

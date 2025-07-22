@@ -1,0 +1,7 @@
+service:
+  name: isyejrod
+  identifier: isyejrod
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

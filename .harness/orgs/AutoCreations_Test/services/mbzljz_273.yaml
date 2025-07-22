@@ -1,0 +1,7 @@
+service:
+  name: zgxhpysd
+  identifier: zgxhpysd
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

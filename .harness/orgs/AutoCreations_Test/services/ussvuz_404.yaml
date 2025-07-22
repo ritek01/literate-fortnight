@@ -1,0 +1,7 @@
+service:
+  name: kzrxwveo
+  identifier: kzrxwveo
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

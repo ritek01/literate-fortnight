@@ -1,0 +1,7 @@
+service:
+  name: lvmynlza
+  identifier: lvmynlza
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

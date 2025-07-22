@@ -1,0 +1,7 @@
+service:
+  name: ppjuboiv
+  identifier: ppjuboiv
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: oxgkufqb
+  identifier: oxgkufqb
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

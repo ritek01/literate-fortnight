@@ -1,0 +1,7 @@
+service:
+  name: deryumsy
+  identifier: deryumsy
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

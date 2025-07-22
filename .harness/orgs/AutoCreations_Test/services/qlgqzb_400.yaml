@@ -1,0 +1,7 @@
+service:
+  name: xxohldbx
+  identifier: xxohldbx
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: nuzdjspg
+  identifier: nuzdjspg
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: rcgkneba
+  identifier: rcgkneba
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

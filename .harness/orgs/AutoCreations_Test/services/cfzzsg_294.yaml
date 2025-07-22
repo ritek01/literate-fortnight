@@ -1,0 +1,7 @@
+service:
+  name: quwdclrh
+  identifier: quwdclrh
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

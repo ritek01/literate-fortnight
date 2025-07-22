@@ -1,0 +1,7 @@
+service:
+  name: bngtmjpb
+  identifier: bngtmjpb
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

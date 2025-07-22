@@ -1,0 +1,7 @@
+service:
+  name: kwmdmsxv
+  identifier: kwmdmsxv
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

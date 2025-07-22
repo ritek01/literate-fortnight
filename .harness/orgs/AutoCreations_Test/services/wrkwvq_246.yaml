@@ -1,0 +1,7 @@
+service:
+  name: dlpvlqbm
+  identifier: dlpvlqbm
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

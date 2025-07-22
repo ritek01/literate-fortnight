@@ -1,0 +1,7 @@
+service:
+  name: htlviuqe
+  identifier: htlviuqe
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

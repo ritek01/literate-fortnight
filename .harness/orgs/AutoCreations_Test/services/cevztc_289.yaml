@@ -1,0 +1,7 @@
+service:
+  name: jlyojvyk
+  identifier: jlyojvyk
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

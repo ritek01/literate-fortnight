@@ -1,0 +1,7 @@
+service:
+  name: phtkvdok
+  identifier: phtkvdok
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

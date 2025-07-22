@@ -1,0 +1,7 @@
+service:
+  name: jqbraiml
+  identifier: jqbraiml
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

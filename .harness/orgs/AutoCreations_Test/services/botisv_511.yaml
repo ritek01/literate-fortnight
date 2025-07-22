@@ -1,0 +1,7 @@
+service:
+  name: ptmutztg
+  identifier: ptmutztg
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

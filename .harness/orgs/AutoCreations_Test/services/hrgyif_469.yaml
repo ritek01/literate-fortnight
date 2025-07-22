@@ -1,0 +1,7 @@
+service:
+  name: bsowynud
+  identifier: bsowynud
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

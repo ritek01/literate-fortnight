@@ -1,0 +1,7 @@
+service:
+  name: dvvjschp
+  identifier: dvvjschp
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

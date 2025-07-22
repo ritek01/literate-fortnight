@@ -1,0 +1,7 @@
+service:
+  name: sbmuwsdq
+  identifier: sbmuwsdq
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

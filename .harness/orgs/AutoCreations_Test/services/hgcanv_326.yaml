@@ -1,0 +1,7 @@
+service:
+  name: yvzrmrds
+  identifier: yvzrmrds
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

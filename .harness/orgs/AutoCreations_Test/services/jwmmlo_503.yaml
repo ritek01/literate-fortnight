@@ -1,0 +1,7 @@
+service:
+  name: xvlhezgh
+  identifier: xvlhezgh
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

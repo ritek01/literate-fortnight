@@ -1,0 +1,7 @@
+service:
+  name: lbgukxrr
+  identifier: lbgukxrr
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

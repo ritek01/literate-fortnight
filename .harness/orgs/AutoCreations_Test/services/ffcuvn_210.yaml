@@ -1,0 +1,7 @@
+service:
+  name: zzkordxu
+  identifier: zzkordxu
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

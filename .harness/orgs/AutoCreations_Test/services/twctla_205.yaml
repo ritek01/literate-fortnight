@@ -1,0 +1,7 @@
+service:
+  name: lqymfukw
+  identifier: lqymfukw
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

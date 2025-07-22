@@ -1,0 +1,7 @@
+service:
+  name: mrbcdkcj
+  identifier: mrbcdkcj
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

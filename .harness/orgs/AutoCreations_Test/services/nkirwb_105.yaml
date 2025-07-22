@@ -1,0 +1,7 @@
+service:
+  name: sfzqzixb
+  identifier: sfzqzixb
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

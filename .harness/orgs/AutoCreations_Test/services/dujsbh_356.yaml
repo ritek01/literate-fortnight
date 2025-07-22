@@ -1,0 +1,7 @@
+service:
+  name: kpzpenpv
+  identifier: kpzpenpv
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

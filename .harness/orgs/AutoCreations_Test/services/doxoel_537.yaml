@@ -1,0 +1,7 @@
+service:
+  name: pkxkggbz
+  identifier: pkxkggbz
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

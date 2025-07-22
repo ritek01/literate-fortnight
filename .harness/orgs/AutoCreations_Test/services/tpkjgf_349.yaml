@@ -1,0 +1,7 @@
+service:
+  name: keuktbqx
+  identifier: keuktbqx
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

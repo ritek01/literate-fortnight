@@ -1,0 +1,7 @@
+service:
+  name: lpultcux
+  identifier: lpultcux
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

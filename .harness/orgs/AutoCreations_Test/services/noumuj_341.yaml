@@ -1,0 +1,7 @@
+service:
+  name: yyvaoxbn
+  identifier: yyvaoxbn
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: nfwtywoo
+  identifier: nfwtywoo
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

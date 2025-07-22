@@ -1,0 +1,7 @@
+service:
+  name: plpfhsxl
+  identifier: plpfhsxl
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

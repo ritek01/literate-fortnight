@@ -1,0 +1,7 @@
+service:
+  name: rsillbxe
+  identifier: rsillbxe
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

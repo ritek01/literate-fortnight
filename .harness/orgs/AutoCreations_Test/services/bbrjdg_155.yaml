@@ -1,0 +1,7 @@
+service:
+  name: kwuxiark
+  identifier: kwuxiark
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

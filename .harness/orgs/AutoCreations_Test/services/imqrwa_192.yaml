@@ -1,0 +1,7 @@
+service:
+  name: ymcsxcmx
+  identifier: ymcsxcmx
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

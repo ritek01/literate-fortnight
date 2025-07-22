@@ -1,0 +1,7 @@
+service:
+  name: kzrlovql
+  identifier: kzrlovql
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: jecceldb
+  identifier: jecceldb
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: pmthlkes
+  identifier: pmthlkes
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

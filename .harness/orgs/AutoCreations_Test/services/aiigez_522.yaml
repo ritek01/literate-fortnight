@@ -1,0 +1,7 @@
+service:
+  name: brmcgmkb
+  identifier: brmcgmkb
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

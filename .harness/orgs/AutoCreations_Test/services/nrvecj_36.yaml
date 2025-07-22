@@ -1,0 +1,7 @@
+service:
+  name: pgstkvex
+  identifier: pgstkvex
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

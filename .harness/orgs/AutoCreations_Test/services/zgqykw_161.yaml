@@ -1,0 +1,7 @@
+service:
+  name: ngbcyxqh
+  identifier: ngbcyxqh
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

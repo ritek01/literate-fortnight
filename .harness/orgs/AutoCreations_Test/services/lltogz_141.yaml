@@ -1,0 +1,7 @@
+service:
+  name: diinfbsk
+  identifier: diinfbsk
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: nzidwluv
+  identifier: nzidwluv
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

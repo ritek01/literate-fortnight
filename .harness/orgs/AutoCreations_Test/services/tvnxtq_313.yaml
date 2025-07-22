@@ -1,0 +1,7 @@
+service:
+  name: ntdmdzhb
+  identifier: ntdmdzhb
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

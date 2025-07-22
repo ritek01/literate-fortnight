@@ -1,0 +1,7 @@
+service:
+  name: umfwyrib
+  identifier: umfwyrib
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

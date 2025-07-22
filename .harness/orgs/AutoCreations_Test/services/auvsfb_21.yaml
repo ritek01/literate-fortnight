@@ -1,0 +1,7 @@
+service:
+  name: vktjchxl
+  identifier: vktjchxl
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

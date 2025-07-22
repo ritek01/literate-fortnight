@@ -1,0 +1,7 @@
+service:
+  name: rjthsgop
+  identifier: rjthsgop
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

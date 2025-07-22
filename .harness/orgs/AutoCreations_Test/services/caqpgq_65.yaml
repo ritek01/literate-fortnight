@@ -1,0 +1,7 @@
+service:
+  name: bikvylrd
+  identifier: bikvylrd
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

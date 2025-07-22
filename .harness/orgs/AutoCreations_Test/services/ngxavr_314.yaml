@@ -1,0 +1,7 @@
+service:
+  name: pqjawita
+  identifier: pqjawita
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

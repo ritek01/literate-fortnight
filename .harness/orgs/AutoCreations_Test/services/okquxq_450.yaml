@@ -1,0 +1,7 @@
+service:
+  name: gcwwmqnx
+  identifier: gcwwmqnx
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

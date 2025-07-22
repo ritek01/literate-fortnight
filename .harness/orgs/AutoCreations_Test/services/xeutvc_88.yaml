@@ -1,0 +1,7 @@
+service:
+  name: idjxctlw
+  identifier: idjxctlw
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

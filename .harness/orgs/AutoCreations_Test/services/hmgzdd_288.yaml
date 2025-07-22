@@ -1,0 +1,7 @@
+service:
+  name: rphndwxz
+  identifier: rphndwxz
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

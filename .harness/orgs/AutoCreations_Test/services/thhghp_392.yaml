@@ -1,0 +1,7 @@
+service:
+  name: hxhuepjr
+  identifier: hxhuepjr
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: xenvwttv
+  identifier: xenvwttv
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: hsnwhqnp
+  identifier: hsnwhqnp
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

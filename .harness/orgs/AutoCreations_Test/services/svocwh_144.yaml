@@ -1,0 +1,7 @@
+service:
+  name: mnutjqkj
+  identifier: mnutjqkj
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

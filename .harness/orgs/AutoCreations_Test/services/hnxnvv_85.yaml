@@ -1,0 +1,7 @@
+service:
+  name: wlwnjuro
+  identifier: wlwnjuro
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

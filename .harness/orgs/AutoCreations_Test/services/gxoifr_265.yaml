@@ -1,0 +1,7 @@
+service:
+  name: dnsogzry
+  identifier: dnsogzry
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

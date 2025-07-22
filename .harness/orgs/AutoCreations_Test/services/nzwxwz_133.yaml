@@ -1,0 +1,7 @@
+service:
+  name: txkshrwh
+  identifier: txkshrwh
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

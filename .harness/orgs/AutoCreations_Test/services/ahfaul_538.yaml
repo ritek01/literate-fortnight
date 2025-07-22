@@ -1,0 +1,7 @@
+service:
+  name: bboahwcg
+  identifier: bboahwcg
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

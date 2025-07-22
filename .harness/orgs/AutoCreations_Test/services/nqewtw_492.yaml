@@ -1,0 +1,7 @@
+service:
+  name: fpbdoydh
+  identifier: fpbdoydh
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

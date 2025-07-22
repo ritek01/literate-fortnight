@@ -1,0 +1,7 @@
+service:
+  name: smskwkry
+  identifier: smskwkry
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

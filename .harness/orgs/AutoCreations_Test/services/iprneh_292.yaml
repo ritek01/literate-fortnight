@@ -1,0 +1,7 @@
+service:
+  name: mwrtuakw
+  identifier: mwrtuakw
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: uqlfzapo
+  identifier: uqlfzapo
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

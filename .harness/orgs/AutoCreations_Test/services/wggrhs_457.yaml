@@ -1,0 +1,7 @@
+service:
+  name: kmewinbw
+  identifier: kmewinbw
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

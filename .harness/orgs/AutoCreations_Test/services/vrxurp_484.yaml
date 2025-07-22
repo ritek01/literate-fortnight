@@ -1,0 +1,7 @@
+service:
+  name: utseguui
+  identifier: utseguui
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: iutszybq
+  identifier: iutszybq
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

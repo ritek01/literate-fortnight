@@ -1,0 +1,7 @@
+service:
+  name: pmyvsmyt
+  identifier: pmyvsmyt
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

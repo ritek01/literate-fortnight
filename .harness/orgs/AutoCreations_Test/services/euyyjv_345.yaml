@@ -1,0 +1,7 @@
+service:
+  name: gkldtzhf
+  identifier: gkldtzhf
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

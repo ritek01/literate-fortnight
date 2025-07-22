@@ -1,0 +1,7 @@
+service:
+  name: hdvljurd
+  identifier: hdvljurd
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

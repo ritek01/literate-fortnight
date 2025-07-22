@@ -1,0 +1,7 @@
+service:
+  name: lnsvoael
+  identifier: lnsvoael
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

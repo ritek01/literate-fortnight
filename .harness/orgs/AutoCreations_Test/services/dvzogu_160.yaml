@@ -1,0 +1,7 @@
+service:
+  name: bthptuix
+  identifier: bthptuix
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

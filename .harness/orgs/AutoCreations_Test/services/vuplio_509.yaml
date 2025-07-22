@@ -1,0 +1,7 @@
+service:
+  name: edtubgnk
+  identifier: edtubgnk
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: rkevilsb
+  identifier: rkevilsb
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

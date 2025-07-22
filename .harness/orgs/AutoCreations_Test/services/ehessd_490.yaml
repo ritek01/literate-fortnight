@@ -1,0 +1,7 @@
+service:
+  name: lhwqtvkj
+  identifier: lhwqtvkj
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

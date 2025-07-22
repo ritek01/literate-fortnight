@@ -1,0 +1,7 @@
+service:
+  name: cflzltwl
+  identifier: cflzltwl
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

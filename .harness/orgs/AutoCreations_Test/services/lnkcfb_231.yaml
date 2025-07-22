@@ -1,0 +1,7 @@
+service:
+  name: uimbtoxx
+  identifier: uimbtoxx
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

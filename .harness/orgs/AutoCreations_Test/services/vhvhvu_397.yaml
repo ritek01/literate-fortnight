@@ -1,0 +1,7 @@
+service:
+  name: qgvuslgj
+  identifier: qgvuslgj
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

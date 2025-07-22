@@ -1,0 +1,7 @@
+service:
+  name: lecxhoim
+  identifier: lecxhoim
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: tiqusccr
+  identifier: tiqusccr
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

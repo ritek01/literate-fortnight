@@ -1,0 +1,7 @@
+service:
+  name: kudpzbvc
+  identifier: kudpzbvc
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

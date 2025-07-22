@@ -1,0 +1,7 @@
+service:
+  name: eegxgjsx
+  identifier: eegxgjsx
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

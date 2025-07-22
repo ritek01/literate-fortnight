@@ -1,0 +1,7 @@
+service:
+  name: brbmojfh
+  identifier: brbmojfh
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: aojbrvvl
+  identifier: aojbrvvl
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

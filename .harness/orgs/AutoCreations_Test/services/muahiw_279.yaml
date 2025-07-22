@@ -1,0 +1,7 @@
+service:
+  name: xmnodvfk
+  identifier: xmnodvfk
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

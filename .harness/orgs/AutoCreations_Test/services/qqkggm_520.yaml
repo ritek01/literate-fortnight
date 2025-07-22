@@ -1,0 +1,7 @@
+service:
+  name: fyinfxvy
+  identifier: fyinfxvy
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: xmwftonb
+  identifier: xmwftonb
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

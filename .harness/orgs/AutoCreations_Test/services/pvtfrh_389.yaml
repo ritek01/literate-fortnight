@@ -1,0 +1,7 @@
+service:
+  name: ylsfbfrd
+  identifier: ylsfbfrd
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

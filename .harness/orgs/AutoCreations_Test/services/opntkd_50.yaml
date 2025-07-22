@@ -1,0 +1,7 @@
+service:
+  name: aywuovgg
+  identifier: aywuovgg
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

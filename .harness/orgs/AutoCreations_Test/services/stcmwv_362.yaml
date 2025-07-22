@@ -1,0 +1,7 @@
+service:
+  name: jkamccjr
+  identifier: jkamccjr
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

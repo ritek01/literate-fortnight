@@ -1,0 +1,7 @@
+service:
+  name: kqejepil
+  identifier: kqejepil
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: xhsuwomy
+  identifier: xhsuwomy
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

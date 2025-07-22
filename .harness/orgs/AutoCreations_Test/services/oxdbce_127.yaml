@@ -1,0 +1,7 @@
+service:
+  name: bkhbdwus
+  identifier: bkhbdwus
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

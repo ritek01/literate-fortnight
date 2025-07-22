@@ -1,0 +1,7 @@
+service:
+  name: uzemdomw
+  identifier: uzemdomw
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

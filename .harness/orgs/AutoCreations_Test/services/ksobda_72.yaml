@@ -1,0 +1,7 @@
+service:
+  name: ubluemns
+  identifier: ubluemns
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: qkpwlmzd
+  identifier: qkpwlmzd
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

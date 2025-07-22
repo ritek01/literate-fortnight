@@ -1,0 +1,7 @@
+service:
+  name: efbfraej
+  identifier: efbfraej
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

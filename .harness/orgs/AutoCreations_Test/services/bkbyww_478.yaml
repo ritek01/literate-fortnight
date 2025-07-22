@@ -1,0 +1,7 @@
+service:
+  name: odzbhhbe
+  identifier: odzbhhbe
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

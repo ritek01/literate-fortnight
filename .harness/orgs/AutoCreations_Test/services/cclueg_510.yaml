@@ -1,0 +1,7 @@
+service:
+  name: wfvqijzx
+  identifier: wfvqijzx
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

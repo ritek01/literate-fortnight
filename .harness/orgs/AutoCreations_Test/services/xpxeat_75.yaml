@@ -1,0 +1,7 @@
+service:
+  name: hgaafbzu
+  identifier: hgaafbzu
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

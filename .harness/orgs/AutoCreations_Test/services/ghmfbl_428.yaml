@@ -1,0 +1,7 @@
+service:
+  name: ocqnblgb
+  identifier: ocqnblgb
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: nnolqjoq
+  identifier: nnolqjoq
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: jlnytosq
+  identifier: jlnytosq
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

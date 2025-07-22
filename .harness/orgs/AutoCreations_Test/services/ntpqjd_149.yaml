@@ -1,0 +1,7 @@
+service:
+  name: hvlzudjs
+  identifier: hvlzudjs
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

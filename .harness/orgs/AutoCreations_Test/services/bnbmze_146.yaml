@@ -1,0 +1,7 @@
+service:
+  name: mqxkzowx
+  identifier: mqxkzowx
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

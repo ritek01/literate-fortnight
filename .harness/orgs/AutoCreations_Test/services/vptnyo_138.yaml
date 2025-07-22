@@ -1,0 +1,7 @@
+service:
+  name: mnhxsryg
+  identifier: mnhxsryg
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

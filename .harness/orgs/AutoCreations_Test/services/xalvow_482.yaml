@@ -1,0 +1,7 @@
+service:
+  name: xmjorqhq
+  identifier: xmjorqhq
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

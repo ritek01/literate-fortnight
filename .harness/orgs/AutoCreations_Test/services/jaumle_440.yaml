@@ -1,0 +1,7 @@
+service:
+  name: demtabmb
+  identifier: demtabmb
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: cilgyhhu
+  identifier: cilgyhhu
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

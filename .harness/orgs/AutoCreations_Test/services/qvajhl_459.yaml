@@ -1,0 +1,7 @@
+service:
+  name: rjlqbyfi
+  identifier: rjlqbyfi
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

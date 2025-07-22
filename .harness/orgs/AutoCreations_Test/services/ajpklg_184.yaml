@@ -1,0 +1,7 @@
+service:
+  name: kepiozpe
+  identifier: kepiozpe
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

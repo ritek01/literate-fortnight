@@ -1,0 +1,7 @@
+service:
+  name: hbqixuat
+  identifier: hbqixuat
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

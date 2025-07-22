@@ -1,0 +1,7 @@
+service:
+  name: uqtitsbi
+  identifier: uqtitsbi
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

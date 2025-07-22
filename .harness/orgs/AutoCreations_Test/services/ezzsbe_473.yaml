@@ -1,0 +1,7 @@
+service:
+  name: xzezyrfc
+  identifier: xzezyrfc
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

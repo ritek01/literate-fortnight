@@ -1,0 +1,7 @@
+service:
+  name: tfrzqrkx
+  identifier: tfrzqrkx
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

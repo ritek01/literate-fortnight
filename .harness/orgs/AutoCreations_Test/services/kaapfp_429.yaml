@@ -1,0 +1,7 @@
+service:
+  name: yeezxlew
+  identifier: yeezxlew
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

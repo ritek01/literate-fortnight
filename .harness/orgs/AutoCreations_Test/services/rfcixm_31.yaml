@@ -1,0 +1,7 @@
+service:
+  name: qqfipsjf
+  identifier: qqfipsjf
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
