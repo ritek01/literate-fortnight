@@ -1,0 +1,7 @@
+service:
+  name: fdevinzg
+  identifier: fdevinzg
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

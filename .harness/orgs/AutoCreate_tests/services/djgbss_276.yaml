@@ -1,0 +1,7 @@
+service:
+  name: khkhqcnj
+  identifier: khkhqcnj
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

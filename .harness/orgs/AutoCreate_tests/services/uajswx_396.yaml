@@ -1,0 +1,7 @@
+service:
+  name: ylynlkxu
+  identifier: ylynlkxu
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

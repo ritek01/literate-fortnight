@@ -1,0 +1,7 @@
+service:
+  name: pajuvygo
+  identifier: pajuvygo
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

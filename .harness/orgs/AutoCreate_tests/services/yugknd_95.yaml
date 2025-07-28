@@ -1,0 +1,7 @@
+service:
+  name: opabowkk
+  identifier: opabowkk
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

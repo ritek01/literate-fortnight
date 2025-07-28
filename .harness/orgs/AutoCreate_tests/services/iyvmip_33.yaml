@@ -1,0 +1,7 @@
+service:
+  name: okqeswvo
+  identifier: okqeswvo
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

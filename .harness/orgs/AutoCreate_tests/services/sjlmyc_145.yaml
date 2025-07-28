@@ -1,0 +1,7 @@
+service:
+  name: pkiaprag
+  identifier: pkiaprag
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

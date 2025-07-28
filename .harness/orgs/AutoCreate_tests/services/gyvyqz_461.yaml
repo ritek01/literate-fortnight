@@ -1,0 +1,7 @@
+service:
+  name: bfplionx
+  identifier: bfplionx
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

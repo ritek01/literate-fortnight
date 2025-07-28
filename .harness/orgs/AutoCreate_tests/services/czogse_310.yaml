@@ -1,0 +1,7 @@
+service:
+  name: mindtgod
+  identifier: mindtgod
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

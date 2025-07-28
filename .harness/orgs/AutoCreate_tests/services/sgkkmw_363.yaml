@@ -1,0 +1,7 @@
+service:
+  name: azoyiihb
+  identifier: azoyiihb
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

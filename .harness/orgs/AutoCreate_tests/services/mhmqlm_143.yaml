@@ -1,0 +1,7 @@
+service:
+  name: pcxyxqrp
+  identifier: pcxyxqrp
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

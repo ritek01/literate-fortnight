@@ -1,0 +1,7 @@
+service:
+  name: hszsuxwk
+  identifier: hszsuxwk
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: okhvgtlx
+  identifier: okhvgtlx
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

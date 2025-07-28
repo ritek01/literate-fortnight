@@ -1,0 +1,7 @@
+service:
+  name: qaetaccz
+  identifier: qaetaccz
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

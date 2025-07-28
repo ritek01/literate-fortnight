@@ -1,0 +1,7 @@
+service:
+  name: nklidpgj
+  identifier: nklidpgj
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

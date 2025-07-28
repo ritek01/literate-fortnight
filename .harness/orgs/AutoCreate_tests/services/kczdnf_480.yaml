@@ -1,0 +1,7 @@
+service:
+  name: tcgejvce
+  identifier: tcgejvce
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

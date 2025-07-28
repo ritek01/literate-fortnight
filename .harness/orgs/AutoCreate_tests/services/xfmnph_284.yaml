@@ -1,0 +1,7 @@
+service:
+  name: jowtgpvz
+  identifier: jowtgpvz
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: ajplzaje
+  identifier: ajplzaje
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

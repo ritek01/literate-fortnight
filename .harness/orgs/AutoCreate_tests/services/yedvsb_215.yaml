@@ -1,0 +1,7 @@
+service:
+  name: shblzqvr
+  identifier: shblzqvr
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

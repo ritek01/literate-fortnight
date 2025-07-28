@@ -1,0 +1,7 @@
+service:
+  name: huyyghpo
+  identifier: huyyghpo
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: bxaeyiav
+  identifier: bxaeyiav
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

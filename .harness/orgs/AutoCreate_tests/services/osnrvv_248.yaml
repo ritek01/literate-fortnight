@@ -1,0 +1,7 @@
+service:
+  name: oemncbag
+  identifier: oemncbag
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

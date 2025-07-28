@@ -1,0 +1,7 @@
+service:
+  name: phzesicw
+  identifier: phzesicw
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

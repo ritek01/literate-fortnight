@@ -1,0 +1,7 @@
+service:
+  name: rkjzyirz
+  identifier: rkjzyirz
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

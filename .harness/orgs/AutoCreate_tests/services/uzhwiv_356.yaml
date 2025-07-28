@@ -1,0 +1,7 @@
+service:
+  name: sbcxtvrk
+  identifier: sbcxtvrk
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

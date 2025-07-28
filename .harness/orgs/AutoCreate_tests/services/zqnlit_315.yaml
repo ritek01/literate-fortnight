@@ -1,0 +1,7 @@
+service:
+  name: huluhysj
+  identifier: huluhysj
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

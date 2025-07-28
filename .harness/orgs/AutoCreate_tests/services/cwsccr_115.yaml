@@ -1,0 +1,7 @@
+service:
+  name: pxblfeup
+  identifier: pxblfeup
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

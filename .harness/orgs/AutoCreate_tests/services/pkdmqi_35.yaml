@@ -1,0 +1,7 @@
+service:
+  name: kzotgvmc
+  identifier: kzotgvmc
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: mguvioes
+  identifier: mguvioes
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: mlotfxuf
+  identifier: mlotfxuf
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

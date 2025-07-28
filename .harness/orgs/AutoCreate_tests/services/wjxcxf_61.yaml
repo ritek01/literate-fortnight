@@ -1,0 +1,7 @@
+service:
+  name: otiibqbt
+  identifier: otiibqbt
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: gsfmvqsq
+  identifier: gsfmvqsq
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

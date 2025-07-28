@@ -1,0 +1,7 @@
+service:
+  name: vstgpqke
+  identifier: vstgpqke
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

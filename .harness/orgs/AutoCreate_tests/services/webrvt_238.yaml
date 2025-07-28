@@ -1,0 +1,7 @@
+service:
+  name: yhxcpchm
+  identifier: yhxcpchm
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

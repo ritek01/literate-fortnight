@@ -1,0 +1,7 @@
+service:
+  name: xzfisexs
+  identifier: xzfisexs
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

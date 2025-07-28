@@ -1,0 +1,7 @@
+service:
+  name: rtubsvkl
+  identifier: rtubsvkl
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

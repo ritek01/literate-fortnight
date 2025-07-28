@@ -1,0 +1,7 @@
+service:
+  name: akaernzp
+  identifier: akaernzp
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

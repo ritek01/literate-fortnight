@@ -1,0 +1,7 @@
+service:
+  name: ptxfsglc
+  identifier: ptxfsglc
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

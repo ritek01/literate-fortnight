@@ -1,0 +1,7 @@
+service:
+  name: fyduqqmx
+  identifier: fyduqqmx
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

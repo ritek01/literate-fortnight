@@ -1,0 +1,7 @@
+service:
+  name: xneutzsn
+  identifier: xneutzsn
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

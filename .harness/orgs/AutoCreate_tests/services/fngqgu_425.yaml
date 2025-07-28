@@ -1,0 +1,7 @@
+service:
+  name: gknmqsgm
+  identifier: gknmqsgm
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

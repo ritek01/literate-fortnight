@@ -1,0 +1,7 @@
+service:
+  name: mtjepvcx
+  identifier: mtjepvcx
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

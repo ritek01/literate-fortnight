@@ -1,0 +1,7 @@
+service:
+  name: nopgetkw
+  identifier: nopgetkw
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

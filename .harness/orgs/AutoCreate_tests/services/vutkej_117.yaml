@@ -1,0 +1,7 @@
+service:
+  name: luuoeygc
+  identifier: luuoeygc
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

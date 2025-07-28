@@ -1,0 +1,7 @@
+service:
+  name: rtmzecvk
+  identifier: rtmzecvk
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

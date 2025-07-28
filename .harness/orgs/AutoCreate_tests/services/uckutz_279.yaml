@@ -1,0 +1,7 @@
+service:
+  name: mfjitudn
+  identifier: mfjitudn
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

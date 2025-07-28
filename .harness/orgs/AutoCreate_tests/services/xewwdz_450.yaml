@@ -1,0 +1,7 @@
+service:
+  name: ytdquezc
+  identifier: ytdquezc
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

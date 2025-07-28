@@ -1,0 +1,7 @@
+service:
+  name: seaitdfy
+  identifier: seaitdfy
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

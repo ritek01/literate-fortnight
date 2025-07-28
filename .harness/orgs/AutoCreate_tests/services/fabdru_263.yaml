@@ -1,0 +1,7 @@
+service:
+  name: lvmqoytm
+  identifier: lvmqoytm
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

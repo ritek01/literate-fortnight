@@ -1,0 +1,7 @@
+service:
+  name: mdrlslpv
+  identifier: mdrlslpv
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

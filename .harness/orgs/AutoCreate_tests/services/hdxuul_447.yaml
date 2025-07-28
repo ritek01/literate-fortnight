@@ -1,0 +1,7 @@
+service:
+  name: uaxseahb
+  identifier: uaxseahb
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

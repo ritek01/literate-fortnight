@@ -1,0 +1,7 @@
+service:
+  name: dbcjujpw
+  identifier: dbcjujpw
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

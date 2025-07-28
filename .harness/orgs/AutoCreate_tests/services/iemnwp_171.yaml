@@ -1,0 +1,7 @@
+service:
+  name: fxsdxzof
+  identifier: fxsdxzof
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

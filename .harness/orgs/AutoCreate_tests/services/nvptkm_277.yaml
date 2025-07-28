@@ -1,0 +1,7 @@
+service:
+  name: xtbmxvjb
+  identifier: xtbmxvjb
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

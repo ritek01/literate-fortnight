@@ -1,0 +1,7 @@
+service:
+  name: ikxvamzs
+  identifier: ikxvamzs
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

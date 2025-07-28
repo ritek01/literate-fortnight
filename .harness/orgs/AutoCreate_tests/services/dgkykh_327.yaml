@@ -1,0 +1,7 @@
+service:
+  name: wermywss
+  identifier: wermywss
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

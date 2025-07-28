@@ -1,0 +1,7 @@
+service:
+  name: buggmiaf
+  identifier: buggmiaf
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

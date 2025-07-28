@@ -1,0 +1,7 @@
+service:
+  name: wdjirqce
+  identifier: wdjirqce
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

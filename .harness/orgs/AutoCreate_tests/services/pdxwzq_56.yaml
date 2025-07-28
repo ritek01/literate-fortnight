@@ -1,0 +1,7 @@
+service:
+  name: nleoumko
+  identifier: nleoumko
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

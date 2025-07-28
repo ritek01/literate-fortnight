@@ -1,0 +1,7 @@
+service:
+  name: uwuquvmx
+  identifier: uwuquvmx
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

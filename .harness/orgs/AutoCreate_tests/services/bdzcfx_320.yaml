@@ -1,0 +1,7 @@
+service:
+  name: qaeiqsbg
+  identifier: qaeiqsbg
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: lnaiwcat
+  identifier: lnaiwcat
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

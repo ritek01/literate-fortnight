@@ -1,0 +1,7 @@
+service:
+  name: fuimrnof
+  identifier: fuimrnof
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

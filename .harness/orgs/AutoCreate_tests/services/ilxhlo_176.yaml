@@ -1,0 +1,7 @@
+service:
+  name: xyvhvsbz
+  identifier: xyvhvsbz
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

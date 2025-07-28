@@ -1,0 +1,7 @@
+service:
+  name: fnsclikz
+  identifier: fnsclikz
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

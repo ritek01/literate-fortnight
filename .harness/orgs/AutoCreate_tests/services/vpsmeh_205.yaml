@@ -1,0 +1,7 @@
+service:
+  name: gdbqjyca
+  identifier: gdbqjyca
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

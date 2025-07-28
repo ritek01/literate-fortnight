@@ -1,0 +1,7 @@
+service:
+  name: dbqbfdey
+  identifier: dbqbfdey
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: yelrbvrs
+  identifier: yelrbvrs
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

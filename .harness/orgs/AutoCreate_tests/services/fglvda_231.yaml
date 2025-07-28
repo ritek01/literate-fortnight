@@ -1,0 +1,7 @@
+service:
+  name: kgfrdveo
+  identifier: kgfrdveo
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: doooqjmf
+  identifier: doooqjmf
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

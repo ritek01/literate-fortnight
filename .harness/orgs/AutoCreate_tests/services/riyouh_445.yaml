@@ -1,0 +1,7 @@
+service:
+  name: ezxfagle
+  identifier: ezxfagle
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: iqxeqzxa
+  identifier: iqxeqzxa
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

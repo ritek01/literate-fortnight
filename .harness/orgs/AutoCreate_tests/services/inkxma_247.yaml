@@ -1,0 +1,7 @@
+service:
+  name: hgcxjvww
+  identifier: hgcxjvww
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

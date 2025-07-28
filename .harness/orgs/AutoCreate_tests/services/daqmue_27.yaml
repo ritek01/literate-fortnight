@@ -1,0 +1,7 @@
+service:
+  name: ccaswkhk
+  identifier: ccaswkhk
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

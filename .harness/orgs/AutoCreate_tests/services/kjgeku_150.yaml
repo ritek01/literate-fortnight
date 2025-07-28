@@ -1,0 +1,7 @@
+service:
+  name: zlmjosxm
+  identifier: zlmjosxm
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

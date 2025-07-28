@@ -1,0 +1,7 @@
+service:
+  name: dczxquxs
+  identifier: dczxquxs
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

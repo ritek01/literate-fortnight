@@ -1,0 +1,7 @@
+service:
+  name: ykpljjcw
+  identifier: ykpljjcw
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: bsnozevm
+  identifier: bsnozevm
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

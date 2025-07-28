@@ -1,0 +1,7 @@
+service:
+  name: nxzikjbs
+  identifier: nxzikjbs
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: esziwrfr
+  identifier: esziwrfr
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

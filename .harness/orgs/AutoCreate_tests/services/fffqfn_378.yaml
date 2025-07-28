@@ -1,0 +1,7 @@
+service:
+  name: itcacziw
+  identifier: itcacziw
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

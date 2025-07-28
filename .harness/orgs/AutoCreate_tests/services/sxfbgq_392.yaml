@@ -1,0 +1,7 @@
+service:
+  name: gudxvept
+  identifier: gudxvept
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

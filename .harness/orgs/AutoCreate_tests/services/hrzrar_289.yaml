@@ -1,0 +1,7 @@
+service:
+  name: magmfgnl
+  identifier: magmfgnl
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

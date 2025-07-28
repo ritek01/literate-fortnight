@@ -1,0 +1,7 @@
+service:
+  name: aynbbxip
+  identifier: aynbbxip
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

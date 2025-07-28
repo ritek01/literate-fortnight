@@ -1,0 +1,7 @@
+service:
+  name: otijtmuq
+  identifier: otijtmuq
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

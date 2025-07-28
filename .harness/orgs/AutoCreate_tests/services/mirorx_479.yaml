@@ -1,0 +1,7 @@
+service:
+  name: wdbdwtqb
+  identifier: wdbdwtqb
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

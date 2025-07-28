@@ -1,0 +1,7 @@
+service:
+  name: iswygtwi
+  identifier: iswygtwi
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

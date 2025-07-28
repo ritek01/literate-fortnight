@@ -1,0 +1,7 @@
+service:
+  name: icazqmxn
+  identifier: icazqmxn
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

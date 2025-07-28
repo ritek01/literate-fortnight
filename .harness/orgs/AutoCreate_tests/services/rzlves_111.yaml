@@ -1,0 +1,7 @@
+service:
+  name: xplrfkcl
+  identifier: xplrfkcl
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

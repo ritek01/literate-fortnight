@@ -1,0 +1,7 @@
+service:
+  name: btcczuwd
+  identifier: btcczuwd
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

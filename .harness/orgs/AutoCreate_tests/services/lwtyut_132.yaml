@@ -1,0 +1,7 @@
+service:
+  name: xpeilepz
+  identifier: xpeilepz
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: pyzlixwx
+  identifier: pyzlixwx
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

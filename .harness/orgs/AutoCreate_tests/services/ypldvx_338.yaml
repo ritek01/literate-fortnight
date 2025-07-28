@@ -1,0 +1,7 @@
+service:
+  name: fazhtfzl
+  identifier: fazhtfzl
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

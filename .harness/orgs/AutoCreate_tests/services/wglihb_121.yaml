@@ -1,0 +1,7 @@
+service:
+  name: aquujlsi
+  identifier: aquujlsi
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

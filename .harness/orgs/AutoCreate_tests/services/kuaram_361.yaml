@@ -1,0 +1,7 @@
+service:
+  name: pwuiiptv
+  identifier: pwuiiptv
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

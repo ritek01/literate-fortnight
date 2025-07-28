@@ -1,0 +1,7 @@
+service:
+  name: tftcqmpg
+  identifier: tftcqmpg
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

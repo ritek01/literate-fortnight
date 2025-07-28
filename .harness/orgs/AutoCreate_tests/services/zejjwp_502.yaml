@@ -1,0 +1,7 @@
+service:
+  name: zpjqpizr
+  identifier: zpjqpizr
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

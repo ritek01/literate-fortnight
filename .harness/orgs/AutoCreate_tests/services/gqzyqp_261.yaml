@@ -1,0 +1,7 @@
+service:
+  name: pagrwzpx
+  identifier: pagrwzpx
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

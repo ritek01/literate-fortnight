@@ -1,0 +1,7 @@
+service:
+  name: bqqxedzb
+  identifier: bqqxedzb
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

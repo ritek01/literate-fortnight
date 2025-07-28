@@ -1,0 +1,7 @@
+service:
+  name: nrziviyz
+  identifier: nrziviyz
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

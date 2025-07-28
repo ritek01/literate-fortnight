@@ -1,0 +1,7 @@
+service:
+  name: abysiqeu
+  identifier: abysiqeu
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

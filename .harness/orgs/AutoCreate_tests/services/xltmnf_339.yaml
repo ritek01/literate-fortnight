@@ -1,0 +1,7 @@
+service:
+  name: wopiwrto
+  identifier: wopiwrto
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

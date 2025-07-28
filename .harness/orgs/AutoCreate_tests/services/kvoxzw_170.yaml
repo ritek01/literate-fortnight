@@ -1,0 +1,7 @@
+service:
+  name: sncvlrzg
+  identifier: sncvlrzg
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

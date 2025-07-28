@@ -1,0 +1,7 @@
+service:
+  name: bcadsgog
+  identifier: bcadsgog
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

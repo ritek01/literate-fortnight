@@ -1,0 +1,7 @@
+service:
+  name: mjxcvwmu
+  identifier: mjxcvwmu
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

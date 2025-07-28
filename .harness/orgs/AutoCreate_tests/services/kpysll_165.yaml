@@ -1,0 +1,7 @@
+service:
+  name: nvcxyxka
+  identifier: nvcxyxka
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

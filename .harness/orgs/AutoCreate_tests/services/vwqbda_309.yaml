@@ -1,0 +1,7 @@
+service:
+  name: lmvtpbuq
+  identifier: lmvtpbuq
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

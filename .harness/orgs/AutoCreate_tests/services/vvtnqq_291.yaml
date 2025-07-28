@@ -1,0 +1,7 @@
+service:
+  name: nftdvogq
+  identifier: nftdvogq
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

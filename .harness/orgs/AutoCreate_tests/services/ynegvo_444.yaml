@@ -1,0 +1,7 @@
+service:
+  name: gutwweeq
+  identifier: gutwweeq
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

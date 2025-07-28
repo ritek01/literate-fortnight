@@ -1,0 +1,7 @@
+service:
+  name: eaqsmhpn
+  identifier: eaqsmhpn
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

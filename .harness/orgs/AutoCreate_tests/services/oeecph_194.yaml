@@ -1,0 +1,7 @@
+service:
+  name: izclccwi
+  identifier: izclccwi
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

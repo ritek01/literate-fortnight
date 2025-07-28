@@ -1,0 +1,7 @@
+service:
+  name: eegnfibd
+  identifier: eegnfibd
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

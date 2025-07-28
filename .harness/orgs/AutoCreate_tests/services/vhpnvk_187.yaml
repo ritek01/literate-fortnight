@@ -1,0 +1,7 @@
+service:
+  name: xketzdjx
+  identifier: xketzdjx
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

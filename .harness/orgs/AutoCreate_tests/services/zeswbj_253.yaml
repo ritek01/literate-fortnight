@@ -1,0 +1,7 @@
+service:
+  name: umuyvepf
+  identifier: umuyvepf
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

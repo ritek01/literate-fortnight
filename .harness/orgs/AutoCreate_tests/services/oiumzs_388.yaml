@@ -1,0 +1,7 @@
+service:
+  name: dpviaoza
+  identifier: dpviaoza
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

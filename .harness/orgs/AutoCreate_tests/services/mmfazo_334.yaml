@@ -1,0 +1,7 @@
+service:
+  name: iaiuqedm
+  identifier: iaiuqedm
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

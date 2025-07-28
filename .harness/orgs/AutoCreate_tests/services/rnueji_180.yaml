@@ -1,0 +1,7 @@
+service:
+  name: fhsbnaod
+  identifier: fhsbnaod
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: ziikbcwh
+  identifier: ziikbcwh
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

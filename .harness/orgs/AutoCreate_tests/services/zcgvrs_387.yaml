@@ -1,0 +1,7 @@
+service:
+  name: brlkcwml
+  identifier: brlkcwml
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

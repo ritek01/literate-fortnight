@@ -1,0 +1,7 @@
+service:
+  name: mfyokrud
+  identifier: mfyokrud
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

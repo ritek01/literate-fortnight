@@ -1,0 +1,7 @@
+service:
+  name: qlwmohcv
+  identifier: qlwmohcv
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: mhsdngdz
+  identifier: mhsdngdz
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

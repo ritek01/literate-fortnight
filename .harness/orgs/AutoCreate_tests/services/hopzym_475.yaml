@@ -1,0 +1,7 @@
+service:
+  name: dllkrvws
+  identifier: dllkrvws
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

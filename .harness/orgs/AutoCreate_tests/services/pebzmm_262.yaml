@@ -1,0 +1,7 @@
+service:
+  name: tdrxpbdk
+  identifier: tdrxpbdk
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

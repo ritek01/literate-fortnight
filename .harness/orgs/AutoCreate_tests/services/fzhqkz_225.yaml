@@ -1,0 +1,7 @@
+service:
+  name: bmxayhjm
+  identifier: bmxayhjm
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

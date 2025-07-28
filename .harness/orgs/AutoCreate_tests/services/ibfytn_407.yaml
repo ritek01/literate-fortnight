@@ -1,0 +1,7 @@
+service:
+  name: tywineei
+  identifier: tywineei
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

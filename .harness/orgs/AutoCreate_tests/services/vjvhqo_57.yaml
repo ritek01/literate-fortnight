@@ -1,0 +1,7 @@
+service:
+  name: dqeceomm
+  identifier: dqeceomm
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

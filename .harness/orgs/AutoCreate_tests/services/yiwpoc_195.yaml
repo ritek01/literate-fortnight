@@ -1,0 +1,7 @@
+service:
+  name: olgbjpdx
+  identifier: olgbjpdx
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

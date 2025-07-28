@@ -1,0 +1,7 @@
+service:
+  name: wqxlxanp
+  identifier: wqxlxanp
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

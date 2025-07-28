@@ -1,0 +1,7 @@
+service:
+  name: ffaalezo
+  identifier: ffaalezo
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

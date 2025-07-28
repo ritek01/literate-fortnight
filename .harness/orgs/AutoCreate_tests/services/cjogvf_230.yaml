@@ -1,0 +1,7 @@
+service:
+  name: dngjufqo
+  identifier: dngjufqo
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

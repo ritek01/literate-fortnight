@@ -1,0 +1,7 @@
+service:
+  name: ymlvzoff
+  identifier: ymlvzoff
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

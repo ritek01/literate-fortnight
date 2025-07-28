@@ -1,0 +1,7 @@
+service:
+  name: wdwdrhdq
+  identifier: wdwdrhdq
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

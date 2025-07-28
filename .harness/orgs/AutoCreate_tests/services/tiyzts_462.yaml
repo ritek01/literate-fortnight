@@ -1,0 +1,7 @@
+service:
+  name: sjubwxmj
+  identifier: sjubwxmj
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

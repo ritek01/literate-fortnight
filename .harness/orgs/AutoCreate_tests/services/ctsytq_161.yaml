@@ -1,0 +1,7 @@
+service:
+  name: xkrgruvt
+  identifier: xkrgruvt
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

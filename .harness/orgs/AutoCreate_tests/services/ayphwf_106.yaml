@@ -1,0 +1,7 @@
+service:
+  name: jybujtct
+  identifier: jybujtct
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

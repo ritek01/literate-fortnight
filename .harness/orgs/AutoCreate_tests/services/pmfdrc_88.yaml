@@ -1,0 +1,7 @@
+service:
+  name: zsjepiwz
+  identifier: zsjepiwz
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: sgcntpis
+  identifier: sgcntpis
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

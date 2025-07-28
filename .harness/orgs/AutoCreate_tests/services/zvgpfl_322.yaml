@@ -1,0 +1,7 @@
+service:
+  name: etbkjuar
+  identifier: etbkjuar
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

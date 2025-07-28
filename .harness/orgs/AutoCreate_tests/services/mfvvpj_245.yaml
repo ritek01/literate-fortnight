@@ -1,0 +1,7 @@
+service:
+  name: ezvhrnlb
+  identifier: ezvhrnlb
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

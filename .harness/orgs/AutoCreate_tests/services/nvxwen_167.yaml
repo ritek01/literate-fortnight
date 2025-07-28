@@ -1,0 +1,7 @@
+service:
+  name: fnvadliz
+  identifier: fnvadliz
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

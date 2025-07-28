@@ -1,0 +1,7 @@
+service:
+  name: wncdxiaa
+  identifier: wncdxiaa
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

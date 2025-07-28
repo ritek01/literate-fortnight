@@ -1,0 +1,7 @@
+service:
+  name: jjdkjlxh
+  identifier: jjdkjlxh
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

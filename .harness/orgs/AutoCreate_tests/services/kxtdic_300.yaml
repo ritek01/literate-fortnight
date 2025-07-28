@@ -1,0 +1,7 @@
+service:
+  name: tvxvrjuc
+  identifier: tvxvrjuc
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

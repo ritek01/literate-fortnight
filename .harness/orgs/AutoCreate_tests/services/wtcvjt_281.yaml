@@ -1,0 +1,7 @@
+service:
+  name: xsmxitex
+  identifier: xsmxitex
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

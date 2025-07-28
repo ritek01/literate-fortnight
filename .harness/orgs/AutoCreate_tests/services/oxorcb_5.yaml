@@ -1,0 +1,7 @@
+service:
+  name: lwtxztcd
+  identifier: lwtxztcd
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

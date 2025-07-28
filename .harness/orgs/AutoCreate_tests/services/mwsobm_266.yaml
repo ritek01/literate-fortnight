@@ -1,0 +1,7 @@
+service:
+  name: tntqvkvc
+  identifier: tntqvkvc
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

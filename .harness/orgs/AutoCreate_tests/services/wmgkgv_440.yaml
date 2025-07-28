@@ -1,0 +1,7 @@
+service:
+  name: xbsxuflb
+  identifier: xbsxuflb
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

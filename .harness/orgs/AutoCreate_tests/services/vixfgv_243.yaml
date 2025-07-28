@@ -1,0 +1,7 @@
+service:
+  name: sdxeadby
+  identifier: sdxeadby
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

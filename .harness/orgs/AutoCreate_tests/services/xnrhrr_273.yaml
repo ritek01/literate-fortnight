@@ -1,0 +1,7 @@
+service:
+  name: zellekmy
+  identifier: zellekmy
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: iybwkqne
+  identifier: iybwkqne
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

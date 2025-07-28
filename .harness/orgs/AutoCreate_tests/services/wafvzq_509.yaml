@@ -1,0 +1,7 @@
+service:
+  name: soqwdeyw
+  identifier: soqwdeyw
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

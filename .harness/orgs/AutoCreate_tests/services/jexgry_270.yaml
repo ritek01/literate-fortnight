@@ -1,0 +1,7 @@
+service:
+  name: gokbsaaz
+  identifier: gokbsaaz
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

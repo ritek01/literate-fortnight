@@ -1,0 +1,7 @@
+service:
+  name: dmvcxamk
+  identifier: dmvcxamk
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

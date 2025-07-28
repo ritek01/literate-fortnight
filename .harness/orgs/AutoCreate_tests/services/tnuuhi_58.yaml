@@ -1,0 +1,7 @@
+service:
+  name: omnfisir
+  identifier: omnfisir
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

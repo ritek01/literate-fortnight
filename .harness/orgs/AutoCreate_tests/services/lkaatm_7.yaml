@@ -1,0 +1,7 @@
+service:
+  name: srckwbpc
+  identifier: srckwbpc
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

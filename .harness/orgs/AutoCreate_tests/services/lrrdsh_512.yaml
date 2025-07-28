@@ -1,0 +1,7 @@
+service:
+  name: fxmlthps
+  identifier: fxmlthps
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

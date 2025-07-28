@@ -1,0 +1,7 @@
+service:
+  name: yjsnpnqu
+  identifier: yjsnpnqu
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

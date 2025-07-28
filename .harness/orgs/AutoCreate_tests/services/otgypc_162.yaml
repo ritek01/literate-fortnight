@@ -1,0 +1,7 @@
+service:
+  name: emlauapm
+  identifier: emlauapm
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

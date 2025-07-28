@@ -1,0 +1,7 @@
+service:
+  name: qmdfvhly
+  identifier: qmdfvhly
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

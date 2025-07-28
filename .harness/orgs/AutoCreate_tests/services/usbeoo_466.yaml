@@ -1,0 +1,7 @@
+service:
+  name: vetfrhbb
+  identifier: vetfrhbb
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

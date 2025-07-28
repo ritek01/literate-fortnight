@@ -1,0 +1,7 @@
+service:
+  name: onmwfqix
+  identifier: onmwfqix
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

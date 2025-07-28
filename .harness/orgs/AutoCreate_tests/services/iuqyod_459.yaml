@@ -1,0 +1,7 @@
+service:
+  name: pdvcvbti
+  identifier: pdvcvbti
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

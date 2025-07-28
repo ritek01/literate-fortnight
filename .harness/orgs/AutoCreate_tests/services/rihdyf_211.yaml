@@ -1,0 +1,7 @@
+service:
+  name: uszbhufn
+  identifier: uszbhufn
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

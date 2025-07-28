@@ -1,0 +1,7 @@
+service:
+  name: jqpciltv
+  identifier: jqpciltv
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

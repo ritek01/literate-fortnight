@@ -1,0 +1,7 @@
+service:
+  name: rbpnczpw
+  identifier: rbpnczpw
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: qqcovsfw
+  identifier: qqcovsfw
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

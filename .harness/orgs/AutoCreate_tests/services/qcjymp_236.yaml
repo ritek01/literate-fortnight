@@ -1,0 +1,7 @@
+service:
+  name: rncezbos
+  identifier: rncezbos
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

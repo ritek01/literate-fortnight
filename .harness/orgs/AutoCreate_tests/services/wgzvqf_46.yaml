@@ -1,0 +1,7 @@
+service:
+  name: mputxttu
+  identifier: mputxttu
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

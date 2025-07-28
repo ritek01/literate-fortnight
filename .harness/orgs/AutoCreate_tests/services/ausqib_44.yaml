@@ -1,0 +1,7 @@
+service:
+  name: yzbfxbby
+  identifier: yzbfxbby
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

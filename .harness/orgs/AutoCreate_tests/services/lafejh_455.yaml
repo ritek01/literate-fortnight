@@ -1,0 +1,7 @@
+service:
+  name: hetasihd
+  identifier: hetasihd
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

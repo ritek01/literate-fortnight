@@ -1,0 +1,7 @@
+service:
+  name: fauwuxba
+  identifier: fauwuxba
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

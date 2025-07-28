@@ -1,0 +1,7 @@
+service:
+  name: velhdywp
+  identifier: velhdywp
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

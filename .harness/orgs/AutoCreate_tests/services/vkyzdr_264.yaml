@@ -1,0 +1,7 @@
+service:
+  name: kahqpeng
+  identifier: kahqpeng
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

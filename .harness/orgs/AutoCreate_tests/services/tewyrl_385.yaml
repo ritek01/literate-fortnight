@@ -1,0 +1,7 @@
+service:
+  name: xmdomcdw
+  identifier: xmdomcdw
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: zmvazgcf
+  identifier: zmvazgcf
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

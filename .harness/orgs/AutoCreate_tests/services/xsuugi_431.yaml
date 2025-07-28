@@ -1,0 +1,7 @@
+service:
+  name: htpzxbvm
+  identifier: htpzxbvm
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

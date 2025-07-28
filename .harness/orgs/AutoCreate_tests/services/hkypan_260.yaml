@@ -1,0 +1,7 @@
+service:
+  name: fszjoale
+  identifier: fszjoale
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

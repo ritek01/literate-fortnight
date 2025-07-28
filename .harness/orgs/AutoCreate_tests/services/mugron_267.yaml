@@ -1,0 +1,7 @@
+service:
+  name: oejiuida
+  identifier: oejiuida
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

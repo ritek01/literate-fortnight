@@ -1,0 +1,7 @@
+service:
+  name: muzxybla
+  identifier: muzxybla
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

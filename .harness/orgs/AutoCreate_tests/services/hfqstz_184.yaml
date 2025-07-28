@@ -1,0 +1,7 @@
+service:
+  name: srqoqyse
+  identifier: srqoqyse
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

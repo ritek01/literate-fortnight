@@ -1,0 +1,7 @@
+service:
+  name: orivfgqs
+  identifier: orivfgqs
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

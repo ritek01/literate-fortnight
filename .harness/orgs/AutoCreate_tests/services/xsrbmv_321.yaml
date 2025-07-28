@@ -1,0 +1,7 @@
+service:
+  name: ziwxnqsn
+  identifier: ziwxnqsn
+  orgIdentifier: AutoCreate_tests
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
