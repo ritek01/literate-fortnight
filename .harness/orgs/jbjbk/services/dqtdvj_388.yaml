@@ -1,0 +1,7 @@
+service:
+  name: ndscqalp
+  identifier: ndscqalp
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

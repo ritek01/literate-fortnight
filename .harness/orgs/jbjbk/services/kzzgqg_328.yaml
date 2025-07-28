@@ -1,0 +1,7 @@
+service:
+  name: gkrgwryl
+  identifier: gkrgwryl
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

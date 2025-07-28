@@ -1,0 +1,7 @@
+service:
+  name: sesoavgv
+  identifier: sesoavgv
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

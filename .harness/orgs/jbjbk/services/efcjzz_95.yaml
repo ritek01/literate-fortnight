@@ -1,0 +1,7 @@
+service:
+  name: seuolauj
+  identifier: seuolauj
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

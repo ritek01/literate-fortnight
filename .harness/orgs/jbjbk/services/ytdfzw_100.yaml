@@ -1,0 +1,7 @@
+service:
+  name: gvqeirpx
+  identifier: gvqeirpx
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

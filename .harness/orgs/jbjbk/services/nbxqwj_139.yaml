@@ -1,0 +1,7 @@
+service:
+  name: kbkvclgc
+  identifier: kbkvclgc
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

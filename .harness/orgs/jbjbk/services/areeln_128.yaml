@@ -1,0 +1,7 @@
+service:
+  name: sxnurxmj
+  identifier: sxnurxmj
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

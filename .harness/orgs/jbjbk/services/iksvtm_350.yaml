@@ -1,0 +1,7 @@
+service:
+  name: jodfgazl
+  identifier: jodfgazl
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

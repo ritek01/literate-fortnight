@@ -1,0 +1,7 @@
+service:
+  name: enhakiuo
+  identifier: enhakiuo
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

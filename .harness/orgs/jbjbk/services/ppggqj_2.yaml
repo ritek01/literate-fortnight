@@ -1,0 +1,7 @@
+service:
+  name: lmzlenhn
+  identifier: lmzlenhn
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

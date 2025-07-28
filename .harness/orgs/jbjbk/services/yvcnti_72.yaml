@@ -1,0 +1,7 @@
+service:
+  name: ttwmwsmp
+  identifier: ttwmwsmp
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

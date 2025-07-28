@@ -1,0 +1,7 @@
+service:
+  name: bblstzaf
+  identifier: bblstzaf
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

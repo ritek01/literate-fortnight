@@ -1,0 +1,7 @@
+service:
+  name: wrcrocck
+  identifier: wrcrocck
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

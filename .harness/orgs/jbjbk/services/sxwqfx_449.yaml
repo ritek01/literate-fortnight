@@ -1,0 +1,7 @@
+service:
+  name: mpuewmsy
+  identifier: mpuewmsy
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

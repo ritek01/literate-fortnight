@@ -1,0 +1,7 @@
+service:
+  name: hflwhtkc
+  identifier: hflwhtkc
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

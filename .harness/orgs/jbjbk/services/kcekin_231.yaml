@@ -1,0 +1,7 @@
+service:
+  name: rduiwmwy
+  identifier: rduiwmwy
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

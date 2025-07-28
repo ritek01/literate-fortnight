@@ -1,0 +1,7 @@
+service:
+  name: dogrohqo
+  identifier: dogrohqo
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

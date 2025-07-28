@@ -1,0 +1,7 @@
+service:
+  name: lsicivxi
+  identifier: lsicivxi
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

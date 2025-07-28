@@ -1,0 +1,7 @@
+service:
+  name: lswvruxn
+  identifier: lswvruxn
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

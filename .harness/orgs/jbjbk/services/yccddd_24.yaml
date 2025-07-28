@@ -1,0 +1,7 @@
+service:
+  name: xfcmsrsq
+  identifier: xfcmsrsq
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

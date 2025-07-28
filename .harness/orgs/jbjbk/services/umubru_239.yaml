@@ -1,0 +1,7 @@
+service:
+  name: vkowreov
+  identifier: vkowreov
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

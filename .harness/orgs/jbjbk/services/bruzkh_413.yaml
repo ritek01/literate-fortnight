@@ -1,0 +1,7 @@
+service:
+  name: spvjalga
+  identifier: spvjalga
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

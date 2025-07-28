@@ -1,0 +1,7 @@
+service:
+  name: fpsuzfau
+  identifier: fpsuzfau
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

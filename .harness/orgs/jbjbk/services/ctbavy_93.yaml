@@ -1,0 +1,7 @@
+service:
+  name: tmftrqyv
+  identifier: tmftrqyv
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

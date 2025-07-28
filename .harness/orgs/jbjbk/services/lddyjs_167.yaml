@@ -1,0 +1,7 @@
+service:
+  name: uoihvqls
+  identifier: uoihvqls
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

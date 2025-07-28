@@ -1,0 +1,7 @@
+service:
+  name: slxpmkbt
+  identifier: slxpmkbt
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

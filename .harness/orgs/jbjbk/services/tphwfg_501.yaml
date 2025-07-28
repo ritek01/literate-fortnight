@@ -1,0 +1,7 @@
+service:
+  name: fmdsxncr
+  identifier: fmdsxncr
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

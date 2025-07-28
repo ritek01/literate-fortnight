@@ -1,0 +1,7 @@
+service:
+  name: cpfcxpqy
+  identifier: cpfcxpqy
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

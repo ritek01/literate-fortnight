@@ -1,0 +1,7 @@
+service:
+  name: yigptopy
+  identifier: yigptopy
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

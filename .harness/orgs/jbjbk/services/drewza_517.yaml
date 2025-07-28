@@ -1,0 +1,7 @@
+service:
+  name: mxgpofns
+  identifier: mxgpofns
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

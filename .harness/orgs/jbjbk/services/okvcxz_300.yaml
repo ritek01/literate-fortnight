@@ -1,0 +1,7 @@
+service:
+  name: itrathue
+  identifier: itrathue
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

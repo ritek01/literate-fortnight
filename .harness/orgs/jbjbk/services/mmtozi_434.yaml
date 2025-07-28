@@ -1,0 +1,7 @@
+service:
+  name: oawtsteq
+  identifier: oawtsteq
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: gmtcbjgy
+  identifier: gmtcbjgy
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

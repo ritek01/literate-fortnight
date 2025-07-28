@@ -1,0 +1,7 @@
+service:
+  name: vnmkklwo
+  identifier: vnmkklwo
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: pjoxfyfz
+  identifier: pjoxfyfz
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

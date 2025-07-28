@@ -1,0 +1,7 @@
+service:
+  name: uydttjym
+  identifier: uydttjym
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

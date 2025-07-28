@@ -1,0 +1,7 @@
+service:
+  name: ugioklpn
+  identifier: ugioklpn
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: jsbpbmqk
+  identifier: jsbpbmqk
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

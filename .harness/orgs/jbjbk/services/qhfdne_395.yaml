@@ -1,0 +1,7 @@
+service:
+  name: pghxntwd
+  identifier: pghxntwd
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

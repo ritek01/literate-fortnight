@@ -1,0 +1,7 @@
+service:
+  name: roexqhiv
+  identifier: roexqhiv
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

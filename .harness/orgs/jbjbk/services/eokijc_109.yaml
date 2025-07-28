@@ -1,0 +1,7 @@
+service:
+  name: macqijmk
+  identifier: macqijmk
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

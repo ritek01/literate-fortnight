@@ -1,0 +1,7 @@
+service:
+  name: wntverfr
+  identifier: wntverfr
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

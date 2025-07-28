@@ -1,0 +1,7 @@
+service:
+  name: gtauitfq
+  identifier: gtauitfq
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

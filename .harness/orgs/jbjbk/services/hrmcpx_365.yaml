@@ -1,0 +1,7 @@
+service:
+  name: ksqojibo
+  identifier: ksqojibo
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

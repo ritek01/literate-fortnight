@@ -1,0 +1,7 @@
+service:
+  name: krlxwjca
+  identifier: krlxwjca
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

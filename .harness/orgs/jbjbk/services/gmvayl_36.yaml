@@ -1,0 +1,7 @@
+service:
+  name: uoumziel
+  identifier: uoumziel
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

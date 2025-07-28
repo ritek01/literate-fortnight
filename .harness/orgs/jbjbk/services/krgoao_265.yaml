@@ -1,0 +1,7 @@
+service:
+  name: xaxrvldr
+  identifier: xaxrvldr
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

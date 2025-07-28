@@ -1,0 +1,7 @@
+service:
+  name: okatxklz
+  identifier: okatxklz
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

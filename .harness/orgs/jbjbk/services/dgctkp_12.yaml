@@ -1,0 +1,7 @@
+service:
+  name: tmvxpacc
+  identifier: tmvxpacc
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

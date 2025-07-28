@@ -1,0 +1,7 @@
+service:
+  name: jzoyklaa
+  identifier: jzoyklaa
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

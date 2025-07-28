@@ -1,0 +1,7 @@
+service:
+  name: nnniupux
+  identifier: nnniupux
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

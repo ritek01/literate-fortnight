@@ -1,0 +1,7 @@
+service:
+  name: exxgvvcn
+  identifier: exxgvvcn
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

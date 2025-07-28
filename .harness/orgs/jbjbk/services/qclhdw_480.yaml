@@ -1,0 +1,7 @@
+service:
+  name: pizscvdq
+  identifier: pizscvdq
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

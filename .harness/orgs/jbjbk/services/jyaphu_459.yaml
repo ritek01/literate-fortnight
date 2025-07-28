@@ -1,0 +1,7 @@
+service:
+  name: ktjjbbgs
+  identifier: ktjjbbgs
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

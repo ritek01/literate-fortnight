@@ -1,0 +1,7 @@
+service:
+  name: ltffpzww
+  identifier: ltffpzww
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

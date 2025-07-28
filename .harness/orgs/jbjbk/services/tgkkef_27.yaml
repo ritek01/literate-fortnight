@@ -1,0 +1,7 @@
+service:
+  name: ibyxarqu
+  identifier: ibyxarqu
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

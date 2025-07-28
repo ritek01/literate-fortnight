@@ -1,0 +1,7 @@
+service:
+  name: ldbmcbzl
+  identifier: ldbmcbzl
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

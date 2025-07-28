@@ -1,0 +1,7 @@
+service:
+  name: qrartbui
+  identifier: qrartbui
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

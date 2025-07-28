@@ -1,0 +1,7 @@
+service:
+  name: eryjcgth
+  identifier: eryjcgth
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

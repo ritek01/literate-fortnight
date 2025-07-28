@@ -1,0 +1,7 @@
+service:
+  name: pkdizcmw
+  identifier: pkdizcmw
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

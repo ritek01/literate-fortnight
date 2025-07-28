@@ -1,0 +1,7 @@
+service:
+  name: ktsvljfy
+  identifier: ktsvljfy
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

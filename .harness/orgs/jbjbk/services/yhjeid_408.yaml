@@ -1,0 +1,7 @@
+service:
+  name: batbdscj
+  identifier: batbdscj
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

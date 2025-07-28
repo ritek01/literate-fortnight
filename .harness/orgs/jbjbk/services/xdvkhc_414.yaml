@@ -1,0 +1,7 @@
+service:
+  name: fqxrqtbo
+  identifier: fqxrqtbo
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

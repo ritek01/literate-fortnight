@@ -1,0 +1,7 @@
+service:
+  name: eigrjhtp
+  identifier: eigrjhtp
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

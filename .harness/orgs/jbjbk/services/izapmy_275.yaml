@@ -1,0 +1,7 @@
+service:
+  name: ylphkubr
+  identifier: ylphkubr
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

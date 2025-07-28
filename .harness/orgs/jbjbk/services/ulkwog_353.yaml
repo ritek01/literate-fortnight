@@ -1,0 +1,7 @@
+service:
+  name: ewvhtcpp
+  identifier: ewvhtcpp
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

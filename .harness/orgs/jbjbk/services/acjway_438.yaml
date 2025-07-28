@@ -1,0 +1,7 @@
+service:
+  name: phkzxelk
+  identifier: phkzxelk
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: fodbsmhf
+  identifier: fodbsmhf
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

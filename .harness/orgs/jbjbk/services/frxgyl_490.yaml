@@ -1,0 +1,7 @@
+service:
+  name: rlofjucd
+  identifier: rlofjucd
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

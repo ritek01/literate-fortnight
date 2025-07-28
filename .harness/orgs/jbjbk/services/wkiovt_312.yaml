@@ -1,0 +1,7 @@
+service:
+  name: wgpajaoq
+  identifier: wgpajaoq
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

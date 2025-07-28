@@ -1,0 +1,7 @@
+service:
+  name: crtndcez
+  identifier: crtndcez
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

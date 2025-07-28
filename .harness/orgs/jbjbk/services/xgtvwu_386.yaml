@@ -1,0 +1,7 @@
+service:
+  name: kiscvsea
+  identifier: kiscvsea
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: dgjybopj
+  identifier: dgjybopj
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: ruojjedh
+  identifier: ruojjedh
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

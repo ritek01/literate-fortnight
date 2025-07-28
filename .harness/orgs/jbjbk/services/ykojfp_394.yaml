@@ -1,0 +1,7 @@
+service:
+  name: uphbevmy
+  identifier: uphbevmy
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: oxyslgxe
+  identifier: oxyslgxe
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

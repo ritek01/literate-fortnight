@@ -1,0 +1,7 @@
+service:
+  name: tvmgpppf
+  identifier: tvmgpppf
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

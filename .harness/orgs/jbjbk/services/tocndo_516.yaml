@@ -1,0 +1,7 @@
+service:
+  name: hmivyjqd
+  identifier: hmivyjqd
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: wnrfijpu
+  identifier: wnrfijpu
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

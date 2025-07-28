@@ -1,0 +1,7 @@
+service:
+  name: hlyaohcr
+  identifier: hlyaohcr
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: zpeejwzb
+  identifier: zpeejwzb
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

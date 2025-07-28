@@ -1,0 +1,7 @@
+service:
+  name: jgkbfgnu
+  identifier: jgkbfgnu
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

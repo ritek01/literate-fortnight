@@ -1,0 +1,7 @@
+service:
+  name: aqysoasb
+  identifier: aqysoasb
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

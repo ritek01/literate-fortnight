@@ -1,0 +1,7 @@
+service:
+  name: lkoejksj
+  identifier: lkoejksj
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

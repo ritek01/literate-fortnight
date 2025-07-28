@@ -1,0 +1,7 @@
+service:
+  name: smjahabx
+  identifier: smjahabx
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: kixfdfhe
+  identifier: kixfdfhe
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

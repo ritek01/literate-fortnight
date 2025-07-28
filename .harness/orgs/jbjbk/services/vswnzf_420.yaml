@@ -1,0 +1,7 @@
+service:
+  name: darzyisu
+  identifier: darzyisu
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

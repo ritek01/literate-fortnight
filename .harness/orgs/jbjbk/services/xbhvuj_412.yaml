@@ -1,0 +1,7 @@
+service:
+  name: sowvsndc
+  identifier: sowvsndc
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

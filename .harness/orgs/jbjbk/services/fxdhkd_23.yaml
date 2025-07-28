@@ -1,0 +1,7 @@
+service:
+  name: pjepsoxn
+  identifier: pjepsoxn
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

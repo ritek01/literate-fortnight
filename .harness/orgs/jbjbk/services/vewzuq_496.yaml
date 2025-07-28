@@ -1,0 +1,7 @@
+service:
+  name: pftkrzcl
+  identifier: pftkrzcl
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

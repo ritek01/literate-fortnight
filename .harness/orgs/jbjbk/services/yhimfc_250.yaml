@@ -1,0 +1,7 @@
+service:
+  name: ipuypvjk
+  identifier: ipuypvjk
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

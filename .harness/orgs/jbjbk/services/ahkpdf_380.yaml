@@ -1,0 +1,7 @@
+service:
+  name: tfouqffo
+  identifier: tfouqffo
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

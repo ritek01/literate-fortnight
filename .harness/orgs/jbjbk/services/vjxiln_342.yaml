@@ -1,0 +1,7 @@
+service:
+  name: sosnwpxt
+  identifier: sosnwpxt
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

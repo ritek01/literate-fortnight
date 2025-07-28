@@ -1,0 +1,7 @@
+service:
+  name: ssgdgaxa
+  identifier: ssgdgaxa
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

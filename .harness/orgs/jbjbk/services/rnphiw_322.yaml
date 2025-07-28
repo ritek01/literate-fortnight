@@ -1,0 +1,7 @@
+service:
+  name: aazrivkc
+  identifier: aazrivkc
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

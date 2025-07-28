@@ -1,0 +1,7 @@
+service:
+  name: onbkmfay
+  identifier: onbkmfay
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

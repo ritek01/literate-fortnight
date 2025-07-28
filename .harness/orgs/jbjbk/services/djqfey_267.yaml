@@ -1,0 +1,7 @@
+service:
+  name: lvwayegh
+  identifier: lvwayegh
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

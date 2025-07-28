@@ -1,0 +1,7 @@
+service:
+  name: dkesarvw
+  identifier: dkesarvw
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

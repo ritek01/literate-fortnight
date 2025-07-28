@@ -1,0 +1,7 @@
+service:
+  name: skjvigkb
+  identifier: skjvigkb
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

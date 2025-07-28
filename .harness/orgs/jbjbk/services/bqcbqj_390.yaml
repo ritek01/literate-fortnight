@@ -1,0 +1,7 @@
+service:
+  name: hyoniyai
+  identifier: hyoniyai
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

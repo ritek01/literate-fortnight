@@ -1,0 +1,7 @@
+service:
+  name: srefvrgp
+  identifier: srefvrgp
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

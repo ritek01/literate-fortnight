@@ -1,0 +1,7 @@
+service:
+  name: jqwpevnq
+  identifier: jqwpevnq
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

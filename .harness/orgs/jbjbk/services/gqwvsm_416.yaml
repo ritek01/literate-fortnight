@@ -1,0 +1,7 @@
+service:
+  name: arvktwfo
+  identifier: arvktwfo
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

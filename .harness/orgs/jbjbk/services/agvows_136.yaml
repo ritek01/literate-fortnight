@@ -1,0 +1,7 @@
+service:
+  name: geoybqvf
+  identifier: geoybqvf
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

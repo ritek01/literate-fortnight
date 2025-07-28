@@ -1,0 +1,7 @@
+service:
+  name: xqgainmu
+  identifier: xqgainmu
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

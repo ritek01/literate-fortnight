@@ -1,0 +1,7 @@
+service:
+  name: pzqpthnb
+  identifier: pzqpthnb
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

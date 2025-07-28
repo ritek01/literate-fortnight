@@ -1,0 +1,7 @@
+service:
+  name: dcsgkrly
+  identifier: dcsgkrly
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

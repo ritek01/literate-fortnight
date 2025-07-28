@@ -1,0 +1,7 @@
+service:
+  name: oeugyrzk
+  identifier: oeugyrzk
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

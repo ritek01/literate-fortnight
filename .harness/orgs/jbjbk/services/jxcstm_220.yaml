@@ -1,0 +1,7 @@
+service:
+  name: htmfzxhh
+  identifier: htmfzxhh
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

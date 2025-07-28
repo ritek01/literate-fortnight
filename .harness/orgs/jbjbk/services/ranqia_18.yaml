@@ -1,0 +1,7 @@
+service:
+  name: orvrsyur
+  identifier: orvrsyur
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

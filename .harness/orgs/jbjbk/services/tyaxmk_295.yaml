@@ -1,0 +1,7 @@
+service:
+  name: radivplw
+  identifier: radivplw
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

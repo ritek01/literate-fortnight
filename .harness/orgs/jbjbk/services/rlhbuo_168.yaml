@@ -1,0 +1,7 @@
+service:
+  name: shtfdhvd
+  identifier: shtfdhvd
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: ribsvvdl
+  identifier: ribsvvdl
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

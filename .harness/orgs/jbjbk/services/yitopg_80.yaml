@@ -1,0 +1,7 @@
+service:
+  name: nytsuxmv
+  identifier: nytsuxmv
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: ctotyzgn
+  identifier: ctotyzgn
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

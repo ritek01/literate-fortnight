@@ -1,0 +1,7 @@
+service:
+  name: xogoaazr
+  identifier: xogoaazr
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

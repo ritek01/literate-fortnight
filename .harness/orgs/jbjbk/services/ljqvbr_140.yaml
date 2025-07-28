@@ -1,0 +1,7 @@
+service:
+  name: pzlpnrwu
+  identifier: pzlpnrwu
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

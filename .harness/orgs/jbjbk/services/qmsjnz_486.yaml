@@ -1,0 +1,7 @@
+service:
+  name: rhzspqnm
+  identifier: rhzspqnm
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

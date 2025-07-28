@@ -1,0 +1,7 @@
+service:
+  name: ikcazzue
+  identifier: ikcazzue
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

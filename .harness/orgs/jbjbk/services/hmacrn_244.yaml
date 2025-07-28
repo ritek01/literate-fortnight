@@ -1,0 +1,7 @@
+service:
+  name: stfeqdpf
+  identifier: stfeqdpf
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

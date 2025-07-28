@@ -1,0 +1,7 @@
+service:
+  name: lqgbypep
+  identifier: lqgbypep
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

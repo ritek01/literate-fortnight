@@ -1,0 +1,7 @@
+service:
+  name: edxfhxwr
+  identifier: edxfhxwr
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

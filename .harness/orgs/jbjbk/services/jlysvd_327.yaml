@@ -1,0 +1,7 @@
+service:
+  name: viuojeps
+  identifier: viuojeps
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

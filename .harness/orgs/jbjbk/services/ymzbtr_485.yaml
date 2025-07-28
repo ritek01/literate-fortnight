@@ -1,0 +1,7 @@
+service:
+  name: daoytedy
+  identifier: daoytedy
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

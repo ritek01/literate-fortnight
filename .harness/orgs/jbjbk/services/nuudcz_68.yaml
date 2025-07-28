@@ -1,0 +1,7 @@
+service:
+  name: gvoedprr
+  identifier: gvoedprr
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

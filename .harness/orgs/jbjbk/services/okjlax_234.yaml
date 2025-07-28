@@ -1,0 +1,7 @@
+service:
+  name: hadufcww
+  identifier: hadufcww
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

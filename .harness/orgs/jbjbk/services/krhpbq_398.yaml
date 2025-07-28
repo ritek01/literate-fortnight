@@ -1,0 +1,7 @@
+service:
+  name: vpshudxt
+  identifier: vpshudxt
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

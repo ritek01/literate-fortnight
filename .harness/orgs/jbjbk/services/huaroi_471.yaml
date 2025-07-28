@@ -1,0 +1,7 @@
+service:
+  name: hgirgaov
+  identifier: hgirgaov
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

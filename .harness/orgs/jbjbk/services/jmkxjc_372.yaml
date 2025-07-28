@@ -1,0 +1,7 @@
+service:
+  name: vunmjezg
+  identifier: vunmjezg
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

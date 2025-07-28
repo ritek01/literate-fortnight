@@ -1,0 +1,7 @@
+service:
+  name: ahltxrbv
+  identifier: ahltxrbv
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

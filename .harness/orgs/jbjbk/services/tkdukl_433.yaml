@@ -1,0 +1,7 @@
+service:
+  name: kuvlanqu
+  identifier: kuvlanqu
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

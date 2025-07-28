@@ -1,0 +1,7 @@
+service:
+  name: mkpgoqvn
+  identifier: mkpgoqvn
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

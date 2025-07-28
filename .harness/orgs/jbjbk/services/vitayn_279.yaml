@@ -1,0 +1,7 @@
+service:
+  name: xpjctlrf
+  identifier: xpjctlrf
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

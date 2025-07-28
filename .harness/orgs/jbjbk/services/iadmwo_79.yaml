@@ -1,0 +1,7 @@
+service:
+  name: lxotujsl
+  identifier: lxotujsl
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

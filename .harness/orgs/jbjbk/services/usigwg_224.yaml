@@ -1,0 +1,7 @@
+service:
+  name: koykdhlb
+  identifier: koykdhlb
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

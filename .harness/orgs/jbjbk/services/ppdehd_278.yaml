@@ -1,0 +1,7 @@
+service:
+  name: ttjcsoex
+  identifier: ttjcsoex
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

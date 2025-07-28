@@ -1,0 +1,7 @@
+service:
+  name: rxgcxkqw
+  identifier: rxgcxkqw
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

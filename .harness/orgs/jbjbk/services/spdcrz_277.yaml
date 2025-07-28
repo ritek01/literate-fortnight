@@ -1,0 +1,7 @@
+service:
+  name: wxpspwfx
+  identifier: wxpspwfx
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

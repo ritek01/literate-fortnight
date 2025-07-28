@@ -1,0 +1,7 @@
+service:
+  name: nhaebhhg
+  identifier: nhaebhhg
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

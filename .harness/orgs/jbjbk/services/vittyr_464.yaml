@@ -1,0 +1,7 @@
+service:
+  name: evqiemza
+  identifier: evqiemza
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

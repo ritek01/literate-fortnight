@@ -1,0 +1,7 @@
+service:
+  name: wtqlwgnm
+  identifier: wtqlwgnm
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

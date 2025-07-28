@@ -1,0 +1,7 @@
+service:
+  name: rfcqkaiz
+  identifier: rfcqkaiz
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

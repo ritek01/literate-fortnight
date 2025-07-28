@@ -1,0 +1,7 @@
+service:
+  name: fwfdcuqf
+  identifier: fwfdcuqf
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

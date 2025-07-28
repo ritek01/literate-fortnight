@@ -1,0 +1,7 @@
+service:
+  name: rgtcbhrn
+  identifier: rgtcbhrn
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

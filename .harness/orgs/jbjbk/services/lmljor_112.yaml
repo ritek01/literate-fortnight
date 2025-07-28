@@ -1,0 +1,7 @@
+service:
+  name: kbfzbhxs
+  identifier: kbfzbhxs
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

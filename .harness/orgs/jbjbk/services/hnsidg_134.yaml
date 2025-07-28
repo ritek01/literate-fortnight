@@ -1,0 +1,7 @@
+service:
+  name: onawnxgs
+  identifier: onawnxgs
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

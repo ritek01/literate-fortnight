@@ -1,0 +1,7 @@
+service:
+  name: stgovkdt
+  identifier: stgovkdt
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

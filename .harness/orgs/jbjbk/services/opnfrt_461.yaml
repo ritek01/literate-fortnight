@@ -1,0 +1,7 @@
+service:
+  name: bzcicszo
+  identifier: bzcicszo
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

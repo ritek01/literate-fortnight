@@ -1,0 +1,7 @@
+service:
+  name: lfpfkxem
+  identifier: lfpfkxem
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

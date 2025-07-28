@@ -1,0 +1,7 @@
+service:
+  name: xrkkzmie
+  identifier: xrkkzmie
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

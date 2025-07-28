@@ -1,0 +1,7 @@
+service:
+  name: wphptgnh
+  identifier: wphptgnh
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

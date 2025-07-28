@@ -1,0 +1,7 @@
+service:
+  name: ziibhesx
+  identifier: ziibhesx
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

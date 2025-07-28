@@ -1,0 +1,7 @@
+service:
+  name: tkmjdweb
+  identifier: tkmjdweb
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

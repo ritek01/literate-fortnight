@@ -1,0 +1,7 @@
+service:
+  name: vlwxbltr
+  identifier: vlwxbltr
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

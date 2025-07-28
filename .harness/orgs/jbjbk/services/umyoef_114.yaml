@@ -1,0 +1,7 @@
+service:
+  name: nmuzfrng
+  identifier: nmuzfrng
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

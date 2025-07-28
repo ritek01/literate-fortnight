@@ -1,0 +1,7 @@
+service:
+  name: sxmlgpum
+  identifier: sxmlgpum
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

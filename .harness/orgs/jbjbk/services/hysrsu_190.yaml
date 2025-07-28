@@ -1,0 +1,7 @@
+service:
+  name: popewkse
+  identifier: popewkse
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

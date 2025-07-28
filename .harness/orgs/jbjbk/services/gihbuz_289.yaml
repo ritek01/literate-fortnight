@@ -1,0 +1,7 @@
+service:
+  name: durwiesm
+  identifier: durwiesm
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

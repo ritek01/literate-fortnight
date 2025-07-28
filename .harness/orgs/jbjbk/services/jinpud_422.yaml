@@ -1,0 +1,7 @@
+service:
+  name: rsgwarsj
+  identifier: rsgwarsj
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: fyfeckbn
+  identifier: fyfeckbn
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

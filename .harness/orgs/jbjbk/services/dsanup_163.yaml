@@ -1,0 +1,7 @@
+service:
+  name: qiuowmil
+  identifier: qiuowmil
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: znwwotfm
+  identifier: znwwotfm
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

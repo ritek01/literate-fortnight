@@ -1,0 +1,7 @@
+service:
+  name: yqzvaylm
+  identifier: yqzvaylm
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

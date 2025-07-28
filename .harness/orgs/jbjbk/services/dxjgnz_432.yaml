@@ -1,0 +1,7 @@
+service:
+  name: vdzaxkfb
+  identifier: vdzaxkfb
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

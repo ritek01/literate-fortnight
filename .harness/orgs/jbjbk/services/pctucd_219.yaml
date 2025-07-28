@@ -1,0 +1,7 @@
+service:
+  name: prvhffym
+  identifier: prvhffym
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

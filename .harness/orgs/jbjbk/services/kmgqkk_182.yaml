@@ -1,0 +1,7 @@
+service:
+  name: vhsjihew
+  identifier: vhsjihew
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

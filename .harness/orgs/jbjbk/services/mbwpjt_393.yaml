@@ -1,0 +1,7 @@
+service:
+  name: xupihjym
+  identifier: xupihjym
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

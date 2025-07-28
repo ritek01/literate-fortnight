@@ -1,0 +1,7 @@
+service:
+  name: zofimrir
+  identifier: zofimrir
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: wrtgjwlt
+  identifier: wrtgjwlt
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

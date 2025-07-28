@@ -1,0 +1,7 @@
+service:
+  name: qtdrwemu
+  identifier: qtdrwemu
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

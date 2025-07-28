@@ -1,0 +1,7 @@
+service:
+  name: yftkexks
+  identifier: yftkexks
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

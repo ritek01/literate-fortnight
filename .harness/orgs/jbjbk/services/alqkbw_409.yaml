@@ -1,0 +1,7 @@
+service:
+  name: enkhcwzu
+  identifier: enkhcwzu
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

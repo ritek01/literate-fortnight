@@ -1,0 +1,7 @@
+service:
+  name: uaxzutri
+  identifier: uaxzutri
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

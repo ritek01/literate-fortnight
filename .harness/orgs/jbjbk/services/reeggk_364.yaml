@@ -1,0 +1,7 @@
+service:
+  name: lypuufqf
+  identifier: lypuufqf
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

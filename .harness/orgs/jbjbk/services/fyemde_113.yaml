@@ -1,0 +1,7 @@
+service:
+  name: auakajko
+  identifier: auakajko
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

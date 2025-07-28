@@ -1,0 +1,7 @@
+service:
+  name: yiecgsss
+  identifier: yiecgsss
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

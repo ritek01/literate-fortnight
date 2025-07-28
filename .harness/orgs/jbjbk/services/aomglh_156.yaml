@@ -1,0 +1,7 @@
+service:
+  name: trelxyzv
+  identifier: trelxyzv
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

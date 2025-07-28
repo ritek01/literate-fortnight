@@ -1,0 +1,7 @@
+service:
+  name: xbapgoqe
+  identifier: xbapgoqe
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: uchavqdy
+  identifier: uchavqdy
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

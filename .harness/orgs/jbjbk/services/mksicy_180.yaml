@@ -1,0 +1,7 @@
+service:
+  name: rlxywbtx
+  identifier: rlxywbtx
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

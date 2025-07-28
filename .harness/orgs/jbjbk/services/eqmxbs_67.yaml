@@ -1,0 +1,7 @@
+service:
+  name: iyxnrpip
+  identifier: iyxnrpip
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

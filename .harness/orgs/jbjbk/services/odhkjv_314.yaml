@@ -1,0 +1,7 @@
+service:
+  name: jhonpvfc
+  identifier: jhonpvfc
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: clbhuyfa
+  identifier: clbhuyfa
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

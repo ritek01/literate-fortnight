@@ -1,0 +1,7 @@
+service:
+  name: uuipbaba
+  identifier: uuipbaba
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

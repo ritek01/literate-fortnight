@@ -1,0 +1,7 @@
+service:
+  name: mudqibix
+  identifier: mudqibix
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

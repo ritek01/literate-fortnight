@@ -1,0 +1,7 @@
+service:
+  name: xhzllpdh
+  identifier: xhzllpdh
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

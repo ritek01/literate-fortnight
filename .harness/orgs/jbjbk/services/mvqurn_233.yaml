@@ -1,0 +1,7 @@
+service:
+  name: rtjkgoqm
+  identifier: rtjkgoqm
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

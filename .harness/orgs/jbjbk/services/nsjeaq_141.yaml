@@ -1,0 +1,7 @@
+service:
+  name: vgpjjrza
+  identifier: vgpjjrza
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

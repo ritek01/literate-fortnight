@@ -1,0 +1,7 @@
+service:
+  name: dzromfda
+  identifier: dzromfda
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

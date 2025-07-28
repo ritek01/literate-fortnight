@@ -1,0 +1,7 @@
+service:
+  name: lbqlttav
+  identifier: lbqlttav
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

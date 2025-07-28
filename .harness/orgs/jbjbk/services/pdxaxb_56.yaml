@@ -1,0 +1,7 @@
+service:
+  name: obhuvanu
+  identifier: obhuvanu
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

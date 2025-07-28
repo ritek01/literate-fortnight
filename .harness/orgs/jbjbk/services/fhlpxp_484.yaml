@@ -1,0 +1,7 @@
+service:
+  name: qqfhtonv
+  identifier: qqfhtonv
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

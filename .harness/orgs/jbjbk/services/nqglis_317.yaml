@@ -1,0 +1,7 @@
+service:
+  name: visyulqo
+  identifier: visyulqo
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

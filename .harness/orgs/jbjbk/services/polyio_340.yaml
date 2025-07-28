@@ -1,0 +1,7 @@
+service:
+  name: kqvdddul
+  identifier: kqvdddul
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

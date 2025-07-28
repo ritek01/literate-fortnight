@@ -1,0 +1,7 @@
+service:
+  name: cqjylwib
+  identifier: cqjylwib
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

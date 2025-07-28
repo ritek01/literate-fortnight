@@ -1,0 +1,7 @@
+service:
+  name: wjnyfaqt
+  identifier: wjnyfaqt
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

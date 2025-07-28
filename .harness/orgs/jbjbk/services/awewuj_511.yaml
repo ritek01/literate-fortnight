@@ -1,0 +1,7 @@
+service:
+  name: lysleqmc
+  identifier: lysleqmc
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

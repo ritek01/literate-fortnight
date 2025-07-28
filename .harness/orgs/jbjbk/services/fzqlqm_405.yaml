@@ -1,0 +1,7 @@
+service:
+  name: hfolfbmx
+  identifier: hfolfbmx
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

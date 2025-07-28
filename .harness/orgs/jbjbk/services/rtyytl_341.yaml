@@ -1,0 +1,7 @@
+service:
+  name: cuzacgpa
+  identifier: cuzacgpa
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

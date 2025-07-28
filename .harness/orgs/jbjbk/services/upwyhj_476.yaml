@@ -1,0 +1,7 @@
+service:
+  name: tlchnplb
+  identifier: tlchnplb
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: phzftcpc
+  identifier: phzftcpc
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

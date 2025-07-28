@@ -1,0 +1,7 @@
+service:
+  name: nmpucqhw
+  identifier: nmpucqhw
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

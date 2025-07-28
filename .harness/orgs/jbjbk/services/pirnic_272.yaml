@@ -1,0 +1,7 @@
+service:
+  name: xgrazohf
+  identifier: xgrazohf
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

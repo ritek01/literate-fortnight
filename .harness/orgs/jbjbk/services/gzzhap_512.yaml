@@ -1,0 +1,7 @@
+service:
+  name: segydwjb
+  identifier: segydwjb
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

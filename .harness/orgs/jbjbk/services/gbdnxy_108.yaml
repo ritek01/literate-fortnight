@@ -1,0 +1,7 @@
+service:
+  name: niumwqlx
+  identifier: niumwqlx
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

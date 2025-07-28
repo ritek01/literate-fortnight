@@ -1,0 +1,7 @@
+service:
+  name: vqxjyjio
+  identifier: vqxjyjio
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

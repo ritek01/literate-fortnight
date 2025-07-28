@@ -1,0 +1,7 @@
+service:
+  name: befvcvjg
+  identifier: befvcvjg
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

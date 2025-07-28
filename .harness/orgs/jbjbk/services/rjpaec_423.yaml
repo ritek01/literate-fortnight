@@ -1,0 +1,7 @@
+service:
+  name: untpmoxb
+  identifier: untpmoxb
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: xjxkfmgn
+  identifier: xjxkfmgn
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

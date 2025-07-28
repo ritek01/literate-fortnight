@@ -1,0 +1,7 @@
+service:
+  name: hmsorpex
+  identifier: hmsorpex
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

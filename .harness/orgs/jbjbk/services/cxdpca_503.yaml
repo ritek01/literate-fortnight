@@ -1,0 +1,7 @@
+service:
+  name: ojnoobuq
+  identifier: ojnoobuq
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

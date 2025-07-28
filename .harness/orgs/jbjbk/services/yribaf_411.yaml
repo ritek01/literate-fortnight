@@ -1,0 +1,7 @@
+service:
+  name: lswuwfcz
+  identifier: lswuwfcz
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

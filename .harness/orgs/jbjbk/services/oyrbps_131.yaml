@@ -1,0 +1,7 @@
+service:
+  name: gtgnbvhf
+  identifier: gtgnbvhf
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

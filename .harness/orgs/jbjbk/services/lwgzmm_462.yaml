@@ -1,0 +1,7 @@
+service:
+  name: oahimnhk
+  identifier: oahimnhk
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

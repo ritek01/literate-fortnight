@@ -1,0 +1,7 @@
+service:
+  name: cdbsjemq
+  identifier: cdbsjemq
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

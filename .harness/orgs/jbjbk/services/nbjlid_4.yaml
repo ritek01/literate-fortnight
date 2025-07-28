@@ -1,0 +1,7 @@
+service:
+  name: tiozgeoc
+  identifier: tiozgeoc
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

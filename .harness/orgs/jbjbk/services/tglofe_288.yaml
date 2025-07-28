@@ -1,0 +1,7 @@
+service:
+  name: smciksew
+  identifier: smciksew
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

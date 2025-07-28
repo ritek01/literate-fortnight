@@ -1,0 +1,7 @@
+service:
+  name: tsrtmdxa
+  identifier: tsrtmdxa
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

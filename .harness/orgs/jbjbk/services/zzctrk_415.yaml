@@ -1,0 +1,7 @@
+service:
+  name: pgtimhww
+  identifier: pgtimhww
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

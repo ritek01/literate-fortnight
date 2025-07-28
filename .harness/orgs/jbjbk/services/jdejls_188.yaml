@@ -1,0 +1,7 @@
+service:
+  name: cwgabgic
+  identifier: cwgabgic
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

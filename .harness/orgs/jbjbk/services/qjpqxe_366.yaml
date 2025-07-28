@@ -1,0 +1,7 @@
+service:
+  name: stvgfoga
+  identifier: stvgfoga
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

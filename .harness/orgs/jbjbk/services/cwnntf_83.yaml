@@ -1,0 +1,7 @@
+service:
+  name: pgpfxmwf
+  identifier: pgpfxmwf
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

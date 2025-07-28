@@ -1,0 +1,7 @@
+service:
+  name: laiffatd
+  identifier: laiffatd
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

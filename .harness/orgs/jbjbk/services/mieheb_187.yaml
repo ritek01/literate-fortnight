@@ -1,0 +1,7 @@
+service:
+  name: sxigppnx
+  identifier: sxigppnx
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

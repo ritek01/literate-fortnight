@@ -1,0 +1,7 @@
+service:
+  name: pqtvuytp
+  identifier: pqtvuytp
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

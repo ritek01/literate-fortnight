@@ -1,0 +1,7 @@
+service:
+  name: hqpoenwj
+  identifier: hqpoenwj
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

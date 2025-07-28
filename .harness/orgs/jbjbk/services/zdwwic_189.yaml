@@ -1,0 +1,7 @@
+service:
+  name: redbnofx
+  identifier: redbnofx
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

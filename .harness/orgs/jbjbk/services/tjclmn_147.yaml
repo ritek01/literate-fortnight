@@ -1,0 +1,7 @@
+service:
+  name: xuprlrnv
+  identifier: xuprlrnv
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

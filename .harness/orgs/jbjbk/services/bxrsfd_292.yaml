@@ -1,0 +1,7 @@
+service:
+  name: vydtwpja
+  identifier: vydtwpja
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

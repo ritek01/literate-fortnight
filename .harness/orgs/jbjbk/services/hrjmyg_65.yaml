@@ -1,0 +1,7 @@
+service:
+  name: ltixbtmw
+  identifier: ltixbtmw
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

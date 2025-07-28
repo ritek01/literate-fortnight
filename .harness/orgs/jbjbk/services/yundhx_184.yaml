@@ -1,0 +1,7 @@
+service:
+  name: hcekleul
+  identifier: hcekleul
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

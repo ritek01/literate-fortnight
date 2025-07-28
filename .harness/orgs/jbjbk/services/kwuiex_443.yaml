@@ -1,0 +1,7 @@
+service:
+  name: joyljmhi
+  identifier: joyljmhi
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

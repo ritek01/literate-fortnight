@@ -1,0 +1,7 @@
+service:
+  name: lsyhbehu
+  identifier: lsyhbehu
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

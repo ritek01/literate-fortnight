@@ -1,0 +1,7 @@
+service:
+  name: oluyongu
+  identifier: oluyongu
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: nbdfzzxl
+  identifier: nbdfzzxl
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

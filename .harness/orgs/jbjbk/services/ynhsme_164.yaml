@@ -1,0 +1,7 @@
+service:
+  name: bgxeoblh
+  identifier: bgxeoblh
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

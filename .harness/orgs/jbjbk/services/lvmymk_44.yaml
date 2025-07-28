@@ -1,0 +1,7 @@
+service:
+  name: sekgrqcb
+  identifier: sekgrqcb
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

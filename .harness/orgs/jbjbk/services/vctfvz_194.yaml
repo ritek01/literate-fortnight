@@ -1,0 +1,7 @@
+service:
+  name: iakgpmkh
+  identifier: iakgpmkh
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

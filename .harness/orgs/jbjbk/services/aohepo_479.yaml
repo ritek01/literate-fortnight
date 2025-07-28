@@ -1,0 +1,7 @@
+service:
+  name: ulzawxzn
+  identifier: ulzawxzn
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

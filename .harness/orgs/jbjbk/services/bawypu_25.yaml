@@ -1,0 +1,7 @@
+service:
+  name: pkywfxjg
+  identifier: pkywfxjg
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

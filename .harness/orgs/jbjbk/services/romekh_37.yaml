@@ -1,0 +1,7 @@
+service:
+  name: gvkyaiwp
+  identifier: gvkyaiwp
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

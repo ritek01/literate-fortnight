@@ -1,0 +1,7 @@
+service:
+  name: jmqxlvlu
+  identifier: jmqxlvlu
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

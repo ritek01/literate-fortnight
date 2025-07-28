@@ -1,0 +1,7 @@
+service:
+  name: xmklmarb
+  identifier: xmklmarb
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

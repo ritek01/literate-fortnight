@@ -1,0 +1,7 @@
+service:
+  name: nscbtbvk
+  identifier: nscbtbvk
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

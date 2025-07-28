@@ -1,0 +1,7 @@
+service:
+  name: msmvvqtx
+  identifier: msmvvqtx
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: irbmhsra
+  identifier: irbmhsra
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

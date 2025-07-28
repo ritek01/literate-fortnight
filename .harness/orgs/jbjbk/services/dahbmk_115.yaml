@@ -1,0 +1,7 @@
+service:
+  name: qpaqvdkh
+  identifier: qpaqvdkh
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

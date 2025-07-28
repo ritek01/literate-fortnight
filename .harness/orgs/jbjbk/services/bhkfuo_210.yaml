@@ -1,0 +1,7 @@
+service:
+  name: yasngotz
+  identifier: yasngotz
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

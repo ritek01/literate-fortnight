@@ -1,0 +1,7 @@
+service:
+  name: kycgfsqm
+  identifier: kycgfsqm
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

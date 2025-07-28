@@ -1,0 +1,7 @@
+service:
+  name: yisyxtvs
+  identifier: yisyxtvs
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

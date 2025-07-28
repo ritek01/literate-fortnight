@@ -1,0 +1,7 @@
+service:
+  name: byrlgrey
+  identifier: byrlgrey
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

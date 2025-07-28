@@ -1,0 +1,7 @@
+service:
+  name: iaocbsxs
+  identifier: iaocbsxs
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

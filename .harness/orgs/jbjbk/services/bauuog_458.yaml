@@ -1,0 +1,7 @@
+service:
+  name: cekjmyar
+  identifier: cekjmyar
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

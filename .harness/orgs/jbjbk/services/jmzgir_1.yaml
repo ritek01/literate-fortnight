@@ -1,0 +1,7 @@
+service:
+  name: ybqkuzev
+  identifier: ybqkuzev
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

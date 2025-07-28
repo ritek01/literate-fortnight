@@ -1,0 +1,7 @@
+service:
+  name: gqxakgoa
+  identifier: gqxakgoa
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

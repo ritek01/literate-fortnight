@@ -1,0 +1,7 @@
+service:
+  name: nlqnbffj
+  identifier: nlqnbffj
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: bslotfxk
+  identifier: bslotfxk
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

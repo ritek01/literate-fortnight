@@ -1,0 +1,7 @@
+service:
+  name: qxonvens
+  identifier: qxonvens
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

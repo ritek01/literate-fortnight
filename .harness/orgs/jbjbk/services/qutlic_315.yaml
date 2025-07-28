@@ -1,0 +1,7 @@
+service:
+  name: idxpwksw
+  identifier: idxpwksw
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

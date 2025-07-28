@@ -1,0 +1,7 @@
+service:
+  name: utxyhepl
+  identifier: utxyhepl
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

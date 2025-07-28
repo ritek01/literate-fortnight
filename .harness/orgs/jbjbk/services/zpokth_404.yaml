@@ -1,0 +1,7 @@
+service:
+  name: jhjhuscp
+  identifier: jhjhuscp
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

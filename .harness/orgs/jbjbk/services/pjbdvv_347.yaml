@@ -1,0 +1,7 @@
+service:
+  name: dmgnusiy
+  identifier: dmgnusiy
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

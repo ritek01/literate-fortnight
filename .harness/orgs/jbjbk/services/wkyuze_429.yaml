@@ -1,0 +1,7 @@
+service:
+  name: ofetryyg
+  identifier: ofetryyg
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

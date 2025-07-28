@@ -1,0 +1,7 @@
+service:
+  name: ivrqkuna
+  identifier: ivrqkuna
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

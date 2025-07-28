@@ -1,0 +1,7 @@
+service:
+  name: vhphahtm
+  identifier: vhphahtm
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

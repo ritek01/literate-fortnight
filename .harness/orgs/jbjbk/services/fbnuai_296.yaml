@@ -1,0 +1,7 @@
+service:
+  name: comscmhe
+  identifier: comscmhe
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

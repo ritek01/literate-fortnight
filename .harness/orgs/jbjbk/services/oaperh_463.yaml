@@ -1,0 +1,7 @@
+service:
+  name: dzqufluu
+  identifier: dzqufluu
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: zvybvqnu
+  identifier: zvybvqnu
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: eifjtgoe
+  identifier: eifjtgoe
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

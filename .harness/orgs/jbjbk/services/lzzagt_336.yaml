@@ -1,0 +1,7 @@
+service:
+  name: cfzleacv
+  identifier: cfzleacv
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

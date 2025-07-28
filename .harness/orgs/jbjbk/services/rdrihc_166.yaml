@@ -1,0 +1,7 @@
+service:
+  name: wfzdnkxq
+  identifier: wfzdnkxq
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

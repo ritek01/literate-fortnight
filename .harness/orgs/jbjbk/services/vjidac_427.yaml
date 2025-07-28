@@ -1,0 +1,7 @@
+service:
+  name: lucjesjy
+  identifier: lucjesjy
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

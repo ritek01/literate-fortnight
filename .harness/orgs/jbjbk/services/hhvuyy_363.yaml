@@ -1,0 +1,7 @@
+service:
+  name: mowfdvfd
+  identifier: mowfdvfd
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

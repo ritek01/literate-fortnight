@@ -1,0 +1,7 @@
+service:
+  name: ttzbyhbv
+  identifier: ttzbyhbv
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: stgbscqn
+  identifier: stgbscqn
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

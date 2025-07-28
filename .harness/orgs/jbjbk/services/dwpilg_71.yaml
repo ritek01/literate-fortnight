@@ -1,0 +1,7 @@
+service:
+  name: teeifqhj
+  identifier: teeifqhj
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

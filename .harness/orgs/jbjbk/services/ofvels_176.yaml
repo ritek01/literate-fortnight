@@ -1,0 +1,7 @@
+service:
+  name: wrjngont
+  identifier: wrjngont
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: nkqivssy
+  identifier: nkqivssy
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: ixgfxrcl
+  identifier: ixgfxrcl
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

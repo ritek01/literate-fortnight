@@ -1,0 +1,7 @@
+service:
+  name: vhwliphf
+  identifier: vhwliphf
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

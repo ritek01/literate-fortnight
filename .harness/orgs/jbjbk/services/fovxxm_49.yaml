@@ -1,0 +1,7 @@
+service:
+  name: jxjzgocn
+  identifier: jxjzgocn
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

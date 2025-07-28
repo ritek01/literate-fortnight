@@ -1,0 +1,7 @@
+service:
+  name: eemugavi
+  identifier: eemugavi
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

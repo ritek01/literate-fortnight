@@ -1,0 +1,7 @@
+service:
+  name: mivhomkb
+  identifier: mivhomkb
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

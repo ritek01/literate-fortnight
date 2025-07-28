@@ -1,0 +1,7 @@
+service:
+  name: zdpzkubz
+  identifier: zdpzkubz
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

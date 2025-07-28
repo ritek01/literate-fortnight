@@ -1,0 +1,7 @@
+service:
+  name: wrpuxeui
+  identifier: wrpuxeui
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

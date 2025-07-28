@@ -1,0 +1,7 @@
+service:
+  name: gxoqvssl
+  identifier: gxoqvssl
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

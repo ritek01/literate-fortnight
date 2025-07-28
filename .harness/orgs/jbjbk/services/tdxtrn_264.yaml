@@ -1,0 +1,7 @@
+service:
+  name: uoabbpjv
+  identifier: uoabbpjv
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: shcaetxc
+  identifier: shcaetxc
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

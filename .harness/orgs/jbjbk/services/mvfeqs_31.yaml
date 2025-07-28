@@ -1,0 +1,7 @@
+service:
+  name: wayinvtl
+  identifier: wayinvtl
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

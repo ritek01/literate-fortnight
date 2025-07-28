@@ -1,0 +1,7 @@
+service:
+  name: encejhqc
+  identifier: encejhqc
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

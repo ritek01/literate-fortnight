@@ -1,0 +1,7 @@
+service:
+  name: ojoyarer
+  identifier: ojoyarer
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

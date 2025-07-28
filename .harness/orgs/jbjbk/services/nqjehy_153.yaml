@@ -1,0 +1,7 @@
+service:
+  name: vmzvokon
+  identifier: vmzvokon
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

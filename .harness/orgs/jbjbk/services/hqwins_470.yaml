@@ -1,0 +1,7 @@
+service:
+  name: bpqwiact
+  identifier: bpqwiact
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

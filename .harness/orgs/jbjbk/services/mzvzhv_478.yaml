@@ -1,0 +1,7 @@
+service:
+  name: kiyliajl
+  identifier: kiyliajl
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

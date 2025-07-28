@@ -1,0 +1,7 @@
+service:
+  name: amwqquab
+  identifier: amwqquab
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

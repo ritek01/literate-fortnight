@@ -1,0 +1,7 @@
+service:
+  name: fwvubpsh
+  identifier: fwvubpsh
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

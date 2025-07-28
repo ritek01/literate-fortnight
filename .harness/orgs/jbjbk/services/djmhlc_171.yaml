@@ -1,0 +1,7 @@
+service:
+  name: xnigzgly
+  identifier: xnigzgly
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

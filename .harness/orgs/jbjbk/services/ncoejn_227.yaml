@@ -1,0 +1,7 @@
+service:
+  name: buncoikz
+  identifier: buncoikz
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: nazspesl
+  identifier: nazspesl
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

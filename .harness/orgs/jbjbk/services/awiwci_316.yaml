@@ -1,0 +1,7 @@
+service:
+  name: thpiwkhq
+  identifier: thpiwkhq
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

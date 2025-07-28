@@ -1,0 +1,7 @@
+service:
+  name: vvftynyr
+  identifier: vvftynyr
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

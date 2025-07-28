@@ -1,0 +1,7 @@
+service:
+  name: wimwrqdt
+  identifier: wimwrqdt
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: xtsyyrlk
+  identifier: xtsyyrlk
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

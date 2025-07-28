@@ -1,0 +1,7 @@
+service:
+  name: jxpsjapi
+  identifier: jxpsjapi
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: kzaidiqe
+  identifier: kzaidiqe
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

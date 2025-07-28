@@ -1,0 +1,7 @@
+service:
+  name: zcnytxhl
+  identifier: zcnytxhl
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

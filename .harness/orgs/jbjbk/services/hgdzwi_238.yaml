@@ -1,0 +1,7 @@
+service:
+  name: cufqicfb
+  identifier: cufqicfb
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

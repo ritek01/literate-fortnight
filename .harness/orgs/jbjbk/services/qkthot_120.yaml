@@ -1,0 +1,7 @@
+service:
+  name: ipwvsfqn
+  identifier: ipwvsfqn
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

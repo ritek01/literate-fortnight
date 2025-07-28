@@ -1,0 +1,7 @@
+service:
+  name: vtnydfji
+  identifier: vtnydfji
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

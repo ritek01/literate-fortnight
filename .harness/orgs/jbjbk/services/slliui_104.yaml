@@ -1,0 +1,7 @@
+service:
+  name: nfmekgnj
+  identifier: nfmekgnj
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

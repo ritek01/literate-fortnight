@@ -1,0 +1,7 @@
+service:
+  name: prjdkekl
+  identifier: prjdkekl
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

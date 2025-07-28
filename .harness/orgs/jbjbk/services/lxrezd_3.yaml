@@ -1,0 +1,7 @@
+service:
+  name: itucdtkr
+  identifier: itucdtkr
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

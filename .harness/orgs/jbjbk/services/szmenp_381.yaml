@@ -1,0 +1,7 @@
+service:
+  name: nzlokjwm
+  identifier: nzlokjwm
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

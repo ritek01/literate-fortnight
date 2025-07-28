@@ -1,0 +1,7 @@
+service:
+  name: bcfreacd
+  identifier: bcfreacd
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

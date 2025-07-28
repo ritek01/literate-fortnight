@@ -1,0 +1,7 @@
+service:
+  name: dgbvwxpo
+  identifier: dgbvwxpo
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

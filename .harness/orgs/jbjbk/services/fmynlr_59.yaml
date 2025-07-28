@@ -1,0 +1,7 @@
+service:
+  name: syxsoclu
+  identifier: syxsoclu
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

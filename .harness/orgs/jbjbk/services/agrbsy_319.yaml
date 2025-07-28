@@ -1,0 +1,7 @@
+service:
+  name: qzlvppxt
+  identifier: qzlvppxt
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

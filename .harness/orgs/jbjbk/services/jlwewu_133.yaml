@@ -1,0 +1,7 @@
+service:
+  name: rxiwxsxz
+  identifier: rxiwxsxz
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

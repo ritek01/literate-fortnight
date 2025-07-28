@@ -1,0 +1,7 @@
+service:
+  name: awbujoie
+  identifier: awbujoie
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

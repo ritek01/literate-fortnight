@@ -1,0 +1,7 @@
+service:
+  name: cnjnziwt
+  identifier: cnjnziwt
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

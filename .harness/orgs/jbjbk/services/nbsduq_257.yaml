@@ -1,0 +1,7 @@
+service:
+  name: rvwybjww
+  identifier: rvwybjww
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

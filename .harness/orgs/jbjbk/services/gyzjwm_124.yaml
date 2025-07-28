@@ -1,0 +1,7 @@
+service:
+  name: uzbuareo
+  identifier: uzbuareo
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

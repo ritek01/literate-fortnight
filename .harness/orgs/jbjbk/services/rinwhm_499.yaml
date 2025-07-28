@@ -1,0 +1,7 @@
+service:
+  name: ulzealaq
+  identifier: ulzealaq
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: tvmmvdix
+  identifier: tvmmvdix
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

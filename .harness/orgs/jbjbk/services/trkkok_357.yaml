@@ -1,0 +1,7 @@
+service:
+  name: degzuhfl
+  identifier: degzuhfl
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

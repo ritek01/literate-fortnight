@@ -1,0 +1,7 @@
+service:
+  name: ogsiause
+  identifier: ogsiause
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

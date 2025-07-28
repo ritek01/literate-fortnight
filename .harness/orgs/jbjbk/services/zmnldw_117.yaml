@@ -1,0 +1,7 @@
+service:
+  name: pcchmeuk
+  identifier: pcchmeuk
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

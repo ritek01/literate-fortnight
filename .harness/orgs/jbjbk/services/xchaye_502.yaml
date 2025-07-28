@@ -1,0 +1,7 @@
+service:
+  name: ogjzlcdb
+  identifier: ogjzlcdb
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: zhtmmcma
+  identifier: zhtmmcma
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

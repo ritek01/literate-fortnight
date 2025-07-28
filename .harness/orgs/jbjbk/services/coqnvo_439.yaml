@@ -1,0 +1,7 @@
+service:
+  name: uhchipzs
+  identifier: uhchipzs
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

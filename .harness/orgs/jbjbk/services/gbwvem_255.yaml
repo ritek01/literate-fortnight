@@ -1,0 +1,7 @@
+service:
+  name: opejqacx
+  identifier: opejqacx
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: utcekdwy
+  identifier: utcekdwy
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: ygusfaro
+  identifier: ygusfaro
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

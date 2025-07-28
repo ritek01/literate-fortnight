@@ -1,0 +1,7 @@
+service:
+  name: lpaizevf
+  identifier: lpaizevf
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

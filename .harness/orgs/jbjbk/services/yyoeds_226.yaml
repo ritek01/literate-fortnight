@@ -1,0 +1,7 @@
+service:
+  name: srnwxctb
+  identifier: srnwxctb
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

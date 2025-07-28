@@ -1,0 +1,7 @@
+service:
+  name: ghvfteke
+  identifier: ghvfteke
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

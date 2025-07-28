@@ -1,0 +1,7 @@
+service:
+  name: uqyyazlu
+  identifier: uqyyazlu
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

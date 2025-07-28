@@ -1,0 +1,7 @@
+service:
+  name: vsyudwch
+  identifier: vsyudwch
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

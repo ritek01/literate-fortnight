@@ -1,0 +1,7 @@
+service:
+  name: bxddeoma
+  identifier: bxddeoma
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: gfbtixkx
+  identifier: gfbtixkx
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

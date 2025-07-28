@@ -1,0 +1,7 @@
+service:
+  name: whgxrmcd
+  identifier: whgxrmcd
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: eqtxgscx
+  identifier: eqtxgscx
+  orgIdentifier: jbjbk
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
