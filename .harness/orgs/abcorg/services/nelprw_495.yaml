@@ -1,0 +1,7 @@
+service:
+  name: rcmxfoaq
+  identifier: rcmxfoaq
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

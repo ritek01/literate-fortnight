@@ -1,0 +1,7 @@
+service:
+  name: fhnnxpah
+  identifier: fhnnxpah
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: wnwlpdks
+  identifier: wnwlpdks
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

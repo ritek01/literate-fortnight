@@ -1,0 +1,7 @@
+service:
+  name: dvickmwj
+  identifier: dvickmwj
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

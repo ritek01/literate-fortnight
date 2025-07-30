@@ -1,0 +1,7 @@
+service:
+  name: jfoxukcc
+  identifier: jfoxukcc
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

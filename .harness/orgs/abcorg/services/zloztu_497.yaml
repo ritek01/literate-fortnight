@@ -1,0 +1,7 @@
+service:
+  name: hucdjwkf
+  identifier: hucdjwkf
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

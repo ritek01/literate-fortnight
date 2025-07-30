@@ -1,0 +1,7 @@
+service:
+  name: dfyngvog
+  identifier: dfyngvog
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

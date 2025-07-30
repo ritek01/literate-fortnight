@@ -1,0 +1,7 @@
+service:
+  name: myoymbbd
+  identifier: myoymbbd
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: bfeaxjbt
+  identifier: bfeaxjbt
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: uavzmcbx
+  identifier: uavzmcbx
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

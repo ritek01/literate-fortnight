@@ -1,0 +1,7 @@
+service:
+  name: pirekkme
+  identifier: pirekkme
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

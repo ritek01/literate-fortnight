@@ -1,0 +1,7 @@
+service:
+  name: kvtrbtpn
+  identifier: kvtrbtpn
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

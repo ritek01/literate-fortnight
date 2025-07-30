@@ -1,0 +1,7 @@
+service:
+  name: bvvtsvgv
+  identifier: bvvtsvgv
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

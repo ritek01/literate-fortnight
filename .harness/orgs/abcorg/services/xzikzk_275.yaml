@@ -1,0 +1,7 @@
+service:
+  name: pmbgupyf
+  identifier: pmbgupyf
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

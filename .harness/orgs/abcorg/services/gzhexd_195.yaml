@@ -1,0 +1,7 @@
+service:
+  name: ubthrdyt
+  identifier: ubthrdyt
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

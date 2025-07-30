@@ -1,0 +1,7 @@
+service:
+  name: bhomuhto
+  identifier: bhomuhto
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

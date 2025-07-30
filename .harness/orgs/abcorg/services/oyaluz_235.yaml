@@ -1,0 +1,7 @@
+service:
+  name: luzivkrk
+  identifier: luzivkrk
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

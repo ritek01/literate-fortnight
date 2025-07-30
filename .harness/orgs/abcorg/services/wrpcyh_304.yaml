@@ -1,0 +1,7 @@
+service:
+  name: taaryban
+  identifier: taaryban
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

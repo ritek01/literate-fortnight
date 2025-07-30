@@ -1,0 +1,7 @@
+service:
+  name: dizkdwww
+  identifier: dizkdwww
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

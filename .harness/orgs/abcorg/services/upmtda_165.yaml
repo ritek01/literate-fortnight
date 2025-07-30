@@ -1,0 +1,7 @@
+service:
+  name: jlzaakvz
+  identifier: jlzaakvz
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: remnfrlw
+  identifier: remnfrlw
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

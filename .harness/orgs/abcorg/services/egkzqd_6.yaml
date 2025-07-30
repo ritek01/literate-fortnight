@@ -1,0 +1,7 @@
+service:
+  name: uuoxdwuj
+  identifier: uuoxdwuj
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

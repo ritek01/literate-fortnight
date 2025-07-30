@@ -1,0 +1,7 @@
+service:
+  name: ovwshpwi
+  identifier: ovwshpwi
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

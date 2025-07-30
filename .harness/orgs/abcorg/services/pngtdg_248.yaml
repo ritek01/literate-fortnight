@@ -1,0 +1,7 @@
+service:
+  name: lgrxhprc
+  identifier: lgrxhprc
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

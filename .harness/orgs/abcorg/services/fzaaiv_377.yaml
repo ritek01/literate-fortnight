@@ -1,0 +1,7 @@
+service:
+  name: szjxmdsd
+  identifier: szjxmdsd
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

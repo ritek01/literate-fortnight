@@ -1,0 +1,7 @@
+service:
+  name: nchuekvv
+  identifier: nchuekvv
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

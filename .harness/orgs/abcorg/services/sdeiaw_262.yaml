@@ -1,0 +1,7 @@
+service:
+  name: bsltbxzv
+  identifier: bsltbxzv
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

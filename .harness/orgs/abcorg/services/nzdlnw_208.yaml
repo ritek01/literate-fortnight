@@ -1,0 +1,7 @@
+service:
+  name: hvmrskum
+  identifier: hvmrskum
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

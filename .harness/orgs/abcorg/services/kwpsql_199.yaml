@@ -1,0 +1,7 @@
+service:
+  name: zltqpxjn
+  identifier: zltqpxjn
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: dqeokjfq
+  identifier: dqeokjfq
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: kvnnltbn
+  identifier: kvnnltbn
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

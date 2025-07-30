@@ -1,0 +1,7 @@
+service:
+  name: rtqcdjkx
+  identifier: rtqcdjkx
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

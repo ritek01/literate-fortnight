@@ -1,0 +1,7 @@
+service:
+  name: rtzaziln
+  identifier: rtzaziln
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

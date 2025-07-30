@@ -1,0 +1,7 @@
+service:
+  name: xkamrkss
+  identifier: xkamrkss
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

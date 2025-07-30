@@ -1,0 +1,7 @@
+service:
+  name: xhiguars
+  identifier: xhiguars
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

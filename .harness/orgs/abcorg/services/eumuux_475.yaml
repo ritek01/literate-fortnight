@@ -1,0 +1,7 @@
+service:
+  name: cjxgpwnv
+  identifier: cjxgpwnv
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

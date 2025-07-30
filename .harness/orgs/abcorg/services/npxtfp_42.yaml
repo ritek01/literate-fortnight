@@ -1,0 +1,7 @@
+service:
+  name: csepreav
+  identifier: csepreav
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

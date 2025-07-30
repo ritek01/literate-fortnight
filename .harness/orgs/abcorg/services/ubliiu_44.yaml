@@ -1,0 +1,7 @@
+service:
+  name: ohcilyvu
+  identifier: ohcilyvu
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

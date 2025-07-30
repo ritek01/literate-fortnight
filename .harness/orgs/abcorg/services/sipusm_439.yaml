@@ -1,0 +1,7 @@
+service:
+  name: xrppcfqe
+  identifier: xrppcfqe
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

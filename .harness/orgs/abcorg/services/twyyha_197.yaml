@@ -1,0 +1,7 @@
+service:
+  name: lumhatot
+  identifier: lumhatot
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

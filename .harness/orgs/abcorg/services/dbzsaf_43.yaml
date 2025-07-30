@@ -1,0 +1,7 @@
+service:
+  name: olmoycpv
+  identifier: olmoycpv
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

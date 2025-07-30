@@ -1,0 +1,7 @@
+service:
+  name: vixhzigg
+  identifier: vixhzigg
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

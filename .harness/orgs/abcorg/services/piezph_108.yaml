@@ -1,0 +1,7 @@
+service:
+  name: eniycfpr
+  identifier: eniycfpr
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

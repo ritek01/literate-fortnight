@@ -1,0 +1,7 @@
+service:
+  name: kkzztgsu
+  identifier: kkzztgsu
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

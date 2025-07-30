@@ -1,0 +1,7 @@
+service:
+  name: wlvascfi
+  identifier: wlvascfi
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

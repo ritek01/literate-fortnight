@@ -1,0 +1,7 @@
+service:
+  name: dobkkpwc
+  identifier: dobkkpwc
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

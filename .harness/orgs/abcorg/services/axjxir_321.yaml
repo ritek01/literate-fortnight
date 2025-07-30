@@ -1,0 +1,7 @@
+service:
+  name: dcyidzqk
+  identifier: dcyidzqk
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

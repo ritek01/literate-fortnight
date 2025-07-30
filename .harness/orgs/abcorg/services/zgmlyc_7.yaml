@@ -1,0 +1,7 @@
+service:
+  name: walcyoou
+  identifier: walcyoou
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

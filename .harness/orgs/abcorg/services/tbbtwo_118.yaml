@@ -1,0 +1,7 @@
+service:
+  name: ugwzrash
+  identifier: ugwzrash
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

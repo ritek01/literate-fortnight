@@ -1,0 +1,7 @@
+service:
+  name: zvwvkjmv
+  identifier: zvwvkjmv
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

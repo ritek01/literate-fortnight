@@ -1,0 +1,7 @@
+service:
+  name: hwuejmxu
+  identifier: hwuejmxu
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

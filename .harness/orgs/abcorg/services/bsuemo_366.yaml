@@ -1,0 +1,7 @@
+service:
+  name: utzyopzt
+  identifier: utzyopzt
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

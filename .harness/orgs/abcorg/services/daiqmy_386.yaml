@@ -1,0 +1,7 @@
+service:
+  name: toepjdeu
+  identifier: toepjdeu
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

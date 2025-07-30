@@ -1,0 +1,7 @@
+service:
+  name: qurdjbnp
+  identifier: qurdjbnp
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

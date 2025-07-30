@@ -1,0 +1,7 @@
+service:
+  name: awvwmwfd
+  identifier: awvwmwfd
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

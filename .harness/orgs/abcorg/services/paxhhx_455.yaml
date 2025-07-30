@@ -1,0 +1,7 @@
+service:
+  name: lqgztatn
+  identifier: lqgztatn
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

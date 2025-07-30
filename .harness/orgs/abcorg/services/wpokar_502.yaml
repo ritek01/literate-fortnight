@@ -1,0 +1,7 @@
+service:
+  name: pyylyubp
+  identifier: pyylyubp
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

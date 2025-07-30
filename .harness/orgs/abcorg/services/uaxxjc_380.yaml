@@ -1,0 +1,7 @@
+service:
+  name: zrguquvn
+  identifier: zrguquvn
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

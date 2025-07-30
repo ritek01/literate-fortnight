@@ -1,0 +1,7 @@
+service:
+  name: lhkthryh
+  identifier: lhkthryh
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

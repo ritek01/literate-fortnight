@@ -1,0 +1,7 @@
+service:
+  name: sedhvhnx
+  identifier: sedhvhnx
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: nsoxwdhn
+  identifier: nsoxwdhn
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

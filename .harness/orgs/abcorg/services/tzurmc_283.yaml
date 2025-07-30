@@ -1,0 +1,7 @@
+service:
+  name: zzyarsra
+  identifier: zzyarsra
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

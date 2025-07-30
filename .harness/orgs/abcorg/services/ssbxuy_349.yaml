@@ -1,0 +1,7 @@
+service:
+  name: dgvnkhej
+  identifier: dgvnkhej
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

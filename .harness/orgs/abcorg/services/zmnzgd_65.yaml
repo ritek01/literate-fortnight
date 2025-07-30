@@ -1,0 +1,7 @@
+service:
+  name: pcbrvoed
+  identifier: pcbrvoed
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

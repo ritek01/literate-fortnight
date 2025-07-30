@@ -1,0 +1,7 @@
+service:
+  name: eujrdwct
+  identifier: eujrdwct
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

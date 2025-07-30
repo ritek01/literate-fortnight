@@ -1,0 +1,7 @@
+service:
+  name: onumsvze
+  identifier: onumsvze
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: tfmjmkxs
+  identifier: tfmjmkxs
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

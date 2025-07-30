@@ -1,0 +1,7 @@
+service:
+  name: njnittlz
+  identifier: njnittlz
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

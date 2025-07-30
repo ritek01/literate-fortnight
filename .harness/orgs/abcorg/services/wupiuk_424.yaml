@@ -1,0 +1,7 @@
+service:
+  name: fcgnzwev
+  identifier: fcgnzwev
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

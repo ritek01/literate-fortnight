@@ -1,0 +1,7 @@
+service:
+  name: hweinedy
+  identifier: hweinedy
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: rxeqpbub
+  identifier: rxeqpbub
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

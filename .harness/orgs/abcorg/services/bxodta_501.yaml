@@ -1,0 +1,7 @@
+service:
+  name: jduoxink
+  identifier: jduoxink
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

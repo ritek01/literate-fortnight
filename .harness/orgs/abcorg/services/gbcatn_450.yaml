@@ -1,0 +1,7 @@
+service:
+  name: kapsnxjz
+  identifier: kapsnxjz
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

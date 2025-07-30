@@ -1,0 +1,7 @@
+service:
+  name: tntfwzcf
+  identifier: tntfwzcf
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

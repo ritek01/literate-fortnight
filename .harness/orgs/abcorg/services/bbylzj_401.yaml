@@ -1,0 +1,7 @@
+service:
+  name: qujrsdoh
+  identifier: qujrsdoh
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

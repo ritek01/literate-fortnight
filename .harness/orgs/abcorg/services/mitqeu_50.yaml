@@ -1,0 +1,7 @@
+service:
+  name: tlhyxgfa
+  identifier: tlhyxgfa
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: ebtwwuwm
+  identifier: ebtwwuwm
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

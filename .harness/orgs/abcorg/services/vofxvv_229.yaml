@@ -1,0 +1,7 @@
+service:
+  name: csbcivdn
+  identifier: csbcivdn
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

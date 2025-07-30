@@ -1,0 +1,7 @@
+service:
+  name: xbfpcjyc
+  identifier: xbfpcjyc
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

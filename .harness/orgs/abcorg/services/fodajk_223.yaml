@@ -1,0 +1,7 @@
+service:
+  name: tssfuaib
+  identifier: tssfuaib
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: wgbhtxht
+  identifier: wgbhtxht
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

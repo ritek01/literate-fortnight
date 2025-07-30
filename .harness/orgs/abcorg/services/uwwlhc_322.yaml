@@ -1,0 +1,7 @@
+service:
+  name: wwuqmzzh
+  identifier: wwuqmzzh
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

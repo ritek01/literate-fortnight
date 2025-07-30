@@ -1,0 +1,7 @@
+service:
+  name: ncrkzcgs
+  identifier: ncrkzcgs
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

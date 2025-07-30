@@ -1,0 +1,7 @@
+service:
+  name: ssakftqr
+  identifier: ssakftqr
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

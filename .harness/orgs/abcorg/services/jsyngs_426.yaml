@@ -1,0 +1,7 @@
+service:
+  name: axkgbhdu
+  identifier: axkgbhdu
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

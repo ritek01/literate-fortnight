@@ -1,0 +1,7 @@
+service:
+  name: nglvtsqg
+  identifier: nglvtsqg
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

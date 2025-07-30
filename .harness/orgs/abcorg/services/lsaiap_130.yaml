@@ -1,0 +1,7 @@
+service:
+  name: zybvsdpb
+  identifier: zybvsdpb
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

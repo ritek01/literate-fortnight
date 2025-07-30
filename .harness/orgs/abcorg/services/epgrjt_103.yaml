@@ -1,0 +1,7 @@
+service:
+  name: qvvxbbsn
+  identifier: qvvxbbsn
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

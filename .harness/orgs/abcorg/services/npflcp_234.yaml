@@ -1,0 +1,7 @@
+service:
+  name: abrfpunl
+  identifier: abrfpunl
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

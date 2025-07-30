@@ -1,0 +1,7 @@
+service:
+  name: psgvnead
+  identifier: psgvnead
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

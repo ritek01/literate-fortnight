@@ -1,0 +1,7 @@
+service:
+  name: uhobtlyr
+  identifier: uhobtlyr
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

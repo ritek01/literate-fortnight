@@ -1,0 +1,7 @@
+service:
+  name: jymgnlal
+  identifier: jymgnlal
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

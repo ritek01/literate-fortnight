@@ -1,0 +1,7 @@
+service:
+  name: mgjgrbma
+  identifier: mgjgrbma
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

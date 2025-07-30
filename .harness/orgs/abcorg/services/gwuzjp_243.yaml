@@ -1,0 +1,7 @@
+service:
+  name: afenttmw
+  identifier: afenttmw
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

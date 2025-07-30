@@ -1,0 +1,7 @@
+service:
+  name: gtwoephj
+  identifier: gtwoephj
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

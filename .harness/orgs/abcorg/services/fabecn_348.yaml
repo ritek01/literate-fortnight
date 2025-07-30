@@ -1,0 +1,7 @@
+service:
+  name: muaqoanu
+  identifier: muaqoanu
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: erxxjgfb
+  identifier: erxxjgfb
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

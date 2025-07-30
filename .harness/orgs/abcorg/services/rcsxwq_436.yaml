@@ -1,0 +1,7 @@
+service:
+  name: bdlnrcnx
+  identifier: bdlnrcnx
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

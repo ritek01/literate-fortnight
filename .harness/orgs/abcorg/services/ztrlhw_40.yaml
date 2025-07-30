@@ -1,0 +1,7 @@
+service:
+  name: ofyyksec
+  identifier: ofyyksec
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

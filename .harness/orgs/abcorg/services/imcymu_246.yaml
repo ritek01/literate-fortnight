@@ -1,0 +1,7 @@
+service:
+  name: xpbauucq
+  identifier: xpbauucq
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

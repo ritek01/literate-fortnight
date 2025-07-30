@@ -1,0 +1,7 @@
+service:
+  name: xzkzommz
+  identifier: xzkzommz
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

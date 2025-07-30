@@ -1,0 +1,7 @@
+service:
+  name: ovcylcsc
+  identifier: ovcylcsc
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

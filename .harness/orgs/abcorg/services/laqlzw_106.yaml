@@ -1,0 +1,7 @@
+service:
+  name: yfnqimhz
+  identifier: yfnqimhz
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

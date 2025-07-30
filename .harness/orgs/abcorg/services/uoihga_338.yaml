@@ -1,0 +1,7 @@
+service:
+  name: eqkdgiez
+  identifier: eqkdgiez
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

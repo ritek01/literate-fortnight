@@ -1,0 +1,7 @@
+service:
+  name: sybhuhgz
+  identifier: sybhuhgz
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

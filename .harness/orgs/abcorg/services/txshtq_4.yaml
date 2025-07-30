@@ -1,0 +1,7 @@
+service:
+  name: jjcyqbtv
+  identifier: jjcyqbtv
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

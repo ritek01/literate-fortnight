@@ -1,0 +1,7 @@
+service:
+  name: kdxtozdu
+  identifier: kdxtozdu
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

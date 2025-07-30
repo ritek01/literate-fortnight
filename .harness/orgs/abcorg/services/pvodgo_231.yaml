@@ -1,0 +1,7 @@
+service:
+  name: zjwlwisx
+  identifier: zjwlwisx
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: lkkbwtrj
+  identifier: lkkbwtrj
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

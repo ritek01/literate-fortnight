@@ -1,0 +1,7 @@
+service:
+  name: qkecblrp
+  identifier: qkecblrp
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

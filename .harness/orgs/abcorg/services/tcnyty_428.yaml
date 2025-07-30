@@ -1,0 +1,7 @@
+service:
+  name: yyjokpyd
+  identifier: yyjokpyd
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: rkdexeuy
+  identifier: rkdexeuy
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

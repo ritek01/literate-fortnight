@@ -1,0 +1,7 @@
+service:
+  name: mjdgwnsv
+  identifier: mjdgwnsv
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

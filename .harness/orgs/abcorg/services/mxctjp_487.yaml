@@ -1,0 +1,7 @@
+service:
+  name: ykmlwtca
+  identifier: ykmlwtca
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

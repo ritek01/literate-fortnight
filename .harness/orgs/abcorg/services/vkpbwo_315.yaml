@@ -1,0 +1,7 @@
+service:
+  name: gpunnxbi
+  identifier: gpunnxbi
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

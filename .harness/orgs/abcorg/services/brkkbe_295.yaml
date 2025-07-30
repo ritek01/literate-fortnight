@@ -1,0 +1,7 @@
+service:
+  name: cxjoegsu
+  identifier: cxjoegsu
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

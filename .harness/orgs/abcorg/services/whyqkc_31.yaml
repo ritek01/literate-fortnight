@@ -1,0 +1,7 @@
+service:
+  name: trcmmyxm
+  identifier: trcmmyxm
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

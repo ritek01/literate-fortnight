@@ -1,0 +1,7 @@
+service:
+  name: wsfzmbkd
+  identifier: wsfzmbkd
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

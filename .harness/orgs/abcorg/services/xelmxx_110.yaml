@@ -1,0 +1,7 @@
+service:
+  name: tgroexqr
+  identifier: tgroexqr
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

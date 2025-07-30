@@ -1,0 +1,7 @@
+service:
+  name: nxcutcqv
+  identifier: nxcutcqv
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

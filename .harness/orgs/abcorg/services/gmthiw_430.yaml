@@ -1,0 +1,7 @@
+service:
+  name: mputbrxj
+  identifier: mputbrxj
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

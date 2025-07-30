@@ -1,0 +1,7 @@
+service:
+  name: rkmzoxvl
+  identifier: rkmzoxvl
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

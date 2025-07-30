@@ -1,0 +1,7 @@
+service:
+  name: uxugeukv
+  identifier: uxugeukv
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

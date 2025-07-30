@@ -1,0 +1,7 @@
+service:
+  name: bwcobxux
+  identifier: bwcobxux
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

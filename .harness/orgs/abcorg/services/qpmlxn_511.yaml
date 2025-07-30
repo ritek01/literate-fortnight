@@ -1,0 +1,7 @@
+service:
+  name: fdcuzxyw
+  identifier: fdcuzxyw
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

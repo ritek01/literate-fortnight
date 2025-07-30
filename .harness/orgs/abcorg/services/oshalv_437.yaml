@@ -1,0 +1,7 @@
+service:
+  name: muotpqca
+  identifier: muotpqca
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

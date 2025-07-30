@@ -1,0 +1,7 @@
+service:
+  name: vjmrfhiv
+  identifier: vjmrfhiv
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

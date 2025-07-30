@@ -1,0 +1,7 @@
+service:
+  name: fslzkrze
+  identifier: fslzkrze
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

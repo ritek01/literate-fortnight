@@ -1,0 +1,7 @@
+service:
+  name: mgkcdfcz
+  identifier: mgkcdfcz
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

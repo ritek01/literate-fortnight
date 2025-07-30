@@ -1,0 +1,7 @@
+service:
+  name: giazikyy
+  identifier: giazikyy
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

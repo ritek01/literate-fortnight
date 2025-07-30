@@ -1,0 +1,7 @@
+service:
+  name: ycwcooqf
+  identifier: ycwcooqf
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: smupdohr
+  identifier: smupdohr
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: rsnysvxy
+  identifier: rsnysvxy
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

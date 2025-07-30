@@ -1,0 +1,7 @@
+service:
+  name: dyhgaupd
+  identifier: dyhgaupd
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

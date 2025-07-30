@@ -1,0 +1,7 @@
+service:
+  name: yuhiivyx
+  identifier: yuhiivyx
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

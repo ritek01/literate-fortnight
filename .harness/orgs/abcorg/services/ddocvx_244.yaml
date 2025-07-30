@@ -1,0 +1,7 @@
+service:
+  name: nplpwzod
+  identifier: nplpwzod
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

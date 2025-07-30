@@ -1,0 +1,7 @@
+service:
+  name: hkiifrsk
+  identifier: hkiifrsk
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: krthipfg
+  identifier: krthipfg
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

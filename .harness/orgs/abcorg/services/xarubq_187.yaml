@@ -1,0 +1,7 @@
+service:
+  name: qlaksksk
+  identifier: qlaksksk
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

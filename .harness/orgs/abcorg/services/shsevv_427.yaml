@@ -1,0 +1,7 @@
+service:
+  name: bgvmcfwy
+  identifier: bgvmcfwy
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

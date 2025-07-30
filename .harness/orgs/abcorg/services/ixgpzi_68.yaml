@@ -1,0 +1,7 @@
+service:
+  name: vjqooyps
+  identifier: vjqooyps
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

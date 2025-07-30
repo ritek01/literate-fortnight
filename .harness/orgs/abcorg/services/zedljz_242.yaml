@@ -1,0 +1,7 @@
+service:
+  name: rnhbiklj
+  identifier: rnhbiklj
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

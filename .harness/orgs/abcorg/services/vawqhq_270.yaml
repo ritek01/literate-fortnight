@@ -1,0 +1,7 @@
+service:
+  name: vxforomp
+  identifier: vxforomp
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

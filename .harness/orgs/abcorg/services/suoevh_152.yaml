@@ -1,0 +1,7 @@
+service:
+  name: qqeqecly
+  identifier: qqeqecly
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

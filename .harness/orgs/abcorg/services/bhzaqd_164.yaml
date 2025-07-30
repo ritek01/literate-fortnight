@@ -1,0 +1,7 @@
+service:
+  name: eysszuka
+  identifier: eysszuka
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

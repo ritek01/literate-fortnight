@@ -1,0 +1,7 @@
+service:
+  name: sfxskcav
+  identifier: sfxskcav
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

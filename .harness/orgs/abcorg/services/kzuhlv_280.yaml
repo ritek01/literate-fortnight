@@ -1,0 +1,7 @@
+service:
+  name: sdrxlatw
+  identifier: sdrxlatw
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

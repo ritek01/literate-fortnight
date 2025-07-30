@@ -1,0 +1,7 @@
+service:
+  name: xbossqvy
+  identifier: xbossqvy
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

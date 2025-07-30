@@ -1,0 +1,7 @@
+service:
+  name: nhhujsvo
+  identifier: nhhujsvo
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

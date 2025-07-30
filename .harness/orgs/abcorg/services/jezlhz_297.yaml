@@ -1,0 +1,7 @@
+service:
+  name: mvthuvfs
+  identifier: mvthuvfs
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

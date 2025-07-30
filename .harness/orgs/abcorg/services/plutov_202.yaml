@@ -1,0 +1,7 @@
+service:
+  name: egyipunx
+  identifier: egyipunx
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: wqlipalf
+  identifier: wqlipalf
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

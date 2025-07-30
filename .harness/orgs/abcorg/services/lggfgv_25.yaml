@@ -1,0 +1,7 @@
+service:
+  name: wriktiqa
+  identifier: wriktiqa
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

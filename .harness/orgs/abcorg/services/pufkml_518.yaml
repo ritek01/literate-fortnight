@@ -1,0 +1,7 @@
+service:
+  name: fzytcude
+  identifier: fzytcude
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

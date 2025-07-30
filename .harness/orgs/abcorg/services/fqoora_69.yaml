@@ -1,0 +1,7 @@
+service:
+  name: mygbhmkt
+  identifier: mygbhmkt
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

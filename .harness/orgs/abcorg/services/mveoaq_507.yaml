@@ -1,0 +1,7 @@
+service:
+  name: zfrsiuuf
+  identifier: zfrsiuuf
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

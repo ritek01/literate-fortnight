@@ -1,0 +1,7 @@
+service:
+  name: zeoquugx
+  identifier: zeoquugx
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

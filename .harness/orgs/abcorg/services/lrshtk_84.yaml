@@ -1,0 +1,7 @@
+service:
+  name: wbujtsmi
+  identifier: wbujtsmi
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: ydqusuyb
+  identifier: ydqusuyb
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

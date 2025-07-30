@@ -1,0 +1,7 @@
+service:
+  name: sbfquwsd
+  identifier: sbfquwsd
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

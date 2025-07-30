@@ -1,0 +1,7 @@
+service:
+  name: mnjlszvn
+  identifier: mnjlszvn
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

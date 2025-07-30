@@ -1,0 +1,7 @@
+service:
+  name: fmlollwi
+  identifier: fmlollwi
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

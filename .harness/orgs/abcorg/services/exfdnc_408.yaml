@@ -1,0 +1,7 @@
+service:
+  name: rpkrukkl
+  identifier: rpkrukkl
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

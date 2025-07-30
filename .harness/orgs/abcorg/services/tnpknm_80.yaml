@@ -1,0 +1,7 @@
+service:
+  name: ltyxnqeb
+  identifier: ltyxnqeb
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

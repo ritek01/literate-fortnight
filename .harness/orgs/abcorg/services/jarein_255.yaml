@@ -1,0 +1,7 @@
+service:
+  name: nvbietil
+  identifier: nvbietil
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

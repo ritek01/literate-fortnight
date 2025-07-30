@@ -1,0 +1,7 @@
+service:
+  name: zjisppxf
+  identifier: zjisppxf
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

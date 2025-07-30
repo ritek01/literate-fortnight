@@ -1,0 +1,7 @@
+service:
+  name: zjkgppbp
+  identifier: zjkgppbp
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: yfqxjpwx
+  identifier: yfqxjpwx
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

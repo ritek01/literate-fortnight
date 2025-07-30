@@ -1,0 +1,7 @@
+service:
+  name: nubqddul
+  identifier: nubqddul
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

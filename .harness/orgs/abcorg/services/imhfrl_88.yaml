@@ -1,0 +1,7 @@
+service:
+  name: yedvamur
+  identifier: yedvamur
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

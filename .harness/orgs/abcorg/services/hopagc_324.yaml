@@ -1,0 +1,7 @@
+service:
+  name: vezrzyqq
+  identifier: vezrzyqq
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

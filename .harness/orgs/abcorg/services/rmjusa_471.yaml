@@ -1,0 +1,7 @@
+service:
+  name: lrvkizdq
+  identifier: lrvkizdq
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

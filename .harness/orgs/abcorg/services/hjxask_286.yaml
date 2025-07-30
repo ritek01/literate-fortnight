@@ -1,0 +1,7 @@
+service:
+  name: pixldxth
+  identifier: pixldxth
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

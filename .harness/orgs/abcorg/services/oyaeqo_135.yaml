@@ -1,0 +1,7 @@
+service:
+  name: hzivensb
+  identifier: hzivensb
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

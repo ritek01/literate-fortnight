@@ -1,0 +1,7 @@
+service:
+  name: oxjshxzf
+  identifier: oxjshxzf
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

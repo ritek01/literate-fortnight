@@ -1,0 +1,7 @@
+service:
+  name: ltobudwu
+  identifier: ltobudwu
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: aodtxeqx
+  identifier: aodtxeqx
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

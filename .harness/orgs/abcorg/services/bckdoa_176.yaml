@@ -1,0 +1,7 @@
+service:
+  name: ucypptxg
+  identifier: ucypptxg
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

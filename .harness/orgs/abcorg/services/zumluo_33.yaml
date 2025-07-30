@@ -1,0 +1,7 @@
+service:
+  name: kgboiktk
+  identifier: kgboiktk
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

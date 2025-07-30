@@ -1,0 +1,7 @@
+service:
+  name: bkejmwdv
+  identifier: bkejmwdv
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

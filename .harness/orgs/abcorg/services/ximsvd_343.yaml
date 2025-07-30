@@ -1,0 +1,7 @@
+service:
+  name: ppiuyxyd
+  identifier: ppiuyxyd
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

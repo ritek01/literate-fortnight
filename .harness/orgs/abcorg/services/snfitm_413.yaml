@@ -1,0 +1,7 @@
+service:
+  name: vrnfmgre
+  identifier: vrnfmgre
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

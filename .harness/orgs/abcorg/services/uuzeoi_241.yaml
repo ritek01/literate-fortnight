@@ -1,0 +1,7 @@
+service:
+  name: oiyegslt
+  identifier: oiyegslt
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

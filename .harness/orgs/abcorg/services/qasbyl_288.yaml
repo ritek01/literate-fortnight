@@ -1,0 +1,7 @@
+service:
+  name: bknlumzm
+  identifier: bknlumzm
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

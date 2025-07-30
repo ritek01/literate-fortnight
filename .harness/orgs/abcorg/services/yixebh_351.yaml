@@ -1,0 +1,7 @@
+service:
+  name: ziuvkflt
+  identifier: ziuvkflt
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

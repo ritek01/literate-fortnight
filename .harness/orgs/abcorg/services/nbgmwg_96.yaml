@@ -1,0 +1,7 @@
+service:
+  name: harifynr
+  identifier: harifynr
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

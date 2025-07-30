@@ -1,0 +1,7 @@
+service:
+  name: rwgejntu
+  identifier: rwgejntu
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

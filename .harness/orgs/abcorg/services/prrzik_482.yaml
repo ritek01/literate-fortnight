@@ -1,0 +1,7 @@
+service:
+  name: eohfmoyd
+  identifier: eohfmoyd
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: ojocljqd
+  identifier: ojocljqd
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

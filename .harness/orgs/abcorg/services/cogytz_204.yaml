@@ -1,0 +1,7 @@
+service:
+  name: echvzfby
+  identifier: echvzfby
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

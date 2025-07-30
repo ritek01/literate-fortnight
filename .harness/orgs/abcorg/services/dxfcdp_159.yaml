@@ -1,0 +1,7 @@
+service:
+  name: umensupf
+  identifier: umensupf
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

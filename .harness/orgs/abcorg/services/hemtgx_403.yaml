@@ -1,0 +1,7 @@
+service:
+  name: yfpnvyco
+  identifier: yfpnvyco
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: vtdjspdb
+  identifier: vtdjspdb
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

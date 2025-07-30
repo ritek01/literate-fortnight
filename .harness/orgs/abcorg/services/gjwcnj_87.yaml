@@ -1,0 +1,7 @@
+service:
+  name: xvuyobvh
+  identifier: xvuyobvh
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

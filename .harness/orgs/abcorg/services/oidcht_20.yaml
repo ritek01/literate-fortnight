@@ -1,0 +1,7 @@
+service:
+  name: rlfpgnoj
+  identifier: rlfpgnoj
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

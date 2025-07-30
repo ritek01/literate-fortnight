@@ -1,0 +1,7 @@
+service:
+  name: xmwyyvib
+  identifier: xmwyyvib
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

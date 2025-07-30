@@ -1,0 +1,7 @@
+service:
+  name: oapcglpm
+  identifier: oapcglpm
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

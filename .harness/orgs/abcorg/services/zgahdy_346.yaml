@@ -1,0 +1,7 @@
+service:
+  name: mevcbkcd
+  identifier: mevcbkcd
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

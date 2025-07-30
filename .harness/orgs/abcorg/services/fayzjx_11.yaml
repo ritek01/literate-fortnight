@@ -1,0 +1,7 @@
+service:
+  name: iwfvkmdz
+  identifier: iwfvkmdz
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

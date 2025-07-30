@@ -1,0 +1,7 @@
+service:
+  name: wiromvkm
+  identifier: wiromvkm
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

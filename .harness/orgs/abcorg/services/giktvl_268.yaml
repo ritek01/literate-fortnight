@@ -1,0 +1,7 @@
+service:
+  name: tssteicr
+  identifier: tssteicr
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

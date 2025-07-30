@@ -1,0 +1,7 @@
+service:
+  name: dkpkpjrz
+  identifier: dkpkpjrz
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

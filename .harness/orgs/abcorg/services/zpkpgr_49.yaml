@@ -1,0 +1,7 @@
+service:
+  name: bghazzzz
+  identifier: bghazzzz
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

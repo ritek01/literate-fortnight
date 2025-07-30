@@ -1,0 +1,7 @@
+service:
+  name: gwcesafi
+  identifier: gwcesafi
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

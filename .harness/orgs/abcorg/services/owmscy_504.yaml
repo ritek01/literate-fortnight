@@ -1,0 +1,7 @@
+service:
+  name: mekpyjxu
+  identifier: mekpyjxu
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: lxqhlppl
+  identifier: lxqhlppl
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

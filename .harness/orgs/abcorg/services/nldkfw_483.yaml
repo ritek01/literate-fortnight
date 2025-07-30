@@ -1,0 +1,7 @@
+service:
+  name: uimpzokq
+  identifier: uimpzokq
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

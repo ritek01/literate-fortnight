@@ -1,0 +1,7 @@
+service:
+  name: qjissmun
+  identifier: qjissmun
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

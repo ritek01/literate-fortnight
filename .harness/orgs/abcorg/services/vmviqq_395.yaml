@@ -1,0 +1,7 @@
+service:
+  name: zycjmemd
+  identifier: zycjmemd
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

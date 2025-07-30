@@ -1,0 +1,7 @@
+service:
+  name: rraphjbq
+  identifier: rraphjbq
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

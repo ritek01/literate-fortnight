@@ -1,0 +1,7 @@
+service:
+  name: rfteuzci
+  identifier: rfteuzci
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

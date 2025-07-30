@@ -1,0 +1,7 @@
+service:
+  name: kvcooeep
+  identifier: kvcooeep
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

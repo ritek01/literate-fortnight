@@ -1,0 +1,7 @@
+service:
+  name: hmnodpjw
+  identifier: hmnodpjw
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

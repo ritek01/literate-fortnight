@@ -1,0 +1,7 @@
+service:
+  name: dicvgyse
+  identifier: dicvgyse
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

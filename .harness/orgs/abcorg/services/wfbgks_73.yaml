@@ -1,0 +1,7 @@
+service:
+  name: pndklrnc
+  identifier: pndklrnc
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

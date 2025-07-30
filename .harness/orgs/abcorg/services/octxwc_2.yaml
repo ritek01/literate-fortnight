@@ -1,0 +1,7 @@
+service:
+  name: fpbdjnjy
+  identifier: fpbdjnjy
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

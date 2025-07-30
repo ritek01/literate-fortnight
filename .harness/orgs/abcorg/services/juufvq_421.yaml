@@ -1,0 +1,7 @@
+service:
+  name: gubmhzml
+  identifier: gubmhzml
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

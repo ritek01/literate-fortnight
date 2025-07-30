@@ -1,0 +1,7 @@
+service:
+  name: eswyrcha
+  identifier: eswyrcha
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

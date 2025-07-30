@@ -1,0 +1,7 @@
+service:
+  name: jglqghke
+  identifier: jglqghke
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

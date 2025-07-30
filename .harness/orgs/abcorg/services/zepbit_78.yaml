@@ -1,0 +1,7 @@
+service:
+  name: eluuxdaf
+  identifier: eluuxdaf
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

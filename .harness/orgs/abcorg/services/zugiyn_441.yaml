@@ -1,0 +1,7 @@
+service:
+  name: wiqmzadu
+  identifier: wiqmzadu
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

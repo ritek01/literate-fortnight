@@ -1,0 +1,7 @@
+service:
+  name: jgswbqxi
+  identifier: jgswbqxi
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

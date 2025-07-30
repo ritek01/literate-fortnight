@@ -1,0 +1,7 @@
+service:
+  name: tcuohqrw
+  identifier: tcuohqrw
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

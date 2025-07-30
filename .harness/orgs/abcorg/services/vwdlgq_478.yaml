@@ -1,0 +1,7 @@
+service:
+  name: avvkaikm
+  identifier: avvkaikm
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

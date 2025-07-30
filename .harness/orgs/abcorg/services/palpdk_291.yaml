@@ -1,0 +1,7 @@
+service:
+  name: tfbufpkl
+  identifier: tfbufpkl
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

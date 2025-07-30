@@ -1,0 +1,7 @@
+service:
+  name: glfugmhq
+  identifier: glfugmhq
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

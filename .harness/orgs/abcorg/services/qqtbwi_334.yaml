@@ -1,0 +1,7 @@
+service:
+  name: gpynforw
+  identifier: gpynforw
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

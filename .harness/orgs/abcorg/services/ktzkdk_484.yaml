@@ -1,0 +1,7 @@
+service:
+  name: awsqdbsd
+  identifier: awsqdbsd
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

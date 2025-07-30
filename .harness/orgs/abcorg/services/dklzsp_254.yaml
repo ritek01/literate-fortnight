@@ -1,0 +1,7 @@
+service:
+  name: bnfeowyp
+  identifier: bnfeowyp
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

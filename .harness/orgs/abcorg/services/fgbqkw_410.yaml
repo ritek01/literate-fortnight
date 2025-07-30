@@ -1,0 +1,7 @@
+service:
+  name: icqoduyu
+  identifier: icqoduyu
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

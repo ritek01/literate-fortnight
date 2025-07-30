@@ -1,0 +1,7 @@
+service:
+  name: cqciqdom
+  identifier: cqciqdom
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

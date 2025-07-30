@@ -1,0 +1,7 @@
+service:
+  name: riftrgbu
+  identifier: riftrgbu
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

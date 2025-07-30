@@ -1,0 +1,7 @@
+service:
+  name: nhygzpmt
+  identifier: nhygzpmt
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

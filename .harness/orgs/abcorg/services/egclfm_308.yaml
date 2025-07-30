@@ -1,0 +1,7 @@
+service:
+  name: uzxllooi
+  identifier: uzxllooi
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

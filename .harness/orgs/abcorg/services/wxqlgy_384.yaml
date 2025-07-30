@@ -1,0 +1,7 @@
+service:
+  name: rbweaplh
+  identifier: rbweaplh
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

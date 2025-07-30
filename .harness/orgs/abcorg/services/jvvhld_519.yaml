@@ -1,0 +1,7 @@
+service:
+  name: gnbhgypp
+  identifier: gnbhgypp
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

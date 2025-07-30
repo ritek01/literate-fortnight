@@ -1,0 +1,7 @@
+service:
+  name: vrinoqme
+  identifier: vrinoqme
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

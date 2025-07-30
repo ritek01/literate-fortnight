@@ -1,0 +1,7 @@
+service:
+  name: scahhgbb
+  identifier: scahhgbb
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

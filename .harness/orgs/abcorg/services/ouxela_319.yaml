@@ -1,0 +1,7 @@
+service:
+  name: kbwjiorv
+  identifier: kbwjiorv
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

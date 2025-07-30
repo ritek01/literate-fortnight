@@ -1,0 +1,7 @@
+service:
+  name: alwxtpaf
+  identifier: alwxtpaf
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

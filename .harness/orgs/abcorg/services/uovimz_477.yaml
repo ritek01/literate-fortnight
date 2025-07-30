@@ -1,0 +1,7 @@
+service:
+  name: yyfixsdu
+  identifier: yyfixsdu
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

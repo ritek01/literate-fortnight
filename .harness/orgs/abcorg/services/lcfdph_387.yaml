@@ -1,0 +1,7 @@
+service:
+  name: qqrwcyco
+  identifier: qqrwcyco
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

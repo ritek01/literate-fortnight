@@ -1,0 +1,7 @@
+service:
+  name: dtersdcf
+  identifier: dtersdcf
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

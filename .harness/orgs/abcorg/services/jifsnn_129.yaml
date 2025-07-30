@@ -1,0 +1,7 @@
+service:
+  name: sgrsezat
+  identifier: sgrsezat
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

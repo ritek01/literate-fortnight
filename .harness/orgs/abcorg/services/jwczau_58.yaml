@@ -1,0 +1,7 @@
+service:
+  name: gbuktpsr
+  identifier: gbuktpsr
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

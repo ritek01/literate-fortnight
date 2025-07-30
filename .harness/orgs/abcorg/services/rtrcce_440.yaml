@@ -1,0 +1,7 @@
+service:
+  name: lvpujtqa
+  identifier: lvpujtqa
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

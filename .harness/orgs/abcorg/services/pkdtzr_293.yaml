@@ -1,0 +1,7 @@
+service:
+  name: udhforgs
+  identifier: udhforgs
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

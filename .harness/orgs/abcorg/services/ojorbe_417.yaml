@@ -1,0 +1,7 @@
+service:
+  name: ojtevmnk
+  identifier: ojtevmnk
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: kzncgzrb
+  identifier: kzncgzrb
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

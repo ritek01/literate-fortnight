@@ -1,0 +1,7 @@
+service:
+  name: klymswsj
+  identifier: klymswsj
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

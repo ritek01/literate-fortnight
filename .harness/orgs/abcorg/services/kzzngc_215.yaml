@@ -1,0 +1,7 @@
+service:
+  name: wbfszmga
+  identifier: wbfszmga
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: tdjxrkqz
+  identifier: tdjxrkqz
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

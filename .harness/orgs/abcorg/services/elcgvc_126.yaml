@@ -1,0 +1,7 @@
+service:
+  name: fohcaeta
+  identifier: fohcaeta
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

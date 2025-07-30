@@ -1,0 +1,7 @@
+service:
+  name: fzaxpems
+  identifier: fzaxpems
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

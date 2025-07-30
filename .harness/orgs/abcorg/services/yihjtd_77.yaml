@@ -1,0 +1,7 @@
+service:
+  name: bkfvsroc
+  identifier: bkfvsroc
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

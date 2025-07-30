@@ -1,0 +1,7 @@
+service:
+  name: kqvqtfab
+  identifier: kqvqtfab
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

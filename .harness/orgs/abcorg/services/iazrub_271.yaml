@@ -1,0 +1,7 @@
+service:
+  name: myucnazh
+  identifier: myucnazh
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

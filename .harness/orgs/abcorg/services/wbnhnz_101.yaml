@@ -1,0 +1,7 @@
+service:
+  name: hqbowkxi
+  identifier: hqbowkxi
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: gykzxdtn
+  identifier: gykzxdtn
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

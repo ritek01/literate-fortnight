@@ -1,0 +1,7 @@
+service:
+  name: xbmejwxi
+  identifier: xbmejwxi
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

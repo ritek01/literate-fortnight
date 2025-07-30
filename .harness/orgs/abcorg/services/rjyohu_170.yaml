@@ -1,0 +1,7 @@
+service:
+  name: lbrhajyg
+  identifier: lbrhajyg
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

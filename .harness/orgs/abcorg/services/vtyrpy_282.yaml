@@ -1,0 +1,7 @@
+service:
+  name: zycfrxah
+  identifier: zycfrxah
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

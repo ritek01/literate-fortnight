@@ -1,0 +1,7 @@
+service:
+  name: ypljaavl
+  identifier: ypljaavl
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

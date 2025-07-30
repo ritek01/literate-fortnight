@@ -1,0 +1,7 @@
+service:
+  name: bpakilyh
+  identifier: bpakilyh
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

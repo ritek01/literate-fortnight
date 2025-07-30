@@ -1,0 +1,7 @@
+service:
+  name: ilccxpuy
+  identifier: ilccxpuy
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

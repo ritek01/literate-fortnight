@@ -1,0 +1,7 @@
+service:
+  name: epgktqaq
+  identifier: epgktqaq
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

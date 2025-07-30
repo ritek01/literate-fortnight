@@ -1,0 +1,7 @@
+service:
+  name: agtaghvi
+  identifier: agtaghvi
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

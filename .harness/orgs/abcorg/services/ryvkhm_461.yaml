@@ -1,0 +1,7 @@
+service:
+  name: sqqntmxz
+  identifier: sqqntmxz
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

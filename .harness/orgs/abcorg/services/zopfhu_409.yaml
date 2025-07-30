@@ -1,0 +1,7 @@
+service:
+  name: vubgrrll
+  identifier: vubgrrll
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

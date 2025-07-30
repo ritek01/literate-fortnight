@@ -1,0 +1,7 @@
+service:
+  name: durjninh
+  identifier: durjninh
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

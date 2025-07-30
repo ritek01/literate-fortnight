@@ -1,0 +1,7 @@
+service:
+  name: ltoebjxd
+  identifier: ltoebjxd
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

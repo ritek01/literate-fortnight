@@ -1,0 +1,7 @@
+service:
+  name: wtylleze
+  identifier: wtylleze
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

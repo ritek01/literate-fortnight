@@ -1,0 +1,7 @@
+service:
+  name: cztyuhfh
+  identifier: cztyuhfh
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

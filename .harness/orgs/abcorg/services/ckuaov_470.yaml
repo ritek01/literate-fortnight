@@ -1,0 +1,7 @@
+service:
+  name: axlrqpvg
+  identifier: axlrqpvg
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

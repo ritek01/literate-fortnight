@@ -1,0 +1,7 @@
+service:
+  name: uphqemac
+  identifier: uphqemac
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

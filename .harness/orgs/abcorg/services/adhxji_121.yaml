@@ -1,0 +1,7 @@
+service:
+  name: eegdmipx
+  identifier: eegdmipx
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

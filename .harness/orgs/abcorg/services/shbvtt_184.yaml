@@ -1,0 +1,7 @@
+service:
+  name: brzcreoa
+  identifier: brzcreoa
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

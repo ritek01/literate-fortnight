@@ -1,0 +1,7 @@
+service:
+  name: exomaxps
+  identifier: exomaxps
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

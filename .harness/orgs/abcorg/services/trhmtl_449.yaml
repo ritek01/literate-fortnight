@@ -1,0 +1,7 @@
+service:
+  name: eezzypvf
+  identifier: eezzypvf
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

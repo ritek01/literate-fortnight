@@ -1,0 +1,7 @@
+service:
+  name: cuzrmppn
+  identifier: cuzrmppn
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: fsxzaivd
+  identifier: fsxzaivd
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

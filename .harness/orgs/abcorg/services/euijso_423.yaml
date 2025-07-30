@@ -1,0 +1,7 @@
+service:
+  name: fhsvdszy
+  identifier: fhsvdszy
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

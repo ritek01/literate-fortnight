@@ -1,0 +1,7 @@
+service:
+  name: fmexdhvn
+  identifier: fmexdhvn
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

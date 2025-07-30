@@ -1,0 +1,7 @@
+service:
+  name: svivnleg
+  identifier: svivnleg
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

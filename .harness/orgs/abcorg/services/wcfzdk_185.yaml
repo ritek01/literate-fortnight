@@ -1,0 +1,7 @@
+service:
+  name: dznavtjz
+  identifier: dznavtjz
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

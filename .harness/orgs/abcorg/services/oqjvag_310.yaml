@@ -1,0 +1,7 @@
+service:
+  name: iyinyzbo
+  identifier: iyinyzbo
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: wfvblemg
+  identifier: wfvblemg
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

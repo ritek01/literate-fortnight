@@ -1,0 +1,7 @@
+service:
+  name: xnaqpbxd
+  identifier: xnaqpbxd
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

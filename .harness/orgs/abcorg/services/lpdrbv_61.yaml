@@ -1,0 +1,7 @@
+service:
+  name: sefojbhw
+  identifier: sefojbhw
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: jawvfmuc
+  identifier: jawvfmuc
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

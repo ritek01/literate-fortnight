@@ -1,0 +1,7 @@
+service:
+  name: dhdvktky
+  identifier: dhdvktky
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

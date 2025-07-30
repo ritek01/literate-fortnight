@@ -1,0 +1,7 @@
+service:
+  name: fkrbzqqt
+  identifier: fkrbzqqt
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

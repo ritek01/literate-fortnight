@@ -1,0 +1,7 @@
+service:
+  name: rujwcvdw
+  identifier: rujwcvdw
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

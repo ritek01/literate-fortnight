@@ -1,0 +1,7 @@
+service:
+  name: acispeiz
+  identifier: acispeiz
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: qghpddyc
+  identifier: qghpddyc
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

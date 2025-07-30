@@ -1,0 +1,7 @@
+service:
+  name: wsqlnxeh
+  identifier: wsqlnxeh
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

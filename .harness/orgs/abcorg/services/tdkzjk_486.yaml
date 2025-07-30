@@ -1,0 +1,7 @@
+service:
+  name: qqruruts
+  identifier: qqruruts
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

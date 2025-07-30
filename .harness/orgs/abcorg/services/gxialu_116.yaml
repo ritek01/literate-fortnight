@@ -1,0 +1,7 @@
+service:
+  name: tqeuqbxs
+  identifier: tqeuqbxs
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

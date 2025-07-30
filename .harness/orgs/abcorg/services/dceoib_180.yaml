@@ -1,0 +1,7 @@
+service:
+  name: coamiilv
+  identifier: coamiilv
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

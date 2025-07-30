@@ -1,0 +1,7 @@
+service:
+  name: osbgdzgk
+  identifier: osbgdzgk
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

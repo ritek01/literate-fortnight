@@ -1,0 +1,7 @@
+service:
+  name: zszprpyp
+  identifier: zszprpyp
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: ocqaexrw
+  identifier: ocqaexrw
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

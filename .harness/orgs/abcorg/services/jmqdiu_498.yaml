@@ -1,0 +1,7 @@
+service:
+  name: wgdagfoh
+  identifier: wgdagfoh
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

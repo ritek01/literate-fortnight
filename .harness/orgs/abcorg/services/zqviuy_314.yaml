@@ -1,0 +1,7 @@
+service:
+  name: rkctxgmq
+  identifier: rkctxgmq
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

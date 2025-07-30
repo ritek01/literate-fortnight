@@ -1,0 +1,7 @@
+service:
+  name: uzasmwiz
+  identifier: uzasmwiz
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: dllsmrbz
+  identifier: dllsmrbz
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

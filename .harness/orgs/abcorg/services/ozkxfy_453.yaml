@@ -1,0 +1,7 @@
+service:
+  name: boatgkqb
+  identifier: boatgkqb
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

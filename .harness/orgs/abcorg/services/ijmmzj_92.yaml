@@ -1,0 +1,7 @@
+service:
+  name: sixmqvht
+  identifier: sixmqvht
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

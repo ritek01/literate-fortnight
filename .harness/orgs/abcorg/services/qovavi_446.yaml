@@ -1,0 +1,7 @@
+service:
+  name: ykpyifzh
+  identifier: ykpyifzh
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

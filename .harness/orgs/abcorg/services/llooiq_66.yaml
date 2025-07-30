@@ -1,0 +1,7 @@
+service:
+  name: pzhtughw
+  identifier: pzhtughw
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: vacicghi
+  identifier: vacicghi
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

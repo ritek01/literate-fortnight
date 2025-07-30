@@ -1,0 +1,7 @@
+service:
+  name: voniiadh
+  identifier: voniiadh
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

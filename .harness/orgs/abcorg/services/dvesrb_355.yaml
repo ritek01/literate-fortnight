@@ -1,0 +1,7 @@
+service:
+  name: fzncwydl
+  identifier: fzncwydl
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

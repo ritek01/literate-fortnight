@@ -1,0 +1,7 @@
+service:
+  name: nnamrymg
+  identifier: nnamrymg
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

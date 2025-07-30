@@ -1,0 +1,7 @@
+service:
+  name: fzhtwzru
+  identifier: fzhtwzru
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

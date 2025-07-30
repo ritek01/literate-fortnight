@@ -1,0 +1,7 @@
+service:
+  name: umyqfqil
+  identifier: umyqfqil
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

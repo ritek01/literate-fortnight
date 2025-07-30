@@ -1,0 +1,7 @@
+service:
+  name: xajwmuzx
+  identifier: xajwmuzx
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: wonqiqzr
+  identifier: wonqiqzr
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

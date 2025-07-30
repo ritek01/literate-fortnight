@@ -1,0 +1,7 @@
+service:
+  name: ycsgmrtd
+  identifier: ycsgmrtd
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

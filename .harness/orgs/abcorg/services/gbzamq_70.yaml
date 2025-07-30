@@ -1,0 +1,7 @@
+service:
+  name: bmwvcxtm
+  identifier: bmwvcxtm
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

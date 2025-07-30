@@ -1,0 +1,7 @@
+service:
+  name: gtptxgea
+  identifier: gtptxgea
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

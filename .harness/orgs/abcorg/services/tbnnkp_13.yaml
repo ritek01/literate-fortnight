@@ -1,0 +1,7 @@
+service:
+  name: aziibkym
+  identifier: aziibkym
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

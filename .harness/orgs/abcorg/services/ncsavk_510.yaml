@@ -1,0 +1,7 @@
+service:
+  name: bwmgchyp
+  identifier: bwmgchyp
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

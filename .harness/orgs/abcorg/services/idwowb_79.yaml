@@ -1,0 +1,7 @@
+service:
+  name: txtqbkiq
+  identifier: txtqbkiq
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

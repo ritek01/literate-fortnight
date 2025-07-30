@@ -1,0 +1,7 @@
+service:
+  name: ejcefspf
+  identifier: ejcefspf
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

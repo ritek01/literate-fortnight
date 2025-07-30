@@ -1,0 +1,7 @@
+service:
+  name: uzjkkodn
+  identifier: uzjkkodn
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

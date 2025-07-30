@@ -1,0 +1,7 @@
+service:
+  name: ppopydyy
+  identifier: ppopydyy
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

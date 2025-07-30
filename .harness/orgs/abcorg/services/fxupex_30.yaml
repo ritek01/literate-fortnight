@@ -1,0 +1,7 @@
+service:
+  name: lahyolts
+  identifier: lahyolts
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

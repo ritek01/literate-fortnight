@@ -1,0 +1,7 @@
+service:
+  name: npqgqjyh
+  identifier: npqgqjyh
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

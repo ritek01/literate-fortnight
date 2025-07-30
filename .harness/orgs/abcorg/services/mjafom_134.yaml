@@ -1,0 +1,7 @@
+service:
+  name: nhjaxfea
+  identifier: nhjaxfea
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

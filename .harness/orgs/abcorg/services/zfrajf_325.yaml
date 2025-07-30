@@ -1,0 +1,7 @@
+service:
+  name: wnnlbsvq
+  identifier: wnnlbsvq
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

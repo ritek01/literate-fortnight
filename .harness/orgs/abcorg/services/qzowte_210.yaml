@@ -1,0 +1,7 @@
+service:
+  name: awknocou
+  identifier: awknocou
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

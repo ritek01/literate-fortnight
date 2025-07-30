@@ -1,0 +1,7 @@
+service:
+  name: xikuatvn
+  identifier: xikuatvn
+  orgIdentifier: abcorg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
