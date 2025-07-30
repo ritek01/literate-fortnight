@@ -1,0 +1,7 @@
+service:
+  name: jdjdxwle
+  identifier: jdjdxwle
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: qjkdzmpg
+  identifier: qjkdzmpg
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

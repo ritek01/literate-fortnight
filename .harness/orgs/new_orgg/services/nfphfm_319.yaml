@@ -1,0 +1,7 @@
+service:
+  name: notarcho
+  identifier: notarcho
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

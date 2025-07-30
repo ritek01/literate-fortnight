@@ -1,0 +1,7 @@
+service:
+  name: ejawbiaw
+  identifier: ejawbiaw
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: gedmxpvl
+  identifier: gedmxpvl
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

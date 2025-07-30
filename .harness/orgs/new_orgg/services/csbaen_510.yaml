@@ -1,0 +1,7 @@
+service:
+  name: aqjwviuq
+  identifier: aqjwviuq
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

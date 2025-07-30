@@ -1,0 +1,7 @@
+service:
+  name: hkaaisop
+  identifier: hkaaisop
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

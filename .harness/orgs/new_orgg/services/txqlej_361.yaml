@@ -1,0 +1,7 @@
+service:
+  name: txszdfhk
+  identifier: txszdfhk
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

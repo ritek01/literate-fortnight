@@ -1,0 +1,7 @@
+service:
+  name: rbqgqvgu
+  identifier: rbqgqvgu
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

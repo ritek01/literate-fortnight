@@ -1,0 +1,7 @@
+service:
+  name: skxjpzau
+  identifier: skxjpzau
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

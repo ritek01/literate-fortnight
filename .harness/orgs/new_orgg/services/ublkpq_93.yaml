@@ -1,0 +1,7 @@
+service:
+  name: wrngsyim
+  identifier: wrngsyim
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

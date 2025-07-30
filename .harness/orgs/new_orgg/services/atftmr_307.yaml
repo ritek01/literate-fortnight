@@ -1,0 +1,7 @@
+service:
+  name: rjzqdvaa
+  identifier: rjzqdvaa
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

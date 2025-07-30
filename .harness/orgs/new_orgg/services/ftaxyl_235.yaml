@@ -1,0 +1,7 @@
+service:
+  name: qgbcljdk
+  identifier: qgbcljdk
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

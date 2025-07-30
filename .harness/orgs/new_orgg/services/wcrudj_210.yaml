@@ -1,0 +1,7 @@
+service:
+  name: kulhockh
+  identifier: kulhockh
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

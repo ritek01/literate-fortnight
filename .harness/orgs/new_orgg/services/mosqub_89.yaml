@@ -1,0 +1,7 @@
+service:
+  name: nyxghmxp
+  identifier: nyxghmxp
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

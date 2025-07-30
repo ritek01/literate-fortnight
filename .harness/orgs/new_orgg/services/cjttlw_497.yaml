@@ -1,0 +1,7 @@
+service:
+  name: wtzehlcz
+  identifier: wtzehlcz
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

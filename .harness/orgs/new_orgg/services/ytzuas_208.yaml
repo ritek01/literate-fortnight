@@ -1,0 +1,7 @@
+service:
+  name: fpyrmtax
+  identifier: fpyrmtax
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

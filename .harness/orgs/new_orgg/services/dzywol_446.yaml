@@ -1,0 +1,7 @@
+service:
+  name: dvnxllpf
+  identifier: dvnxllpf
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: vtjtcipt
+  identifier: vtjtcipt
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

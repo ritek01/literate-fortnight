@@ -1,0 +1,7 @@
+service:
+  name: vkuciwmw
+  identifier: vkuciwmw
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

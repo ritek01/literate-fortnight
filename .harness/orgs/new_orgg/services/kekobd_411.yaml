@@ -1,0 +1,7 @@
+service:
+  name: rggoywdi
+  identifier: rggoywdi
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

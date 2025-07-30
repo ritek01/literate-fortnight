@@ -1,0 +1,7 @@
+service:
+  name: emuaxuqz
+  identifier: emuaxuqz
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

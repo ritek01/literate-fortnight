@@ -1,0 +1,7 @@
+service:
+  name: pzwoydqh
+  identifier: pzwoydqh
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

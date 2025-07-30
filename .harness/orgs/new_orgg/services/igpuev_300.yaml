@@ -1,0 +1,7 @@
+service:
+  name: wgmihqyj
+  identifier: wgmihqyj
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

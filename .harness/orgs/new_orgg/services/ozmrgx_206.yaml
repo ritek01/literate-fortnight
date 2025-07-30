@@ -1,0 +1,7 @@
+service:
+  name: cdtarnfj
+  identifier: cdtarnfj
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

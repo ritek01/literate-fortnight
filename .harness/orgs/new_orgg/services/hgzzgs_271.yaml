@@ -1,0 +1,7 @@
+service:
+  name: tcpwefby
+  identifier: tcpwefby
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: vqfzguoz
+  identifier: vqfzguoz
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

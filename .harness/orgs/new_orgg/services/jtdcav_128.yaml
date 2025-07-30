@@ -1,0 +1,7 @@
+service:
+  name: yagvbwfu
+  identifier: yagvbwfu
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

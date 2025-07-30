@@ -1,0 +1,7 @@
+service:
+  name: cvjwwleq
+  identifier: cvjwwleq
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

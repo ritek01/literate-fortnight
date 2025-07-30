@@ -1,0 +1,7 @@
+service:
+  name: klsjzafa
+  identifier: klsjzafa
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

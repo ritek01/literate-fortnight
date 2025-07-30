@@ -1,0 +1,7 @@
+service:
+  name: toolbblj
+  identifier: toolbblj
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

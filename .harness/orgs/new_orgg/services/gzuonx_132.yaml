@@ -1,0 +1,7 @@
+service:
+  name: yqxusghr
+  identifier: yqxusghr
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

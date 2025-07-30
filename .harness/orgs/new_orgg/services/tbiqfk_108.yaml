@@ -1,0 +1,7 @@
+service:
+  name: cdhwqumw
+  identifier: cdhwqumw
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

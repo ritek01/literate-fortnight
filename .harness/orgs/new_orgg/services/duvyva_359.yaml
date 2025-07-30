@@ -1,0 +1,7 @@
+service:
+  name: hutxffsh
+  identifier: hutxffsh
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

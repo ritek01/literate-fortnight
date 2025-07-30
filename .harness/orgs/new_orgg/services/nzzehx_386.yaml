@@ -1,0 +1,7 @@
+service:
+  name: xriurexv
+  identifier: xriurexv
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

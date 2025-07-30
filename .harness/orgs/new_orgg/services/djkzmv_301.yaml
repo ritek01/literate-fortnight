@@ -1,0 +1,7 @@
+service:
+  name: slnwtzwr
+  identifier: slnwtzwr
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

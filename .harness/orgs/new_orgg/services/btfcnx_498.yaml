@@ -1,0 +1,7 @@
+service:
+  name: tivrriej
+  identifier: tivrriej
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

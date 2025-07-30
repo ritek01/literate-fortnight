@@ -1,0 +1,7 @@
+service:
+  name: qthuskud
+  identifier: qthuskud
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

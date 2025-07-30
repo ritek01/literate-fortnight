@@ -1,0 +1,7 @@
+service:
+  name: syyccacs
+  identifier: syyccacs
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

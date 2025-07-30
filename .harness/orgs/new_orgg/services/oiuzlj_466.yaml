@@ -1,0 +1,7 @@
+service:
+  name: etdcxdzn
+  identifier: etdcxdzn
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

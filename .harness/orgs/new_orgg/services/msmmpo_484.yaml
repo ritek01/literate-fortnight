@@ -1,0 +1,7 @@
+service:
+  name: huacyblu
+  identifier: huacyblu
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

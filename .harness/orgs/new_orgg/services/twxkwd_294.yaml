@@ -1,0 +1,7 @@
+service:
+  name: ulyhjqdu
+  identifier: ulyhjqdu
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

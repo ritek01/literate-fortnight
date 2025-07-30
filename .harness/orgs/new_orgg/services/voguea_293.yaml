@@ -1,0 +1,7 @@
+service:
+  name: qxgworey
+  identifier: qxgworey
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

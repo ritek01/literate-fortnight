@@ -1,0 +1,7 @@
+service:
+  name: dsjmefud
+  identifier: dsjmefud
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

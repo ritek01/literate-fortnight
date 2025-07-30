@@ -1,0 +1,7 @@
+service:
+  name: qigmwoij
+  identifier: qigmwoij
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

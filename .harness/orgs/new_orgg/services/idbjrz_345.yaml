@@ -1,0 +1,7 @@
+service:
+  name: cbbzbvrj
+  identifier: cbbzbvrj
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

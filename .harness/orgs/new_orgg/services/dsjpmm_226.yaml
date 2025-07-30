@@ -1,0 +1,7 @@
+service:
+  name: ylplkeuz
+  identifier: ylplkeuz
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

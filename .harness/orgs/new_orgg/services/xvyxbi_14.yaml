@@ -1,0 +1,7 @@
+service:
+  name: bplndntg
+  identifier: bplndntg
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

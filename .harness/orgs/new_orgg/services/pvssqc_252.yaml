@@ -1,0 +1,7 @@
+service:
+  name: ryedhyns
+  identifier: ryedhyns
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

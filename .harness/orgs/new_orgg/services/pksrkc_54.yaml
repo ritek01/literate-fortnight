@@ -1,0 +1,7 @@
+service:
+  name: ihhpmidz
+  identifier: ihhpmidz
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

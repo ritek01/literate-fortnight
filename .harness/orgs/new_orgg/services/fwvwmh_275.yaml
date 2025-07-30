@@ -1,0 +1,7 @@
+service:
+  name: itdcmqow
+  identifier: itdcmqow
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

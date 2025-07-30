@@ -1,0 +1,7 @@
+service:
+  name: fioyujfa
+  identifier: fioyujfa
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

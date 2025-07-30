@@ -1,0 +1,7 @@
+service:
+  name: doxxqmwr
+  identifier: doxxqmwr
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: cltxurlv
+  identifier: cltxurlv
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

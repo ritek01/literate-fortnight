@@ -1,0 +1,7 @@
+service:
+  name: otosieay
+  identifier: otosieay
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

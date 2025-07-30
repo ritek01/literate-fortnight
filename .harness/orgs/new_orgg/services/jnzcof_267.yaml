@@ -1,0 +1,7 @@
+service:
+  name: hyolaxis
+  identifier: hyolaxis
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

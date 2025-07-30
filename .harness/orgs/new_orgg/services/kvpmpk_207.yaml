@@ -1,0 +1,7 @@
+service:
+  name: qtsxwmfc
+  identifier: qtsxwmfc
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

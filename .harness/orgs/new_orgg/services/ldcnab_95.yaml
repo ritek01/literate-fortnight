@@ -1,0 +1,7 @@
+service:
+  name: tcueuxwz
+  identifier: tcueuxwz
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

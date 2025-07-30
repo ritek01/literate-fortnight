@@ -1,0 +1,7 @@
+service:
+  name: hfybwztt
+  identifier: hfybwztt
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

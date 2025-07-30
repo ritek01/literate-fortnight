@@ -1,0 +1,7 @@
+service:
+  name: axvngzck
+  identifier: axvngzck
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

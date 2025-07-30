@@ -1,0 +1,7 @@
+service:
+  name: gtmnhdfd
+  identifier: gtmnhdfd
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

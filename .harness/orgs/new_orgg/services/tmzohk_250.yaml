@@ -1,0 +1,7 @@
+service:
+  name: qygsvsxl
+  identifier: qygsvsxl
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

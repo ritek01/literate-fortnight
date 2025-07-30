@@ -1,0 +1,7 @@
+service:
+  name: bxneehcn
+  identifier: bxneehcn
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

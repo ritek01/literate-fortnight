@@ -1,0 +1,7 @@
+service:
+  name: mycfxvem
+  identifier: mycfxvem
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

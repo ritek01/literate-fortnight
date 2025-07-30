@@ -1,0 +1,7 @@
+service:
+  name: qtkxjkgi
+  identifier: qtkxjkgi
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: rtnftods
+  identifier: rtnftods
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

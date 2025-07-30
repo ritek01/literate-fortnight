@@ -1,0 +1,7 @@
+service:
+  name: nykrabev
+  identifier: nykrabev
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

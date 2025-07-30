@@ -1,0 +1,7 @@
+service:
+  name: ifkgerru
+  identifier: ifkgerru
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

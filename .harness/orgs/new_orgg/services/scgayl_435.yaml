@@ -1,0 +1,7 @@
+service:
+  name: yugumsit
+  identifier: yugumsit
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

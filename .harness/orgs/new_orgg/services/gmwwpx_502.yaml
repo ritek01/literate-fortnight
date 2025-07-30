@@ -1,0 +1,7 @@
+service:
+  name: xxbywpxx
+  identifier: xxbywpxx
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

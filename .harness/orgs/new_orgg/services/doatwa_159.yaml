@@ -1,0 +1,7 @@
+service:
+  name: onywuras
+  identifier: onywuras
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

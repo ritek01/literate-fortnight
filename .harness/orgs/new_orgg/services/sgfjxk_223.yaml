@@ -1,0 +1,7 @@
+service:
+  name: bjrrzvif
+  identifier: bjrrzvif
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: cjnyrelc
+  identifier: cjnyrelc
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

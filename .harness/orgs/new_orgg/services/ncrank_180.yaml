@@ -1,0 +1,7 @@
+service:
+  name: ffzredjd
+  identifier: ffzredjd
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

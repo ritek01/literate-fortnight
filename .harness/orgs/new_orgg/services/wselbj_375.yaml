@@ -1,0 +1,7 @@
+service:
+  name: qlwibryt
+  identifier: qlwibryt
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

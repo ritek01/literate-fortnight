@@ -1,0 +1,7 @@
+service:
+  name: czcmcgwm
+  identifier: czcmcgwm
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

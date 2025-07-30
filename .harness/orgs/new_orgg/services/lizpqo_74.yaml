@@ -1,0 +1,7 @@
+service:
+  name: nyloxlmt
+  identifier: nyloxlmt
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: puzygdtw
+  identifier: puzygdtw
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

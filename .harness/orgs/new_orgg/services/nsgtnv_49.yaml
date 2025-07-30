@@ -1,0 +1,7 @@
+service:
+  name: obzgfciq
+  identifier: obzgfciq
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

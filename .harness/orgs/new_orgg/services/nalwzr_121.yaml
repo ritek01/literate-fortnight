@@ -1,0 +1,7 @@
+service:
+  name: odrcvkzb
+  identifier: odrcvkzb
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

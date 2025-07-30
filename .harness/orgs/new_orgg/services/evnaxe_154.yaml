@@ -1,0 +1,7 @@
+service:
+  name: wuhvakdg
+  identifier: wuhvakdg
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

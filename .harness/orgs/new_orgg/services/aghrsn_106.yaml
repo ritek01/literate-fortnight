@@ -1,0 +1,7 @@
+service:
+  name: bfwxcuzb
+  identifier: bfwxcuzb
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

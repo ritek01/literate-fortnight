@@ -1,0 +1,7 @@
+service:
+  name: behcvaub
+  identifier: behcvaub
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

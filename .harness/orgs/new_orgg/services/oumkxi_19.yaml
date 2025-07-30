@@ -1,0 +1,7 @@
+service:
+  name: ckyahari
+  identifier: ckyahari
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

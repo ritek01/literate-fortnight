@@ -1,0 +1,7 @@
+service:
+  name: aluaxkmp
+  identifier: aluaxkmp
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

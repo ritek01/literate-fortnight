@@ -1,0 +1,7 @@
+service:
+  name: byedazme
+  identifier: byedazme
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

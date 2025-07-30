@@ -1,0 +1,7 @@
+service:
+  name: xiztkrfc
+  identifier: xiztkrfc
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

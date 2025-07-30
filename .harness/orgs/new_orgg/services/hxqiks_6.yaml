@@ -1,0 +1,7 @@
+service:
+  name: apvuvxll
+  identifier: apvuvxll
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

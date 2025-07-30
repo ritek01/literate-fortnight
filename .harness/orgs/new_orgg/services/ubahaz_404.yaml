@@ -1,0 +1,7 @@
+service:
+  name: ixphtnzf
+  identifier: ixphtnzf
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

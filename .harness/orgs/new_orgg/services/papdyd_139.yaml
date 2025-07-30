@@ -1,0 +1,7 @@
+service:
+  name: gyubyuep
+  identifier: gyubyuep
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

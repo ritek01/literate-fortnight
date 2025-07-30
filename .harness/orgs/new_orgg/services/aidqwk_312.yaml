@@ -1,0 +1,7 @@
+service:
+  name: lcxybnvv
+  identifier: lcxybnvv
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: huxqgapo
+  identifier: huxqgapo
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

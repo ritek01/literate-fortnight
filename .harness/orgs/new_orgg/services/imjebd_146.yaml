@@ -1,0 +1,7 @@
+service:
+  name: xnknuouj
+  identifier: xnknuouj
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

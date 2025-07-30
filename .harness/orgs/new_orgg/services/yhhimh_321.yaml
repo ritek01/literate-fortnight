@@ -1,0 +1,7 @@
+service:
+  name: htlgyqbu
+  identifier: htlgyqbu
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

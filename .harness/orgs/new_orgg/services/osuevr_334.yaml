@@ -1,0 +1,7 @@
+service:
+  name: piyzhxbw
+  identifier: piyzhxbw
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: envetjkd
+  identifier: envetjkd
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

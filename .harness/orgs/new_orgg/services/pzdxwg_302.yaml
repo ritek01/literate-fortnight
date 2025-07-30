@@ -1,0 +1,7 @@
+service:
+  name: ydkpymtx
+  identifier: ydkpymtx
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

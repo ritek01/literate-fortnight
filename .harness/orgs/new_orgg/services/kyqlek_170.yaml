@@ -1,0 +1,7 @@
+service:
+  name: cjycmmys
+  identifier: cjycmmys
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

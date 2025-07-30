@@ -1,0 +1,7 @@
+service:
+  name: vmnjmmoe
+  identifier: vmnjmmoe
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

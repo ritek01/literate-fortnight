@@ -1,0 +1,7 @@
+service:
+  name: upuscoiy
+  identifier: upuscoiy
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

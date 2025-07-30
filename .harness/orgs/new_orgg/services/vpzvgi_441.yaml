@@ -1,0 +1,7 @@
+service:
+  name: ihfvllvc
+  identifier: ihfvllvc
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

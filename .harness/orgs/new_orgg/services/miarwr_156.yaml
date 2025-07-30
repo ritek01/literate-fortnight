@@ -1,0 +1,7 @@
+service:
+  name: lchkheyj
+  identifier: lchkheyj
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

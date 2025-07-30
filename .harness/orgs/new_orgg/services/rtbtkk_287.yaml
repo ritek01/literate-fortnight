@@ -1,0 +1,7 @@
+service:
+  name: drlfxyij
+  identifier: drlfxyij
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

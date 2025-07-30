@@ -1,0 +1,7 @@
+service:
+  name: mifbibaj
+  identifier: mifbibaj
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: keqwdqbr
+  identifier: keqwdqbr
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

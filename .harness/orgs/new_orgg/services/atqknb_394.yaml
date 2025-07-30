@@ -1,0 +1,7 @@
+service:
+  name: zxtsosuu
+  identifier: zxtsosuu
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

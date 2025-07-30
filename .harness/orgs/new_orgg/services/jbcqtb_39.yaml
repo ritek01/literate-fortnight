@@ -1,0 +1,7 @@
+service:
+  name: otbrnoal
+  identifier: otbrnoal
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

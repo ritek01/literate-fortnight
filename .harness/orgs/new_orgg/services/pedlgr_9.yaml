@@ -1,0 +1,7 @@
+service:
+  name: obffejmw
+  identifier: obffejmw
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: rniyeqda
+  identifier: rniyeqda
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

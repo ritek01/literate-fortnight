@@ -1,0 +1,7 @@
+service:
+  name: bptyllhr
+  identifier: bptyllhr
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

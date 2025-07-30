@@ -1,0 +1,7 @@
+service:
+  name: hspaszep
+  identifier: hspaszep
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

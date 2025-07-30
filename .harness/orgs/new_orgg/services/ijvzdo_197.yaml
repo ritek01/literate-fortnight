@@ -1,0 +1,7 @@
+service:
+  name: ocfoljse
+  identifier: ocfoljse
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

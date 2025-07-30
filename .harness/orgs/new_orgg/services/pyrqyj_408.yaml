@@ -1,0 +1,7 @@
+service:
+  name: qcetmnkr
+  identifier: qcetmnkr
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

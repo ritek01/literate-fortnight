@@ -1,0 +1,7 @@
+service:
+  name: jqabmrsf
+  identifier: jqabmrsf
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

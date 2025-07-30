@@ -1,0 +1,7 @@
+service:
+  name: uxbxjzsf
+  identifier: uxbxjzsf
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

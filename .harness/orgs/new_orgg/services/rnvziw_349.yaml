@@ -1,0 +1,7 @@
+service:
+  name: bnyfovgt
+  identifier: bnyfovgt
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

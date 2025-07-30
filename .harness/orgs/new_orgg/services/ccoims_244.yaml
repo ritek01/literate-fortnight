@@ -1,0 +1,7 @@
+service:
+  name: zyemrriv
+  identifier: zyemrriv
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

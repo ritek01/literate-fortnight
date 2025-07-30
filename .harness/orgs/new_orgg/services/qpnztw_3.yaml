@@ -1,0 +1,7 @@
+service:
+  name: htcyqbzh
+  identifier: htcyqbzh
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

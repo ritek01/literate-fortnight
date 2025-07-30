@@ -1,0 +1,7 @@
+service:
+  name: epcvwdnq
+  identifier: epcvwdnq
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

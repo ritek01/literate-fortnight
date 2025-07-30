@@ -1,0 +1,7 @@
+service:
+  name: wqrmhqbv
+  identifier: wqrmhqbv
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

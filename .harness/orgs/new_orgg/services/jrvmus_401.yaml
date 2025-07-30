@@ -1,0 +1,7 @@
+service:
+  name: ipiutmim
+  identifier: ipiutmim
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: lmlkwifv
+  identifier: lmlkwifv
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: yqideizw
+  identifier: yqideizw
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

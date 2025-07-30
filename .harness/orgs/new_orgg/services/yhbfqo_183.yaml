@@ -1,0 +1,7 @@
+service:
+  name: bjxccfbd
+  identifier: bjxccfbd
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

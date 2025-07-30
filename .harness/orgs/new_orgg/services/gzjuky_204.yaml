@@ -1,0 +1,7 @@
+service:
+  name: tyrgtkrg
+  identifier: tyrgtkrg
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

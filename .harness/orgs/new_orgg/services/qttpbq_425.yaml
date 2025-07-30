@@ -1,0 +1,7 @@
+service:
+  name: tunuyeys
+  identifier: tunuyeys
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

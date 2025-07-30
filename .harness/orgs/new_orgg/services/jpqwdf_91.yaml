@@ -1,0 +1,7 @@
+service:
+  name: fpyprgqe
+  identifier: fpyprgqe
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

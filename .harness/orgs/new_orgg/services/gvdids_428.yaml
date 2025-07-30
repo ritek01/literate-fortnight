@@ -1,0 +1,7 @@
+service:
+  name: zjjkkays
+  identifier: zjjkkays
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

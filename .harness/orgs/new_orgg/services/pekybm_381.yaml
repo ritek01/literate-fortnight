@@ -1,0 +1,7 @@
+service:
+  name: yckjaeia
+  identifier: yckjaeia
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

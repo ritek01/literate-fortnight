@@ -1,0 +1,7 @@
+service:
+  name: stxyikru
+  identifier: stxyikru
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

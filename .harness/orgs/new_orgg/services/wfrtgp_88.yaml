@@ -1,0 +1,7 @@
+service:
+  name: klckowyo
+  identifier: klckowyo
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: khpsfwee
+  identifier: khpsfwee
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

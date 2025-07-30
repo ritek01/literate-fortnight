@@ -1,0 +1,7 @@
+service:
+  name: gfhirwyn
+  identifier: gfhirwyn
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: jjhxzjmg
+  identifier: jjhxzjmg
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

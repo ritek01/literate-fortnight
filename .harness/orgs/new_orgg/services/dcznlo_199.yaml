@@ -1,0 +1,7 @@
+service:
+  name: zsasygam
+  identifier: zsasygam
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

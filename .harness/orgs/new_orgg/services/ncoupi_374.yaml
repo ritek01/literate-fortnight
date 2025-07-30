@@ -1,0 +1,7 @@
+service:
+  name: jfrcffav
+  identifier: jfrcffav
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

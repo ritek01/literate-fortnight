@@ -1,0 +1,7 @@
+service:
+  name: fhkwmppp
+  identifier: fhkwmppp
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

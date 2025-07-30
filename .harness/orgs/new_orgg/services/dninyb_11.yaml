@@ -1,0 +1,7 @@
+service:
+  name: tocxzizb
+  identifier: tocxzizb
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: zxadutip
+  identifier: zxadutip
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: abpogidv
+  identifier: abpogidv
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

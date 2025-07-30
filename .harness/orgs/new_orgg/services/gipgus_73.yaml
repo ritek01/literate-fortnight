@@ -1,0 +1,7 @@
+service:
+  name: apbtzcla
+  identifier: apbtzcla
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

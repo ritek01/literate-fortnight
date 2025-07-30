@@ -1,0 +1,7 @@
+service:
+  name: lxtnaven
+  identifier: lxtnaven
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

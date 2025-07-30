@@ -1,0 +1,7 @@
+service:
+  name: butnoxxm
+  identifier: butnoxxm
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

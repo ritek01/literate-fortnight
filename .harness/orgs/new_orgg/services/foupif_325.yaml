@@ -1,0 +1,7 @@
+service:
+  name: yybfxqwo
+  identifier: yybfxqwo
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: rdcbgbug
+  identifier: rdcbgbug
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

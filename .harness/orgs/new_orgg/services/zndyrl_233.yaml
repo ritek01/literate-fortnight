@@ -1,0 +1,7 @@
+service:
+  name: pjvytxrt
+  identifier: pjvytxrt
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

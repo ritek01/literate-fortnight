@@ -1,0 +1,7 @@
+service:
+  name: tdluobwc
+  identifier: tdluobwc
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

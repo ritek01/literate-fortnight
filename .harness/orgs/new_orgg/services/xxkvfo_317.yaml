@@ -1,0 +1,7 @@
+service:
+  name: yzosrlxe
+  identifier: yzosrlxe
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: arashwfq
+  identifier: arashwfq
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

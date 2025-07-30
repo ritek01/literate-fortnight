@@ -1,0 +1,7 @@
+service:
+  name: imloklct
+  identifier: imloklct
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

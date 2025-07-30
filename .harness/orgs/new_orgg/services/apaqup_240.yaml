@@ -1,0 +1,7 @@
+service:
+  name: cuxrorwk
+  identifier: cuxrorwk
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

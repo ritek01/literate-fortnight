@@ -1,0 +1,7 @@
+service:
+  name: faiikred
+  identifier: faiikred
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

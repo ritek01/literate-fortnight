@@ -1,0 +1,7 @@
+service:
+  name: enjckbfi
+  identifier: enjckbfi
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

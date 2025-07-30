@@ -1,0 +1,7 @@
+service:
+  name: unuhfzbd
+  identifier: unuhfzbd
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

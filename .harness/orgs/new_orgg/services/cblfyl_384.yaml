@@ -1,0 +1,7 @@
+service:
+  name: irtxsviw
+  identifier: irtxsviw
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

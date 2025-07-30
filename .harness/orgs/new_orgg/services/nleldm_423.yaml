@@ -1,0 +1,7 @@
+service:
+  name: ppdggxqi
+  identifier: ppdggxqi
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

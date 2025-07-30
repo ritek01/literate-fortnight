@@ -1,0 +1,7 @@
+service:
+  name: nnrrkohg
+  identifier: nnrrkohg
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

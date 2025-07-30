@@ -1,0 +1,7 @@
+service:
+  name: pvyfjosm
+  identifier: pvyfjosm
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

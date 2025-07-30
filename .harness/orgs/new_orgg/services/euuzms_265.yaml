@@ -1,0 +1,7 @@
+service:
+  name: gphjthlq
+  identifier: gphjthlq
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

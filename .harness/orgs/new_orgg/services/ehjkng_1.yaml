@@ -1,0 +1,7 @@
+service:
+  name: jwovkjmy
+  identifier: jwovkjmy
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

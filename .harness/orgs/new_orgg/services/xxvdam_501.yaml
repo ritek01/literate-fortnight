@@ -1,0 +1,7 @@
+service:
+  name: pspzaett
+  identifier: pspzaett
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

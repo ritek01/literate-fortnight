@@ -1,0 +1,7 @@
+service:
+  name: caipgcfg
+  identifier: caipgcfg
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

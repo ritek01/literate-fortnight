@@ -1,0 +1,7 @@
+service:
+  name: kymjeaak
+  identifier: kymjeaak
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

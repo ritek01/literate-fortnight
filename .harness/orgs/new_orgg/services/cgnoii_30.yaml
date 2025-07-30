@@ -1,0 +1,7 @@
+service:
+  name: mqtwmuii
+  identifier: mqtwmuii
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

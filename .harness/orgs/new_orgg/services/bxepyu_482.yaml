@@ -1,0 +1,7 @@
+service:
+  name: zamfeuxd
+  identifier: zamfeuxd
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

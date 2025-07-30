@@ -1,0 +1,7 @@
+service:
+  name: tulowlsr
+  identifier: tulowlsr
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: chvdmvip
+  identifier: chvdmvip
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

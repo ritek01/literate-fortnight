@@ -1,0 +1,7 @@
+service:
+  name: dtbpggxu
+  identifier: dtbpggxu
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

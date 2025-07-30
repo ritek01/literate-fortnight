@@ -1,0 +1,7 @@
+service:
+  name: ivvownqe
+  identifier: ivvownqe
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

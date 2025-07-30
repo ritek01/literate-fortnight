@@ -1,0 +1,7 @@
+service:
+  name: iyrnqdnm
+  identifier: iyrnqdnm
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

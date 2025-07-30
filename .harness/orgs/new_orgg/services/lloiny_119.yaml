@@ -1,0 +1,7 @@
+service:
+  name: rbiavrpz
+  identifier: rbiavrpz
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

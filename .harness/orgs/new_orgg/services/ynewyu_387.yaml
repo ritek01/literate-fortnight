@@ -1,0 +1,7 @@
+service:
+  name: bvgurzyz
+  identifier: bvgurzyz
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

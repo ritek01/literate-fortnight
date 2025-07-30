@@ -1,0 +1,7 @@
+service:
+  name: sjhmscqm
+  identifier: sjhmscqm
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

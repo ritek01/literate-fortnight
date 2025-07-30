@@ -1,0 +1,7 @@
+service:
+  name: lxqehwdv
+  identifier: lxqehwdv
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

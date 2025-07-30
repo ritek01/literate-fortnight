@@ -1,0 +1,7 @@
+service:
+  name: zkdgeorn
+  identifier: zkdgeorn
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

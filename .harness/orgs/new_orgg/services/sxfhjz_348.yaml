@@ -1,0 +1,7 @@
+service:
+  name: evtzkexz
+  identifier: evtzkexz
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

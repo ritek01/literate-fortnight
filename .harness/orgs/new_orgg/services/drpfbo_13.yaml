@@ -1,0 +1,7 @@
+service:
+  name: wyxddtlk
+  identifier: wyxddtlk
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

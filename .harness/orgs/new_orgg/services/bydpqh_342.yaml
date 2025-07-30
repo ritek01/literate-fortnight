@@ -1,0 +1,7 @@
+service:
+  name: aqbxwlxk
+  identifier: aqbxwlxk
+  orgIdentifier: new_orgg
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
