@@ -1,0 +1,7 @@
+service:
+  name: vknyosnr
+  identifier: vknyosnr
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

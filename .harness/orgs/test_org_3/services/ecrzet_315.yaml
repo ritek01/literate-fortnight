@@ -1,0 +1,7 @@
+service:
+  name: ccezudcm
+  identifier: ccezudcm
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

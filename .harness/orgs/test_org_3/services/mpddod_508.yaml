@@ -1,0 +1,7 @@
+service:
+  name: rdngihlf
+  identifier: rdngihlf
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

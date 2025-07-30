@@ -1,0 +1,7 @@
+service:
+  name: txdittfc
+  identifier: txdittfc
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

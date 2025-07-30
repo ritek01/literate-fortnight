@@ -1,0 +1,7 @@
+service:
+  name: nslkzosm
+  identifier: nslkzosm
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

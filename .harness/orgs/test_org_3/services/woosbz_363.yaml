@@ -1,0 +1,7 @@
+service:
+  name: hbkwpsfp
+  identifier: hbkwpsfp
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

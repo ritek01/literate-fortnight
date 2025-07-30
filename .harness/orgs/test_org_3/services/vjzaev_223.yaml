@@ -1,0 +1,7 @@
+service:
+  name: bpnctipt
+  identifier: bpnctipt
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

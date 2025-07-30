@@ -1,0 +1,7 @@
+service:
+  name: ztykxftb
+  identifier: ztykxftb
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

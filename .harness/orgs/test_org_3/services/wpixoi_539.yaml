@@ -1,0 +1,7 @@
+service:
+  name: okhadiwl
+  identifier: okhadiwl
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

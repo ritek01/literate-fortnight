@@ -1,0 +1,7 @@
+service:
+  name: yawcgyjj
+  identifier: yawcgyjj
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

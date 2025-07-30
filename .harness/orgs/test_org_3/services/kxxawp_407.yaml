@@ -1,0 +1,7 @@
+service:
+  name: udyzyijc
+  identifier: udyzyijc
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

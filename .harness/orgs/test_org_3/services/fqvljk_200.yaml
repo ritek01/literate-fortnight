@@ -1,0 +1,7 @@
+service:
+  name: eyempwta
+  identifier: eyempwta
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

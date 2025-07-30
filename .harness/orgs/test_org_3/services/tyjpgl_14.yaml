@@ -1,0 +1,7 @@
+service:
+  name: hdzdmxvv
+  identifier: hdzdmxvv
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

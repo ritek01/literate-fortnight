@@ -1,0 +1,7 @@
+service:
+  name: fkmkfwmv
+  identifier: fkmkfwmv
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

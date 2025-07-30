@@ -1,0 +1,7 @@
+service:
+  name: mlxpwgyh
+  identifier: mlxpwgyh
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: afekplnw
+  identifier: afekplnw
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

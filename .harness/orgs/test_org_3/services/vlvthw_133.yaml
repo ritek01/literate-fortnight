@@ -1,0 +1,7 @@
+service:
+  name: uxxppicp
+  identifier: uxxppicp
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

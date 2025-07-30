@@ -1,0 +1,7 @@
+service:
+  name: dhxkfddx
+  identifier: dhxkfddx
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

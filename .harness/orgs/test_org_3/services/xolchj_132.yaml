@@ -1,0 +1,7 @@
+service:
+  name: hblwxrha
+  identifier: hblwxrha
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

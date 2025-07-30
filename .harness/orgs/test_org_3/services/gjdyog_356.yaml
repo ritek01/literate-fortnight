@@ -1,0 +1,7 @@
+service:
+  name: ijdvpmcr
+  identifier: ijdvpmcr
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

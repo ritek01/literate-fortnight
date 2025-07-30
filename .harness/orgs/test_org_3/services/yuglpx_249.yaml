@@ -1,0 +1,7 @@
+service:
+  name: pyveqepk
+  identifier: pyveqepk
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

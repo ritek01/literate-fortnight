@@ -1,0 +1,7 @@
+service:
+  name: hmesixsx
+  identifier: hmesixsx
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

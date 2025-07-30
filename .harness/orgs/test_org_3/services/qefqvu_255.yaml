@@ -1,0 +1,7 @@
+service:
+  name: vdeuzejg
+  identifier: vdeuzejg
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

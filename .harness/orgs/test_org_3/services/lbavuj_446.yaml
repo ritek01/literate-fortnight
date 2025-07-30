@@ -1,0 +1,7 @@
+service:
+  name: qmvcycez
+  identifier: qmvcycez
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

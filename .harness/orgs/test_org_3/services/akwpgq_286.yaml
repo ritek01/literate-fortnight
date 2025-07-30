@@ -1,0 +1,7 @@
+service:
+  name: zooabbjl
+  identifier: zooabbjl
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

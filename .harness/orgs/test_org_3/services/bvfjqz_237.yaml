@@ -1,0 +1,7 @@
+service:
+  name: oshumsqp
+  identifier: oshumsqp
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: lhppxxnx
+  identifier: lhppxxnx
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

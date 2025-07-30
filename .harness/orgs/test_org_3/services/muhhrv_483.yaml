@@ -1,0 +1,7 @@
+service:
+  name: drulzqcc
+  identifier: drulzqcc
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

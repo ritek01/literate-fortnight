@@ -1,0 +1,7 @@
+service:
+  name: qfdqvjii
+  identifier: qfdqvjii
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

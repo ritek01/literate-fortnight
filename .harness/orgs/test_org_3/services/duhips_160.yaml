@@ -1,0 +1,7 @@
+service:
+  name: wdqyueyv
+  identifier: wdqyueyv
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

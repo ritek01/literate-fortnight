@@ -1,0 +1,7 @@
+service:
+  name: lftcdowh
+  identifier: lftcdowh
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

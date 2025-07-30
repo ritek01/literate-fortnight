@@ -1,0 +1,7 @@
+service:
+  name: czrslhpy
+  identifier: czrslhpy
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

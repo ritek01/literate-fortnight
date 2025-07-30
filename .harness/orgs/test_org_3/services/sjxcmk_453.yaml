@@ -1,0 +1,7 @@
+service:
+  name: rwxiqzym
+  identifier: rwxiqzym
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

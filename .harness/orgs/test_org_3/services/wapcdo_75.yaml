@@ -1,0 +1,7 @@
+service:
+  name: evojhtls
+  identifier: evojhtls
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

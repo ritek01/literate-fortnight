@@ -1,0 +1,7 @@
+service:
+  name: xykppbzg
+  identifier: xykppbzg
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

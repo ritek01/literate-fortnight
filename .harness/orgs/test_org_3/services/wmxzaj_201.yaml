@@ -1,0 +1,7 @@
+service:
+  name: flefzfrq
+  identifier: flefzfrq
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

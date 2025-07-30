@@ -1,0 +1,7 @@
+service:
+  name: ktyttxws
+  identifier: ktyttxws
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

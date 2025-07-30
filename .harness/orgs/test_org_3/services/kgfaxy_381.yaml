@@ -1,0 +1,7 @@
+service:
+  name: tlrjtdwh
+  identifier: tlrjtdwh
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

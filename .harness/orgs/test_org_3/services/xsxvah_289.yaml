@@ -1,0 +1,7 @@
+service:
+  name: gorjjhkk
+  identifier: gorjjhkk
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

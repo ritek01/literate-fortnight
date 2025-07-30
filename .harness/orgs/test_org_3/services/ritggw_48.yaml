@@ -1,0 +1,7 @@
+service:
+  name: qoaksobf
+  identifier: qoaksobf
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

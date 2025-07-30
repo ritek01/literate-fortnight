@@ -1,0 +1,7 @@
+service:
+  name: syeajrep
+  identifier: syeajrep
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

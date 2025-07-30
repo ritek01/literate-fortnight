@@ -1,0 +1,7 @@
+service:
+  name: izloqeef
+  identifier: izloqeef
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

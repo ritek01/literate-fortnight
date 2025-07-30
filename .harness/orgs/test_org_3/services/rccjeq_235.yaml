@@ -1,0 +1,7 @@
+service:
+  name: xyomcmpj
+  identifier: xyomcmpj
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

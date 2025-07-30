@@ -1,0 +1,7 @@
+service:
+  name: ycxkxgiv
+  identifier: ycxkxgiv
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

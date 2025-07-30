@@ -1,0 +1,7 @@
+service:
+  name: iczuqsey
+  identifier: iczuqsey
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

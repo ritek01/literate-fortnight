@@ -1,0 +1,7 @@
+service:
+  name: vyjzyqwd
+  identifier: vyjzyqwd
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

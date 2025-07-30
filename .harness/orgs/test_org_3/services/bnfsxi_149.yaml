@@ -1,0 +1,7 @@
+service:
+  name: hoyrgodc
+  identifier: hoyrgodc
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

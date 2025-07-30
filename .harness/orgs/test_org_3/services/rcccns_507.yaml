@@ -1,0 +1,7 @@
+service:
+  name: obwupbpq
+  identifier: obwupbpq
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

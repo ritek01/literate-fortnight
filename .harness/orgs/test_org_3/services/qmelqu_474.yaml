@@ -1,0 +1,7 @@
+service:
+  name: hagbuokp
+  identifier: hagbuokp
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

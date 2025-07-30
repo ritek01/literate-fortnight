@@ -1,0 +1,7 @@
+service:
+  name: uorxlwsx
+  identifier: uorxlwsx
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

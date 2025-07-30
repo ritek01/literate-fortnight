@@ -1,0 +1,7 @@
+service:
+  name: yofgfbsc
+  identifier: yofgfbsc
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

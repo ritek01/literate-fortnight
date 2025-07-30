@@ -1,0 +1,7 @@
+service:
+  name: gyjgxegi
+  identifier: gyjgxegi
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

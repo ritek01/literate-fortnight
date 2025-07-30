@@ -1,0 +1,7 @@
+service:
+  name: tcuwqayz
+  identifier: tcuwqayz
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

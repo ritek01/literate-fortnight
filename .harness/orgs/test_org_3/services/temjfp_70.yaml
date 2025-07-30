@@ -1,0 +1,7 @@
+service:
+  name: wdozhbub
+  identifier: wdozhbub
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

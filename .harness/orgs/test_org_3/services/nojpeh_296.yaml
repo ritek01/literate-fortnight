@@ -1,0 +1,7 @@
+service:
+  name: rknnoale
+  identifier: rknnoale
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: hjhrolfx
+  identifier: hjhrolfx
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

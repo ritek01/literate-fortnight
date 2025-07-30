@@ -1,0 +1,7 @@
+service:
+  name: naacbowm
+  identifier: naacbowm
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: zufmtzij
+  identifier: zufmtzij
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

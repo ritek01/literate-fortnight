@@ -1,0 +1,7 @@
+service:
+  name: vbygucsb
+  identifier: vbygucsb
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: ekjfsavx
+  identifier: ekjfsavx
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

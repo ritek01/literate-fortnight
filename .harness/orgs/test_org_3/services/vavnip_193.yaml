@@ -1,0 +1,7 @@
+service:
+  name: flrbesev
+  identifier: flrbesev
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

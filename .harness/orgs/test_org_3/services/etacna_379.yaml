@@ -1,0 +1,7 @@
+service:
+  name: zqtuaasr
+  identifier: zqtuaasr
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

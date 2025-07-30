@@ -1,0 +1,7 @@
+service:
+  name: tknpafac
+  identifier: tknpafac
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: iieniqxk
+  identifier: iieniqxk
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

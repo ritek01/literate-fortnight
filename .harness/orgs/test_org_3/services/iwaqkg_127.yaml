@@ -1,0 +1,7 @@
+service:
+  name: ozxqkbeu
+  identifier: ozxqkbeu
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

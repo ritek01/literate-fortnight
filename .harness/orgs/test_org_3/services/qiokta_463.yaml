@@ -1,0 +1,7 @@
+service:
+  name: wjbthqht
+  identifier: wjbthqht
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

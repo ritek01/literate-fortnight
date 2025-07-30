@@ -1,0 +1,7 @@
+service:
+  name: xgdfltpd
+  identifier: xgdfltpd
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

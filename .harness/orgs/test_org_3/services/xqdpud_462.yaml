@@ -1,0 +1,7 @@
+service:
+  name: wgatpimu
+  identifier: wgatpimu
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

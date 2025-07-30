@@ -1,0 +1,7 @@
+service:
+  name: yfrbhcsi
+  identifier: yfrbhcsi
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

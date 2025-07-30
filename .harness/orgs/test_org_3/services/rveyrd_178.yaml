@@ -1,0 +1,7 @@
+service:
+  name: xyxdxaju
+  identifier: xyxdxaju
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

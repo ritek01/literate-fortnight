@@ -1,0 +1,7 @@
+service:
+  name: higevkin
+  identifier: higevkin
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

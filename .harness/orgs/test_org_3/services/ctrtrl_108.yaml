@@ -1,0 +1,7 @@
+service:
+  name: pskubvbh
+  identifier: pskubvbh
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

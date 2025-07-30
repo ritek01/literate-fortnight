@@ -1,0 +1,7 @@
+service:
+  name: gfcwvnht
+  identifier: gfcwvnht
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

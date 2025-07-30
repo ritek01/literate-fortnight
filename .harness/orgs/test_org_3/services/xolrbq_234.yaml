@@ -1,0 +1,7 @@
+service:
+  name: ojkzaups
+  identifier: ojkzaups
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

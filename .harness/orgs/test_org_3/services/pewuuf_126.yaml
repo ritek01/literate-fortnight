@@ -1,0 +1,7 @@
+service:
+  name: ehgybdrd
+  identifier: ehgybdrd
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

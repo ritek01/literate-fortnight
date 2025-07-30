@@ -1,0 +1,7 @@
+service:
+  name: rotogita
+  identifier: rotogita
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

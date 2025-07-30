@@ -1,0 +1,7 @@
+service:
+  name: kehcwent
+  identifier: kehcwent
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

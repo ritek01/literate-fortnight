@@ -1,0 +1,7 @@
+service:
+  name: uhiuvuib
+  identifier: uhiuvuib
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

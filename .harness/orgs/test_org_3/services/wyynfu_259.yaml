@@ -1,0 +1,7 @@
+service:
+  name: fggbross
+  identifier: fggbross
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

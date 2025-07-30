@@ -1,0 +1,7 @@
+service:
+  name: gnlbichu
+  identifier: gnlbichu
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

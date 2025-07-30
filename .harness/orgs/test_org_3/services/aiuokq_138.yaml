@@ -1,0 +1,7 @@
+service:
+  name: wwmrvwsu
+  identifier: wwmrvwsu
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

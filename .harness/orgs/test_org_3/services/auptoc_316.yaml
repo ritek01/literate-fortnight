@@ -1,0 +1,7 @@
+service:
+  name: stumtpjx
+  identifier: stumtpjx
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

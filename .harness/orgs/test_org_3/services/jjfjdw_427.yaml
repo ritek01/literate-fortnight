@@ -1,0 +1,7 @@
+service:
+  name: unywqdbb
+  identifier: unywqdbb
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

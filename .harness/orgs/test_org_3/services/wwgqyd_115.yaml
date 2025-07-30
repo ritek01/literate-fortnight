@@ -1,0 +1,7 @@
+service:
+  name: operlxjr
+  identifier: operlxjr
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

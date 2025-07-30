@@ -1,0 +1,7 @@
+service:
+  name: ossxvfxt
+  identifier: ossxvfxt
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

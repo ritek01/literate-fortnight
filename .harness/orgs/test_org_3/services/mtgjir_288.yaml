@@ -1,0 +1,7 @@
+service:
+  name: wuhwvorj
+  identifier: wuhwvorj
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

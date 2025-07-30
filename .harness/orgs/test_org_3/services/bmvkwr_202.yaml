@@ -1,0 +1,7 @@
+service:
+  name: dfadwmhh
+  identifier: dfadwmhh
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

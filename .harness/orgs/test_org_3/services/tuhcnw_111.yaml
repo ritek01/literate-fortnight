@@ -1,0 +1,7 @@
+service:
+  name: llhesdmy
+  identifier: llhesdmy
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: wgoqjjyi
+  identifier: wgoqjjyi
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: dexrphji
+  identifier: dexrphji
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

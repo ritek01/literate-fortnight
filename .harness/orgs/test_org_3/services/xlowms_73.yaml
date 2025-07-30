@@ -1,0 +1,7 @@
+service:
+  name: kacqwttb
+  identifier: kacqwttb
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

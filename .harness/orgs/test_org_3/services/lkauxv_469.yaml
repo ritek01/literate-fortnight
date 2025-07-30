@@ -1,0 +1,7 @@
+service:
+  name: tmleqljz
+  identifier: tmleqljz
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

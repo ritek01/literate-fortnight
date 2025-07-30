@@ -1,0 +1,7 @@
+service:
+  name: pkkcirpm
+  identifier: pkkcirpm
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: rdfrmgpw
+  identifier: rdfrmgpw
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

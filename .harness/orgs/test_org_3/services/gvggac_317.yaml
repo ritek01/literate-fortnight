@@ -1,0 +1,7 @@
+service:
+  name: ohkwvofh
+  identifier: ohkwvofh
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

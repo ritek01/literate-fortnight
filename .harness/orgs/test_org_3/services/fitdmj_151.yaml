@@ -1,0 +1,7 @@
+service:
+  name: agfnsemg
+  identifier: agfnsemg
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

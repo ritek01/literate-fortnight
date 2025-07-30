@@ -1,0 +1,7 @@
+service:
+  name: kfafmpjq
+  identifier: kfafmpjq
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

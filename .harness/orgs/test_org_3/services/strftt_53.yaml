@@ -1,0 +1,7 @@
+service:
+  name: qzddmlkk
+  identifier: qzddmlkk
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

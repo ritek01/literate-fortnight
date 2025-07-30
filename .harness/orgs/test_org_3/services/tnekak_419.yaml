@@ -1,0 +1,7 @@
+service:
+  name: uhcbsunp
+  identifier: uhcbsunp
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

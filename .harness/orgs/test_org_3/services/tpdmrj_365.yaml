@@ -1,0 +1,7 @@
+service:
+  name: ntqvealc
+  identifier: ntqvealc
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

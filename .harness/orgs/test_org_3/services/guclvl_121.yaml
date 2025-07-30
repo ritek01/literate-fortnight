@@ -1,0 +1,7 @@
+service:
+  name: ojbtgcid
+  identifier: ojbtgcid
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

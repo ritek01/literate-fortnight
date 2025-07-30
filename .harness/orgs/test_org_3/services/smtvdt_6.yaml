@@ -1,0 +1,7 @@
+service:
+  name: gpzkdsql
+  identifier: gpzkdsql
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

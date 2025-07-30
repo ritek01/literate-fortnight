@@ -1,0 +1,7 @@
+service:
+  name: dwpeuocs
+  identifier: dwpeuocs
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

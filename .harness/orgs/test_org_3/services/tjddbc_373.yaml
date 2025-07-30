@@ -1,0 +1,7 @@
+service:
+  name: vmthbxjg
+  identifier: vmthbxjg
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

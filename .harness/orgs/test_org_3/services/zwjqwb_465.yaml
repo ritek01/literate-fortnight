@@ -1,0 +1,7 @@
+service:
+  name: bevdvpud
+  identifier: bevdvpud
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

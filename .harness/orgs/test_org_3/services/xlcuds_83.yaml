@@ -1,0 +1,7 @@
+service:
+  name: gtnctakj
+  identifier: gtnctakj
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

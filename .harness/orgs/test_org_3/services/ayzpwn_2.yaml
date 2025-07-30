@@ -1,0 +1,7 @@
+service:
+  name: oxxjphhf
+  identifier: oxxjphhf
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

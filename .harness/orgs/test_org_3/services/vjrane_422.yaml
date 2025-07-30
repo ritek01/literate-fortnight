@@ -1,0 +1,7 @@
+service:
+  name: myaafzzk
+  identifier: myaafzzk
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

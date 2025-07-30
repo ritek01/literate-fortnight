@@ -1,0 +1,7 @@
+service:
+  name: jzkehwol
+  identifier: jzkehwol
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

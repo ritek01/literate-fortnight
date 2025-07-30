@@ -1,0 +1,7 @@
+service:
+  name: heplkjvb
+  identifier: heplkjvb
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

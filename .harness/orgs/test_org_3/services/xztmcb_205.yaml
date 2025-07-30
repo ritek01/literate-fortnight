@@ -1,0 +1,7 @@
+service:
+  name: kqeegavu
+  identifier: kqeegavu
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

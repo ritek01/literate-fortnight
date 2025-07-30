@@ -1,0 +1,7 @@
+service:
+  name: drrpgyzg
+  identifier: drrpgyzg
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

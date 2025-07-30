@@ -1,0 +1,7 @@
+service:
+  name: cchgjztb
+  identifier: cchgjztb
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: xwimfpdq
+  identifier: xwimfpdq
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

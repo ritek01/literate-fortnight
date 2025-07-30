@@ -1,0 +1,7 @@
+service:
+  name: eeycheib
+  identifier: eeycheib
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

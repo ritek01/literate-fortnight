@@ -1,0 +1,7 @@
+service:
+  name: dqhupgph
+  identifier: dqhupgph
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

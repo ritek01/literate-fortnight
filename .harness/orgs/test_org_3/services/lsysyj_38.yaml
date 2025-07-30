@@ -1,0 +1,7 @@
+service:
+  name: qdulsrop
+  identifier: qdulsrop
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

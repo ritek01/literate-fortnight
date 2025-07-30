@@ -1,0 +1,7 @@
+service:
+  name: jsplardq
+  identifier: jsplardq
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

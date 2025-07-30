@@ -1,0 +1,7 @@
+service:
+  name: ibuucchd
+  identifier: ibuucchd
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

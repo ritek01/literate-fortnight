@@ -1,0 +1,7 @@
+service:
+  name: grgtxdrk
+  identifier: grgtxdrk
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

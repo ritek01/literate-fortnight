@@ -1,0 +1,7 @@
+service:
+  name: naefioaz
+  identifier: naefioaz
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

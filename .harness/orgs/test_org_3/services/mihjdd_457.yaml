@@ -1,0 +1,7 @@
+service:
+  name: ocoutfxe
+  identifier: ocoutfxe
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: rmomkafz
+  identifier: rmomkafz
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

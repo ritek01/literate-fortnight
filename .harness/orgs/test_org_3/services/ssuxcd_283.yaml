@@ -1,0 +1,7 @@
+service:
+  name: frppxsbw
+  identifier: frppxsbw
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

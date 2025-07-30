@@ -1,0 +1,7 @@
+service:
+  name: ohsdxwxy
+  identifier: ohsdxwxy
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

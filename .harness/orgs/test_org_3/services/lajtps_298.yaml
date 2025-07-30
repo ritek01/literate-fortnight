@@ -1,0 +1,7 @@
+service:
+  name: xgqqcmru
+  identifier: xgqqcmru
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

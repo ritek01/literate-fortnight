@@ -1,0 +1,7 @@
+service:
+  name: ruhggdgr
+  identifier: ruhggdgr
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

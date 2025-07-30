@@ -1,0 +1,7 @@
+service:
+  name: hesmvbvx
+  identifier: hesmvbvx
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

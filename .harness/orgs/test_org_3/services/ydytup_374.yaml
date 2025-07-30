@@ -1,0 +1,7 @@
+service:
+  name: fwkokias
+  identifier: fwkokias
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

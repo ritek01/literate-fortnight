@@ -1,0 +1,7 @@
+service:
+  name: esdiratj
+  identifier: esdiratj
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: wzvuohiz
+  identifier: wzvuohiz
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

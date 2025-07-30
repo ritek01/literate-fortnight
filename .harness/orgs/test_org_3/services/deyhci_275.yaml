@@ -1,0 +1,7 @@
+service:
+  name: euirtwxk
+  identifier: euirtwxk
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

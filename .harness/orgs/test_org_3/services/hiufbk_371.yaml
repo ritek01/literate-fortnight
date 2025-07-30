@@ -1,0 +1,7 @@
+service:
+  name: pnrbnwfm
+  identifier: pnrbnwfm
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

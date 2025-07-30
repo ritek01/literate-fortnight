@@ -1,0 +1,7 @@
+service:
+  name: krwahmfw
+  identifier: krwahmfw
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

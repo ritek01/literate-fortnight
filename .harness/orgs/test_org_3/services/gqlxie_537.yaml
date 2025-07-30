@@ -1,0 +1,7 @@
+service:
+  name: qhgpywxy
+  identifier: qhgpywxy
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

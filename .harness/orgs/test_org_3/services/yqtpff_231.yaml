@@ -1,0 +1,7 @@
+service:
+  name: cfzkoeze
+  identifier: cfzkoeze
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

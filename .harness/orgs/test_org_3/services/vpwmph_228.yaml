@@ -1,0 +1,7 @@
+service:
+  name: mtcuysuk
+  identifier: mtcuysuk
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

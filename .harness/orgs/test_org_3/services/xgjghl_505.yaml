@@ -1,0 +1,7 @@
+service:
+  name: ojptwtvr
+  identifier: ojptwtvr
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

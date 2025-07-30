@@ -1,0 +1,7 @@
+service:
+  name: ngsfiuvc
+  identifier: ngsfiuvc
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

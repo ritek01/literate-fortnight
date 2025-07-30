@@ -1,0 +1,7 @@
+service:
+  name: cdhnfado
+  identifier: cdhnfado
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

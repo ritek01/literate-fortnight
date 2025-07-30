@@ -1,0 +1,7 @@
+service:
+  name: szkcledp
+  identifier: szkcledp
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

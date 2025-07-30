@@ -1,0 +1,7 @@
+service:
+  name: vwuecoql
+  identifier: vwuecoql
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

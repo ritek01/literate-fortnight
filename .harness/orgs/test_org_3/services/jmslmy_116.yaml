@@ -1,0 +1,7 @@
+service:
+  name: socvquwg
+  identifier: socvquwg
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

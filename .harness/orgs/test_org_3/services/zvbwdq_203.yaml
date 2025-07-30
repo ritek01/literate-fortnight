@@ -1,0 +1,7 @@
+service:
+  name: sczzsvos
+  identifier: sczzsvos
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: vhxsmcgr
+  identifier: vhxsmcgr
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

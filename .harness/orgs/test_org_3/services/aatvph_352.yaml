@@ -1,0 +1,7 @@
+service:
+  name: zgtcjlmy
+  identifier: zgtcjlmy
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

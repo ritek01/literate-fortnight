@@ -1,0 +1,7 @@
+service:
+  name: mnfglnvz
+  identifier: mnfglnvz
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

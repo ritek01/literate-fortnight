@@ -1,0 +1,7 @@
+service:
+  name: ouaondsu
+  identifier: ouaondsu
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

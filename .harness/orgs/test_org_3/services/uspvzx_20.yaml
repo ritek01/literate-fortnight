@@ -1,0 +1,7 @@
+service:
+  name: mpjemkzd
+  identifier: mpjemkzd
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

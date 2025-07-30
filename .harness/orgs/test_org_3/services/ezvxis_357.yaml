@@ -1,0 +1,7 @@
+service:
+  name: olvlammk
+  identifier: olvlammk
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

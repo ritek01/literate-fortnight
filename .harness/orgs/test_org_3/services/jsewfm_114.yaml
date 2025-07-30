@@ -1,0 +1,7 @@
+service:
+  name: blkrgztx
+  identifier: blkrgztx
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

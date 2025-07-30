@@ -1,0 +1,7 @@
+service:
+  name: kdhibtuh
+  identifier: kdhibtuh
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

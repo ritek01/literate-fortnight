@@ -1,0 +1,7 @@
+service:
+  name: mzvocphm
+  identifier: mzvocphm
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

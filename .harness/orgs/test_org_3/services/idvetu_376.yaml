@@ -1,0 +1,7 @@
+service:
+  name: cbbnjwrj
+  identifier: cbbnjwrj
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

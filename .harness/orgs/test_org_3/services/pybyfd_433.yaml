@@ -1,0 +1,7 @@
+service:
+  name: xsmgfatf
+  identifier: xsmgfatf
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: nbywpxqr
+  identifier: nbywpxqr
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

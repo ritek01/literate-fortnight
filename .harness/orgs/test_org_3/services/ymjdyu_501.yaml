@@ -1,0 +1,7 @@
+service:
+  name: slfoarrm
+  identifier: slfoarrm
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: uyunptnk
+  identifier: uyunptnk
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

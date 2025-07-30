@@ -1,0 +1,7 @@
+service:
+  name: aqqgwioj
+  identifier: aqqgwioj
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

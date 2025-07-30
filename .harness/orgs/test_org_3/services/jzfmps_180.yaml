@@ -1,0 +1,7 @@
+service:
+  name: vlrkudum
+  identifier: vlrkudum
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

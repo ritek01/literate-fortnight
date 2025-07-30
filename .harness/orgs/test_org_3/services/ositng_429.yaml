@@ -1,0 +1,7 @@
+service:
+  name: oplpfcua
+  identifier: oplpfcua
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

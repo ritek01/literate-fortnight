@@ -1,0 +1,7 @@
+service:
+  name: ndzopgfs
+  identifier: ndzopgfs
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

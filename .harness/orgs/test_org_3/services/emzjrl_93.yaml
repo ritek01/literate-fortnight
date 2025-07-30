@@ -1,0 +1,7 @@
+service:
+  name: mayzdhut
+  identifier: mayzdhut
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

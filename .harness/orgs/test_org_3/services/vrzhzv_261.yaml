@@ -1,0 +1,7 @@
+service:
+  name: tcwkxpmh
+  identifier: tcwkxpmh
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: nlfduvur
+  identifier: nlfduvur
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

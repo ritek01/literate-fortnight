@@ -1,0 +1,7 @@
+service:
+  name: flgeaohu
+  identifier: flgeaohu
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

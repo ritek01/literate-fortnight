@@ -1,0 +1,7 @@
+service:
+  name: zrsbupgg
+  identifier: zrsbupgg
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

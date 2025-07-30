@@ -1,0 +1,7 @@
+service:
+  name: xubkqoqn
+  identifier: xubkqoqn
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

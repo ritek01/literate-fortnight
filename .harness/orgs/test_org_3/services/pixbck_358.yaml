@@ -1,0 +1,7 @@
+service:
+  name: rlewupvs
+  identifier: rlewupvs
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

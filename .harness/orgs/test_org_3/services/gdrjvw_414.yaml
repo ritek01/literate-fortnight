@@ -1,0 +1,7 @@
+service:
+  name: aqsjiyyr
+  identifier: aqsjiyyr
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

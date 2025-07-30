@@ -1,0 +1,7 @@
+service:
+  name: wvrxcbxy
+  identifier: wvrxcbxy
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

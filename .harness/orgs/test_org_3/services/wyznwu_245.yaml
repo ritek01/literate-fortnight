@@ -1,0 +1,7 @@
+service:
+  name: seirknjr
+  identifier: seirknjr
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: fnqrifjq
+  identifier: fnqrifjq
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

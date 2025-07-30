@@ -1,0 +1,7 @@
+service:
+  name: qqhcpsqo
+  identifier: qqhcpsqo
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

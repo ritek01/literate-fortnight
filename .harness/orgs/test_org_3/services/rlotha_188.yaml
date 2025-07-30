@@ -1,0 +1,7 @@
+service:
+  name: zvkxlyja
+  identifier: zvkxlyja
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

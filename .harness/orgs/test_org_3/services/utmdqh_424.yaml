@@ -1,0 +1,7 @@
+service:
+  name: kzltxdel
+  identifier: kzltxdel
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

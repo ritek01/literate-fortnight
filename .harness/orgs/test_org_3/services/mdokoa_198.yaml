@@ -1,0 +1,7 @@
+service:
+  name: xfsykhzc
+  identifier: xfsykhzc
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

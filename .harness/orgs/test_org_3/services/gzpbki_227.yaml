@@ -1,0 +1,7 @@
+service:
+  name: chzvilax
+  identifier: chzvilax
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: dwhnignq
+  identifier: dwhnignq
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

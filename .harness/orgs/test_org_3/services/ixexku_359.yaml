@@ -1,0 +1,7 @@
+service:
+  name: xysboipd
+  identifier: xysboipd
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: lbthuwfw
+  identifier: lbthuwfw
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

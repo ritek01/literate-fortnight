@@ -1,0 +1,7 @@
+service:
+  name: psnpwrwl
+  identifier: psnpwrwl
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

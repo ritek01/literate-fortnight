@@ -1,0 +1,7 @@
+service:
+  name: fntabbhp
+  identifier: fntabbhp
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

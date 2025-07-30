@@ -1,0 +1,7 @@
+service:
+  name: pvjrkjqy
+  identifier: pvjrkjqy
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

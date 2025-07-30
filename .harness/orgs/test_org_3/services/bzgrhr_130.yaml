@@ -1,0 +1,7 @@
+service:
+  name: ikofivqe
+  identifier: ikofivqe
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

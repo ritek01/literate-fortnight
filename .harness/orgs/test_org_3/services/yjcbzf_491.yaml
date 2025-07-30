@@ -1,0 +1,7 @@
+service:
+  name: ievjrszx
+  identifier: ievjrszx
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

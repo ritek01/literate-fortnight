@@ -1,0 +1,7 @@
+service:
+  name: zlyurndo
+  identifier: zlyurndo
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: zvkalhrg
+  identifier: zvkalhrg
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

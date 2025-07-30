@@ -1,0 +1,7 @@
+service:
+  name: ncvdtvuz
+  identifier: ncvdtvuz
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

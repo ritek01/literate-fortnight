@@ -1,0 +1,7 @@
+service:
+  name: yaaajcvm
+  identifier: yaaajcvm
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

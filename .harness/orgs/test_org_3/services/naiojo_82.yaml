@@ -1,0 +1,7 @@
+service:
+  name: xxiipwjh
+  identifier: xxiipwjh
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: njhgvsiz
+  identifier: njhgvsiz
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

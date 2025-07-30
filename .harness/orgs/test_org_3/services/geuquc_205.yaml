@@ -1,0 +1,7 @@
+service:
+  name: pshkhaqx
+  identifier: pshkhaqx
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

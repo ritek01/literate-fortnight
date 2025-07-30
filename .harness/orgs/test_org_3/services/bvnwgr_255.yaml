@@ -1,0 +1,7 @@
+service:
+  name: iyxzwedm
+  identifier: iyxzwedm
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: udymfaeh
+  identifier: udymfaeh
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

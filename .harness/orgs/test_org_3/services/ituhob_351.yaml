@@ -1,0 +1,7 @@
+service:
+  name: qvybkjih
+  identifier: qvybkjih
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

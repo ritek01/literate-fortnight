@@ -1,0 +1,7 @@
+service:
+  name: plgeoyai
+  identifier: plgeoyai
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: eedpzvzu
+  identifier: eedpzvzu
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

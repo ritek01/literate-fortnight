@@ -1,0 +1,7 @@
+service:
+  name: jvzyjfcw
+  identifier: jvzyjfcw
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: qdnnjejt
+  identifier: qdnnjejt
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

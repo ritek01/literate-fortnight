@@ -1,0 +1,7 @@
+service:
+  name: uqkdlmxz
+  identifier: uqkdlmxz
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

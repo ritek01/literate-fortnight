@@ -1,0 +1,7 @@
+service:
+  name: xugllmop
+  identifier: xugllmop
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

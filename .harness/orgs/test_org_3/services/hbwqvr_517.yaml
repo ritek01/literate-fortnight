@@ -1,0 +1,7 @@
+service:
+  name: adsojjlz
+  identifier: adsojjlz
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

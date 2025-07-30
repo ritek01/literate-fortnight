@@ -1,0 +1,7 @@
+service:
+  name: smyijbut
+  identifier: smyijbut
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

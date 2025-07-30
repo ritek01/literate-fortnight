@@ -1,0 +1,7 @@
+service:
+  name: wjkcvndn
+  identifier: wjkcvndn
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

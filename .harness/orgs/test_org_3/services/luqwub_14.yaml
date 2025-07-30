@@ -1,0 +1,7 @@
+service:
+  name: prppqucc
+  identifier: prppqucc
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

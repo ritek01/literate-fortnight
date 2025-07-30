@@ -1,0 +1,7 @@
+service:
+  name: qlosgkyp
+  identifier: qlosgkyp
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

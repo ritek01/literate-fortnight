@@ -1,0 +1,7 @@
+service:
+  name: dmbozhxb
+  identifier: dmbozhxb
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

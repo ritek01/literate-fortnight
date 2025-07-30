@@ -1,0 +1,7 @@
+service:
+  name: ygawopbe
+  identifier: ygawopbe
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

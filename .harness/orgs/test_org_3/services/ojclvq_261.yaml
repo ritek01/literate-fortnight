@@ -1,0 +1,7 @@
+service:
+  name: mzbsznay
+  identifier: mzbsznay
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

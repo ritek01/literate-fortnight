@@ -1,0 +1,7 @@
+service:
+  name: yjmburgk
+  identifier: yjmburgk
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

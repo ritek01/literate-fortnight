@@ -1,0 +1,7 @@
+service:
+  name: mxywztkc
+  identifier: mxywztkc
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

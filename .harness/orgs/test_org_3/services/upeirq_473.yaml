@@ -1,0 +1,7 @@
+service:
+  name: jcyckpau
+  identifier: jcyckpau
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

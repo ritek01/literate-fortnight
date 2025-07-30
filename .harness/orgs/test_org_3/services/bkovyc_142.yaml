@@ -1,0 +1,7 @@
+service:
+  name: tckhwhds
+  identifier: tckhwhds
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

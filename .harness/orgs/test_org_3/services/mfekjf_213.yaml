@@ -1,0 +1,7 @@
+service:
+  name: xiwbdirp
+  identifier: xiwbdirp
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

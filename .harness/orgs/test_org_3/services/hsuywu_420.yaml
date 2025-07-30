@@ -1,0 +1,7 @@
+service:
+  name: vrysxksa
+  identifier: vrysxksa
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

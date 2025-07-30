@@ -1,0 +1,7 @@
+service:
+  name: xtuhxcym
+  identifier: xtuhxcym
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

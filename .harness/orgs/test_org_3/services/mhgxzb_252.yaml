@@ -1,0 +1,7 @@
+service:
+  name: xiwbbocl
+  identifier: xiwbbocl
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: mrfhrcuy
+  identifier: mrfhrcuy
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

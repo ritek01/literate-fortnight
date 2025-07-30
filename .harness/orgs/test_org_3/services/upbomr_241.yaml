@@ -1,0 +1,7 @@
+service:
+  name: btruysdp
+  identifier: btruysdp
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

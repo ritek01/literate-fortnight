@@ -1,0 +1,7 @@
+service:
+  name: vssgswjc
+  identifier: vssgswjc
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

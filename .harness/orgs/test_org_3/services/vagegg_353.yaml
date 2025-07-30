@@ -1,0 +1,7 @@
+service:
+  name: pcwgkcvu
+  identifier: pcwgkcvu
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

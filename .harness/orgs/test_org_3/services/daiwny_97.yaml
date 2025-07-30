@@ -1,0 +1,7 @@
+service:
+  name: alvddxme
+  identifier: alvddxme
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

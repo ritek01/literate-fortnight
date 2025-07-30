@@ -1,0 +1,7 @@
+service:
+  name: cpzzoeaj
+  identifier: cpzzoeaj
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

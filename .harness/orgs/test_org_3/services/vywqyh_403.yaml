@@ -1,0 +1,7 @@
+service:
+  name: raptauwb
+  identifier: raptauwb
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

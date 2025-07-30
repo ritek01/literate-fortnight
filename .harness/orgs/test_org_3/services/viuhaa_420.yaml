@@ -1,0 +1,7 @@
+service:
+  name: onweyzsa
+  identifier: onweyzsa
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

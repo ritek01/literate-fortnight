@@ -1,0 +1,7 @@
+service:
+  name: saxxobvt
+  identifier: saxxobvt
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

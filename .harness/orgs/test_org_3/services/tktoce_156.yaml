@@ -1,0 +1,7 @@
+service:
+  name: cslzydnb
+  identifier: cslzydnb
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

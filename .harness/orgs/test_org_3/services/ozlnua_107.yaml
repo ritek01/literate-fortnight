@@ -1,0 +1,7 @@
+service:
+  name: umuvwljn
+  identifier: umuvwljn
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

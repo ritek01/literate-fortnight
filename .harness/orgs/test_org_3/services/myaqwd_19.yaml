@@ -1,0 +1,7 @@
+service:
+  name: joyfuksd
+  identifier: joyfuksd
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

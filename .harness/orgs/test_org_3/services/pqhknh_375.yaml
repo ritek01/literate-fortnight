@@ -1,0 +1,7 @@
+service:
+  name: yicndrxw
+  identifier: yicndrxw
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

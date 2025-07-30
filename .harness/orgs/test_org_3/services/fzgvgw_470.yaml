@@ -1,0 +1,7 @@
+service:
+  name: vjsnmtun
+  identifier: vjsnmtun
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

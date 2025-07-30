@@ -1,0 +1,7 @@
+service:
+  name: sodxqmng
+  identifier: sodxqmng
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

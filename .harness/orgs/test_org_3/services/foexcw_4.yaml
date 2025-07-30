@@ -1,0 +1,7 @@
+service:
+  name: rffidunu
+  identifier: rffidunu
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

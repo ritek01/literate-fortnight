@@ -1,0 +1,7 @@
+service:
+  name: ieoebabj
+  identifier: ieoebabj
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

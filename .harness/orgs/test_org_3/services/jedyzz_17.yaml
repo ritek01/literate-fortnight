@@ -1,0 +1,7 @@
+service:
+  name: rqdqztpy
+  identifier: rqdqztpy
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

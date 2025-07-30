@@ -1,0 +1,7 @@
+service:
+  name: gbldlsqn
+  identifier: gbldlsqn
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

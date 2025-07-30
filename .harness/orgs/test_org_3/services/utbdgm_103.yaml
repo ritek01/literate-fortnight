@@ -1,0 +1,7 @@
+service:
+  name: hhhpfeec
+  identifier: hhhpfeec
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

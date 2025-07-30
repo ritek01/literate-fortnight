@@ -1,0 +1,7 @@
+service:
+  name: ylpofxcp
+  identifier: ylpofxcp
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

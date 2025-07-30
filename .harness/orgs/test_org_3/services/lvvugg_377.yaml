@@ -1,0 +1,7 @@
+service:
+  name: nyejvkry
+  identifier: nyejvkry
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

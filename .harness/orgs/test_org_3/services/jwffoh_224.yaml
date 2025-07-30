@@ -1,0 +1,7 @@
+service:
+  name: wbohtwfj
+  identifier: wbohtwfj
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: yweoktyg
+  identifier: yweoktyg
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

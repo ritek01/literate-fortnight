@@ -1,0 +1,7 @@
+service:
+  name: mcqbsnih
+  identifier: mcqbsnih
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

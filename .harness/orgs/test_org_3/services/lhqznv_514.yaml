@@ -1,0 +1,7 @@
+service:
+  name: fdfzrtio
+  identifier: fdfzrtio
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

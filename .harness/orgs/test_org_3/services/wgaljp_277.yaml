@@ -1,0 +1,7 @@
+service:
+  name: hpqsgogx
+  identifier: hpqsgogx
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

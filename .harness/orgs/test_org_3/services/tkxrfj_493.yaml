@@ -1,0 +1,7 @@
+service:
+  name: bneuuakn
+  identifier: bneuuakn
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

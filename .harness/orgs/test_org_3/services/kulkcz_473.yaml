@@ -1,0 +1,7 @@
+service:
+  name: tomrmddb
+  identifier: tomrmddb
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

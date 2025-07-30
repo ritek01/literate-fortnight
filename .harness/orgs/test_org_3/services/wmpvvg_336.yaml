@@ -1,0 +1,7 @@
+service:
+  name: qgzjrkur
+  identifier: qgzjrkur
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

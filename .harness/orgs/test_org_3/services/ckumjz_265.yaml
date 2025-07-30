@@ -1,0 +1,7 @@
+service:
+  name: qtbzhydy
+  identifier: qtbzhydy
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

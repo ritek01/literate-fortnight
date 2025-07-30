@@ -1,0 +1,7 @@
+service:
+  name: ckxruvfl
+  identifier: ckxruvfl
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: vhphebht
+  identifier: vhphebht
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

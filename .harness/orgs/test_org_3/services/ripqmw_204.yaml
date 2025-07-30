@@ -1,0 +1,7 @@
+service:
+  name: vdlajwmi
+  identifier: vdlajwmi
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

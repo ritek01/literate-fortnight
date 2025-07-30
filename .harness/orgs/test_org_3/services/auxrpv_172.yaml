@@ -1,0 +1,7 @@
+service:
+  name: jcslqruk
+  identifier: jcslqruk
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

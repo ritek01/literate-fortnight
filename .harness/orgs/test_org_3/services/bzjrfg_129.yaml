@@ -1,0 +1,7 @@
+service:
+  name: sgzhkizo
+  identifier: sgzhkizo
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

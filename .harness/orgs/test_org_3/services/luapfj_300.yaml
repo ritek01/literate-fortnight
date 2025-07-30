@@ -1,0 +1,7 @@
+service:
+  name: hglvcnyn
+  identifier: hglvcnyn
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

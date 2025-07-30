@@ -1,0 +1,7 @@
+service:
+  name: nhnpijen
+  identifier: nhnpijen
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

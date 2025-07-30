@@ -1,0 +1,7 @@
+service:
+  name: ijvjshxf
+  identifier: ijvjshxf
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

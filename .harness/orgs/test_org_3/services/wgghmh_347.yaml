@@ -1,0 +1,7 @@
+service:
+  name: gsckuugt
+  identifier: gsckuugt
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

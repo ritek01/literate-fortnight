@@ -1,0 +1,7 @@
+service:
+  name: czkwkbgo
+  identifier: czkwkbgo
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: lqdbxdrc
+  identifier: lqdbxdrc
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

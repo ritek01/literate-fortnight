@@ -1,0 +1,7 @@
+service:
+  name: wdatuzkm
+  identifier: wdatuzkm
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: wkkpfrsl
+  identifier: wkkpfrsl
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

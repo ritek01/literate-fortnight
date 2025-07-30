@@ -1,0 +1,7 @@
+service:
+  name: dvcslwst
+  identifier: dvcslwst
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

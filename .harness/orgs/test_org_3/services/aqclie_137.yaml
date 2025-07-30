@@ -1,0 +1,7 @@
+service:
+  name: ombxryxv
+  identifier: ombxryxv
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

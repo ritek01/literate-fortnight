@@ -1,0 +1,7 @@
+service:
+  name: cpcncxoo
+  identifier: cpcncxoo
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

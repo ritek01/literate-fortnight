@@ -1,0 +1,7 @@
+service:
+  name: xwvucheh
+  identifier: xwvucheh
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

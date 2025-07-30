@@ -1,0 +1,7 @@
+service:
+  name: wbjvzlgb
+  identifier: wbjvzlgb
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: izwswsrv
+  identifier: izwswsrv
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: dysjyykv
+  identifier: dysjyykv
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

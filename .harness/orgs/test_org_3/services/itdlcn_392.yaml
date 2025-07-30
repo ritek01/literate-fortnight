@@ -1,0 +1,7 @@
+service:
+  name: gnzrsisb
+  identifier: gnzrsisb
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

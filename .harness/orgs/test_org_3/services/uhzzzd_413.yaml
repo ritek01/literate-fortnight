@@ -1,0 +1,7 @@
+service:
+  name: beqdajik
+  identifier: beqdajik
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

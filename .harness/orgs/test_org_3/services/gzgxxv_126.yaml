@@ -1,0 +1,7 @@
+service:
+  name: bvuzdkuj
+  identifier: bvuzdkuj
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

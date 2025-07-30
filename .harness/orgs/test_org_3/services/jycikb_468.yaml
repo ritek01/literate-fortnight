@@ -1,0 +1,7 @@
+service:
+  name: wrbeyjxe
+  identifier: wrbeyjxe
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

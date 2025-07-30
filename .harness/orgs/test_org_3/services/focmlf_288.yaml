@@ -1,0 +1,7 @@
+service:
+  name: kqmfresd
+  identifier: kqmfresd
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

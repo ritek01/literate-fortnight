@@ -1,0 +1,7 @@
+service:
+  name: ktazzhln
+  identifier: ktazzhln
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

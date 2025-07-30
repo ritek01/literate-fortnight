@@ -1,0 +1,7 @@
+service:
+  name: qyizobrj
+  identifier: qyizobrj
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

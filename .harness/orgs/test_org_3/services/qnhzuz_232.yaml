@@ -1,0 +1,7 @@
+service:
+  name: gdbtftgf
+  identifier: gdbtftgf
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

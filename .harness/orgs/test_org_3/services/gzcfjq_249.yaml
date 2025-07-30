@@ -1,0 +1,7 @@
+service:
+  name: xjwxoiko
+  identifier: xjwxoiko
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

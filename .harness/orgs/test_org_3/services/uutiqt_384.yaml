@@ -1,0 +1,7 @@
+service:
+  name: whrstqvy
+  identifier: whrstqvy
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

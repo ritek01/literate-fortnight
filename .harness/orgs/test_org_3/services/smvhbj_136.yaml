@@ -1,0 +1,7 @@
+service:
+  name: wktztrmi
+  identifier: wktztrmi
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

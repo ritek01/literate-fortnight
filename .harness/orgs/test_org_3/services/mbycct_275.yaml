@@ -1,0 +1,7 @@
+service:
+  name: dblpbmsb
+  identifier: dblpbmsb
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

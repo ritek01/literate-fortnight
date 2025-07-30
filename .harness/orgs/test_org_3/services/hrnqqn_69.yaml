@@ -1,0 +1,7 @@
+service:
+  name: nxwsfjua
+  identifier: nxwsfjua
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

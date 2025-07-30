@@ -1,0 +1,7 @@
+service:
+  name: vaabmnio
+  identifier: vaabmnio
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

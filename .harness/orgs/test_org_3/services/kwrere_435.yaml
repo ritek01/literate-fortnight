@@ -1,0 +1,7 @@
+service:
+  name: aeuwfmph
+  identifier: aeuwfmph
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

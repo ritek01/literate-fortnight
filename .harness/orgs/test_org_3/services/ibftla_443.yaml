@@ -1,0 +1,7 @@
+service:
+  name: fermvqvv
+  identifier: fermvqvv
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

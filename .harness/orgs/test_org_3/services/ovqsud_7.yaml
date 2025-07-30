@@ -1,0 +1,7 @@
+service:
+  name: iewcuzhc
+  identifier: iewcuzhc
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: gknydpst
+  identifier: gknydpst
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: bfptwbme
+  identifier: bfptwbme
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

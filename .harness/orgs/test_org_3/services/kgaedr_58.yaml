@@ -1,0 +1,7 @@
+service:
+  name: wxyoudml
+  identifier: wxyoudml
+  orgIdentifier: AutoCreation_Test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

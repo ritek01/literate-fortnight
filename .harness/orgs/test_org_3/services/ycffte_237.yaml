@@ -1,0 +1,7 @@
+service:
+  name: rnqnxvxt
+  identifier: rnqnxvxt
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: suudvgvo
+  identifier: suudvgvo
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

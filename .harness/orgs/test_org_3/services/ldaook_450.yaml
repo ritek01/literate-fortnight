@@ -1,0 +1,7 @@
+service:
+  name: jznzajfy
+  identifier: jznzajfy
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

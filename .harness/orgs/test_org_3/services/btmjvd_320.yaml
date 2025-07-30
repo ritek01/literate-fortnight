@@ -1,0 +1,7 @@
+service:
+  name: lpsxvbdg
+  identifier: lpsxvbdg
+  orgIdentifier: test_org_3
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
