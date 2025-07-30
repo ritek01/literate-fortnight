@@ -1,0 +1,7 @@
+service:
+  name: ojelaqml
+  identifier: ojelaqml
+  orgIdentifier: test_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: hzmiipeu
+  identifier: hzmiipeu
+  orgIdentifier: test_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

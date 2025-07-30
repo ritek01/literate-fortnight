@@ -1,0 +1,7 @@
+service:
+  name: xqhucojx
+  identifier: xqhucojx
+  orgIdentifier: test_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

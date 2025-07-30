@@ -1,0 +1,7 @@
+service:
+  name: iwgfdvza
+  identifier: iwgfdvza
+  orgIdentifier: test_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

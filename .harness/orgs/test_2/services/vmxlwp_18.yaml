@@ -1,0 +1,7 @@
+service:
+  name: clokrurp
+  identifier: clokrurp
+  orgIdentifier: test_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

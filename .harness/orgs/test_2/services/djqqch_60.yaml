@@ -1,0 +1,7 @@
+service:
+  name: onqxzuju
+  identifier: onqxzuju
+  orgIdentifier: test_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

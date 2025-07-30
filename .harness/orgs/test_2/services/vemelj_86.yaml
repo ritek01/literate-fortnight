@@ -1,0 +1,7 @@
+service:
+  name: vrngsfub
+  identifier: vrngsfub
+  orgIdentifier: test_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

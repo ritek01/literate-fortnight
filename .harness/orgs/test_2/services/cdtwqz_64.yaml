@@ -1,0 +1,7 @@
+service:
+  name: dndsceow
+  identifier: dndsceow
+  orgIdentifier: test_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

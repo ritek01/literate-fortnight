@@ -1,0 +1,7 @@
+service:
+  name: ozvildrn
+  identifier: ozvildrn
+  orgIdentifier: test_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

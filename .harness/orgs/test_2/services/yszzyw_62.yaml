@@ -1,0 +1,7 @@
+service:
+  name: csrkkajy
+  identifier: csrkkajy
+  orgIdentifier: test_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

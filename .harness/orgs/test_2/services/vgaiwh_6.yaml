@@ -1,0 +1,7 @@
+service:
+  name: uvnqvqgt
+  identifier: uvnqvqgt
+  orgIdentifier: test_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

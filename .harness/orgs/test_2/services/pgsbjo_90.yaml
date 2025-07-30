@@ -1,0 +1,7 @@
+service:
+  name: trtldpfr
+  identifier: trtldpfr
+  orgIdentifier: test_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: nigmjneh
+  identifier: nigmjneh
+  orgIdentifier: test_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

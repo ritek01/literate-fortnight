@@ -1,0 +1,7 @@
+service:
+  name: bepxwwme
+  identifier: bepxwwme
+  orgIdentifier: test_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: hduzvtqj
+  identifier: hduzvtqj
+  orgIdentifier: test_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

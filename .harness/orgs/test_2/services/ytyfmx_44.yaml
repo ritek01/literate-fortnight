@@ -1,0 +1,7 @@
+service:
+  name: icthjlxs
+  identifier: icthjlxs
+  orgIdentifier: test_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

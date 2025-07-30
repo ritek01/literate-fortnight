@@ -1,0 +1,7 @@
+service:
+  name: jewevprd
+  identifier: jewevprd
+  orgIdentifier: test_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

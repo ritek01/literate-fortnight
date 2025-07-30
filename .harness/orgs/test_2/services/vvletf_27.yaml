@@ -1,0 +1,7 @@
+service:
+  name: uwvewckb
+  identifier: uwvewckb
+  orgIdentifier: test_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

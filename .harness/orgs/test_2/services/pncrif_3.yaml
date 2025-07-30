@@ -1,0 +1,7 @@
+service:
+  name: cswhptrp
+  identifier: cswhptrp
+  orgIdentifier: test_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

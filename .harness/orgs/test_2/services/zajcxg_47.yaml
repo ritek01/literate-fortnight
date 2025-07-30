@@ -1,0 +1,7 @@
+service:
+  name: cboqztzj
+  identifier: cboqztzj
+  orgIdentifier: test_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

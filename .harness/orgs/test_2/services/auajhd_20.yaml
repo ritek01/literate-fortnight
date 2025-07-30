@@ -1,0 +1,7 @@
+service:
+  name: bsxqybze
+  identifier: bsxqybze
+  orgIdentifier: test_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

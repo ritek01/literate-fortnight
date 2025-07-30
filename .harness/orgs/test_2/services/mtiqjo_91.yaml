@@ -1,0 +1,7 @@
+service:
+  name: jtsbgvpr
+  identifier: jtsbgvpr
+  orgIdentifier: test_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

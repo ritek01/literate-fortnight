@@ -1,0 +1,7 @@
+service:
+  name: ojvhxcnl
+  identifier: ojvhxcnl
+  orgIdentifier: test_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

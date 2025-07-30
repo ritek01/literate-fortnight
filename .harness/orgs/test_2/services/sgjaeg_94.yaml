@@ -1,0 +1,7 @@
+service:
+  name: arvbecbp
+  identifier: arvbecbp
+  orgIdentifier: test_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

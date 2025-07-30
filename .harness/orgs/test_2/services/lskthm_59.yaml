@@ -1,0 +1,7 @@
+service:
+  name: imntlgcn
+  identifier: imntlgcn
+  orgIdentifier: test_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

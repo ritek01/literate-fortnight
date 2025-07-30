@@ -1,0 +1,7 @@
+service:
+  name: rfboklcj
+  identifier: rfboklcj
+  orgIdentifier: test_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

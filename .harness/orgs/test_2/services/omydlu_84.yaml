@@ -1,0 +1,7 @@
+service:
+  name: cdpcrzld
+  identifier: cdpcrzld
+  orgIdentifier: test_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

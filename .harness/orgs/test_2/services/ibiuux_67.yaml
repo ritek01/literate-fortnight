@@ -1,0 +1,7 @@
+service:
+  name: nvcthfyg
+  identifier: nvcthfyg
+  orgIdentifier: test_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

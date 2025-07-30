@@ -1,0 +1,7 @@
+service:
+  name: jicpwjgs
+  identifier: jicpwjgs
+  orgIdentifier: test_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

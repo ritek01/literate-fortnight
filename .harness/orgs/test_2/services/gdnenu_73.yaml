@@ -1,0 +1,7 @@
+service:
+  name: tfcnzemd
+  identifier: tfcnzemd
+  orgIdentifier: test_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

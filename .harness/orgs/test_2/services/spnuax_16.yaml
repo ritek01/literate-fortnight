@@ -1,0 +1,7 @@
+service:
+  name: vnpmoaby
+  identifier: vnpmoaby
+  orgIdentifier: test_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

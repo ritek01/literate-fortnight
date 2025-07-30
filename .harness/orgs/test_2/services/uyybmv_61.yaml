@@ -1,0 +1,7 @@
+service:
+  name: jcdfenor
+  identifier: jcdfenor
+  orgIdentifier: test_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: ilgoidkn
+  identifier: ilgoidkn
+  orgIdentifier: test_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

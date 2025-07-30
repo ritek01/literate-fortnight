@@ -1,0 +1,7 @@
+service:
+  name: rxuppcur
+  identifier: rxuppcur
+  orgIdentifier: test_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

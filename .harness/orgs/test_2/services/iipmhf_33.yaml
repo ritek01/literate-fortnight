@@ -1,0 +1,7 @@
+service:
+  name: pcytfuep
+  identifier: pcytfuep
+  orgIdentifier: test_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

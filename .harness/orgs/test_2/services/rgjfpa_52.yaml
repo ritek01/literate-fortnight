@@ -1,0 +1,7 @@
+service:
+  name: lpmgnqdh
+  identifier: lpmgnqdh
+  orgIdentifier: test_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

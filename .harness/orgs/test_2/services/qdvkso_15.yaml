@@ -1,0 +1,7 @@
+service:
+  name: yxswzqmg
+  identifier: yxswzqmg
+  orgIdentifier: test_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

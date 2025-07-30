@@ -1,0 +1,7 @@
+service:
+  name: jnvksfie
+  identifier: jnvksfie
+  orgIdentifier: test_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

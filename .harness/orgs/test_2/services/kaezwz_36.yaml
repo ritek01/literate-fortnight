@@ -1,0 +1,7 @@
+service:
+  name: fxbtwged
+  identifier: fxbtwged
+  orgIdentifier: test_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

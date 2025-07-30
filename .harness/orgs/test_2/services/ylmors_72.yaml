@@ -1,0 +1,7 @@
+service:
+  name: zupdybto
+  identifier: zupdybto
+  orgIdentifier: test_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

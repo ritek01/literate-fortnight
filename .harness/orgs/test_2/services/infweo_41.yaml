@@ -1,0 +1,7 @@
+service:
+  name: ufsfcntn
+  identifier: ufsfcntn
+  orgIdentifier: test_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
