@@ -1,0 +1,7 @@
+service:
+  name: zdryiaxq
+  identifier: zdryiaxq
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

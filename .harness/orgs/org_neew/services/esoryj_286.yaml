@@ -1,0 +1,7 @@
+service:
+  name: pokxynqa
+  identifier: pokxynqa
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

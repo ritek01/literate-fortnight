@@ -1,0 +1,7 @@
+service:
+  name: ikrpxzlx
+  identifier: ikrpxzlx
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

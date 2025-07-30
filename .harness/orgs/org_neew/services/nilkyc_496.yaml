@@ -1,0 +1,7 @@
+service:
+  name: vulesqfe
+  identifier: vulesqfe
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

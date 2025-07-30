@@ -1,0 +1,7 @@
+service:
+  name: aejsseep
+  identifier: aejsseep
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

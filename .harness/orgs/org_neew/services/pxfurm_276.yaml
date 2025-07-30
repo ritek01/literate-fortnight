@@ -1,0 +1,7 @@
+service:
+  name: nxpbjyqv
+  identifier: nxpbjyqv
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

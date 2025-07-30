@@ -1,0 +1,7 @@
+service:
+  name: hfacesib
+  identifier: hfacesib
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: zcgbviod
+  identifier: zcgbviod
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

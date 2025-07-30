@@ -1,0 +1,7 @@
+service:
+  name: uqbpcxno
+  identifier: uqbpcxno
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

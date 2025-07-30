@@ -1,0 +1,7 @@
+service:
+  name: mhemagxy
+  identifier: mhemagxy
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

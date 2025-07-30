@@ -1,0 +1,7 @@
+service:
+  name: zqtpwjfw
+  identifier: zqtpwjfw
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

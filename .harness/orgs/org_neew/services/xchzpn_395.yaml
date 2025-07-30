@@ -1,0 +1,7 @@
+service:
+  name: fvqrbdta
+  identifier: fvqrbdta
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

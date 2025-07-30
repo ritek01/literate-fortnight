@@ -1,0 +1,7 @@
+service:
+  name: ffceilvv
+  identifier: ffceilvv
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: vdhwgpwa
+  identifier: vdhwgpwa
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

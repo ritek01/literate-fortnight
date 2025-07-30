@@ -1,0 +1,7 @@
+service:
+  name: gstjigxu
+  identifier: gstjigxu
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: xzzqdflh
+  identifier: xzzqdflh
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

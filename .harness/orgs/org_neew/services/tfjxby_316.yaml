@@ -1,0 +1,7 @@
+service:
+  name: jaefzpct
+  identifier: jaefzpct
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

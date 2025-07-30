@@ -1,0 +1,7 @@
+service:
+  name: lselsgpg
+  identifier: lselsgpg
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

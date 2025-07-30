@@ -1,0 +1,7 @@
+service:
+  name: faqnsqiz
+  identifier: faqnsqiz
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

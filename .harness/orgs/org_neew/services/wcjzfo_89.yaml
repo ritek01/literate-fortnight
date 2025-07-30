@@ -1,0 +1,7 @@
+service:
+  name: sahpitas
+  identifier: sahpitas
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

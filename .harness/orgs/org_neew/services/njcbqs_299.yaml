@@ -1,0 +1,7 @@
+service:
+  name: anettskl
+  identifier: anettskl
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

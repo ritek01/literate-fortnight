@@ -1,0 +1,7 @@
+service:
+  name: blrewxqn
+  identifier: blrewxqn
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

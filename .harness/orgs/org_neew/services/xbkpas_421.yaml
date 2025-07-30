@@ -1,0 +1,7 @@
+service:
+  name: wotgdzpm
+  identifier: wotgdzpm
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

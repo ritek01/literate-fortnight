@@ -1,0 +1,7 @@
+service:
+  name: vjmbixdp
+  identifier: vjmbixdp
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

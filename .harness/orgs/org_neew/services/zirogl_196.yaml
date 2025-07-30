@@ -1,0 +1,7 @@
+service:
+  name: rodyzkln
+  identifier: rodyzkln
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: mlxknxbx
+  identifier: mlxknxbx
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

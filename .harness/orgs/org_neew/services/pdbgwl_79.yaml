@@ -1,0 +1,7 @@
+service:
+  name: zittqsvi
+  identifier: zittqsvi
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: ejmoeoew
+  identifier: ejmoeoew
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

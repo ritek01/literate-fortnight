@@ -1,0 +1,7 @@
+service:
+  name: tpcwamxb
+  identifier: tpcwamxb
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

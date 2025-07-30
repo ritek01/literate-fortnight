@@ -1,0 +1,7 @@
+service:
+  name: ayvjxnfg
+  identifier: ayvjxnfg
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

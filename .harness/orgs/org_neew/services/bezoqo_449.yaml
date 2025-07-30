@@ -1,0 +1,7 @@
+service:
+  name: qqenznfb
+  identifier: qqenznfb
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

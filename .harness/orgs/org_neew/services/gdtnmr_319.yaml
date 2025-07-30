@@ -1,0 +1,7 @@
+service:
+  name: bmigndql
+  identifier: bmigndql
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

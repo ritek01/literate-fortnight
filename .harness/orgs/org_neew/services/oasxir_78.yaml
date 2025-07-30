@@ -1,0 +1,7 @@
+service:
+  name: epiymisv
+  identifier: epiymisv
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

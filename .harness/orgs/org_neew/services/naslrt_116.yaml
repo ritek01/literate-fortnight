@@ -1,0 +1,7 @@
+service:
+  name: vicgeqrd
+  identifier: vicgeqrd
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

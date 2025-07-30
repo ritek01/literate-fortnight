@@ -1,0 +1,7 @@
+service:
+  name: owmlfjzy
+  identifier: owmlfjzy
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: onzilatu
+  identifier: onzilatu
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

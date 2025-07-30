@@ -1,0 +1,7 @@
+service:
+  name: ejcesfyk
+  identifier: ejcesfyk
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

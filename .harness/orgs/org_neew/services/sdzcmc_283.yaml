@@ -1,0 +1,7 @@
+service:
+  name: zwznabvi
+  identifier: zwznabvi
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

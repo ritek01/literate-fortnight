@@ -1,0 +1,7 @@
+service:
+  name: regkjbjk
+  identifier: regkjbjk
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: dmjqqtty
+  identifier: dmjqqtty
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

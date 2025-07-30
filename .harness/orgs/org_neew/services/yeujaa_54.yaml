@@ -1,0 +1,7 @@
+service:
+  name: iakuosfe
+  identifier: iakuosfe
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

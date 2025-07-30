@@ -1,0 +1,7 @@
+service:
+  name: dvzdevnl
+  identifier: dvzdevnl
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

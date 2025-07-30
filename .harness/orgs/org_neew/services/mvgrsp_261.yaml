@@ -1,0 +1,7 @@
+service:
+  name: eibudpdb
+  identifier: eibudpdb
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

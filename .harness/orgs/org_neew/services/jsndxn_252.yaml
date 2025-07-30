@@ -1,0 +1,7 @@
+service:
+  name: hfmcjozy
+  identifier: hfmcjozy
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

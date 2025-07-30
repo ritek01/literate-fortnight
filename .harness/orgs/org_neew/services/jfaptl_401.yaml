@@ -1,0 +1,7 @@
+service:
+  name: qxetlgyp
+  identifier: qxetlgyp
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

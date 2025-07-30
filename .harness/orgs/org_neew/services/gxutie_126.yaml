@@ -1,0 +1,7 @@
+service:
+  name: yktijgrs
+  identifier: yktijgrs
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

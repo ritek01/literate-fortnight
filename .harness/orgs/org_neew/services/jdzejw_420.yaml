@@ -1,0 +1,7 @@
+service:
+  name: hzloiqtp
+  identifier: hzloiqtp
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

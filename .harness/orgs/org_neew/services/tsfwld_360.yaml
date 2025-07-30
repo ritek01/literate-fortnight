@@ -1,0 +1,7 @@
+service:
+  name: dspcxrcj
+  identifier: dspcxrcj
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

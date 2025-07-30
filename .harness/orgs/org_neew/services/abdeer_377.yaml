@@ -1,0 +1,7 @@
+service:
+  name: bwfviipc
+  identifier: bwfviipc
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

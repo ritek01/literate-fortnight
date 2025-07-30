@@ -1,0 +1,7 @@
+service:
+  name: aarysbrq
+  identifier: aarysbrq
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

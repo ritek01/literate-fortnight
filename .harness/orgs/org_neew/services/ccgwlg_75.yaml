@@ -1,0 +1,7 @@
+service:
+  name: uwcbaytl
+  identifier: uwcbaytl
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

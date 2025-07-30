@@ -1,0 +1,7 @@
+service:
+  name: ptdarbcm
+  identifier: ptdarbcm
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: lkskicgk
+  identifier: lkskicgk
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

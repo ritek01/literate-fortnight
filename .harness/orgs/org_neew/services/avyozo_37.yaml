@@ -1,0 +1,7 @@
+service:
+  name: zbqaebkz
+  identifier: zbqaebkz
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

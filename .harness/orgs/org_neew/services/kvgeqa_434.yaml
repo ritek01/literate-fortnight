@@ -1,0 +1,7 @@
+service:
+  name: rskjdhif
+  identifier: rskjdhif
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

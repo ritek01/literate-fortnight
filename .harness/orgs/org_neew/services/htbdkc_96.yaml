@@ -1,0 +1,7 @@
+service:
+  name: wdjfdkfz
+  identifier: wdjfdkfz
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

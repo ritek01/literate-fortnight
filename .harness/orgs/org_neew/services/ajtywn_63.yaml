@@ -1,0 +1,7 @@
+service:
+  name: xyudaouf
+  identifier: xyudaouf
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

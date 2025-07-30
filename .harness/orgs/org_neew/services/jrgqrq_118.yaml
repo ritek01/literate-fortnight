@@ -1,0 +1,7 @@
+service:
+  name: gsraqymr
+  identifier: gsraqymr
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

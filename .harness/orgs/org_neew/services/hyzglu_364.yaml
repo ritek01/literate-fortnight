@@ -1,0 +1,7 @@
+service:
+  name: lyczmhxm
+  identifier: lyczmhxm
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

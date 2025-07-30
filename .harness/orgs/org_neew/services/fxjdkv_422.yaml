@@ -1,0 +1,7 @@
+service:
+  name: gsiytgga
+  identifier: gsiytgga
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

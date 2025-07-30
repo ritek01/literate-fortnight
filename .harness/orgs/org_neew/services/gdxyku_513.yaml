@@ -1,0 +1,7 @@
+service:
+  name: ncdkwdln
+  identifier: ncdkwdln
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

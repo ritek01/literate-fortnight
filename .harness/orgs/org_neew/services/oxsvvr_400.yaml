@@ -1,0 +1,7 @@
+service:
+  name: tzkxlgnn
+  identifier: tzkxlgnn
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

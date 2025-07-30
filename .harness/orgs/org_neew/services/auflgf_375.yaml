@@ -1,0 +1,7 @@
+service:
+  name: tydnzgwd
+  identifier: tydnzgwd
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

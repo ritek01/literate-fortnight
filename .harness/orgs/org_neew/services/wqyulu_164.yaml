@@ -1,0 +1,7 @@
+service:
+  name: eztlqwkh
+  identifier: eztlqwkh
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

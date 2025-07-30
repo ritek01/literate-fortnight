@@ -1,0 +1,7 @@
+service:
+  name: wtcqgmgr
+  identifier: wtcqgmgr
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

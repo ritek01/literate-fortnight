@@ -1,0 +1,7 @@
+service:
+  name: sselabxj
+  identifier: sselabxj
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

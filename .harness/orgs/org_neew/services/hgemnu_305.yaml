@@ -1,0 +1,7 @@
+service:
+  name: nsewuzoi
+  identifier: nsewuzoi
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

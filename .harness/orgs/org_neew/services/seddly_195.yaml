@@ -1,0 +1,7 @@
+service:
+  name: hkattjoj
+  identifier: hkattjoj
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

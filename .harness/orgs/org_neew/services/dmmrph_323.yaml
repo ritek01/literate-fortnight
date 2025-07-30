@@ -1,0 +1,7 @@
+service:
+  name: bplnrobp
+  identifier: bplnrobp
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

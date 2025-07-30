@@ -1,0 +1,7 @@
+service:
+  name: meeuihbz
+  identifier: meeuihbz
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

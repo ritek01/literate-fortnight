@@ -1,0 +1,7 @@
+service:
+  name: qovqcnhv
+  identifier: qovqcnhv
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: krlygrqw
+  identifier: krlygrqw
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

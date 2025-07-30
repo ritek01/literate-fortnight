@@ -1,0 +1,7 @@
+service:
+  name: rfgbxlsf
+  identifier: rfgbxlsf
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: zocotmlc
+  identifier: zocotmlc
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

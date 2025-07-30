@@ -1,0 +1,7 @@
+service:
+  name: vkwbbuir
+  identifier: vkwbbuir
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

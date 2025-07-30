@@ -1,0 +1,7 @@
+service:
+  name: gkpmubcl
+  identifier: gkpmubcl
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

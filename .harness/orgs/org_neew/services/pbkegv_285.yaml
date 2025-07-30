@@ -1,0 +1,7 @@
+service:
+  name: qicyhobg
+  identifier: qicyhobg
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: zvwfbanb
+  identifier: zvwfbanb
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

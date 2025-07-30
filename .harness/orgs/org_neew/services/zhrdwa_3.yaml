@@ -1,0 +1,7 @@
+service:
+  name: pttmprds
+  identifier: pttmprds
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

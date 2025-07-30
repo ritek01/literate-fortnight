@@ -1,0 +1,7 @@
+service:
+  name: fxewcnav
+  identifier: fxewcnav
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

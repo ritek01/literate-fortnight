@@ -1,0 +1,7 @@
+service:
+  name: piqxsszy
+  identifier: piqxsszy
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

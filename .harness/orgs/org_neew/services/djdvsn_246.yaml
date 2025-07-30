@@ -1,0 +1,7 @@
+service:
+  name: jbwugkjv
+  identifier: jbwugkjv
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

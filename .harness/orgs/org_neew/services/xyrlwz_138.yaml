@@ -1,0 +1,7 @@
+service:
+  name: jhswoujv
+  identifier: jhswoujv
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

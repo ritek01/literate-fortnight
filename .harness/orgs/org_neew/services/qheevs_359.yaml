@@ -1,0 +1,7 @@
+service:
+  name: ggsnsprk
+  identifier: ggsnsprk
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: frzcokid
+  identifier: frzcokid
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: mrrudaqc
+  identifier: mrrudaqc
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

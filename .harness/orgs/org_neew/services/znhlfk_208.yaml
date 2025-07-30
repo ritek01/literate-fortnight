@@ -1,0 +1,7 @@
+service:
+  name: wpoxwryg
+  identifier: wpoxwryg
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

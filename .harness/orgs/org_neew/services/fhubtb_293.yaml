@@ -1,0 +1,7 @@
+service:
+  name: jkiishze
+  identifier: jkiishze
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

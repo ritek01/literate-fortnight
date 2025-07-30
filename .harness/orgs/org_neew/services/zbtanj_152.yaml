@@ -1,0 +1,7 @@
+service:
+  name: qigcwhcp
+  identifier: qigcwhcp
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

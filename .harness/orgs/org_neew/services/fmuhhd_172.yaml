@@ -1,0 +1,7 @@
+service:
+  name: tvzrkpsv
+  identifier: tvzrkpsv
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

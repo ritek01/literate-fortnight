@@ -1,0 +1,7 @@
+service:
+  name: bregowvt
+  identifier: bregowvt
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

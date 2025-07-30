@@ -1,0 +1,7 @@
+service:
+  name: pyhnnihp
+  identifier: pyhnnihp
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

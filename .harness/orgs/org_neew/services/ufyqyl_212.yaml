@@ -1,0 +1,7 @@
+service:
+  name: kxsdmfge
+  identifier: kxsdmfge
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: ihhiamfi
+  identifier: ihhiamfi
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

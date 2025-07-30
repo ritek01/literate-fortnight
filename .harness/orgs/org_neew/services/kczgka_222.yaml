@@ -1,0 +1,7 @@
+service:
+  name: dpqrmozz
+  identifier: dpqrmozz
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

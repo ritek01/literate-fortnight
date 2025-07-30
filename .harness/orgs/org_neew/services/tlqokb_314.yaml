@@ -1,0 +1,7 @@
+service:
+  name: uejnpecq
+  identifier: uejnpecq
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

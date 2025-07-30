@@ -1,0 +1,7 @@
+service:
+  name: vdavgbsv
+  identifier: vdavgbsv
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

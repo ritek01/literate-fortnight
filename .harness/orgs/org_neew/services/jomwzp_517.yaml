@@ -1,0 +1,7 @@
+service:
+  name: hqifmgeo
+  identifier: hqifmgeo
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

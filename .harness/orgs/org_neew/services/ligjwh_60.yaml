@@ -1,0 +1,7 @@
+service:
+  name: eqatepiw
+  identifier: eqatepiw
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

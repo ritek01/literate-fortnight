@@ -1,0 +1,7 @@
+service:
+  name: yoqfqjpx
+  identifier: yoqfqjpx
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

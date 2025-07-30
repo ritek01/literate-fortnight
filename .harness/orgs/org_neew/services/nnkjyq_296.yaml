@@ -1,0 +1,7 @@
+service:
+  name: khlipqim
+  identifier: khlipqim
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

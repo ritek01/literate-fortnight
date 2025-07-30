@@ -1,0 +1,7 @@
+service:
+  name: nrolvpou
+  identifier: nrolvpou
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

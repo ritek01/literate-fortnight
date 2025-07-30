@@ -1,0 +1,7 @@
+service:
+  name: jqxgnhce
+  identifier: jqxgnhce
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: ekvpbgas
+  identifier: ekvpbgas
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

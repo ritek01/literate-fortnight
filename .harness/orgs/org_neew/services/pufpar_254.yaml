@@ -1,0 +1,7 @@
+service:
+  name: gucaqvli
+  identifier: gucaqvli
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

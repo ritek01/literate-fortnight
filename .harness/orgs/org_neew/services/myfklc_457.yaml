@@ -1,0 +1,7 @@
+service:
+  name: bgdxtzuu
+  identifier: bgdxtzuu
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

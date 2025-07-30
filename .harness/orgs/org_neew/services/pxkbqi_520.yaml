@@ -1,0 +1,7 @@
+service:
+  name: inytpcxz
+  identifier: inytpcxz
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: vjgvfmjx
+  identifier: vjgvfmjx
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

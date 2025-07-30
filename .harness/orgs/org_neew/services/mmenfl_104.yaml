@@ -1,0 +1,7 @@
+service:
+  name: epzkxcig
+  identifier: epzkxcig
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: mmlnxzgv
+  identifier: mmlnxzgv
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

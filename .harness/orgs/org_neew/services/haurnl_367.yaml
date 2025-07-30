@@ -1,0 +1,7 @@
+service:
+  name: hirzkiuy
+  identifier: hirzkiuy
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

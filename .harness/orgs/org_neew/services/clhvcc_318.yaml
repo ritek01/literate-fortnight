@@ -1,0 +1,7 @@
+service:
+  name: lonjcebc
+  identifier: lonjcebc
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: npmkgxee
+  identifier: npmkgxee
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

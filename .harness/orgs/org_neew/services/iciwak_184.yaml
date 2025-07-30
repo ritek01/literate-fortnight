@@ -1,0 +1,7 @@
+service:
+  name: qijupvoe
+  identifier: qijupvoe
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

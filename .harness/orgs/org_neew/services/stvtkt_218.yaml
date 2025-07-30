@@ -1,0 +1,7 @@
+service:
+  name: vaokqrbl
+  identifier: vaokqrbl
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

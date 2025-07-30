@@ -1,0 +1,7 @@
+service:
+  name: jjytfzpe
+  identifier: jjytfzpe
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

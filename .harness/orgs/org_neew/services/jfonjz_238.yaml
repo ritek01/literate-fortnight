@@ -1,0 +1,7 @@
+service:
+  name: zfmzusad
+  identifier: zfmzusad
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

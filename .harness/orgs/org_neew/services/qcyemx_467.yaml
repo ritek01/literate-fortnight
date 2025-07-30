@@ -1,0 +1,7 @@
+service:
+  name: jzpoohoo
+  identifier: jzpoohoo
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

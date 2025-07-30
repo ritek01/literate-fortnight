@@ -1,0 +1,7 @@
+service:
+  name: cvszvhjk
+  identifier: cvszvhjk
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

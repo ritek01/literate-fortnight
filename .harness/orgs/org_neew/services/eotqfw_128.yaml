@@ -1,0 +1,7 @@
+service:
+  name: jplqityd
+  identifier: jplqityd
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: zhcjtpan
+  identifier: zhcjtpan
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

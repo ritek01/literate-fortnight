@@ -1,0 +1,7 @@
+service:
+  name: dpkbphpz
+  identifier: dpkbphpz
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

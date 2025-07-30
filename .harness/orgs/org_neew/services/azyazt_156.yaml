@@ -1,0 +1,7 @@
+service:
+  name: njaecnyv
+  identifier: njaecnyv
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

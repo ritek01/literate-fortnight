@@ -1,0 +1,7 @@
+service:
+  name: xgrkssvt
+  identifier: xgrkssvt
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

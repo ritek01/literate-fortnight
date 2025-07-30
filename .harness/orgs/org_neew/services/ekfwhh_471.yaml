@@ -1,0 +1,7 @@
+service:
+  name: amckzzso
+  identifier: amckzzso
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

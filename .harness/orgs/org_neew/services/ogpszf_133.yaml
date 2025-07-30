@@ -1,0 +1,7 @@
+service:
+  name: loaivuih
+  identifier: loaivuih
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

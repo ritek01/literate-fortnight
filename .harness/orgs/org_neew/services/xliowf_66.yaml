@@ -1,0 +1,7 @@
+service:
+  name: yncbzamj
+  identifier: yncbzamj
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

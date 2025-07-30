@@ -1,0 +1,7 @@
+service:
+  name: bqbasnsf
+  identifier: bqbasnsf
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

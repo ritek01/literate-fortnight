@@ -1,0 +1,7 @@
+service:
+  name: chunphbd
+  identifier: chunphbd
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

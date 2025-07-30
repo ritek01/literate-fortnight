@@ -1,0 +1,7 @@
+service:
+  name: mestluyy
+  identifier: mestluyy
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

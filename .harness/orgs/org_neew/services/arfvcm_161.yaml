@@ -1,0 +1,7 @@
+service:
+  name: ikcreylj
+  identifier: ikcreylj
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

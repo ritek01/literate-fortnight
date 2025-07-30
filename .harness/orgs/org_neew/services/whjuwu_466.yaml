@@ -1,0 +1,7 @@
+service:
+  name: wqairlvm
+  identifier: wqairlvm
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

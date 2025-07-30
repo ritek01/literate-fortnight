@@ -1,0 +1,7 @@
+service:
+  name: qsvskjpy
+  identifier: qsvskjpy
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

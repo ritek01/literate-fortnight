@@ -1,0 +1,7 @@
+service:
+  name: wblocuzh
+  identifier: wblocuzh
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

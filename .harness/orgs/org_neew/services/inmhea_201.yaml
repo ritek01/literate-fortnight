@@ -1,0 +1,7 @@
+service:
+  name: iciugmvj
+  identifier: iciugmvj
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

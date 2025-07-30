@@ -1,0 +1,7 @@
+service:
+  name: tntndxyl
+  identifier: tntndxyl
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

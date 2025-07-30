@@ -1,0 +1,7 @@
+service:
+  name: alzsfsfn
+  identifier: alzsfsfn
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

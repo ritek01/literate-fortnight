@@ -1,0 +1,7 @@
+service:
+  name: fywkxqff
+  identifier: fywkxqff
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

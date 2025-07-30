@@ -1,0 +1,7 @@
+service:
+  name: iiwhkuaz
+  identifier: iiwhkuaz
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: tohbstgx
+  identifier: tohbstgx
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

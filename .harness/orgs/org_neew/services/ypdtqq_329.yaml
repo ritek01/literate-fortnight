@@ -1,0 +1,7 @@
+service:
+  name: acusbswv
+  identifier: acusbswv
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

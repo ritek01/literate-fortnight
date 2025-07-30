@@ -1,0 +1,7 @@
+service:
+  name: tvxttrdr
+  identifier: tvxttrdr
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

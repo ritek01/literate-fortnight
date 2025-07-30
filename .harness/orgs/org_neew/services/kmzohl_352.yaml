@@ -1,0 +1,7 @@
+service:
+  name: flevjunj
+  identifier: flevjunj
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

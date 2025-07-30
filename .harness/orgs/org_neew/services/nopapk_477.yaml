@@ -1,0 +1,7 @@
+service:
+  name: zoommlys
+  identifier: zoommlys
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

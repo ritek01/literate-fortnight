@@ -1,0 +1,7 @@
+service:
+  name: nvxsvcpr
+  identifier: nvxsvcpr
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

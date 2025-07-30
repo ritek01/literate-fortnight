@@ -1,0 +1,7 @@
+service:
+  name: mjoainnb
+  identifier: mjoainnb
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

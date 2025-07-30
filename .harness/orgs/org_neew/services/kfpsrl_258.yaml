@@ -1,0 +1,7 @@
+service:
+  name: nyioqbvl
+  identifier: nyioqbvl
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

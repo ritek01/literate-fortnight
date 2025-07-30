@@ -1,0 +1,7 @@
+service:
+  name: idryoqki
+  identifier: idryoqki
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

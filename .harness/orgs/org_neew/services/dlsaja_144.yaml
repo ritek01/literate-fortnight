@@ -1,0 +1,7 @@
+service:
+  name: ruddibpi
+  identifier: ruddibpi
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

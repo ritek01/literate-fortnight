@@ -1,0 +1,7 @@
+service:
+  name: zccvweil
+  identifier: zccvweil
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

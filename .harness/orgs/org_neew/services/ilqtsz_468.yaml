@@ -1,0 +1,7 @@
+service:
+  name: fcvgpvbc
+  identifier: fcvgpvbc
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

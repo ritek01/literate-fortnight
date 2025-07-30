@@ -1,0 +1,7 @@
+service:
+  name: cbihvtug
+  identifier: cbihvtug
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

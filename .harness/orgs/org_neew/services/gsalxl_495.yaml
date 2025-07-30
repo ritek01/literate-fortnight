@@ -1,0 +1,7 @@
+service:
+  name: xffdapal
+  identifier: xffdapal
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

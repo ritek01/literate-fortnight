@@ -1,0 +1,7 @@
+service:
+  name: xagrnytu
+  identifier: xagrnytu
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

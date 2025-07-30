@@ -1,0 +1,7 @@
+service:
+  name: brvkbwjy
+  identifier: brvkbwjy
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

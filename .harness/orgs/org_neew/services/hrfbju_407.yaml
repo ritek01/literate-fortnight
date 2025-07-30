@@ -1,0 +1,7 @@
+service:
+  name: qrdsyvka
+  identifier: qrdsyvka
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

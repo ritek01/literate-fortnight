@@ -1,0 +1,7 @@
+service:
+  name: dkbxekft
+  identifier: dkbxekft
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

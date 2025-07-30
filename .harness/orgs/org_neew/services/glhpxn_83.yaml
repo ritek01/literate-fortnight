@@ -1,0 +1,7 @@
+service:
+  name: wjybgref
+  identifier: wjybgref
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: bqizlbwg
+  identifier: bqizlbwg
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

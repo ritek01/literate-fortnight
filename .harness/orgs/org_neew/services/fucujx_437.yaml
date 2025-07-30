@@ -1,0 +1,7 @@
+service:
+  name: kxbedshk
+  identifier: kxbedshk
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

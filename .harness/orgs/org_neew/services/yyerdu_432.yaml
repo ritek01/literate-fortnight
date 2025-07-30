@@ -1,0 +1,7 @@
+service:
+  name: uvtybcbl
+  identifier: uvtybcbl
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: zuwihkbl
+  identifier: zuwihkbl
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

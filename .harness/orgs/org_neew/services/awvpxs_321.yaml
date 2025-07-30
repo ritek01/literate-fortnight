@@ -1,0 +1,7 @@
+service:
+  name: mdnjywfr
+  identifier: mdnjywfr
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

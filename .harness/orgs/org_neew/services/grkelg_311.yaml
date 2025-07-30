@@ -1,0 +1,7 @@
+service:
+  name: hnlejepw
+  identifier: hnlejepw
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

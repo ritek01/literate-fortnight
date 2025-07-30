@@ -1,0 +1,7 @@
+service:
+  name: yhyvshes
+  identifier: yhyvshes
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

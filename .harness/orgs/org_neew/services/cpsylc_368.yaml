@@ -1,0 +1,7 @@
+service:
+  name: lwpidpku
+  identifier: lwpidpku
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

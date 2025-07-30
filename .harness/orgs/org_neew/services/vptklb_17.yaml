@@ -1,0 +1,7 @@
+service:
+  name: cldmpozh
+  identifier: cldmpozh
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

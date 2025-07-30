@@ -1,0 +1,7 @@
+service:
+  name: qxngucom
+  identifier: qxngucom
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

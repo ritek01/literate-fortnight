@@ -1,0 +1,7 @@
+service:
+  name: dtnwpgfl
+  identifier: dtnwpgfl
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

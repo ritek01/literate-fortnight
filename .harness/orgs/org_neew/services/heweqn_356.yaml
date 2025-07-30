@@ -1,0 +1,7 @@
+service:
+  name: thkslkim
+  identifier: thkslkim
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

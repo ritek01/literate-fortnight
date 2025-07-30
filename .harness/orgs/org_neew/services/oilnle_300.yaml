@@ -1,0 +1,7 @@
+service:
+  name: wcjbvkkd
+  identifier: wcjbvkkd
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

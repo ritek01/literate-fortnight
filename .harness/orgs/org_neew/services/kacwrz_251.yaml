@@ -1,0 +1,7 @@
+service:
+  name: xiyfuozo
+  identifier: xiyfuozo
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

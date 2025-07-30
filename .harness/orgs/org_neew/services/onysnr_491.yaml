@@ -1,0 +1,7 @@
+service:
+  name: sqlibbjy
+  identifier: sqlibbjy
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

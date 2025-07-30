@@ -1,0 +1,7 @@
+service:
+  name: ibqtqdee
+  identifier: ibqtqdee
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: vbyiushw
+  identifier: vbyiushw
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

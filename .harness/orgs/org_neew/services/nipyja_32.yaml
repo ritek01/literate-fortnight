@@ -1,0 +1,7 @@
+service:
+  name: uhfmwscb
+  identifier: uhfmwscb
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

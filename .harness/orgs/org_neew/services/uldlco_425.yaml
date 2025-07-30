@@ -1,0 +1,7 @@
+service:
+  name: fhefpwey
+  identifier: fhefpwey
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

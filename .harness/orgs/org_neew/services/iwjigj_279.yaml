@@ -1,0 +1,7 @@
+service:
+  name: riikhijz
+  identifier: riikhijz
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

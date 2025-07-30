@@ -1,0 +1,7 @@
+service:
+  name: hwrybakc
+  identifier: hwrybakc
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

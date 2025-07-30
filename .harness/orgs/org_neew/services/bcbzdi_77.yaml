@@ -1,0 +1,7 @@
+service:
+  name: jpzvwmaw
+  identifier: jpzvwmaw
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: aqusztfc
+  identifier: aqusztfc
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

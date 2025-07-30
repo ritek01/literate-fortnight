@@ -1,0 +1,7 @@
+service:
+  name: iszjfaul
+  identifier: iszjfaul
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

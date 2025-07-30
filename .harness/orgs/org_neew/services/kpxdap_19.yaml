@@ -1,0 +1,7 @@
+service:
+  name: ydcclhls
+  identifier: ydcclhls
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

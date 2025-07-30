@@ -1,0 +1,7 @@
+service:
+  name: klodfvba
+  identifier: klodfvba
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

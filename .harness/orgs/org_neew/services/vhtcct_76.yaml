@@ -1,0 +1,7 @@
+service:
+  name: udbjxfie
+  identifier: udbjxfie
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

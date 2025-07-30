@@ -1,0 +1,7 @@
+service:
+  name: symkblhm
+  identifier: symkblhm
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

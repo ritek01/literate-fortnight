@@ -1,0 +1,7 @@
+service:
+  name: mdvuhbkn
+  identifier: mdvuhbkn
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

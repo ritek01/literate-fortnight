@@ -1,0 +1,7 @@
+service:
+  name: bufdewpo
+  identifier: bufdewpo
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

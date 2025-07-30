@@ -1,0 +1,7 @@
+service:
+  name: ztsjdsbm
+  identifier: ztsjdsbm
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

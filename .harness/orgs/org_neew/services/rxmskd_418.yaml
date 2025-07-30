@@ -1,0 +1,7 @@
+service:
+  name: zuoiiiri
+  identifier: zuoiiiri
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

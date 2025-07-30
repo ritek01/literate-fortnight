@@ -1,0 +1,7 @@
+service:
+  name: jfdegfuj
+  identifier: jfdegfuj
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

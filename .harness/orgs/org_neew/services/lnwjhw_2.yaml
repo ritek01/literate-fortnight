@@ -1,0 +1,7 @@
+service:
+  name: jcdkujgr
+  identifier: jcdkujgr
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: fudazqga
+  identifier: fudazqga
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

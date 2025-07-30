@@ -1,0 +1,7 @@
+service:
+  name: bmydipbr
+  identifier: bmydipbr
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

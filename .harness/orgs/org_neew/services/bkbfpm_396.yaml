@@ -1,0 +1,7 @@
+service:
+  name: xowmxdaj
+  identifier: xowmxdaj
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

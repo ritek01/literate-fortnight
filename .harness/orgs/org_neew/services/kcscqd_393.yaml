@@ -1,0 +1,7 @@
+service:
+  name: wfkxwxli
+  identifier: wfkxwxli
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

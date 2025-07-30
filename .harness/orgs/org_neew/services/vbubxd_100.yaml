@@ -1,0 +1,7 @@
+service:
+  name: ixxmdcpl
+  identifier: ixxmdcpl
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

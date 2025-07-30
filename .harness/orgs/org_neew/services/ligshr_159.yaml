@@ -1,0 +1,7 @@
+service:
+  name: ktdukois
+  identifier: ktdukois
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

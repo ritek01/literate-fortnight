@@ -1,0 +1,7 @@
+service:
+  name: lywgzztq
+  identifier: lywgzztq
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

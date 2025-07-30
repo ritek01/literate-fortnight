@@ -1,0 +1,7 @@
+service:
+  name: unlniqjq
+  identifier: unlniqjq
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

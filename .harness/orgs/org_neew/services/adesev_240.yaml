@@ -1,0 +1,7 @@
+service:
+  name: hybtecxw
+  identifier: hybtecxw
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

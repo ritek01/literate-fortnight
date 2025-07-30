@@ -1,0 +1,7 @@
+service:
+  name: dhyolcys
+  identifier: dhyolcys
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: xvykoxki
+  identifier: xvykoxki
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: swjxnown
+  identifier: swjxnown
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

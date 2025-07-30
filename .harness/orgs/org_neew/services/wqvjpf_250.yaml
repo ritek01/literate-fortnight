@@ -1,0 +1,7 @@
+service:
+  name: dhbfbpis
+  identifier: dhbfbpis
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

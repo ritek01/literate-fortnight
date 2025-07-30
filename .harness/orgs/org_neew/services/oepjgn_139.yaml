@@ -1,0 +1,7 @@
+service:
+  name: iscdsxlr
+  identifier: iscdsxlr
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

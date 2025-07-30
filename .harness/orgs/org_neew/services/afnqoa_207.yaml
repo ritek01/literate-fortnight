@@ -1,0 +1,7 @@
+service:
+  name: pwnttozs
+  identifier: pwnttozs
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

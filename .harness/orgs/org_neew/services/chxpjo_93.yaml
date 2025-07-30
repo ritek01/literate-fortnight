@@ -1,0 +1,7 @@
+service:
+  name: snirmnrc
+  identifier: snirmnrc
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

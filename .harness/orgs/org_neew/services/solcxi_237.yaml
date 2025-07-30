@@ -1,0 +1,7 @@
+service:
+  name: midbljig
+  identifier: midbljig
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

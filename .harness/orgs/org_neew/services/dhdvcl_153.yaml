@@ -1,0 +1,7 @@
+service:
+  name: eeitugri
+  identifier: eeitugri
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

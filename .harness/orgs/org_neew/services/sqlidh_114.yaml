@@ -1,0 +1,7 @@
+service:
+  name: fxuqmbdf
+  identifier: fxuqmbdf
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

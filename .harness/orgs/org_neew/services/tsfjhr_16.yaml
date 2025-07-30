@@ -1,0 +1,7 @@
+service:
+  name: ewnbftws
+  identifier: ewnbftws
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: dnlqvhpu
+  identifier: dnlqvhpu
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

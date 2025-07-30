@@ -1,0 +1,7 @@
+service:
+  name: pfzydjkx
+  identifier: pfzydjkx
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

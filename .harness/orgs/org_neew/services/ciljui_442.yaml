@@ -1,0 +1,7 @@
+service:
+  name: xidhjpvn
+  identifier: xidhjpvn
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: yahrchhi
+  identifier: yahrchhi
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

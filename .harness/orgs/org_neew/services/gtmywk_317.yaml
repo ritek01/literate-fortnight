@@ -1,0 +1,7 @@
+service:
+  name: ethbvnvv
+  identifier: ethbvnvv
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

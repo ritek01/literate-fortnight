@@ -1,0 +1,7 @@
+service:
+  name: eujyfzmg
+  identifier: eujyfzmg
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: rncqkfro
+  identifier: rncqkfro
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

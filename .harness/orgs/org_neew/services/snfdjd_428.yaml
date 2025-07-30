@@ -1,0 +1,7 @@
+service:
+  name: mqlfgrxh
+  identifier: mqlfgrxh
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

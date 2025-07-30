@@ -1,0 +1,7 @@
+service:
+  name: bzgmkqsl
+  identifier: bzgmkqsl
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

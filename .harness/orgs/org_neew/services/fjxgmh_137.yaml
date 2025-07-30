@@ -1,0 +1,7 @@
+service:
+  name: bapxbfha
+  identifier: bapxbfha
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

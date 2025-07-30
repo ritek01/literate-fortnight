@@ -1,0 +1,7 @@
+service:
+  name: uocvklva
+  identifier: uocvklva
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

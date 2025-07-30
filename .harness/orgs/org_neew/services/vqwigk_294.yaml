@@ -1,0 +1,7 @@
+service:
+  name: ksczeqba
+  identifier: ksczeqba
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

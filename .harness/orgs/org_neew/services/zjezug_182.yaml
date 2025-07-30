@@ -1,0 +1,7 @@
+service:
+  name: klxwwmpm
+  identifier: klxwwmpm
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

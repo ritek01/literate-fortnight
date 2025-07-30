@@ -1,0 +1,7 @@
+service:
+  name: tpvhndzg
+  identifier: tpvhndzg
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

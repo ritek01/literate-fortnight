@@ -1,0 +1,7 @@
+service:
+  name: ciaulhuk
+  identifier: ciaulhuk
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

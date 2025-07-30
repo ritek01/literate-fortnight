@@ -1,0 +1,7 @@
+service:
+  name: wntgffqa
+  identifier: wntgffqa
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

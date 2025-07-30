@@ -1,0 +1,7 @@
+service:
+  name: bwmzngit
+  identifier: bwmzngit
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

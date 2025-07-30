@@ -1,0 +1,7 @@
+service:
+  name: nlboxoqd
+  identifier: nlboxoqd
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

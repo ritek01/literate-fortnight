@@ -1,0 +1,7 @@
+service:
+  name: zkflcnql
+  identifier: zkflcnql
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

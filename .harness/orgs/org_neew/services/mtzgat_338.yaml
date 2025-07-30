@@ -1,0 +1,7 @@
+service:
+  name: myctczuf
+  identifier: myctczuf
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

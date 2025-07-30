@@ -1,0 +1,7 @@
+service:
+  name: bdsmiqme
+  identifier: bdsmiqme
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

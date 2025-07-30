@@ -1,0 +1,7 @@
+service:
+  name: accseejp
+  identifier: accseejp
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

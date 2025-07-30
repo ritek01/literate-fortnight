@@ -1,0 +1,7 @@
+service:
+  name: tntvxciu
+  identifier: tntvxciu
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

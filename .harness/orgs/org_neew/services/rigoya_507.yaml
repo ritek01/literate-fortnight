@@ -1,0 +1,7 @@
+service:
+  name: vxjdydrv
+  identifier: vxjdydrv
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

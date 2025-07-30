@@ -1,0 +1,7 @@
+service:
+  name: iuqtwqvt
+  identifier: iuqtwqvt
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

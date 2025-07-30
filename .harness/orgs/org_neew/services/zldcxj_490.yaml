@@ -1,0 +1,7 @@
+service:
+  name: detewnid
+  identifier: detewnid
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: hbxydsju
+  identifier: hbxydsju
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

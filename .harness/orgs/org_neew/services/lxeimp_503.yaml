@@ -1,0 +1,7 @@
+service:
+  name: ysvzsufs
+  identifier: ysvzsufs
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

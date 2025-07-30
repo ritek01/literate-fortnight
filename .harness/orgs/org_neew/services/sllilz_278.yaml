@@ -1,0 +1,7 @@
+service:
+  name: lqypfpmk
+  identifier: lqypfpmk
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

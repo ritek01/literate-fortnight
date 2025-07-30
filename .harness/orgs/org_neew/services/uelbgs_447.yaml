@@ -1,0 +1,7 @@
+service:
+  name: twokbqzu
+  identifier: twokbqzu
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

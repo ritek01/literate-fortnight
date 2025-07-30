@@ -1,0 +1,7 @@
+service:
+  name: svckapww
+  identifier: svckapww
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

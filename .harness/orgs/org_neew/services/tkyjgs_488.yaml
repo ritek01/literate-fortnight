@@ -1,0 +1,7 @@
+service:
+  name: vnlzektx
+  identifier: vnlzektx
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

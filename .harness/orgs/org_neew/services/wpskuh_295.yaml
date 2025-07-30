@@ -1,0 +1,7 @@
+service:
+  name: wjvnwdiu
+  identifier: wjvnwdiu
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

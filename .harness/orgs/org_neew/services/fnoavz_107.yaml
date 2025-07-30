@@ -1,0 +1,7 @@
+service:
+  name: rpqigdow
+  identifier: rpqigdow
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

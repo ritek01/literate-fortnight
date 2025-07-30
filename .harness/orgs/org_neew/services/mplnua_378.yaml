@@ -1,0 +1,7 @@
+service:
+  name: nnedayvo
+  identifier: nnedayvo
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

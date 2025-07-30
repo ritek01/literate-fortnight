@@ -1,0 +1,7 @@
+service:
+  name: ydnjeegm
+  identifier: ydnjeegm
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: oalrdclu
+  identifier: oalrdclu
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

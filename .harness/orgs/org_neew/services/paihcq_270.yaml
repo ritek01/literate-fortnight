@@ -1,0 +1,7 @@
+service:
+  name: avrftqmc
+  identifier: avrftqmc
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

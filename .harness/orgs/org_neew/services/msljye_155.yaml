@@ -1,0 +1,7 @@
+service:
+  name: dgnkweii
+  identifier: dgnkweii
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

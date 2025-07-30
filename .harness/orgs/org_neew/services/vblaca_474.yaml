@@ -1,0 +1,7 @@
+service:
+  name: osroskqu
+  identifier: osroskqu
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

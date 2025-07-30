@@ -1,0 +1,7 @@
+service:
+  name: xxldxcdb
+  identifier: xxldxcdb
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

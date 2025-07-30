@@ -1,0 +1,7 @@
+service:
+  name: uyuuhsob
+  identifier: uyuuhsob
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

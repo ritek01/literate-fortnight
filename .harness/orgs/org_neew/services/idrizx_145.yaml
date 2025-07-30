@@ -1,0 +1,7 @@
+service:
+  name: oedlccvn
+  identifier: oedlccvn
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

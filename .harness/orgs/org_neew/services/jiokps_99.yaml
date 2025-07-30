@@ -1,0 +1,7 @@
+service:
+  name: scpbpviw
+  identifier: scpbpviw
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

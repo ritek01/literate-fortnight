@@ -1,0 +1,7 @@
+service:
+  name: xctqlfur
+  identifier: xctqlfur
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

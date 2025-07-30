@@ -1,0 +1,7 @@
+service:
+  name: eyllysxh
+  identifier: eyllysxh
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

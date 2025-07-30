@@ -1,0 +1,7 @@
+service:
+  name: uiizifjd
+  identifier: uiizifjd
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

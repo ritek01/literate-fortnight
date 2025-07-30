@@ -1,0 +1,7 @@
+service:
+  name: dtrfmoqs
+  identifier: dtrfmoqs
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

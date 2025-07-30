@@ -1,0 +1,7 @@
+service:
+  name: rselmtui
+  identifier: rselmtui
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

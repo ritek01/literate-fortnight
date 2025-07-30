@@ -1,0 +1,7 @@
+service:
+  name: hhyrudaj
+  identifier: hhyrudaj
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

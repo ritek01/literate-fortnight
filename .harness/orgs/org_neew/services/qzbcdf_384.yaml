@@ -1,0 +1,7 @@
+service:
+  name: cktufsya
+  identifier: cktufsya
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

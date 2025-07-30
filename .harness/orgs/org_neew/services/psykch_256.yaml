@@ -1,0 +1,7 @@
+service:
+  name: nvspwtjf
+  identifier: nvspwtjf
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

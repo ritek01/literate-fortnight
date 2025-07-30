@@ -1,0 +1,7 @@
+service:
+  name: vlhxnvog
+  identifier: vlhxnvog
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: nsubefys
+  identifier: nsubefys
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: trddccel
+  identifier: trddccel
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

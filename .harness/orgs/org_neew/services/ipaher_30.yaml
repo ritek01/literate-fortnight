@@ -1,0 +1,7 @@
+service:
+  name: zpcnhgzy
+  identifier: zpcnhgzy
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: ttumfyke
+  identifier: ttumfyke
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

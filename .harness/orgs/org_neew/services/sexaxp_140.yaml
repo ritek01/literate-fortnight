@@ -1,0 +1,7 @@
+service:
+  name: irdmhtsh
+  identifier: irdmhtsh
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

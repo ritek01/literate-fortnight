@@ -1,0 +1,7 @@
+service:
+  name: cvpodabm
+  identifier: cvpodabm
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

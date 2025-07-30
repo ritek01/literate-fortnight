@@ -1,0 +1,7 @@
+service:
+  name: ykrrecee
+  identifier: ykrrecee
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

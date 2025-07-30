@@ -1,0 +1,7 @@
+service:
+  name: tcgzfyuk
+  identifier: tcgzfyuk
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

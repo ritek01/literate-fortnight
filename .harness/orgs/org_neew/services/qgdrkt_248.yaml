@@ -1,0 +1,7 @@
+service:
+  name: pwuvmmmr
+  identifier: pwuvmmmr
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

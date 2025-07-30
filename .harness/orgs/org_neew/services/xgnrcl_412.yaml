@@ -1,0 +1,7 @@
+service:
+  name: kbbhdtso
+  identifier: kbbhdtso
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

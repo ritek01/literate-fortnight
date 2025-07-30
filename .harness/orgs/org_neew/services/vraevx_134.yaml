@@ -1,0 +1,7 @@
+service:
+  name: raobuafi
+  identifier: raobuafi
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

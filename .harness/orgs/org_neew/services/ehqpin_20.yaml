@@ -1,0 +1,7 @@
+service:
+  name: kuipalyr
+  identifier: kuipalyr
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

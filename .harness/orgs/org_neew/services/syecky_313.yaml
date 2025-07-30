@@ -1,0 +1,7 @@
+service:
+  name: kbnzkfdo
+  identifier: kbnzkfdo
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

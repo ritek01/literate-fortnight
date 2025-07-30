@@ -1,0 +1,7 @@
+service:
+  name: vxzmaiqq
+  identifier: vxzmaiqq
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

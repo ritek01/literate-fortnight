@@ -1,0 +1,7 @@
+service:
+  name: awconttg
+  identifier: awconttg
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

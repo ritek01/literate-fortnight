@@ -1,0 +1,7 @@
+service:
+  name: wfeksccp
+  identifier: wfeksccp
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

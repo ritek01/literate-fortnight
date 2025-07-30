@@ -1,0 +1,7 @@
+service:
+  name: opnpnpws
+  identifier: opnpnpws
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: esqagowr
+  identifier: esqagowr
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

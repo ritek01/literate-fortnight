@@ -1,0 +1,7 @@
+service:
+  name: huoqcmuo
+  identifier: huoqcmuo
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

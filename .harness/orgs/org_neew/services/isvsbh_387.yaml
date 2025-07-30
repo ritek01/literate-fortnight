@@ -1,0 +1,7 @@
+service:
+  name: lttxtzqb
+  identifier: lttxtzqb
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

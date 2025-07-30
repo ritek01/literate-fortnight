@@ -1,0 +1,7 @@
+service:
+  name: zkntdtvg
+  identifier: zkntdtvg
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

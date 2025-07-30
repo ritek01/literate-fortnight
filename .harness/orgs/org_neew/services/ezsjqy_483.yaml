@@ -1,0 +1,7 @@
+service:
+  name: ssdjcumd
+  identifier: ssdjcumd
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

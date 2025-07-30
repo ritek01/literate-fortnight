@@ -1,0 +1,7 @@
+service:
+  name: gtqsrpse
+  identifier: gtqsrpse
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

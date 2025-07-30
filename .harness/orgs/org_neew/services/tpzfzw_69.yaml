@@ -1,0 +1,7 @@
+service:
+  name: caopyslh
+  identifier: caopyslh
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: iyxzndbm
+  identifier: iyxzndbm
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

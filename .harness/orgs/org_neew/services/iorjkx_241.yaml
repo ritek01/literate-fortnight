@@ -1,0 +1,7 @@
+service:
+  name: xvgdassb
+  identifier: xvgdassb
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: fnqyqsxz
+  identifier: fnqyqsxz
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

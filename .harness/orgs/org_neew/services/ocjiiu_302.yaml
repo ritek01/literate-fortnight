@@ -1,0 +1,7 @@
+service:
+  name: hneghdqe
+  identifier: hneghdqe
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

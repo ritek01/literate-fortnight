@@ -1,0 +1,7 @@
+service:
+  name: wqmxdcyv
+  identifier: wqmxdcyv
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

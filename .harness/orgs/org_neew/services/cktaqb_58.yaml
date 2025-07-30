@@ -1,0 +1,7 @@
+service:
+  name: wnmzywue
+  identifier: wnmzywue
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

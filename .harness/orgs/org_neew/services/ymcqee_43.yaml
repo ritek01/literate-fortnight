@@ -1,0 +1,7 @@
+service:
+  name: benmwdit
+  identifier: benmwdit
+  orgIdentifier: org_neew
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
