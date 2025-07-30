@@ -1,0 +1,7 @@
+service:
+  name: lvedwxvc
+  identifier: lvedwxvc
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

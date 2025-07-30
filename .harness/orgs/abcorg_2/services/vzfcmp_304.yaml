@@ -1,0 +1,7 @@
+service:
+  name: xoioxtkp
+  identifier: xoioxtkp
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

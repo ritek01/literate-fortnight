@@ -1,0 +1,7 @@
+service:
+  name: jrdwgvgm
+  identifier: jrdwgvgm
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

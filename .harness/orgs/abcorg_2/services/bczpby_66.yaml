@@ -1,0 +1,7 @@
+service:
+  name: midhifvj
+  identifier: midhifvj
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

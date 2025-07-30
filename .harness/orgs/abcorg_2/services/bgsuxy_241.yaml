@@ -1,0 +1,7 @@
+service:
+  name: kkalpbop
+  identifier: kkalpbop
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

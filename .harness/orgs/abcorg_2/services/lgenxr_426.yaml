@@ -1,0 +1,7 @@
+service:
+  name: ewhznhal
+  identifier: ewhznhal
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

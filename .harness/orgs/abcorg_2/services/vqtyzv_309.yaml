@@ -1,0 +1,7 @@
+service:
+  name: zosxuoqp
+  identifier: zosxuoqp
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

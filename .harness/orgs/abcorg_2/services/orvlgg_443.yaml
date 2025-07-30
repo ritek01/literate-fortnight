@@ -1,0 +1,7 @@
+service:
+  name: ixzdsoog
+  identifier: ixzdsoog
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

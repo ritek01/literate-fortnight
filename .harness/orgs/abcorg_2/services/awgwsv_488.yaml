@@ -1,0 +1,7 @@
+service:
+  name: wzpebxrl
+  identifier: wzpebxrl
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

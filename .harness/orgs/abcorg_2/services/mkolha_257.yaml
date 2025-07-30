@@ -1,0 +1,7 @@
+service:
+  name: aqiznpve
+  identifier: aqiznpve
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

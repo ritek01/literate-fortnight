@@ -1,0 +1,7 @@
+service:
+  name: jczriagl
+  identifier: jczriagl
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

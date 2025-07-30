@@ -1,0 +1,7 @@
+service:
+  name: izcziksw
+  identifier: izcziksw
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

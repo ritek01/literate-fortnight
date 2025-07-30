@@ -1,0 +1,7 @@
+service:
+  name: shmoeldo
+  identifier: shmoeldo
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

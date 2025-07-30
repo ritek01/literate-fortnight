@@ -1,0 +1,7 @@
+service:
+  name: jrwtxjod
+  identifier: jrwtxjod
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: qtzqjube
+  identifier: qtzqjube
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

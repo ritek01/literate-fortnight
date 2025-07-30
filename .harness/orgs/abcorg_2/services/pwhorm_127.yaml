@@ -1,0 +1,7 @@
+service:
+  name: smqcghzr
+  identifier: smqcghzr
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

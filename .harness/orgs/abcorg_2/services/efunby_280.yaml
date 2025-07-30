@@ -1,0 +1,7 @@
+service:
+  name: bccccnlk
+  identifier: bccccnlk
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

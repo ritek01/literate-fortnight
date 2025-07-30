@@ -1,0 +1,7 @@
+service:
+  name: gdawoqga
+  identifier: gdawoqga
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

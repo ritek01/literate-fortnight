@@ -1,0 +1,7 @@
+service:
+  name: tzyphtqt
+  identifier: tzyphtqt
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

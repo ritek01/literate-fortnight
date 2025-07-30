@@ -1,0 +1,7 @@
+service:
+  name: xrehgekr
+  identifier: xrehgekr
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

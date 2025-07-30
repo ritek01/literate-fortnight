@@ -1,0 +1,7 @@
+service:
+  name: ajlgskqa
+  identifier: ajlgskqa
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

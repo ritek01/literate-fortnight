@@ -1,0 +1,7 @@
+service:
+  name: plcxnsxp
+  identifier: plcxnsxp
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

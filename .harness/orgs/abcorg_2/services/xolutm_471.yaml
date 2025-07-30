@@ -1,0 +1,7 @@
+service:
+  name: owgpfxuc
+  identifier: owgpfxuc
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

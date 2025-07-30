@@ -1,0 +1,7 @@
+service:
+  name: nqudmqge
+  identifier: nqudmqge
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

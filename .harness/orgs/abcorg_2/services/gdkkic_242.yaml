@@ -1,0 +1,7 @@
+service:
+  name: jdgvoznv
+  identifier: jdgvoznv
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

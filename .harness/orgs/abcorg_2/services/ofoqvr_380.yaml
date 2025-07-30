@@ -1,0 +1,7 @@
+service:
+  name: nmduhnmt
+  identifier: nmduhnmt
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

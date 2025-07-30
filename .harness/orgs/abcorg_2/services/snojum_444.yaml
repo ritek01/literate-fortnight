@@ -1,0 +1,7 @@
+service:
+  name: tynletrt
+  identifier: tynletrt
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

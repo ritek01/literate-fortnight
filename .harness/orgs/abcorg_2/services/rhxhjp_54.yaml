@@ -1,0 +1,7 @@
+service:
+  name: eothxagc
+  identifier: eothxagc
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

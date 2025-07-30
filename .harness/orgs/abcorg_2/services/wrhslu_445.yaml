@@ -1,0 +1,7 @@
+service:
+  name: xkikpwrs
+  identifier: xkikpwrs
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

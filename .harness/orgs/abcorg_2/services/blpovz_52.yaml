@@ -1,0 +1,7 @@
+service:
+  name: webgclml
+  identifier: webgclml
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

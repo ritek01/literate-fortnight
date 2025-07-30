@@ -1,0 +1,7 @@
+service:
+  name: szmztvkg
+  identifier: szmztvkg
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

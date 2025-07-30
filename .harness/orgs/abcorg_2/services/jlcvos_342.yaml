@@ -1,0 +1,7 @@
+service:
+  name: lahxnqlo
+  identifier: lahxnqlo
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: nthdoqct
+  identifier: nthdoqct
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

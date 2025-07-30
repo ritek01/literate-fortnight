@@ -1,0 +1,7 @@
+service:
+  name: xxnlimyn
+  identifier: xxnlimyn
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

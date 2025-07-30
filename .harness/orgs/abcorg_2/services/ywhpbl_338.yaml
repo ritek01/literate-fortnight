@@ -1,0 +1,7 @@
+service:
+  name: gciqtivd
+  identifier: gciqtivd
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

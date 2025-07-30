@@ -1,0 +1,7 @@
+service:
+  name: bipuwpwt
+  identifier: bipuwpwt
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

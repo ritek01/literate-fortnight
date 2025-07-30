@@ -1,0 +1,7 @@
+service:
+  name: plimmbat
+  identifier: plimmbat
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

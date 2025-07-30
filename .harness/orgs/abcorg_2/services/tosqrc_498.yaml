@@ -1,0 +1,7 @@
+service:
+  name: hbpjpthv
+  identifier: hbpjpthv
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: rqyaeyts
+  identifier: rqyaeyts
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

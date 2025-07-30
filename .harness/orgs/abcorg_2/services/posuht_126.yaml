@@ -1,0 +1,7 @@
+service:
+  name: tmaciqep
+  identifier: tmaciqep
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

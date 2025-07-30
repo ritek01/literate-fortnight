@@ -1,0 +1,7 @@
+service:
+  name: rzvgyzil
+  identifier: rzvgyzil
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

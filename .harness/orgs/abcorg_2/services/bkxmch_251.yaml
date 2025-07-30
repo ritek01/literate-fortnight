@@ -1,0 +1,7 @@
+service:
+  name: lpuqwcci
+  identifier: lpuqwcci
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

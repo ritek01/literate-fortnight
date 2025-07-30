@@ -1,0 +1,7 @@
+service:
+  name: mkohxwei
+  identifier: mkohxwei
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: ciuiskph
+  identifier: ciuiskph
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: pviiawru
+  identifier: pviiawru
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

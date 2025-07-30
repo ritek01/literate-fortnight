@@ -1,0 +1,7 @@
+service:
+  name: bcfwbsqq
+  identifier: bcfwbsqq
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: dkdvrmca
+  identifier: dkdvrmca
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

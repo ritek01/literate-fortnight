@@ -1,0 +1,7 @@
+service:
+  name: ujnatufr
+  identifier: ujnatufr
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

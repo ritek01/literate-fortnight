@@ -1,0 +1,7 @@
+service:
+  name: qwdxhspp
+  identifier: qwdxhspp
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: cnwjxxwa
+  identifier: cnwjxxwa
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

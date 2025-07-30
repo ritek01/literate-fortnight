@@ -1,0 +1,7 @@
+service:
+  name: ucyasudo
+  identifier: ucyasudo
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

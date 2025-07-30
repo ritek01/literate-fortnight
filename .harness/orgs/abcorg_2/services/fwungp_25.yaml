@@ -1,0 +1,7 @@
+service:
+  name: jrbcnakc
+  identifier: jrbcnakc
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: lpsxthsg
+  identifier: lpsxthsg
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

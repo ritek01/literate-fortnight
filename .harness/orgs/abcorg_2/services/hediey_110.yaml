@@ -1,0 +1,7 @@
+service:
+  name: khkfqihc
+  identifier: khkfqihc
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: pqgqxytz
+  identifier: pqgqxytz
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

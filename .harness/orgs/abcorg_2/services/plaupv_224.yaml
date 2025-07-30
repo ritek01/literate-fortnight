@@ -1,0 +1,7 @@
+service:
+  name: nskemrtu
+  identifier: nskemrtu
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

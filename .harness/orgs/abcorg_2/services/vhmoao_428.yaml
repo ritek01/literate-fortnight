@@ -1,0 +1,7 @@
+service:
+  name: clkpyygo
+  identifier: clkpyygo
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

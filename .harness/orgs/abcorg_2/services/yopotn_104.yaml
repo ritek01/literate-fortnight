@@ -1,0 +1,7 @@
+service:
+  name: loklpfvr
+  identifier: loklpfvr
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

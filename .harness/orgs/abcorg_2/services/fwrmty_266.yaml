@@ -1,0 +1,7 @@
+service:
+  name: svnljmgi
+  identifier: svnljmgi
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

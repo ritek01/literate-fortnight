@@ -1,0 +1,7 @@
+service:
+  name: etkwskuz
+  identifier: etkwskuz
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: rnrupqsj
+  identifier: rnrupqsj
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

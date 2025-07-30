@@ -1,0 +1,7 @@
+service:
+  name: xjyoctnn
+  identifier: xjyoctnn
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: oafkeige
+  identifier: oafkeige
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

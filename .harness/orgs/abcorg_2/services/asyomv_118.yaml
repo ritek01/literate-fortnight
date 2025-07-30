@@ -1,0 +1,7 @@
+service:
+  name: pfnodeal
+  identifier: pfnodeal
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: bjstigho
+  identifier: bjstigho
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: xkblrqty
+  identifier: xkblrqty
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

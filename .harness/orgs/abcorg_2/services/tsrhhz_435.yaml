@@ -1,0 +1,7 @@
+service:
+  name: umxesugo
+  identifier: umxesugo
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

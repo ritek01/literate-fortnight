@@ -1,0 +1,7 @@
+service:
+  name: teuqprtw
+  identifier: teuqprtw
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

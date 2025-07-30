@@ -1,0 +1,7 @@
+service:
+  name: fbyvdtmd
+  identifier: fbyvdtmd
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

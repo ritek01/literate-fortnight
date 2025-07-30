@@ -1,0 +1,7 @@
+service:
+  name: jkkdcdrr
+  identifier: jkkdcdrr
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

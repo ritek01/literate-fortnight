@@ -1,0 +1,7 @@
+service:
+  name: nrrjuiqa
+  identifier: nrrjuiqa
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

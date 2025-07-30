@@ -1,0 +1,7 @@
+service:
+  name: raaghsgn
+  identifier: raaghsgn
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

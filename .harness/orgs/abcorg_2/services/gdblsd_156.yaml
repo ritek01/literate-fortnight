@@ -1,0 +1,7 @@
+service:
+  name: nklmgezo
+  identifier: nklmgezo
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

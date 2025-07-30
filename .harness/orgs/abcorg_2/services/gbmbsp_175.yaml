@@ -1,0 +1,7 @@
+service:
+  name: arusweul
+  identifier: arusweul
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

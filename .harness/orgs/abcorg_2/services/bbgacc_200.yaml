@@ -1,0 +1,7 @@
+service:
+  name: xrbthhnb
+  identifier: xrbthhnb
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

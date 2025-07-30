@@ -1,0 +1,7 @@
+service:
+  name: balgttei
+  identifier: balgttei
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

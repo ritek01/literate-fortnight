@@ -1,0 +1,7 @@
+service:
+  name: dgfmfkfd
+  identifier: dgfmfkfd
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

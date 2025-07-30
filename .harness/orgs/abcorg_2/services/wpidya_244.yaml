@@ -1,0 +1,7 @@
+service:
+  name: emsyynke
+  identifier: emsyynke
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: mlmjzllw
+  identifier: mlmjzllw
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

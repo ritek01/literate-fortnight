@@ -1,0 +1,7 @@
+service:
+  name: wtpazlgj
+  identifier: wtpazlgj
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: oetephto
+  identifier: oetephto
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

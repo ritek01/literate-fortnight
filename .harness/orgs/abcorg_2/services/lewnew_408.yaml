@@ -1,0 +1,7 @@
+service:
+  name: jtywuumc
+  identifier: jtywuumc
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

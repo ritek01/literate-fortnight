@@ -1,0 +1,7 @@
+service:
+  name: ogadavkd
+  identifier: ogadavkd
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

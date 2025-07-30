@@ -1,0 +1,7 @@
+service:
+  name: dqcbxygw
+  identifier: dqcbxygw
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

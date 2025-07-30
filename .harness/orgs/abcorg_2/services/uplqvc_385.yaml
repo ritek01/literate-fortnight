@@ -1,0 +1,7 @@
+service:
+  name: prtyfmun
+  identifier: prtyfmun
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

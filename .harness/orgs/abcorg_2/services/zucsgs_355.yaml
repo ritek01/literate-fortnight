@@ -1,0 +1,7 @@
+service:
+  name: ltobegxi
+  identifier: ltobegxi
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

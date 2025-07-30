@@ -1,0 +1,7 @@
+service:
+  name: ruvnpzlj
+  identifier: ruvnpzlj
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

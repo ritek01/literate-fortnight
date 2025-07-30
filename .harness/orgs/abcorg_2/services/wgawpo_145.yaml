@@ -1,0 +1,7 @@
+service:
+  name: jcmxnvdf
+  identifier: jcmxnvdf
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

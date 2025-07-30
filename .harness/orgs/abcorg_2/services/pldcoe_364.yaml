@@ -1,0 +1,7 @@
+service:
+  name: dsxlwhxt
+  identifier: dsxlwhxt
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

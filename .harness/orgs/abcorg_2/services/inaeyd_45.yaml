@@ -1,0 +1,7 @@
+service:
+  name: qmeapsxu
+  identifier: qmeapsxu
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: gjtitusr
+  identifier: gjtitusr
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

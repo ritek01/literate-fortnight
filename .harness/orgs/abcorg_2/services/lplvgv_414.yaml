@@ -1,0 +1,7 @@
+service:
+  name: zcrtsfdq
+  identifier: zcrtsfdq
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

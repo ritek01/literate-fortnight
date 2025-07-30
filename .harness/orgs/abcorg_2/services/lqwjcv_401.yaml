@@ -1,0 +1,7 @@
+service:
+  name: xzkiclnj
+  identifier: xzkiclnj
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

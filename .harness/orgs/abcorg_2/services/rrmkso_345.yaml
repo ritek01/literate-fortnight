@@ -1,0 +1,7 @@
+service:
+  name: ebohlwcw
+  identifier: ebohlwcw
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

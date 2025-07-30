@@ -1,0 +1,7 @@
+service:
+  name: xzlweqbv
+  identifier: xzlweqbv
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

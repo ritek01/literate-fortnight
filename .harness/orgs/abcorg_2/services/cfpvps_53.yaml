@@ -1,0 +1,7 @@
+service:
+  name: drnshvrm
+  identifier: drnshvrm
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

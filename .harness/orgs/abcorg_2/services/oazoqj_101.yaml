@@ -1,0 +1,7 @@
+service:
+  name: hecwtojp
+  identifier: hecwtojp
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

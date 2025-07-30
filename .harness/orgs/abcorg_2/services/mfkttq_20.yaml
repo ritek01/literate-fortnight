@@ -1,0 +1,7 @@
+service:
+  name: dctithry
+  identifier: dctithry
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: wtwahfph
+  identifier: wtwahfph
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

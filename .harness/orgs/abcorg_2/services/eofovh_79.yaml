@@ -1,0 +1,7 @@
+service:
+  name: potzsbqo
+  identifier: potzsbqo
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

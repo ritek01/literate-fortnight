@@ -1,0 +1,7 @@
+service:
+  name: udtfoujg
+  identifier: udtfoujg
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

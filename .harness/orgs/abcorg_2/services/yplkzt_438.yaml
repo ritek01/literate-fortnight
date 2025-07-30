@@ -1,0 +1,7 @@
+service:
+  name: zxfbtvsf
+  identifier: zxfbtvsf
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

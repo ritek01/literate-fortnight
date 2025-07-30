@@ -1,0 +1,7 @@
+service:
+  name: fmvndjgk
+  identifier: fmvndjgk
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

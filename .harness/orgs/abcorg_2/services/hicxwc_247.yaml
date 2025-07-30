@@ -1,0 +1,7 @@
+service:
+  name: gzioowio
+  identifier: gzioowio
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

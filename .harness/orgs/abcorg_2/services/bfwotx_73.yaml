@@ -1,0 +1,7 @@
+service:
+  name: fksajtsp
+  identifier: fksajtsp
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

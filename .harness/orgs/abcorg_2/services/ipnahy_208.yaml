@@ -1,0 +1,7 @@
+service:
+  name: exjtmfag
+  identifier: exjtmfag
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

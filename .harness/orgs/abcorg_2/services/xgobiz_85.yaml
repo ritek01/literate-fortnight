@@ -1,0 +1,7 @@
+service:
+  name: sntbqyph
+  identifier: sntbqyph
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

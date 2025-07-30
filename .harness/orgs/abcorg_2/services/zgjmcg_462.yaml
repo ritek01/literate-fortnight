@@ -1,0 +1,7 @@
+service:
+  name: dwsnhvrg
+  identifier: dwsnhvrg
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

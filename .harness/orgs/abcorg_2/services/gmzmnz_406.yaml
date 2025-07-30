@@ -1,0 +1,7 @@
+service:
+  name: iutvodnf
+  identifier: iutvodnf
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

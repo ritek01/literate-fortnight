@@ -1,0 +1,7 @@
+service:
+  name: uwzxbvvl
+  identifier: uwzxbvvl
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

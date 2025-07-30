@@ -1,0 +1,7 @@
+service:
+  name: gszxsysf
+  identifier: gszxsysf
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

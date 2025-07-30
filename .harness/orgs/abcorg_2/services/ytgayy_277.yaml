@@ -1,0 +1,7 @@
+service:
+  name: lapejnql
+  identifier: lapejnql
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

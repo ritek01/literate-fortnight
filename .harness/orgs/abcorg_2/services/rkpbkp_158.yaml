@@ -1,0 +1,7 @@
+service:
+  name: dmazisxt
+  identifier: dmazisxt
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

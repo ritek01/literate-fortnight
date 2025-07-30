@@ -1,0 +1,7 @@
+service:
+  name: veowckwk
+  identifier: veowckwk
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

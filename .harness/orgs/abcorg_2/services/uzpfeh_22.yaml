@@ -1,0 +1,7 @@
+service:
+  name: mzpegkwu
+  identifier: mzpegkwu
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

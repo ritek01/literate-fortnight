@@ -1,0 +1,7 @@
+service:
+  name: pvumyhew
+  identifier: pvumyhew
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

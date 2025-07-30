@@ -1,0 +1,7 @@
+service:
+  name: pvwdlkiw
+  identifier: pvwdlkiw
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

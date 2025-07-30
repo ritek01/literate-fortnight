@@ -1,0 +1,7 @@
+service:
+  name: acjbzzyc
+  identifier: acjbzzyc
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

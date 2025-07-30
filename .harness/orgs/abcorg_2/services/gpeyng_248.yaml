@@ -1,0 +1,7 @@
+service:
+  name: spusgakb
+  identifier: spusgakb
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

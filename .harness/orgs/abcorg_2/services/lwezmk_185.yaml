@@ -1,0 +1,7 @@
+service:
+  name: mqbwlbiz
+  identifier: mqbwlbiz
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

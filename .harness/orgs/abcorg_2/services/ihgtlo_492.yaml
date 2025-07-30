@@ -1,0 +1,7 @@
+service:
+  name: kwmmwslc
+  identifier: kwmmwslc
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

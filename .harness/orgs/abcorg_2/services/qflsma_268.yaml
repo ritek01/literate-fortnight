@@ -1,0 +1,7 @@
+service:
+  name: zovxezby
+  identifier: zovxezby
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

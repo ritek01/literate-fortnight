@@ -1,0 +1,7 @@
+service:
+  name: ygoghcfx
+  identifier: ygoghcfx
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

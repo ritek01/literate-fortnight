@@ -1,0 +1,7 @@
+service:
+  name: saokykfy
+  identifier: saokykfy
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

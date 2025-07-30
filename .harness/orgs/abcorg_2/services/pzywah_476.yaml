@@ -1,0 +1,7 @@
+service:
+  name: pwzezpba
+  identifier: pwzezpba
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: bnuzcldx
+  identifier: bnuzcldx
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

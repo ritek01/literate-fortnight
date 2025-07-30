@@ -1,0 +1,7 @@
+service:
+  name: hnpshrxu
+  identifier: hnpshrxu
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

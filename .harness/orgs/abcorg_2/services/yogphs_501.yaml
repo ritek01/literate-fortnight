@@ -1,0 +1,7 @@
+service:
+  name: odhnhesm
+  identifier: odhnhesm
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

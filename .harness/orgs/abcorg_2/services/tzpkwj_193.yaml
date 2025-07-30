@@ -1,0 +1,7 @@
+service:
+  name: ykdkyvee
+  identifier: ykdkyvee
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

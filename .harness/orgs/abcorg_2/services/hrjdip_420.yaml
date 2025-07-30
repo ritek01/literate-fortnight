@@ -1,0 +1,7 @@
+service:
+  name: zualeqbx
+  identifier: zualeqbx
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

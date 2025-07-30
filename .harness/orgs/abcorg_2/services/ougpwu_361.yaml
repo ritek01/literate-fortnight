@@ -1,0 +1,7 @@
+service:
+  name: yixbcoiu
+  identifier: yixbcoiu
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

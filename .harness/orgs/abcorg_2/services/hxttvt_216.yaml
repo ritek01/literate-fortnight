@@ -1,0 +1,7 @@
+service:
+  name: yoazqjsf
+  identifier: yoazqjsf
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: kxkdkzxy
+  identifier: kxkdkzxy
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: xpjcabde
+  identifier: xpjcabde
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

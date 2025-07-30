@@ -1,0 +1,7 @@
+service:
+  name: iaewsmub
+  identifier: iaewsmub
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

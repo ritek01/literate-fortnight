@@ -1,0 +1,7 @@
+service:
+  name: miuzatuf
+  identifier: miuzatuf
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: nmmhoaaz
+  identifier: nmmhoaaz
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: rvevgsns
+  identifier: rvevgsns
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

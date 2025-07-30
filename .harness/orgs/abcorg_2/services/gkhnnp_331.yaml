@@ -1,0 +1,7 @@
+service:
+  name: yiboolpt
+  identifier: yiboolpt
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

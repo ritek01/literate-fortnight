@@ -1,0 +1,7 @@
+service:
+  name: gvtlnuyg
+  identifier: gvtlnuyg
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

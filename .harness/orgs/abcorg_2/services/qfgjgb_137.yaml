@@ -1,0 +1,7 @@
+service:
+  name: zytefoqj
+  identifier: zytefoqj
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

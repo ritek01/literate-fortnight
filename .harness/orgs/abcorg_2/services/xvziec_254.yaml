@@ -1,0 +1,7 @@
+service:
+  name: dydclehl
+  identifier: dydclehl
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: gefflwzo
+  identifier: gefflwzo
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

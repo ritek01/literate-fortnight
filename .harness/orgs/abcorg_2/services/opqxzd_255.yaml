@@ -1,0 +1,7 @@
+service:
+  name: uveaknxu
+  identifier: uveaknxu
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: losdqqvy
+  identifier: losdqqvy
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

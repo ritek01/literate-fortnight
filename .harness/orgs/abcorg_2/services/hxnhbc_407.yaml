@@ -1,0 +1,7 @@
+service:
+  name: hergiuyt
+  identifier: hergiuyt
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

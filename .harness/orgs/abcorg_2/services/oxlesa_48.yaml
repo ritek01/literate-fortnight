@@ -1,0 +1,7 @@
+service:
+  name: kztmhmlm
+  identifier: kztmhmlm
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: fgovgzna
+  identifier: fgovgzna
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

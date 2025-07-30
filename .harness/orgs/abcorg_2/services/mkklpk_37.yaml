@@ -1,0 +1,7 @@
+service:
+  name: yluudkmk
+  identifier: yluudkmk
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

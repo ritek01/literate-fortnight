@@ -1,0 +1,7 @@
+service:
+  name: bzxuryhq
+  identifier: bzxuryhq
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

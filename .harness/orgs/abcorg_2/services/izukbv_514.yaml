@@ -1,0 +1,7 @@
+service:
+  name: uwotchiu
+  identifier: uwotchiu
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

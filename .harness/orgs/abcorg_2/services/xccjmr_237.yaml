@@ -1,0 +1,7 @@
+service:
+  name: ciudxegh
+  identifier: ciudxegh
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

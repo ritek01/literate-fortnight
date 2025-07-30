@@ -1,0 +1,7 @@
+service:
+  name: grbgvkah
+  identifier: grbgvkah
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

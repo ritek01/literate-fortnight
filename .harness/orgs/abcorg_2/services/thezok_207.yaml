@@ -1,0 +1,7 @@
+service:
+  name: mxqrlpnz
+  identifier: mxqrlpnz
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

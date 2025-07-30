@@ -1,0 +1,7 @@
+service:
+  name: azyjrbxd
+  identifier: azyjrbxd
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

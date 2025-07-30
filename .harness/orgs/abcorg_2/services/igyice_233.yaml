@@ -1,0 +1,7 @@
+service:
+  name: aavjsjwh
+  identifier: aavjsjwh
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

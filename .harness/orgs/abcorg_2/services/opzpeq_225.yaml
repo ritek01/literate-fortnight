@@ -1,0 +1,7 @@
+service:
+  name: effbnezf
+  identifier: effbnezf
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

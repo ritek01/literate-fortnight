@@ -1,0 +1,7 @@
+service:
+  name: ffqvpifz
+  identifier: ffqvpifz
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

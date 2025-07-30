@@ -1,0 +1,7 @@
+service:
+  name: cljuqhxm
+  identifier: cljuqhxm
+  orgIdentifier: abcorg_2
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
