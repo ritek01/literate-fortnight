@@ -1,0 +1,8 @@
+service:
+  name: new_srv
+  identifier: new_srv
+  orgIdentifier: Ng_Pipelines_K8s_Organisations
+  projectIdentifier: DoNotDelete_Ritek_Project
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
