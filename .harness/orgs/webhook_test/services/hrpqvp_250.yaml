@@ -1,0 +1,7 @@
+service:
+  name: fzkuepwq
+  identifier: fzkuepwq
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

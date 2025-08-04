@@ -1,0 +1,7 @@
+service:
+  name: wppgpcny
+  identifier: wppgpcny
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

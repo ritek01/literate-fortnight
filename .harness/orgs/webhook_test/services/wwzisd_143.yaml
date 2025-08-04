@@ -1,0 +1,7 @@
+service:
+  name: hsqbsdmn
+  identifier: hsqbsdmn
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: zfyanhcy
+  identifier: zfyanhcy
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: utwzehgi
+  identifier: utwzehgi
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: nawyoysf
+  identifier: nawyoysf
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

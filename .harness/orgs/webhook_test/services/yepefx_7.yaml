@@ -1,0 +1,7 @@
+service:
+  name: ieiyboze
+  identifier: ieiyboze
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: uecejfax
+  identifier: uecejfax
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

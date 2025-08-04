@@ -1,0 +1,7 @@
+service:
+  name: zirkczob
+  identifier: zirkczob
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: vjmospcx
+  identifier: vjmospcx
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

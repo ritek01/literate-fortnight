@@ -1,0 +1,7 @@
+service:
+  name: hprmkqgw
+  identifier: hprmkqgw
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

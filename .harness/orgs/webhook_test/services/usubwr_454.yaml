@@ -1,0 +1,7 @@
+service:
+  name: hytthdqy
+  identifier: hytthdqy
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: inksmhio
+  identifier: inksmhio
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

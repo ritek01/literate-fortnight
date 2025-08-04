@@ -1,0 +1,7 @@
+service:
+  name: akxtuihm
+  identifier: akxtuihm
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

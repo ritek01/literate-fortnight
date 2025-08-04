@@ -1,0 +1,7 @@
+service:
+  name: rudvitls
+  identifier: rudvitls
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

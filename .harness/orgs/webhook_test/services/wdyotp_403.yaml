@@ -1,0 +1,7 @@
+service:
+  name: gmslusoh
+  identifier: gmslusoh
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

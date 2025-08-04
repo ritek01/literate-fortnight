@@ -1,0 +1,7 @@
+service:
+  name: gxljvoxk
+  identifier: gxljvoxk
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: fbdgmzeh
+  identifier: fbdgmzeh
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: pmkgbaid
+  identifier: pmkgbaid
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

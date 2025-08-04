@@ -1,0 +1,7 @@
+service:
+  name: kdgnrvqr
+  identifier: kdgnrvqr
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

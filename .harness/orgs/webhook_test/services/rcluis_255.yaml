@@ -1,0 +1,7 @@
+service:
+  name: lgvgbleu
+  identifier: lgvgbleu
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

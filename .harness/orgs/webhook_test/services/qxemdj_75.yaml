@@ -1,0 +1,7 @@
+service:
+  name: lusvlokq
+  identifier: lusvlokq
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

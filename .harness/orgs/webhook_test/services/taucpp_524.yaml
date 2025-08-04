@@ -1,0 +1,7 @@
+service:
+  name: fasssxeo
+  identifier: fasssxeo
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: doihszbz
+  identifier: doihszbz
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

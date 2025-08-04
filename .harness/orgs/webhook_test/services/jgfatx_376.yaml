@@ -1,0 +1,7 @@
+service:
+  name: grmzmnyl
+  identifier: grmzmnyl
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

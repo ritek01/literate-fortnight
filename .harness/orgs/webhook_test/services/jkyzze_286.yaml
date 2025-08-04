@@ -1,0 +1,7 @@
+service:
+  name: xyltfgtc
+  identifier: xyltfgtc
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

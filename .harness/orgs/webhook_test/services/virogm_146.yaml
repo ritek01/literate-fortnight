@@ -1,0 +1,7 @@
+service:
+  name: cwmzvyjb
+  identifier: cwmzvyjb
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: cedawkmg
+  identifier: cedawkmg
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

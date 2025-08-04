@@ -1,0 +1,7 @@
+service:
+  name: qwksrarx
+  identifier: qwksrarx
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

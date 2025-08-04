@@ -1,0 +1,7 @@
+service:
+  name: cdqajres
+  identifier: cdqajres
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

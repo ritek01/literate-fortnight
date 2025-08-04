@@ -1,0 +1,7 @@
+service:
+  name: egbbytks
+  identifier: egbbytks
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

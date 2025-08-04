@@ -1,0 +1,7 @@
+service:
+  name: ptxisklw
+  identifier: ptxisklw
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

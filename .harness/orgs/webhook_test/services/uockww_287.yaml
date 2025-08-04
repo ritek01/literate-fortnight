@@ -1,0 +1,7 @@
+service:
+  name: wqibblza
+  identifier: wqibblza
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: mibtqlcy
+  identifier: mibtqlcy
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: vzrkosvl
+  identifier: vzrkosvl
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

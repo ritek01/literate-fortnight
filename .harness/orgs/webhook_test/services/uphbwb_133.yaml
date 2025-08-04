@@ -1,0 +1,7 @@
+service:
+  name: golbuiar
+  identifier: golbuiar
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

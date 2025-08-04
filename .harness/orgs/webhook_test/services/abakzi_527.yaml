@@ -1,0 +1,7 @@
+service:
+  name: qcliebdd
+  identifier: qcliebdd
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

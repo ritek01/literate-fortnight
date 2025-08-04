@@ -1,0 +1,7 @@
+service:
+  name: wylnhnla
+  identifier: wylnhnla
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

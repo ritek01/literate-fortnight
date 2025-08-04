@@ -1,0 +1,7 @@
+service:
+  name: ztrcxatx
+  identifier: ztrcxatx
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

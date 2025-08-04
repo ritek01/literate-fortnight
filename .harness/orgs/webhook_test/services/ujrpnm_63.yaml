@@ -1,0 +1,7 @@
+service:
+  name: qtisychb
+  identifier: qtisychb
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

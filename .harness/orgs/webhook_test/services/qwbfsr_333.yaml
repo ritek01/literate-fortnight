@@ -1,0 +1,7 @@
+service:
+  name: nihqbdsn
+  identifier: nihqbdsn
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

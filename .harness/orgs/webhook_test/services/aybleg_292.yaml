@@ -1,0 +1,7 @@
+service:
+  name: uinwmngy
+  identifier: uinwmngy
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

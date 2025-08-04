@@ -1,0 +1,7 @@
+service:
+  name: yierppca
+  identifier: yierppca
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

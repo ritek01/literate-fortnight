@@ -1,0 +1,7 @@
+service:
+  name: eypqzpdo
+  identifier: eypqzpdo
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

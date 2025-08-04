@@ -1,0 +1,7 @@
+service:
+  name: wmxlizkm
+  identifier: wmxlizkm
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

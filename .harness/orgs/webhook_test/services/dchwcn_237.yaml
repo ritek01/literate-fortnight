@@ -1,0 +1,7 @@
+service:
+  name: lvikhkbp
+  identifier: lvikhkbp
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

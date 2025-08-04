@@ -1,0 +1,7 @@
+service:
+  name: bigyhxzy
+  identifier: bigyhxzy
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

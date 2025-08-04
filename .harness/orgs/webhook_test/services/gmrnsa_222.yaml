@@ -1,0 +1,7 @@
+service:
+  name: wpmhjeap
+  identifier: wpmhjeap
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

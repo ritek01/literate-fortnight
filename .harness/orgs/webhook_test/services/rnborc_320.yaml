@@ -1,0 +1,7 @@
+service:
+  name: audzztta
+  identifier: audzztta
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

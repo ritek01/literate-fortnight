@@ -1,0 +1,7 @@
+service:
+  name: jpzzchwg
+  identifier: jpzzchwg
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

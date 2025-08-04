@@ -1,0 +1,7 @@
+service:
+  name: wetnphsn
+  identifier: wetnphsn
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

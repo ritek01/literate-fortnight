@@ -1,0 +1,7 @@
+service:
+  name: bhpydhvd
+  identifier: bhpydhvd
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

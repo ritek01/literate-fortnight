@@ -1,0 +1,7 @@
+service:
+  name: tpezvzax
+  identifier: tpezvzax
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

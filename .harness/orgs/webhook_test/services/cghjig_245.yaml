@@ -1,0 +1,7 @@
+service:
+  name: ykqpjtyu
+  identifier: ykqpjtyu
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

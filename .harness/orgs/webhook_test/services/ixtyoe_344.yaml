@@ -1,0 +1,7 @@
+service:
+  name: jrgrvwse
+  identifier: jrgrvwse
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

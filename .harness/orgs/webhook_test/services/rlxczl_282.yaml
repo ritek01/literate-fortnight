@@ -1,0 +1,7 @@
+service:
+  name: pinlolzv
+  identifier: pinlolzv
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

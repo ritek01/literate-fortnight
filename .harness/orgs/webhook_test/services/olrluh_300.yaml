@@ -1,0 +1,7 @@
+service:
+  name: apumycwn
+  identifier: apumycwn
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: zduyoknf
+  identifier: zduyoknf
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

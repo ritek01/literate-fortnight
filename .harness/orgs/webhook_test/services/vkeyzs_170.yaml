@@ -1,0 +1,7 @@
+service:
+  name: dfxhsnpy
+  identifier: dfxhsnpy
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: urrfpzrj
+  identifier: urrfpzrj
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

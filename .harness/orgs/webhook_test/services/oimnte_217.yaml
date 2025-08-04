@@ -1,0 +1,7 @@
+service:
+  name: mgecwsqy
+  identifier: mgecwsqy
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

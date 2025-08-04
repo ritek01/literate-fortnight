@@ -1,0 +1,7 @@
+service:
+  name: kxogkzue
+  identifier: kxogkzue
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

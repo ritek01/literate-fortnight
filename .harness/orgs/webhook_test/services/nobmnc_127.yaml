@@ -1,0 +1,7 @@
+service:
+  name: apsnhpap
+  identifier: apsnhpap
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

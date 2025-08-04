@@ -1,0 +1,7 @@
+service:
+  name: ovinphaj
+  identifier: ovinphaj
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: gdxzoawj
+  identifier: gdxzoawj
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

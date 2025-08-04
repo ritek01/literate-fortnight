@@ -1,0 +1,7 @@
+service:
+  name: iouytojv
+  identifier: iouytojv
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

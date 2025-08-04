@@ -1,0 +1,7 @@
+service:
+  name: mubqojmy
+  identifier: mubqojmy
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

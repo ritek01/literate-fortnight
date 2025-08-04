@@ -1,0 +1,7 @@
+service:
+  name: ijfmdxao
+  identifier: ijfmdxao
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

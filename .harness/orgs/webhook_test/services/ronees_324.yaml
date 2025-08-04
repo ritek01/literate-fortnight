@@ -1,0 +1,7 @@
+service:
+  name: xbpgohwx
+  identifier: xbpgohwx
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

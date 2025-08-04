@@ -1,0 +1,7 @@
+service:
+  name: itnhzttt
+  identifier: itnhzttt
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

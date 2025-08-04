@@ -1,0 +1,7 @@
+service:
+  name: gwejemiu
+  identifier: gwejemiu
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

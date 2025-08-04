@@ -1,0 +1,7 @@
+service:
+  name: eobpfzrb
+  identifier: eobpfzrb
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

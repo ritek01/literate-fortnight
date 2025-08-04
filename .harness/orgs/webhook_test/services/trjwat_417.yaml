@@ -1,0 +1,7 @@
+service:
+  name: rbxqiyuc
+  identifier: rbxqiyuc
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

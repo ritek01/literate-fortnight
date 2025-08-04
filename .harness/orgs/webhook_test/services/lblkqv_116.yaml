@@ -1,0 +1,7 @@
+service:
+  name: oppdltwe
+  identifier: oppdltwe
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: wnvvkabc
+  identifier: wnvvkabc
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: ybcrbauv
+  identifier: ybcrbauv
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: fedktsni
+  identifier: fedktsni
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

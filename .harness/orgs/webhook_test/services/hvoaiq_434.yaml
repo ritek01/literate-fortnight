@@ -1,0 +1,7 @@
+service:
+  name: uodadffp
+  identifier: uodadffp
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

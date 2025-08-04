@@ -1,0 +1,7 @@
+service:
+  name: apydwuyn
+  identifier: apydwuyn
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

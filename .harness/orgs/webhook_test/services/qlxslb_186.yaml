@@ -1,0 +1,7 @@
+service:
+  name: tbdfvayl
+  identifier: tbdfvayl
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

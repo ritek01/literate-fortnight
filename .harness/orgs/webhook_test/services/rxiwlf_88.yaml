@@ -1,0 +1,7 @@
+service:
+  name: caitkaxa
+  identifier: caitkaxa
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

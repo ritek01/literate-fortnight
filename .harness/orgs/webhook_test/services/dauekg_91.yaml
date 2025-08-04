@@ -1,0 +1,7 @@
+service:
+  name: eprvfoey
+  identifier: eprvfoey
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

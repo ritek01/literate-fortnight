@@ -1,0 +1,7 @@
+service:
+  name: ymnsuerl
+  identifier: ymnsuerl
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

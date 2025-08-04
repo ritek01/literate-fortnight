@@ -1,0 +1,7 @@
+service:
+  name: ddywvljq
+  identifier: ddywvljq
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

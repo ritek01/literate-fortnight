@@ -1,0 +1,7 @@
+service:
+  name: ekumlklu
+  identifier: ekumlklu
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: adlstyzo
+  identifier: adlstyzo
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

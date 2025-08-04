@@ -1,0 +1,7 @@
+service:
+  name: zynftyga
+  identifier: zynftyga
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

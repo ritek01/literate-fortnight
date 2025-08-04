@@ -1,0 +1,7 @@
+service:
+  name: wwlwsjor
+  identifier: wwlwsjor
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

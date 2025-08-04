@@ -1,0 +1,7 @@
+service:
+  name: ghubxbqo
+  identifier: ghubxbqo
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

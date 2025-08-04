@@ -1,0 +1,7 @@
+service:
+  name: bsrsipdm
+  identifier: bsrsipdm
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

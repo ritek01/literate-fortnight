@@ -1,0 +1,7 @@
+service:
+  name: toqfdnwg
+  identifier: toqfdnwg
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

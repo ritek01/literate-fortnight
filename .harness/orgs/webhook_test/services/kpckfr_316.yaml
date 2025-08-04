@@ -1,0 +1,7 @@
+service:
+  name: bebjckqp
+  identifier: bebjckqp
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

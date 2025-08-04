@@ -1,0 +1,7 @@
+service:
+  name: ujsljzsa
+  identifier: ujsljzsa
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

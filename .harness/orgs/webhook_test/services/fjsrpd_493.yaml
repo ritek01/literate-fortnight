@@ -1,0 +1,7 @@
+service:
+  name: evxwrokr
+  identifier: evxwrokr
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

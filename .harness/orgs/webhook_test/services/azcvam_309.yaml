@@ -1,0 +1,7 @@
+service:
+  name: geonoaop
+  identifier: geonoaop
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

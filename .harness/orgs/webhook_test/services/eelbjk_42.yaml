@@ -1,0 +1,7 @@
+service:
+  name: jhvwhgbp
+  identifier: jhvwhgbp
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: boniguve
+  identifier: boniguve
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

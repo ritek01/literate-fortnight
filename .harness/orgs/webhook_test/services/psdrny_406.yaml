@@ -1,0 +1,7 @@
+service:
+  name: yhzrcijc
+  identifier: yhzrcijc
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

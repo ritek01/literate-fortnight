@@ -1,0 +1,7 @@
+service:
+  name: utvuydio
+  identifier: utvuydio
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

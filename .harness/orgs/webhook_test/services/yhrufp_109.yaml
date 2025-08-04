@@ -1,0 +1,7 @@
+service:
+  name: dmgexpxy
+  identifier: dmgexpxy
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

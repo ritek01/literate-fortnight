@@ -1,0 +1,7 @@
+service:
+  name: onuwingv
+  identifier: onuwingv
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: lvqkwjrr
+  identifier: lvqkwjrr
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

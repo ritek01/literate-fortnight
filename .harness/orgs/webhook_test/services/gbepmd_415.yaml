@@ -1,0 +1,7 @@
+service:
+  name: dlozubdx
+  identifier: dlozubdx
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

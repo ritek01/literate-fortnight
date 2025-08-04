@@ -1,0 +1,7 @@
+service:
+  name: qeyvhlzd
+  identifier: qeyvhlzd
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

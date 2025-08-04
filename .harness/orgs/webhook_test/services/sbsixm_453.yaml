@@ -1,0 +1,7 @@
+service:
+  name: huukxcud
+  identifier: huukxcud
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

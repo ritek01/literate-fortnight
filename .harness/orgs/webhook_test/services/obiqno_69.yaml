@@ -1,0 +1,7 @@
+service:
+  name: rdpgyoij
+  identifier: rdpgyoij
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

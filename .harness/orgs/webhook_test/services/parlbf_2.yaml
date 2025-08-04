@@ -1,0 +1,7 @@
+service:
+  name: wxwsunoo
+  identifier: wxwsunoo
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

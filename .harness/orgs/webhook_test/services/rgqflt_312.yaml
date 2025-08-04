@@ -1,0 +1,7 @@
+service:
+  name: tsibefjw
+  identifier: tsibefjw
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: hbzazlzi
+  identifier: hbzazlzi
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

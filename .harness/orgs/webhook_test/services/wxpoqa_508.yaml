@@ -1,0 +1,7 @@
+service:
+  name: shonfvni
+  identifier: shonfvni
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

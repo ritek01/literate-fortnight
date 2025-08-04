@@ -1,0 +1,7 @@
+service:
+  name: dnjemosz
+  identifier: dnjemosz
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

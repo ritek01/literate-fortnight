@@ -1,0 +1,7 @@
+service:
+  name: ihfmutnc
+  identifier: ihfmutnc
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

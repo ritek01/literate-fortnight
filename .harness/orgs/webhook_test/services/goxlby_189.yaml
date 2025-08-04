@@ -1,0 +1,7 @@
+service:
+  name: prkkvrgz
+  identifier: prkkvrgz
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

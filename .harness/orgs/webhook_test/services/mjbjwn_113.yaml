@@ -1,0 +1,7 @@
+service:
+  name: xkycmsoo
+  identifier: xkycmsoo
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: izimlesw
+  identifier: izimlesw
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

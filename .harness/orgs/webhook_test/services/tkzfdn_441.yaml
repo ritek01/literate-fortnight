@@ -1,0 +1,7 @@
+service:
+  name: jzvwwzrr
+  identifier: jzvwwzrr
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: kymfrqgz
+  identifier: kymfrqgz
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

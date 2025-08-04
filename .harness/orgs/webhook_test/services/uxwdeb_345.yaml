@@ -1,0 +1,7 @@
+service:
+  name: bguswpyn
+  identifier: bguswpyn
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

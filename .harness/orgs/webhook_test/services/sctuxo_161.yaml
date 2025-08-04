@@ -1,0 +1,7 @@
+service:
+  name: ndqjzsjp
+  identifier: ndqjzsjp
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

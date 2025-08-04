@@ -1,0 +1,7 @@
+service:
+  name: ytsclequ
+  identifier: ytsclequ
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: lbzmodup
+  identifier: lbzmodup
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

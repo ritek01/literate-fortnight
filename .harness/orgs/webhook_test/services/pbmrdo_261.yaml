@@ -1,0 +1,7 @@
+service:
+  name: dwysfdfb
+  identifier: dwysfdfb
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: mbvnqznc
+  identifier: mbvnqznc
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

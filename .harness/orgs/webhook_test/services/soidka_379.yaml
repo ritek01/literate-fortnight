@@ -1,0 +1,7 @@
+service:
+  name: ufuzdskn
+  identifier: ufuzdskn
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

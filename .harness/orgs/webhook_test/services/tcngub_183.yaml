@@ -1,0 +1,7 @@
+service:
+  name: rbontatw
+  identifier: rbontatw
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

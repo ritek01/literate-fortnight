@@ -1,0 +1,7 @@
+service:
+  name: pgmrwhck
+  identifier: pgmrwhck
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

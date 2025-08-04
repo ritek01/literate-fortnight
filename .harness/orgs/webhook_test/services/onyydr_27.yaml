@@ -1,0 +1,7 @@
+service:
+  name: tjqibcub
+  identifier: tjqibcub
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

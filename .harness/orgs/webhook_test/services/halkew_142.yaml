@@ -1,0 +1,7 @@
+service:
+  name: bhmdeclz
+  identifier: bhmdeclz
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

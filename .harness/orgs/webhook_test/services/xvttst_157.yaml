@@ -1,0 +1,7 @@
+service:
+  name: oblykcls
+  identifier: oblykcls
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
