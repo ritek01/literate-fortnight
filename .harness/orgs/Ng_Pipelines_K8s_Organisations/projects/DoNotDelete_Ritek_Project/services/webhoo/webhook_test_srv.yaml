@@ -1,0 +1,7 @@
+service:
+  name: remote_srv
+  identifier: remote_srv
+  orgIdentifier: Ng_Pipelines_K8s_Organisations
+  projectIdentifier: DoNotDelete_Ritek_Project
+  serviceDefinition:
+    spec: {}
