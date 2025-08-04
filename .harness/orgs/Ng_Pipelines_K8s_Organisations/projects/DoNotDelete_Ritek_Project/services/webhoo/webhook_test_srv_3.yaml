@@ -1,0 +1,7 @@
+service:
+  name: webhook_test_srv_3
+  identifier: webhook_test_srv_3
+  orgIdentifier: Ng_Pipelines_K8s_Organisations
+  projectIdentifier: DoNotDelete_Ritek_Project
+  serviceDefinition:
+    spec: {}
