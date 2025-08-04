@@ -1,0 +1,7 @@
+service:
+  name: gfermjem
+  identifier: gfermjem
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

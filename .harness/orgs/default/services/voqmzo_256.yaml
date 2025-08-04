@@ -1,0 +1,7 @@
+service:
+  name: oyshgaxe
+  identifier: oyshgaxe
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: zcduudch
+  identifier: zcduudch
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

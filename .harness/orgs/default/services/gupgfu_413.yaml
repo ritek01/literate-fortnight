@@ -1,0 +1,7 @@
+service:
+  name: qrfllfom
+  identifier: qrfllfom
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

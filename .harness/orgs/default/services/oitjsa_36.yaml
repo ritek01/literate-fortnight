@@ -1,0 +1,7 @@
+service:
+  name: orkdobab
+  identifier: orkdobab
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

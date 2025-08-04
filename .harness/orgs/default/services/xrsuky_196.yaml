@@ -1,0 +1,7 @@
+service:
+  name: itdfrecw
+  identifier: itdfrecw
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

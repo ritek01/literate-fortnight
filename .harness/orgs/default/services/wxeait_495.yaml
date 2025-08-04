@@ -1,0 +1,7 @@
+service:
+  name: clvcnupk
+  identifier: clvcnupk
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

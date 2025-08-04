@@ -1,0 +1,7 @@
+service:
+  name: hntwfydj
+  identifier: hntwfydj
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

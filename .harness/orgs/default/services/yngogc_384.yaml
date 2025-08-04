@@ -1,0 +1,7 @@
+service:
+  name: coydwgey
+  identifier: coydwgey
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

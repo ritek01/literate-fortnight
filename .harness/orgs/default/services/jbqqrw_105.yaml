@@ -1,0 +1,7 @@
+service:
+  name: ubjwouhi
+  identifier: ubjwouhi
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

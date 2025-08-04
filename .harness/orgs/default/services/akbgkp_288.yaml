@@ -1,0 +1,7 @@
+service:
+  name: izaligvk
+  identifier: izaligvk
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: mzninqta
+  identifier: mzninqta
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

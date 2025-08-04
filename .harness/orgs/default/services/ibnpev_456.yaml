@@ -1,0 +1,7 @@
+service:
+  name: jucrwwco
+  identifier: jucrwwco
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

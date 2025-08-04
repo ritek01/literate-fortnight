@@ -1,0 +1,7 @@
+service:
+  name: dlliltum
+  identifier: dlliltum
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

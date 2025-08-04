@@ -1,0 +1,7 @@
+service:
+  name: lpegeeho
+  identifier: lpegeeho
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

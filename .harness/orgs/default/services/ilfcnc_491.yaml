@@ -1,0 +1,7 @@
+service:
+  name: hzmdsiwb
+  identifier: hzmdsiwb
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

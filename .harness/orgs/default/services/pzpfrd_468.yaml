@@ -1,0 +1,7 @@
+service:
+  name: mghezavf
+  identifier: mghezavf
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: donkvvwu
+  identifier: donkvvwu
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: unhbdlwe
+  identifier: unhbdlwe
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

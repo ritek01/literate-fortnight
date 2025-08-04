@@ -1,0 +1,7 @@
+service:
+  name: rykunyqs
+  identifier: rykunyqs
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

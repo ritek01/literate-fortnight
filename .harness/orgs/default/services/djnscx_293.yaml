@@ -1,0 +1,7 @@
+service:
+  name: hhyahrth
+  identifier: hhyahrth
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

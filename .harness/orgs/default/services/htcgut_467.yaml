@@ -1,0 +1,7 @@
+service:
+  name: lybspbas
+  identifier: lybspbas
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

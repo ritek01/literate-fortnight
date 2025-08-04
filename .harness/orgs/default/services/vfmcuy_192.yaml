@@ -1,0 +1,7 @@
+service:
+  name: byskyqma
+  identifier: byskyqma
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

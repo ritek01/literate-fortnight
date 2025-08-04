@@ -1,0 +1,7 @@
+service:
+  name: tbacfkfa
+  identifier: tbacfkfa
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

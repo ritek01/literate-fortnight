@@ -1,0 +1,7 @@
+service:
+  name: oiqddtov
+  identifier: oiqddtov
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

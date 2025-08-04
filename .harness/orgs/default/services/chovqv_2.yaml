@@ -1,0 +1,7 @@
+service:
+  name: qzpvcrsq
+  identifier: qzpvcrsq
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

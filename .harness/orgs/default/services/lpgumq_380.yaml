@@ -1,0 +1,7 @@
+service:
+  name: aoqjdgix
+  identifier: aoqjdgix
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

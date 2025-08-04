@@ -1,0 +1,7 @@
+service:
+  name: zxibjucv
+  identifier: zxibjucv
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

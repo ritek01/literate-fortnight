@@ -1,0 +1,7 @@
+service:
+  name: ccsrulxk
+  identifier: ccsrulxk
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: jkmhyjnk
+  identifier: jkmhyjnk
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: kmokrota
+  identifier: kmokrota
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

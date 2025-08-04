@@ -1,0 +1,7 @@
+service:
+  name: sxsexydd
+  identifier: sxsexydd
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

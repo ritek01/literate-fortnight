@@ -1,0 +1,7 @@
+service:
+  name: hfcymezq
+  identifier: hfcymezq
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

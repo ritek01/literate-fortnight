@@ -1,0 +1,7 @@
+service:
+  name: ndblzjsl
+  identifier: ndblzjsl
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

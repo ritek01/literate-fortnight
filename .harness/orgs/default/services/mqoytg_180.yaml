@@ -1,0 +1,7 @@
+service:
+  name: zbshzrlc
+  identifier: zbshzrlc
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

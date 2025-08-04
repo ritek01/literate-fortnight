@@ -1,0 +1,7 @@
+service:
+  name: twkmhoib
+  identifier: twkmhoib
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: fwvzgfob
+  identifier: fwvzgfob
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

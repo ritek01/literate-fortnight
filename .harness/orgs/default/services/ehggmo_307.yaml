@@ -1,0 +1,7 @@
+service:
+  name: koxsdimq
+  identifier: koxsdimq
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

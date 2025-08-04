@@ -1,0 +1,7 @@
+service:
+  name: smtjttyk
+  identifier: smtjttyk
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

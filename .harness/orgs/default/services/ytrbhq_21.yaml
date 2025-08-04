@@ -1,0 +1,7 @@
+service:
+  name: lbqibtet
+  identifier: lbqibtet
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

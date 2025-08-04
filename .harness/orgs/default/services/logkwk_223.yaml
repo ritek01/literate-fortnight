@@ -1,0 +1,7 @@
+service:
+  name: fioeuuaq
+  identifier: fioeuuaq
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

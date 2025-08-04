@@ -1,0 +1,7 @@
+service:
+  name: vkmbxhgr
+  identifier: vkmbxhgr
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

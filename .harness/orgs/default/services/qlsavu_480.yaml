@@ -1,0 +1,7 @@
+service:
+  name: nrjybtqw
+  identifier: nrjybtqw
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

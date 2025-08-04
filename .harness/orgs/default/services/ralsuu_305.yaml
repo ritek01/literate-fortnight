@@ -1,0 +1,7 @@
+service:
+  name: davbsrom
+  identifier: davbsrom
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

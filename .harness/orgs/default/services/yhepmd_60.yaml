@@ -1,0 +1,7 @@
+service:
+  name: rgmuwiqa
+  identifier: rgmuwiqa
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: qmwcepao
+  identifier: qmwcepao
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

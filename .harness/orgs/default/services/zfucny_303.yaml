@@ -1,0 +1,7 @@
+service:
+  name: foqxbyij
+  identifier: foqxbyij
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

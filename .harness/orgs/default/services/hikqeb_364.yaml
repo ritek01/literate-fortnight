@@ -1,0 +1,7 @@
+service:
+  name: sqzcfkbc
+  identifier: sqzcfkbc
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

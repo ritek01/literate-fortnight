@@ -1,0 +1,7 @@
+service:
+  name: vouwymjo
+  identifier: vouwymjo
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

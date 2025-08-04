@@ -1,0 +1,7 @@
+service:
+  name: vzceduyf
+  identifier: vzceduyf
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

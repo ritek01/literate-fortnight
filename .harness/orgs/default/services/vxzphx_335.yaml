@@ -1,0 +1,7 @@
+service:
+  name: ocqabmet
+  identifier: ocqabmet
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

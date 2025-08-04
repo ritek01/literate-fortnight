@@ -1,0 +1,7 @@
+service:
+  name: oajlyzzn
+  identifier: oajlyzzn
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

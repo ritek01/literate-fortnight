@@ -1,0 +1,7 @@
+service:
+  name: tytzfnzu
+  identifier: tytzfnzu
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

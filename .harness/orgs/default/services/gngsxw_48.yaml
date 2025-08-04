@@ -1,0 +1,7 @@
+service:
+  name: dcytgqyg
+  identifier: dcytgqyg
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

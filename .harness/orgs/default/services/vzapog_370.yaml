@@ -1,0 +1,7 @@
+service:
+  name: adeefckb
+  identifier: adeefckb
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

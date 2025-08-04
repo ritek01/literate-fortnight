@@ -1,0 +1,7 @@
+service:
+  name: nnupdfai
+  identifier: nnupdfai
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

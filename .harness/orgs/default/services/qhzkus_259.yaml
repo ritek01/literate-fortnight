@@ -1,0 +1,7 @@
+service:
+  name: hsrnddmu
+  identifier: hsrnddmu
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: mflbdfos
+  identifier: mflbdfos
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

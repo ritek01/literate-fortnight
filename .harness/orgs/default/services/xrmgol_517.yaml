@@ -1,0 +1,7 @@
+service:
+  name: qwpjojxu
+  identifier: qwpjojxu
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: vrueoond
+  identifier: vrueoond
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: dldbkzbr
+  identifier: dldbkzbr
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: klhbkunb
+  identifier: klhbkunb
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

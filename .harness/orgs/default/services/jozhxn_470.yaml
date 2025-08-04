@@ -1,0 +1,7 @@
+service:
+  name: qpetjgrk
+  identifier: qpetjgrk
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

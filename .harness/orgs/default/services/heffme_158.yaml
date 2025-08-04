@@ -1,0 +1,7 @@
+service:
+  name: xpjsijym
+  identifier: xpjsijym
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

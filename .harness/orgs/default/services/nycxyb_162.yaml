@@ -1,0 +1,7 @@
+service:
+  name: tpyxplii
+  identifier: tpyxplii
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

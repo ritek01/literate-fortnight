@@ -1,0 +1,7 @@
+service:
+  name: tlqvohzv
+  identifier: tlqvohzv
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

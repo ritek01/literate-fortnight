@@ -1,0 +1,7 @@
+service:
+  name: ttauaqnn
+  identifier: ttauaqnn
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: rpzlfvfy
+  identifier: rpzlfvfy
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

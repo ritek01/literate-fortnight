@@ -1,0 +1,7 @@
+service:
+  name: csgtxzro
+  identifier: csgtxzro
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

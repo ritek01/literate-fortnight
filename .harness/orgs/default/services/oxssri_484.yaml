@@ -1,0 +1,7 @@
+service:
+  name: txcwiytj
+  identifier: txcwiytj
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

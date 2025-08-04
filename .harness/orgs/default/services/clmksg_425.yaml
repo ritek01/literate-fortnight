@@ -1,0 +1,7 @@
+service:
+  name: kqetsexf
+  identifier: kqetsexf
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

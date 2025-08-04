@@ -1,0 +1,7 @@
+service:
+  name: pqpxnyqw
+  identifier: pqpxnyqw
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

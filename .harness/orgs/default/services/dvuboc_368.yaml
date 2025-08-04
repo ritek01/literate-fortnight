@@ -1,0 +1,7 @@
+service:
+  name: wopjmjua
+  identifier: wopjmjua
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

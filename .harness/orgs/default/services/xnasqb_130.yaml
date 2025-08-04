@@ -1,0 +1,7 @@
+service:
+  name: eqnnsvhy
+  identifier: eqnnsvhy
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

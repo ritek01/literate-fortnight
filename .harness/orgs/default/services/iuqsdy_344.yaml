@@ -1,0 +1,7 @@
+service:
+  name: bhjoweij
+  identifier: bhjoweij
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

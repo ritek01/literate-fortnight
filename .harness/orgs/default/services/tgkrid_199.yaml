@@ -1,0 +1,7 @@
+service:
+  name: fhsfkypl
+  identifier: fhsfkypl
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

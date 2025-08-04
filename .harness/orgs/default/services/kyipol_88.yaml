@@ -1,0 +1,7 @@
+service:
+  name: fsajotjm
+  identifier: fsajotjm
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

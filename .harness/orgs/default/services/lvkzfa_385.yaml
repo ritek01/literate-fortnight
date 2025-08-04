@@ -1,0 +1,7 @@
+service:
+  name: waeutbjx
+  identifier: waeutbjx
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

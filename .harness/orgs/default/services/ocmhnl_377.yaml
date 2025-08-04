@@ -1,0 +1,7 @@
+service:
+  name: wkhvbbzc
+  identifier: wkhvbbzc
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

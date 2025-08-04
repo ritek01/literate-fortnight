@@ -1,0 +1,7 @@
+service:
+  name: kismwivi
+  identifier: kismwivi
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

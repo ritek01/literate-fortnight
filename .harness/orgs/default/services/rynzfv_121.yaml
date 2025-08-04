@@ -1,0 +1,7 @@
+service:
+  name: masmpibr
+  identifier: masmpibr
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

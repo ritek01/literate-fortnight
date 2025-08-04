@@ -1,0 +1,7 @@
+service:
+  name: surgugmg
+  identifier: surgugmg
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

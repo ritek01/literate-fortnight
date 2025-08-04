@@ -1,0 +1,7 @@
+service:
+  name: whzhtnug
+  identifier: whzhtnug
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

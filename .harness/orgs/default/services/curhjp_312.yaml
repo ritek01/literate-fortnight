@@ -1,0 +1,7 @@
+service:
+  name: pfbsvxfs
+  identifier: pfbsvxfs
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: ctiulgbg
+  identifier: ctiulgbg
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

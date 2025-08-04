@@ -1,0 +1,7 @@
+service:
+  name: imifvbwt
+  identifier: imifvbwt
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

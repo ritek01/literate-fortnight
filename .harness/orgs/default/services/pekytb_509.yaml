@@ -1,0 +1,7 @@
+service:
+  name: nprttftq
+  identifier: nprttftq
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

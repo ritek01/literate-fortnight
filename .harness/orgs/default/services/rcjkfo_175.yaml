@@ -1,0 +1,7 @@
+service:
+  name: grqkkcye
+  identifier: grqkkcye
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

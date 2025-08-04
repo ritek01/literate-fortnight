@@ -1,0 +1,7 @@
+service:
+  name: eiacaovh
+  identifier: eiacaovh
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: bdfxeifh
+  identifier: bdfxeifh
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

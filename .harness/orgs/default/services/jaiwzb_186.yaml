@@ -1,0 +1,7 @@
+service:
+  name: afamdfsf
+  identifier: afamdfsf
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

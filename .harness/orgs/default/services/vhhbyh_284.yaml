@@ -1,0 +1,7 @@
+service:
+  name: ptahvzlt
+  identifier: ptahvzlt
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

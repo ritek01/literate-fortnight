@@ -1,0 +1,7 @@
+service:
+  name: odlcotin
+  identifier: odlcotin
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

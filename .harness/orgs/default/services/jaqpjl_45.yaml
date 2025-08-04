@@ -1,0 +1,7 @@
+service:
+  name: esnxccdc
+  identifier: esnxccdc
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

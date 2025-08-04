@@ -1,0 +1,7 @@
+service:
+  name: pqgeaulw
+  identifier: pqgeaulw
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: pshyvxxq
+  identifier: pshyvxxq
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

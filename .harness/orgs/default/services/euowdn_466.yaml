@@ -1,0 +1,7 @@
+service:
+  name: iqkgnhek
+  identifier: iqkgnhek
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: trzyjnjx
+  identifier: trzyjnjx
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

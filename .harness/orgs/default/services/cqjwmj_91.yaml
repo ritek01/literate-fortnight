@@ -1,0 +1,7 @@
+service:
+  name: lmocckzu
+  identifier: lmocckzu
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

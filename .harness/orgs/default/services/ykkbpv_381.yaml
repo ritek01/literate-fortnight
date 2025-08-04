@@ -1,0 +1,7 @@
+service:
+  name: oxpnzaiy
+  identifier: oxpnzaiy
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

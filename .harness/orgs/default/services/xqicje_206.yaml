@@ -1,0 +1,7 @@
+service:
+  name: eqrnasbv
+  identifier: eqrnasbv
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

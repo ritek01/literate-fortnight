@@ -1,0 +1,7 @@
+service:
+  name: xchsmtcb
+  identifier: xchsmtcb
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: danvocnx
+  identifier: danvocnx
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

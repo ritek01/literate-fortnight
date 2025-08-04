@@ -1,0 +1,7 @@
+service:
+  name: khtmqbec
+  identifier: khtmqbec
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

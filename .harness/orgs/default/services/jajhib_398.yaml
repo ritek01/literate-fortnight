@@ -1,0 +1,7 @@
+service:
+  name: yujdevoo
+  identifier: yujdevoo
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: rtrgjmwt
+  identifier: rtrgjmwt
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

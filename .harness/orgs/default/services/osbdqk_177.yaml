@@ -1,0 +1,7 @@
+service:
+  name: tckkdanv
+  identifier: tckkdanv
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

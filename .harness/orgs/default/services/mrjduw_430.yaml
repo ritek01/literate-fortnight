@@ -1,0 +1,7 @@
+service:
+  name: zhecxmdy
+  identifier: zhecxmdy
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: iptdhncu
+  identifier: iptdhncu
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

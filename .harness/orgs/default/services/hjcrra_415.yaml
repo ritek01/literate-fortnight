@@ -1,0 +1,7 @@
+service:
+  name: hcbdhzlo
+  identifier: hcbdhzlo
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

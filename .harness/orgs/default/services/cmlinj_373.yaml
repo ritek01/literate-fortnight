@@ -1,0 +1,7 @@
+service:
+  name: tozvwfhn
+  identifier: tozvwfhn
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

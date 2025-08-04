@@ -1,0 +1,7 @@
+service:
+  name: yzlyxjxs
+  identifier: yzlyxjxs
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

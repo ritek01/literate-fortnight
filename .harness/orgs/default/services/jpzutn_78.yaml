@@ -1,0 +1,7 @@
+service:
+  name: ohprhtvf
+  identifier: ohprhtvf
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

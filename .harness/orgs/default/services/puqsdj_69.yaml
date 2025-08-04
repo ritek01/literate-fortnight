@@ -1,0 +1,7 @@
+service:
+  name: wzctgbie
+  identifier: wzctgbie
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

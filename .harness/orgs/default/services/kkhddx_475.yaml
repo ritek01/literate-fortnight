@@ -1,0 +1,7 @@
+service:
+  name: khxcktfp
+  identifier: khxcktfp
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

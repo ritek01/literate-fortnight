@@ -1,0 +1,7 @@
+service:
+  name: frgouyjt
+  identifier: frgouyjt
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

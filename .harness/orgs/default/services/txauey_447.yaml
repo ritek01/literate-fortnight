@@ -1,0 +1,7 @@
+service:
+  name: tzcqafnb
+  identifier: tzcqafnb
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

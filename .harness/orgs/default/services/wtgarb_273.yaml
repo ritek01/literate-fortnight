@@ -1,0 +1,7 @@
+service:
+  name: dsqysvim
+  identifier: dsqysvim
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

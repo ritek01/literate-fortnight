@@ -1,0 +1,7 @@
+service:
+  name: hgfzsvxw
+  identifier: hgfzsvxw
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

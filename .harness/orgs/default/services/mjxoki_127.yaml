@@ -1,0 +1,7 @@
+service:
+  name: ztobemqt
+  identifier: ztobemqt
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

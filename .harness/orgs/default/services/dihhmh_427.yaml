@@ -1,0 +1,7 @@
+service:
+  name: yauloqad
+  identifier: yauloqad
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

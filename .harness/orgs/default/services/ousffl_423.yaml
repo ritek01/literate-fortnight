@@ -1,0 +1,7 @@
+service:
+  name: efkojadk
+  identifier: efkojadk
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

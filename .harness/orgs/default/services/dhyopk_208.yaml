@@ -1,0 +1,7 @@
+service:
+  name: asmhmyil
+  identifier: asmhmyil
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

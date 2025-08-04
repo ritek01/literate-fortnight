@@ -1,0 +1,7 @@
+service:
+  name: oxpyplcq
+  identifier: oxpyplcq
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

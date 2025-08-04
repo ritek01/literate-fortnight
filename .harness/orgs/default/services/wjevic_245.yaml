@@ -1,0 +1,7 @@
+service:
+  name: boovztdm
+  identifier: boovztdm
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: afvaghjq
+  identifier: afvaghjq
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

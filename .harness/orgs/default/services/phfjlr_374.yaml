@@ -1,0 +1,7 @@
+service:
+  name: mvbotcgq
+  identifier: mvbotcgq
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

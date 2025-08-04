@@ -1,0 +1,7 @@
+service:
+  name: zqgolfpv
+  identifier: zqgolfpv
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

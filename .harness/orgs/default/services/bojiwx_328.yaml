@@ -1,0 +1,7 @@
+service:
+  name: qyjvralk
+  identifier: qyjvralk
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: uyzzackn
+  identifier: uyzzackn
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

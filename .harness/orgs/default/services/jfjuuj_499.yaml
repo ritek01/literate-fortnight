@@ -1,0 +1,7 @@
+service:
+  name: dpeurtwb
+  identifier: dpeurtwb
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

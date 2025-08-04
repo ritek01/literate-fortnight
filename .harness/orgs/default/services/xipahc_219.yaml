@@ -1,0 +1,7 @@
+service:
+  name: ezxsours
+  identifier: ezxsours
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

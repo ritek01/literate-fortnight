@@ -1,0 +1,7 @@
+service:
+  name: zkvvzqlm
+  identifier: zkvvzqlm
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

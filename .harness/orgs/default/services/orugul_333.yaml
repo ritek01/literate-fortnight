@@ -1,0 +1,7 @@
+service:
+  name: vvjgcyoq
+  identifier: vvjgcyoq
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

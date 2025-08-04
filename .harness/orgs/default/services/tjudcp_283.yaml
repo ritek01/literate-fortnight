@@ -1,0 +1,7 @@
+service:
+  name: okanzcff
+  identifier: okanzcff
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

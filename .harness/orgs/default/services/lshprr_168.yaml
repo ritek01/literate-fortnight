@@ -1,0 +1,7 @@
+service:
+  name: kkjatxbk
+  identifier: kkjatxbk
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

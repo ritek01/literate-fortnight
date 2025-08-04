@@ -1,0 +1,7 @@
+service:
+  name: zxuvsats
+  identifier: zxuvsats
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

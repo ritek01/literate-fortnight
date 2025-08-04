@@ -1,0 +1,7 @@
+service:
+  name: jbeqdcct
+  identifier: jbeqdcct
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

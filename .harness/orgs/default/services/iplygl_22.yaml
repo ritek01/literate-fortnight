@@ -1,0 +1,7 @@
+service:
+  name: wqqbxdnh
+  identifier: wqqbxdnh
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

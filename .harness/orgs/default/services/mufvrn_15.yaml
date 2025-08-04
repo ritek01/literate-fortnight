@@ -1,0 +1,7 @@
+service:
+  name: nmcberoa
+  identifier: nmcberoa
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: elpzvobd
+  identifier: elpzvobd
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

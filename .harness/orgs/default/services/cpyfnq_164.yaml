@@ -1,0 +1,7 @@
+service:
+  name: tbpzkucy
+  identifier: tbpzkucy
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

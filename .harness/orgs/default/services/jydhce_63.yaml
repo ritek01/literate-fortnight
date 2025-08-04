@@ -1,0 +1,7 @@
+service:
+  name: uhgcnkih
+  identifier: uhgcnkih
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

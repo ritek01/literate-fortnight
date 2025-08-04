@@ -1,0 +1,7 @@
+service:
+  name: mmucqehj
+  identifier: mmucqehj
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

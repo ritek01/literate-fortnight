@@ -1,0 +1,7 @@
+service:
+  name: uzmyafaa
+  identifier: uzmyafaa
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

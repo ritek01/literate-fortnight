@@ -1,0 +1,7 @@
+service:
+  name: tjtaqkbc
+  identifier: tjtaqkbc
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

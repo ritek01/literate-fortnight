@@ -1,0 +1,7 @@
+service:
+  name: cnhmoegs
+  identifier: cnhmoegs
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

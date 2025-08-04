@@ -1,0 +1,7 @@
+service:
+  name: cdgwkaax
+  identifier: cdgwkaax
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

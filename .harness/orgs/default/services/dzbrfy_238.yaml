@@ -1,0 +1,7 @@
+service:
+  name: yfxhvdcp
+  identifier: yfxhvdcp
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

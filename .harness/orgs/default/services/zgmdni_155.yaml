@@ -1,0 +1,7 @@
+service:
+  name: mzphhgzd
+  identifier: mzphhgzd
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

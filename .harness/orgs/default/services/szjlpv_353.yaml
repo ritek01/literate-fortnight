@@ -1,0 +1,7 @@
+service:
+  name: lrgtfvlj
+  identifier: lrgtfvlj
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

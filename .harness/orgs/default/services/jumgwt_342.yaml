@@ -1,0 +1,7 @@
+service:
+  name: vervrdxf
+  identifier: vervrdxf
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

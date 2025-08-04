@@ -1,0 +1,7 @@
+service:
+  name: jruokris
+  identifier: jruokris
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

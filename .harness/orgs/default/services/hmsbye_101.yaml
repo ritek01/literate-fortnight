@@ -1,0 +1,7 @@
+service:
+  name: skthyies
+  identifier: skthyies
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: mkjcdexe
+  identifier: mkjcdexe
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

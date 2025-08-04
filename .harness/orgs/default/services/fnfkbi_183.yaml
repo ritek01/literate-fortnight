@@ -1,0 +1,7 @@
+service:
+  name: gfrhqexz
+  identifier: gfrhqexz
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

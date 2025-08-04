@@ -1,0 +1,7 @@
+service:
+  name: yvanqecc
+  identifier: yvanqecc
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: ntcwkaeg
+  identifier: ntcwkaeg
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

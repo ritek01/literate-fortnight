@@ -1,0 +1,7 @@
+service:
+  name: vbqrjzga
+  identifier: vbqrjzga
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

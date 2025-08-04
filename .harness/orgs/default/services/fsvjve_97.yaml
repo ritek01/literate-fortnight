@@ -1,0 +1,7 @@
+service:
+  name: shlotnne
+  identifier: shlotnne
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

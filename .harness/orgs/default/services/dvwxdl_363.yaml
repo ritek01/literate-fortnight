@@ -1,0 +1,7 @@
+service:
+  name: cohmonug
+  identifier: cohmonug
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

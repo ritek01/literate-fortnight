@@ -1,0 +1,7 @@
+service:
+  name: dtspkmwi
+  identifier: dtspkmwi
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

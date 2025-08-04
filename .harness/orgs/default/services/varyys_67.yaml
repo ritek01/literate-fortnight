@@ -1,0 +1,7 @@
+service:
+  name: kukluptw
+  identifier: kukluptw
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

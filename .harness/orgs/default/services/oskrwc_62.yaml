@@ -1,0 +1,7 @@
+service:
+  name: qmlgwmqg
+  identifier: qmlgwmqg
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

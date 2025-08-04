@@ -1,0 +1,7 @@
+service:
+  name: hymgxxlx
+  identifier: hymgxxlx
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

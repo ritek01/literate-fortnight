@@ -1,0 +1,7 @@
+service:
+  name: adaiqzol
+  identifier: adaiqzol
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

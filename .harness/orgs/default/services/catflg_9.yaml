@@ -1,0 +1,7 @@
+service:
+  name: brgozait
+  identifier: brgozait
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

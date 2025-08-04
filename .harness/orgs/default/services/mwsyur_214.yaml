@@ -1,0 +1,7 @@
+service:
+  name: vxgsgjmr
+  identifier: vxgsgjmr
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

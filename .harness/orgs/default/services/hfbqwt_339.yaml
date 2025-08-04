@@ -1,0 +1,7 @@
+service:
+  name: rewntequ
+  identifier: rewntequ
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

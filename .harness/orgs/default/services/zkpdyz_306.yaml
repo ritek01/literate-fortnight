@@ -1,0 +1,7 @@
+service:
+  name: vytfsytk
+  identifier: vytfsytk
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

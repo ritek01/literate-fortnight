@@ -1,0 +1,7 @@
+service:
+  name: kaxcuvmx
+  identifier: kaxcuvmx
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

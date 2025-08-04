@@ -1,0 +1,7 @@
+service:
+  name: prgandij
+  identifier: prgandij
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

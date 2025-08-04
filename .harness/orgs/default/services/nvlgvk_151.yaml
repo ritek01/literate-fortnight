@@ -1,0 +1,7 @@
+service:
+  name: hcltfwir
+  identifier: hcltfwir
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

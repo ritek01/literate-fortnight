@@ -1,0 +1,7 @@
+service:
+  name: pwqkyjzt
+  identifier: pwqkyjzt
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

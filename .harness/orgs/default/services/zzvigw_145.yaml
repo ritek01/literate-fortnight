@@ -1,0 +1,7 @@
+service:
+  name: lebkqhwr
+  identifier: lebkqhwr
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

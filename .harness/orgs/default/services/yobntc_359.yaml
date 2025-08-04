@@ -1,0 +1,7 @@
+service:
+  name: ngjkapfr
+  identifier: ngjkapfr
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

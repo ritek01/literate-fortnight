@@ -1,0 +1,7 @@
+service:
+  name: qljckajq
+  identifier: qljckajq
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

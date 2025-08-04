@@ -1,0 +1,7 @@
+service:
+  name: fnxbvyls
+  identifier: fnxbvyls
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

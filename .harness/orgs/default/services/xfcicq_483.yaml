@@ -1,0 +1,7 @@
+service:
+  name: jmtwelcq
+  identifier: jmtwelcq
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

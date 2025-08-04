@@ -1,0 +1,7 @@
+service:
+  name: dyjsjpri
+  identifier: dyjsjpri
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: cprvruto
+  identifier: cprvruto
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

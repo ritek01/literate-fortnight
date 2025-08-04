@@ -1,0 +1,7 @@
+service:
+  name: zgwazujq
+  identifier: zgwazujq
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: ynvaymul
+  identifier: ynvaymul
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

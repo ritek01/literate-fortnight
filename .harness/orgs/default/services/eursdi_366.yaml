@@ -1,0 +1,7 @@
+service:
+  name: hnpfeyba
+  identifier: hnpfeyba
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

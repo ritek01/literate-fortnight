@@ -1,0 +1,7 @@
+service:
+  name: ptgypawq
+  identifier: ptgypawq
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

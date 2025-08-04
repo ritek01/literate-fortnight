@@ -1,0 +1,7 @@
+service:
+  name: zhtwouml
+  identifier: zhtwouml
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: wplmcgxc
+  identifier: wplmcgxc
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

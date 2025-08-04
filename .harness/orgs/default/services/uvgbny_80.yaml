@@ -1,0 +1,7 @@
+service:
+  name: jkdaxgnf
+  identifier: jkdaxgnf
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

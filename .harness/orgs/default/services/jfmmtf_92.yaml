@@ -1,0 +1,7 @@
+service:
+  name: umadbekh
+  identifier: umadbekh
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

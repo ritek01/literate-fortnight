@@ -1,0 +1,7 @@
+service:
+  name: cuwwspik
+  identifier: cuwwspik
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

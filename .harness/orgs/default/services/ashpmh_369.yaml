@@ -1,0 +1,7 @@
+service:
+  name: svgjkidw
+  identifier: svgjkidw
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

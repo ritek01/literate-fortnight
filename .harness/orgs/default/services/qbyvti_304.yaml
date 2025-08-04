@@ -1,0 +1,7 @@
+service:
+  name: zmihaius
+  identifier: zmihaius
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

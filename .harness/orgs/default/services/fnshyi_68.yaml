@@ -1,0 +1,7 @@
+service:
+  name: givvbwry
+  identifier: givvbwry
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

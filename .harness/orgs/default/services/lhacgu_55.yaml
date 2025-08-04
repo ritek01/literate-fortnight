@@ -1,0 +1,7 @@
+service:
+  name: vsbowntv
+  identifier: vsbowntv
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: lenorxbn
+  identifier: lenorxbn
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

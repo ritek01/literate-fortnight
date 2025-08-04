@@ -1,0 +1,7 @@
+service:
+  name: jyuhzute
+  identifier: jyuhzute
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

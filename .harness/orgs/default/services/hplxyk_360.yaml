@@ -1,0 +1,7 @@
+service:
+  name: yfipnwme
+  identifier: yfipnwme
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: annxbdcj
+  identifier: annxbdcj
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: shulfqeq
+  identifier: shulfqeq
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

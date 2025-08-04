@@ -1,0 +1,7 @@
+service:
+  name: npeaiavl
+  identifier: npeaiavl
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

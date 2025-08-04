@@ -1,0 +1,7 @@
+service:
+  name: wdhhxfpm
+  identifier: wdhhxfpm
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

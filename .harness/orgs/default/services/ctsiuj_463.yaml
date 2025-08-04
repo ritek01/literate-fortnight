@@ -1,0 +1,7 @@
+service:
+  name: vodetanc
+  identifier: vodetanc
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

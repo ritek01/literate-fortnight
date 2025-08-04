@@ -1,0 +1,7 @@
+service:
+  name: lfbqhtbg
+  identifier: lfbqhtbg
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: itxsougq
+  identifier: itxsougq
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

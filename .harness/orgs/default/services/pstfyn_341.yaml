@@ -1,0 +1,7 @@
+service:
+  name: lwgfyztk
+  identifier: lwgfyztk
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: bwnlytib
+  identifier: bwnlytib
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

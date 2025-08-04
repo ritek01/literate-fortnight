@@ -1,0 +1,7 @@
+service:
+  name: nzgmrhtp
+  identifier: nzgmrhtp
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

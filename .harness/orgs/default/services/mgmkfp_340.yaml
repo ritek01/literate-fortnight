@@ -1,0 +1,7 @@
+service:
+  name: easpqehf
+  identifier: easpqehf
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

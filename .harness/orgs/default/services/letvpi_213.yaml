@@ -1,0 +1,7 @@
+service:
+  name: lunwbrmt
+  identifier: lunwbrmt
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

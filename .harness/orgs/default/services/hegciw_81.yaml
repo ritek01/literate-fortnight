@@ -1,0 +1,7 @@
+service:
+  name: aservrez
+  identifier: aservrez
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

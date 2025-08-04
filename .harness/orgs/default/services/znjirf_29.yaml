@@ -1,0 +1,7 @@
+service:
+  name: lccwytuc
+  identifier: lccwytuc
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

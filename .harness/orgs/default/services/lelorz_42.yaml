@@ -1,0 +1,7 @@
+service:
+  name: vvvbgmvp
+  identifier: vvvbgmvp
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

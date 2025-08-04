@@ -1,0 +1,7 @@
+service:
+  name: ynyxzbax
+  identifier: ynyxzbax
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

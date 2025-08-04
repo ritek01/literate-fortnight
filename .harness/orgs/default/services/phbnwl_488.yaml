@@ -1,0 +1,7 @@
+service:
+  name: tyxidzma
+  identifier: tyxidzma
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

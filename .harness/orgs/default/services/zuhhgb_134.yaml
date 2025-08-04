@@ -1,0 +1,7 @@
+service:
+  name: mfqorddp
+  identifier: mfqorddp
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

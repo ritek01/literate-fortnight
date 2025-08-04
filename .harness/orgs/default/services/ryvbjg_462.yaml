@@ -1,0 +1,7 @@
+service:
+  name: nhwngmad
+  identifier: nhwngmad
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

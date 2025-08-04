@@ -1,0 +1,7 @@
+service:
+  name: jzahytft
+  identifier: jzahytft
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

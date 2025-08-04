@@ -1,0 +1,7 @@
+service:
+  name: bglljtwq
+  identifier: bglljtwq
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

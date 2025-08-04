@@ -1,0 +1,7 @@
+service:
+  name: uzsepjmr
+  identifier: uzsepjmr
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

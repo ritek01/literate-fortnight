@@ -1,0 +1,7 @@
+service:
+  name: dphzqekg
+  identifier: dphzqekg
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: pjxhkbut
+  identifier: pjxhkbut
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

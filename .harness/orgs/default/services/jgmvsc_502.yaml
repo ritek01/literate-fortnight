@@ -1,0 +1,7 @@
+service:
+  name: ptuonefl
+  identifier: ptuonefl
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

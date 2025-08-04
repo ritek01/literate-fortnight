@@ -1,0 +1,7 @@
+service:
+  name: qhdwfupv
+  identifier: qhdwfupv
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

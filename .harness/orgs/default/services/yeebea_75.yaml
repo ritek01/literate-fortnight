@@ -1,0 +1,7 @@
+service:
+  name: dbbkjgdm
+  identifier: dbbkjgdm
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

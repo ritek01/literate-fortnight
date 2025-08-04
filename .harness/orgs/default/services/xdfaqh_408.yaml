@@ -1,0 +1,7 @@
+service:
+  name: jnfloqul
+  identifier: jnfloqul
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

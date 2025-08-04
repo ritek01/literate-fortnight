@@ -1,0 +1,7 @@
+service:
+  name: ghyafnik
+  identifier: ghyafnik
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

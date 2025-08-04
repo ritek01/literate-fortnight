@@ -1,0 +1,7 @@
+service:
+  name: yjvsnyce
+  identifier: yjvsnyce
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: duyxljnc
+  identifier: duyxljnc
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

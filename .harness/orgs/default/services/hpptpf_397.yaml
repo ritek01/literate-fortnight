@@ -1,0 +1,7 @@
+service:
+  name: cdhgiorg
+  identifier: cdhgiorg
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

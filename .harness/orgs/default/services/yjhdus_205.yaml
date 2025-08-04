@@ -1,0 +1,7 @@
+service:
+  name: kdjocltt
+  identifier: kdjocltt
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

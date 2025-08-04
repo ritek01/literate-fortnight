@@ -1,0 +1,7 @@
+service:
+  name: trzawdkq
+  identifier: trzawdkq
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

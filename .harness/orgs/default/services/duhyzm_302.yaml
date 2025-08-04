@@ -1,0 +1,7 @@
+service:
+  name: jkdbkvfv
+  identifier: jkdbkvfv
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

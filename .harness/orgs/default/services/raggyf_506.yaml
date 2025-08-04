@@ -1,0 +1,7 @@
+service:
+  name: vtzzqvhp
+  identifier: vtzzqvhp
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

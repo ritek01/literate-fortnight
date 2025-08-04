@@ -1,0 +1,7 @@
+service:
+  name: xaguwbot
+  identifier: xaguwbot
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

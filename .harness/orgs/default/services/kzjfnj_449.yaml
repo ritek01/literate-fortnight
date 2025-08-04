@@ -1,0 +1,7 @@
+service:
+  name: zlnqtaqm
+  identifier: zlnqtaqm
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

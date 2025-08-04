@@ -1,0 +1,7 @@
+service:
+  name: qqdgzvpd
+  identifier: qqdgzvpd
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

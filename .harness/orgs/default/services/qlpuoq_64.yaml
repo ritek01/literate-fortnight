@@ -1,0 +1,7 @@
+service:
+  name: fkgayeol
+  identifier: fkgayeol
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

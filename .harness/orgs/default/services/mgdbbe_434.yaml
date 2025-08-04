@@ -1,0 +1,7 @@
+service:
+  name: ftltjlll
+  identifier: ftltjlll
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

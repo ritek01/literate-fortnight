@@ -1,0 +1,7 @@
+service:
+  name: pzplkqwq
+  identifier: pzplkqwq
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

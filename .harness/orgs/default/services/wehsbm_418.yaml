@@ -1,0 +1,7 @@
+service:
+  name: swubmwgh
+  identifier: swubmwgh
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

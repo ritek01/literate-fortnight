@@ -1,0 +1,7 @@
+service:
+  name: findnzjg
+  identifier: findnzjg
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

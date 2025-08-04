@@ -1,0 +1,7 @@
+service:
+  name: qmoxffpp
+  identifier: qmoxffpp
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: nsnjvics
+  identifier: nsnjvics
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

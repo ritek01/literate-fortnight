@@ -1,0 +1,7 @@
+service:
+  name: faxcqfyh
+  identifier: faxcqfyh
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

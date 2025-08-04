@@ -1,0 +1,7 @@
+service:
+  name: ojkawrcg
+  identifier: ojkawrcg
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: tidbnxgn
+  identifier: tidbnxgn
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

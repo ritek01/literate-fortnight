@@ -1,0 +1,7 @@
+service:
+  name: vjscxgfs
+  identifier: vjscxgfs
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

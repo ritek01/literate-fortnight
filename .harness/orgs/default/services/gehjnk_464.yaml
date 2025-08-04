@@ -1,0 +1,7 @@
+service:
+  name: dpszcbvj
+  identifier: dpszcbvj
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

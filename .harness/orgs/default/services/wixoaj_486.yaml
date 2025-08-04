@@ -1,0 +1,7 @@
+service:
+  name: jqvfeevz
+  identifier: jqvfeevz
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

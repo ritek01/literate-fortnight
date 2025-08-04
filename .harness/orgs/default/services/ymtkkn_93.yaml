@@ -1,0 +1,7 @@
+service:
+  name: gdhwblfg
+  identifier: gdhwblfg
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: lfasfzgn
+  identifier: lfasfzgn
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

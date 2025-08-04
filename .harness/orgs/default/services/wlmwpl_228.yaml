@@ -1,0 +1,7 @@
+service:
+  name: ftvspuwp
+  identifier: ftvspuwp
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

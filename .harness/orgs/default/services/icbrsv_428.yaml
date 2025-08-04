@@ -1,0 +1,7 @@
+service:
+  name: rrkzgubq
+  identifier: rrkzgubq
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: cefmxphq
+  identifier: cefmxphq
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

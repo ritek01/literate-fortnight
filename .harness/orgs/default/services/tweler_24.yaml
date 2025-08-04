@@ -1,0 +1,7 @@
+service:
+  name: ivnyapih
+  identifier: ivnyapih
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

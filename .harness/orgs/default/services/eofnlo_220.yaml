@@ -1,0 +1,7 @@
+service:
+  name: yltuzaky
+  identifier: yltuzaky
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

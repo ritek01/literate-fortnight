@@ -1,0 +1,7 @@
+service:
+  name: gktrmssa
+  identifier: gktrmssa
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

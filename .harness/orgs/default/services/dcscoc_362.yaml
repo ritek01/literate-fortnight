@@ -1,0 +1,7 @@
+service:
+  name: dyvwmxlw
+  identifier: dyvwmxlw
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

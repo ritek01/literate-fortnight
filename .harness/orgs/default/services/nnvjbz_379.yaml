@@ -1,0 +1,7 @@
+service:
+  name: iexunejv
+  identifier: iexunejv
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: dfpxmjfe
+  identifier: dfpxmjfe
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

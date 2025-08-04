@@ -1,0 +1,7 @@
+service:
+  name: meaxjgtz
+  identifier: meaxjgtz
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

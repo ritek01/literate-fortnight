@@ -1,0 +1,7 @@
+service:
+  name: txlhrsrl
+  identifier: txlhrsrl
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

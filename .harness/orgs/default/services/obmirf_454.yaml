@@ -1,0 +1,7 @@
+service:
+  name: nelcsbri
+  identifier: nelcsbri
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

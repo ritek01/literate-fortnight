@@ -1,0 +1,7 @@
+service:
+  name: eryaxmmw
+  identifier: eryaxmmw
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: mobnfolw
+  identifier: mobnfolw
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: phiydeqb
+  identifier: phiydeqb
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

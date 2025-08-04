@@ -1,0 +1,7 @@
+service:
+  name: erceqtmw
+  identifier: erceqtmw
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

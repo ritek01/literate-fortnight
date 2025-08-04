@@ -1,0 +1,7 @@
+service:
+  name: eqrudkgo
+  identifier: eqrudkgo
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: aevjtzhx
+  identifier: aevjtzhx
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

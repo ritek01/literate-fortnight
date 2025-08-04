@@ -1,0 +1,7 @@
+service:
+  name: itqlrvop
+  identifier: itqlrvop
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

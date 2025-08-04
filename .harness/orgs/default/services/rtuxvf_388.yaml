@@ -1,0 +1,7 @@
+service:
+  name: dodmzknm
+  identifier: dodmzknm
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

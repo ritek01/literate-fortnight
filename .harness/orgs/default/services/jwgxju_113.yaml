@@ -1,0 +1,7 @@
+service:
+  name: dwdumomb
+  identifier: dwdumomb
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: ubviopgx
+  identifier: ubviopgx
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

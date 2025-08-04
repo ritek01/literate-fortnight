@@ -1,0 +1,7 @@
+service:
+  name: dbbskzxv
+  identifier: dbbskzxv
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

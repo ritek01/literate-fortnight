@@ -1,0 +1,7 @@
+service:
+  name: uiwojhqc
+  identifier: uiwojhqc
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

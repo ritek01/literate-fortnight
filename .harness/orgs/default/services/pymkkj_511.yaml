@@ -1,0 +1,7 @@
+service:
+  name: tvpcdply
+  identifier: tvpcdply
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

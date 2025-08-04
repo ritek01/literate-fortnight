@@ -1,0 +1,7 @@
+service:
+  name: accpytmv
+  identifier: accpytmv
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

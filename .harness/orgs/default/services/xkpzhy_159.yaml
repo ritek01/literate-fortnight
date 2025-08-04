@@ -1,0 +1,7 @@
+service:
+  name: gjmwhzzx
+  identifier: gjmwhzzx
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

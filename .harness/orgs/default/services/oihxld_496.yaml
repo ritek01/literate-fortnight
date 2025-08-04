@@ -1,0 +1,7 @@
+service:
+  name: dfczphsp
+  identifier: dfczphsp
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

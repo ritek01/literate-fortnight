@@ -1,0 +1,7 @@
+service:
+  name: xpfsrvtr
+  identifier: xpfsrvtr
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

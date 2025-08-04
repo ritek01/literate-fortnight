@@ -1,0 +1,7 @@
+service:
+  name: zoueodjk
+  identifier: zoueodjk
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

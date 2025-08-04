@@ -1,0 +1,7 @@
+service:
+  name: nraufrbi
+  identifier: nraufrbi
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

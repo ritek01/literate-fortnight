@@ -1,0 +1,7 @@
+service:
+  name: xfwtdarl
+  identifier: xfwtdarl
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

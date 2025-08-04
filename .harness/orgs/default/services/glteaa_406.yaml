@@ -1,0 +1,7 @@
+service:
+  name: gycoaeui
+  identifier: gycoaeui
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

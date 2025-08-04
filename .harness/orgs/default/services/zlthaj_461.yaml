@@ -1,0 +1,7 @@
+service:
+  name: ajzpbael
+  identifier: ajzpbael
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

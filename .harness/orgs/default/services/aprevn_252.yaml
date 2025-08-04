@@ -1,0 +1,7 @@
+service:
+  name: bxouzzak
+  identifier: bxouzzak
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

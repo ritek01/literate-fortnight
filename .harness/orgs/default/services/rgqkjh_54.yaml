@@ -1,0 +1,7 @@
+service:
+  name: touczdvr
+  identifier: touczdvr
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

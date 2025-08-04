@@ -1,0 +1,7 @@
+service:
+  name: lgrhbskf
+  identifier: lgrhbskf
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

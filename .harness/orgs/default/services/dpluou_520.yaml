@@ -1,0 +1,7 @@
+service:
+  name: evesfjls
+  identifier: evesfjls
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

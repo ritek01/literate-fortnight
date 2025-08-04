@@ -1,0 +1,7 @@
+service:
+  name: utcgvfvf
+  identifier: utcgvfvf
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

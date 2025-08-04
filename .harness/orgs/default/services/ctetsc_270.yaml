@@ -1,0 +1,7 @@
+service:
+  name: bdrzszqu
+  identifier: bdrzszqu
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

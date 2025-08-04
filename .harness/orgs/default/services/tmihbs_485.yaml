@@ -1,0 +1,7 @@
+service:
+  name: xncpwxph
+  identifier: xncpwxph
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

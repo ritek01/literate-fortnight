@@ -1,0 +1,7 @@
+service:
+  name: luuqfwcc
+  identifier: luuqfwcc
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

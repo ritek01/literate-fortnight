@@ -1,0 +1,7 @@
+service:
+  name: cqdqlows
+  identifier: cqdqlows
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

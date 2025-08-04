@@ -1,0 +1,7 @@
+service:
+  name: ofjmqmsr
+  identifier: ofjmqmsr
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

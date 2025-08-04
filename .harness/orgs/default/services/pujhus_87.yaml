@@ -1,0 +1,7 @@
+service:
+  name: uoydqqbr
+  identifier: uoydqqbr
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

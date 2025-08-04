@@ -1,0 +1,7 @@
+service:
+  name: hktldlks
+  identifier: hktldlks
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

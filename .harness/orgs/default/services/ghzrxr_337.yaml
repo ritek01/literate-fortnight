@@ -1,0 +1,7 @@
+service:
+  name: fmgpvwao
+  identifier: fmgpvwao
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

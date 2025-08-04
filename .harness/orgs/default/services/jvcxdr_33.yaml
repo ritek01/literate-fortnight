@@ -1,0 +1,7 @@
+service:
+  name: mlipkdnv
+  identifier: mlipkdnv
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

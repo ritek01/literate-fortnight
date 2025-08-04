@@ -1,0 +1,7 @@
+service:
+  name: uofczpex
+  identifier: uofczpex
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

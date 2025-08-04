@@ -1,0 +1,7 @@
+service:
+  name: zieyiyxt
+  identifier: zieyiyxt
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

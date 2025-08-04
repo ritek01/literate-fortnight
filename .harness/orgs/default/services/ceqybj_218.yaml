@@ -1,0 +1,7 @@
+service:
+  name: rwedsbqi
+  identifier: rwedsbqi
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

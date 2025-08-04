@@ -1,0 +1,7 @@
+service:
+  name: xoxbfwie
+  identifier: xoxbfwie
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

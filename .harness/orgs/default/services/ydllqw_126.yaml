@@ -1,0 +1,7 @@
+service:
+  name: pxgwyeoj
+  identifier: pxgwyeoj
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

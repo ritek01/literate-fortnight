@@ -1,0 +1,7 @@
+service:
+  name: erurlukz
+  identifier: erurlukz
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

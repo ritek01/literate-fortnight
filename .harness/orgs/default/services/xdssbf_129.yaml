@@ -1,0 +1,7 @@
+service:
+  name: ahsbiple
+  identifier: ahsbiple
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

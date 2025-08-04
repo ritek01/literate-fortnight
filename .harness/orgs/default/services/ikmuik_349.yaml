@@ -1,0 +1,7 @@
+service:
+  name: wvaqlrkv
+  identifier: wvaqlrkv
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

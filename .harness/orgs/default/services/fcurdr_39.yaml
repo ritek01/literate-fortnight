@@ -1,0 +1,7 @@
+service:
+  name: igzxihme
+  identifier: igzxihme
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: dmohoqhq
+  identifier: dmohoqhq
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

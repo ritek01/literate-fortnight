@@ -1,0 +1,7 @@
+service:
+  name: qhtcchtd
+  identifier: qhtcchtd
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

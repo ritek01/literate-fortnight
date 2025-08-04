@@ -1,0 +1,7 @@
+service:
+  name: ckloxxsa
+  identifier: ckloxxsa
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

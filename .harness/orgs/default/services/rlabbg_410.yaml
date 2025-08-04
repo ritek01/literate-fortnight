@@ -1,0 +1,7 @@
+service:
+  name: mzwddtoc
+  identifier: mzwddtoc
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

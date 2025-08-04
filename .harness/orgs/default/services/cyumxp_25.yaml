@@ -1,0 +1,7 @@
+service:
+  name: oehqgaty
+  identifier: oehqgaty
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

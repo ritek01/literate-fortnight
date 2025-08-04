@@ -1,0 +1,7 @@
+service:
+  name: mboshahf
+  identifier: mboshahf
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

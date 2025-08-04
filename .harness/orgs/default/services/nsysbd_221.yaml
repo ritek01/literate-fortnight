@@ -1,0 +1,7 @@
+service:
+  name: ktdvqakw
+  identifier: ktdvqakw
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

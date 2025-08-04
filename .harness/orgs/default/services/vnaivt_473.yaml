@@ -1,0 +1,7 @@
+service:
+  name: sesvdtku
+  identifier: sesvdtku
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

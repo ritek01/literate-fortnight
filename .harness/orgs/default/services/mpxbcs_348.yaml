@@ -1,0 +1,7 @@
+service:
+  name: zjdynuqr
+  identifier: zjdynuqr
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

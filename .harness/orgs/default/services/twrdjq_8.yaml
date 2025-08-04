@@ -1,0 +1,7 @@
+service:
+  name: vufmpsol
+  identifier: vufmpsol
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

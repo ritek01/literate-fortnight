@@ -1,0 +1,7 @@
+service:
+  name: zdfrjjhb
+  identifier: zdfrjjhb
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

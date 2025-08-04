@@ -1,0 +1,7 @@
+service:
+  name: hhzabvgk
+  identifier: hhzabvgk
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

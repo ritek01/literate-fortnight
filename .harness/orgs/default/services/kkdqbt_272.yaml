@@ -1,0 +1,7 @@
+service:
+  name: efnvwgua
+  identifier: efnvwgua
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

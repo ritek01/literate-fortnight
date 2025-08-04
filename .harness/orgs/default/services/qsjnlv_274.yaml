@@ -1,0 +1,7 @@
+service:
+  name: zsjdhrrx
+  identifier: zsjdhrrx
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

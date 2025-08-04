@@ -1,0 +1,7 @@
+service:
+  name: robmspis
+  identifier: robmspis
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

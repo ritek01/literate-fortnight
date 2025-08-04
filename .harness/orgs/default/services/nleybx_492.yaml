@@ -1,0 +1,7 @@
+service:
+  name: cbfrsyst
+  identifier: cbfrsyst
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

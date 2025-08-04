@@ -1,0 +1,7 @@
+service:
+  name: ygvehhbb
+  identifier: ygvehhbb
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: ypraztun
+  identifier: ypraztun
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: zeickjoy
+  identifier: zeickjoy
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: wtvkwcga
+  identifier: wtvkwcga
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: fkomrxxy
+  identifier: fkomrxxy
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

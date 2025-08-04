@@ -1,0 +1,7 @@
+service:
+  name: aaannodp
+  identifier: aaannodp
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

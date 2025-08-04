@@ -1,0 +1,7 @@
+service:
+  name: itrjtqwx
+  identifier: itrjtqwx
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

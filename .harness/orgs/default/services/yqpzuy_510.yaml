@@ -1,0 +1,7 @@
+service:
+  name: basjerqn
+  identifier: basjerqn
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

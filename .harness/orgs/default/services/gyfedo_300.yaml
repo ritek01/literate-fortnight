@@ -1,0 +1,7 @@
+service:
+  name: pkcpxxvj
+  identifier: pkcpxxvj
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

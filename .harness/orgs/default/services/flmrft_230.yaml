@@ -1,0 +1,7 @@
+service:
+  name: atzxyytc
+  identifier: atzxyytc
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

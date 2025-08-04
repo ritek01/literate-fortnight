@@ -1,0 +1,7 @@
+service:
+  name: hompusuu
+  identifier: hompusuu
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: pbsvzsrh
+  identifier: pbsvzsrh
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

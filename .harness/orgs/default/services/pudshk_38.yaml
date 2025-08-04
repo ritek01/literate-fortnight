@@ -1,0 +1,7 @@
+service:
+  name: ehnyfizz
+  identifier: ehnyfizz
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

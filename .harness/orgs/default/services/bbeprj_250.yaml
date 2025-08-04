@@ -1,0 +1,7 @@
+service:
+  name: hkmslyul
+  identifier: hkmslyul
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

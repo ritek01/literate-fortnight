@@ -1,0 +1,7 @@
+service:
+  name: hlfoxrln
+  identifier: hlfoxrln
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

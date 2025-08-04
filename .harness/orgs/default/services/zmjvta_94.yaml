@@ -1,0 +1,7 @@
+service:
+  name: whprqzeo
+  identifier: whprqzeo
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

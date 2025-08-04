@@ -1,0 +1,7 @@
+service:
+  name: ootetacc
+  identifier: ootetacc
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

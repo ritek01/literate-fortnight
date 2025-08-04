@@ -1,0 +1,7 @@
+service:
+  name: nouudwgv
+  identifier: nouudwgv
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

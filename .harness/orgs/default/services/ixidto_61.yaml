@@ -1,0 +1,7 @@
+service:
+  name: kampzakc
+  identifier: kampzakc
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

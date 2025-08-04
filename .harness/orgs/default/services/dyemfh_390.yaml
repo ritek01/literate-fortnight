@@ -1,0 +1,7 @@
+service:
+  name: jaitwspu
+  identifier: jaitwspu
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

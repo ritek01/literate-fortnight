@@ -1,0 +1,7 @@
+service:
+  name: ksrbracd
+  identifier: ksrbracd
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

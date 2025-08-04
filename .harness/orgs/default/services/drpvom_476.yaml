@@ -1,0 +1,7 @@
+service:
+  name: gprfsskv
+  identifier: gprfsskv
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

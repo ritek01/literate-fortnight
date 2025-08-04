@@ -1,0 +1,7 @@
+service:
+  name: hxledplu
+  identifier: hxledplu
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: jlistktg
+  identifier: jlistktg
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

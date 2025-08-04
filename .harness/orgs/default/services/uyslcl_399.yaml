@@ -1,0 +1,7 @@
+service:
+  name: cmvfzrtj
+  identifier: cmvfzrtj
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

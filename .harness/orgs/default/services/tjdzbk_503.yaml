@@ -1,0 +1,7 @@
+service:
+  name: fgogbxze
+  identifier: fgogbxze
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

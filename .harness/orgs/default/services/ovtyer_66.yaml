@@ -1,0 +1,7 @@
+service:
+  name: svqpedkh
+  identifier: svqpedkh
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

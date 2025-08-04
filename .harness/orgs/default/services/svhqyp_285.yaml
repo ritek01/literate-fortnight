@@ -1,0 +1,7 @@
+service:
+  name: ztouhbkt
+  identifier: ztouhbkt
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

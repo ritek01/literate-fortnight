@@ -1,0 +1,7 @@
+service:
+  name: yixleanv
+  identifier: yixleanv
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

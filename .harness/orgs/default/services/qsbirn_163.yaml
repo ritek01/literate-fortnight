@@ -1,0 +1,7 @@
+service:
+  name: eewkkmio
+  identifier: eewkkmio
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

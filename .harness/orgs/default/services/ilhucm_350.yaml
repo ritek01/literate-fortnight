@@ -1,0 +1,7 @@
+service:
+  name: xyewkbrh
+  identifier: xyewkbrh
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

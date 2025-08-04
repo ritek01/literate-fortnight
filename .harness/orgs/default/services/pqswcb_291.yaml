@@ -1,0 +1,7 @@
+service:
+  name: mminpcrl
+  identifier: mminpcrl
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

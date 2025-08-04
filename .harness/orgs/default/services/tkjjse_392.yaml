@@ -1,0 +1,7 @@
+service:
+  name: nlwdvaqt
+  identifier: nlwdvaqt
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

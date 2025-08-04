@@ -1,0 +1,7 @@
+service:
+  name: qlortomu
+  identifier: qlortomu
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

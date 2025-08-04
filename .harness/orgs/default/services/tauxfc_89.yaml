@@ -1,0 +1,7 @@
+service:
+  name: kbhrgoja
+  identifier: kbhrgoja
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: nkqklpbp
+  identifier: nkqklpbp
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

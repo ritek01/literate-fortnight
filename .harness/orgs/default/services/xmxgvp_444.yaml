@@ -1,0 +1,7 @@
+service:
+  name: gndusujg
+  identifier: gndusujg
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

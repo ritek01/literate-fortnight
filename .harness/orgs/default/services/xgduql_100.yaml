@@ -1,0 +1,7 @@
+service:
+  name: olnlzuel
+  identifier: olnlzuel
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

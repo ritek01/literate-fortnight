@@ -1,0 +1,7 @@
+service:
+  name: awusnyrb
+  identifier: awusnyrb
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

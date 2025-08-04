@@ -1,0 +1,7 @@
+service:
+  name: bnrdvvfm
+  identifier: bnrdvvfm
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

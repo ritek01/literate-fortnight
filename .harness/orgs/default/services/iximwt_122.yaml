@@ -1,0 +1,7 @@
+service:
+  name: hkcvshxd
+  identifier: hkcvshxd
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

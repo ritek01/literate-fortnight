@@ -1,0 +1,7 @@
+service:
+  name: ibubrfgi
+  identifier: ibubrfgi
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

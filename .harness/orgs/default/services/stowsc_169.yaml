@@ -1,0 +1,7 @@
+service:
+  name: tczlxomg
+  identifier: tczlxomg
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

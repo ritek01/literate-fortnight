@@ -1,0 +1,7 @@
+service:
+  name: gmaehxbc
+  identifier: gmaehxbc
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

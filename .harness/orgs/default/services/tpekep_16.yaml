@@ -1,0 +1,7 @@
+service:
+  name: uegmagny
+  identifier: uegmagny
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

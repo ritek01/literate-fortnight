@@ -1,0 +1,7 @@
+service:
+  name: ivsfkijn
+  identifier: ivsfkijn
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

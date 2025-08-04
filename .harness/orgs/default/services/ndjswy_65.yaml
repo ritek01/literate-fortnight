@@ -1,0 +1,7 @@
+service:
+  name: cfqnlett
+  identifier: cfqnlett
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

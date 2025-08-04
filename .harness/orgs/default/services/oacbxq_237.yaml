@@ -1,0 +1,7 @@
+service:
+  name: anhfqevn
+  identifier: anhfqevn
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

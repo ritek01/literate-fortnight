@@ -1,0 +1,7 @@
+service:
+  name: lvpbckvs
+  identifier: lvpbckvs
+  orgIdentifier: default
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
