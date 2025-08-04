@@ -36,7 +36,7 @@ def main():
     print(f"Generating 521 YAML files in {harness_dir}...")
     
     # Generate 541 files
-    for i in range(1, 536):
+    for i in range(1, 2):
         # Generate random name for the file
         file_name = f"{generate_random_string(6)}_{i}.yaml"
         file_path = os.path.join(harness_dir, file_name)
