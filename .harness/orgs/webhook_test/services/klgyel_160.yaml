@@ -1,7 +1,0 @@
-service:
-  name: kzwtacma
-  identifier: kzwtacma
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

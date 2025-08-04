@@ -1,7 +1,0 @@
-service:
-  name: tximffjc
-  identifier: tximffjc
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

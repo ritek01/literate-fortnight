@@ -1,7 +1,0 @@
-service:
-  name: louhxymd
-  identifier: louhxymd
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

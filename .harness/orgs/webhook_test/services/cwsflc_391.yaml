@@ -1,7 +1,0 @@
-service:
-  name: xmdokugo
-  identifier: xmdokugo
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

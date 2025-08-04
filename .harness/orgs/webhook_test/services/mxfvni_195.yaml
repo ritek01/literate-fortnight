@@ -1,7 +1,0 @@
-service:
-  name: tecxgork
-  identifier: tecxgork
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

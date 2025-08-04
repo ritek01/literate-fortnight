@@ -1,7 +1,0 @@
-service:
-  name: ovkcolok
-  identifier: ovkcolok
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

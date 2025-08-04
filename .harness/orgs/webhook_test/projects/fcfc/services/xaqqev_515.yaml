@@ -1,0 +1,8 @@
+service:
+  name: izackdhw
+  identifier: izackdhw
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: xfrufopt
+  identifier: xfrufopt
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

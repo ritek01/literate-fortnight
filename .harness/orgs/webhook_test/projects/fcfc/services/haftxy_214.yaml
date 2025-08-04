@@ -1,0 +1,8 @@
+service:
+  name: ubmxgnmo
+  identifier: ubmxgnmo
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

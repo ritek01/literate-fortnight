@@ -1,0 +1,8 @@
+service:
+  name: vaqwtivv
+  identifier: vaqwtivv
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

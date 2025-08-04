@@ -1,7 +1,0 @@
-service:
-  name: pbnmcqvp
-  identifier: pbnmcqvp
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

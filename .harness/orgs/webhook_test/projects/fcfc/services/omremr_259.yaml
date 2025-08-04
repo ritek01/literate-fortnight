@@ -1,0 +1,8 @@
+service:
+  name: okeneafs
+  identifier: okeneafs
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

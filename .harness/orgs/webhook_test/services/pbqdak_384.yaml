@@ -1,7 +1,0 @@
-service:
-  name: ahkphfsw
-  identifier: ahkphfsw
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,7 +1,0 @@
-service:
-  name: imwadklg
-  identifier: imwadklg
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

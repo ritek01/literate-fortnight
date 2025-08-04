@@ -1,7 +1,0 @@
-service:
-  name: lyfxzpoi
-  identifier: lyfxzpoi
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,7 +1,0 @@
-service:
-  name: cydncofj
-  identifier: cydncofj
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

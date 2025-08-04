@@ -1,7 +1,0 @@
-service:
-  name: aivkslhl
-  identifier: aivkslhl
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

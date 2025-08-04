@@ -1,0 +1,8 @@
+service:
+  name: gnenjmea
+  identifier: gnenjmea
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

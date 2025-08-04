@@ -1,7 +1,0 @@
-service:
-  name: yucmjrvi
-  identifier: yucmjrvi
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

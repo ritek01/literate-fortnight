@@ -1,7 +1,0 @@
-service:
-  name: sahnoceu
-  identifier: sahnoceu
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

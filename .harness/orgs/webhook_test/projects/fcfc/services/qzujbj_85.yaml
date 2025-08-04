@@ -1,0 +1,8 @@
+service:
+  name: lovyfncd
+  identifier: lovyfncd
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

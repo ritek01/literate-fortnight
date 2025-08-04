@@ -1,7 +1,0 @@
-service:
-  name: xqsuulvk
-  identifier: xqsuulvk
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

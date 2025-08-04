@@ -1,7 +1,0 @@
-service:
-  name: otiebysj
-  identifier: otiebysj
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

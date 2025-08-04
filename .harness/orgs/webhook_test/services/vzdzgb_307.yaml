@@ -1,7 +1,0 @@
-service:
-  name: hoynjptz
-  identifier: hoynjptz
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

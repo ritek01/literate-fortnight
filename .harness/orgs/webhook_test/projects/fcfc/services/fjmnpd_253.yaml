@@ -1,0 +1,8 @@
+service:
+  name: mppykhqs
+  identifier: mppykhqs
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

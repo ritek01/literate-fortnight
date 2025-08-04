@@ -1,7 +1,0 @@
-service:
-  name: adjxmcng
-  identifier: adjxmcng
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

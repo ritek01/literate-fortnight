@@ -1,7 +1,0 @@
-service:
-  name: llopddab
-  identifier: llopddab
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

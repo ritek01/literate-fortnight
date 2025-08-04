@@ -1,7 +1,0 @@
-service:
-  name: bsruukjb
-  identifier: bsruukjb
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

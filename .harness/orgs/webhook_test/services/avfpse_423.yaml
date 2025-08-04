@@ -1,7 +1,0 @@
-service:
-  name: eolovdac
-  identifier: eolovdac
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

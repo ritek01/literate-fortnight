@@ -1,7 +1,0 @@
-service:
-  name: rbavbvzh
-  identifier: rbavbvzh
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

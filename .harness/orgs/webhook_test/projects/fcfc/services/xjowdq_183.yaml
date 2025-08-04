@@ -1,0 +1,8 @@
+service:
+  name: cifxcfoy
+  identifier: cifxcfoy
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

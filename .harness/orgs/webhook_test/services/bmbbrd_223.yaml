@@ -1,7 +1,0 @@
-service:
-  name: ayuptlqp
-  identifier: ayuptlqp
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

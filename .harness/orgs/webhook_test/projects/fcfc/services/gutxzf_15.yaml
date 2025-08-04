@@ -1,0 +1,8 @@
+service:
+  name: huyzoize
+  identifier: huyzoize
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,7 +1,0 @@
-service:
-  name: dihfyosu
-  identifier: dihfyosu
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

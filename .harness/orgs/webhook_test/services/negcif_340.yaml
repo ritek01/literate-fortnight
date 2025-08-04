@@ -1,7 +1,0 @@
-service:
-  name: ewxxnogp
-  identifier: ewxxnogp
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

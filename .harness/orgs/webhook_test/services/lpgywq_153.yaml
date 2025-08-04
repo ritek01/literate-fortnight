@@ -1,7 +1,0 @@
-service:
-  name: xjdisxmb
-  identifier: xjdisxmb
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

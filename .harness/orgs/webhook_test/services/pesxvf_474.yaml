@@ -1,7 +1,0 @@
-service:
-  name: vdmuifyc
-  identifier: vdmuifyc
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

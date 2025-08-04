@@ -1,7 +1,0 @@
-service:
-  name: nqshlzch
-  identifier: nqshlzch
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

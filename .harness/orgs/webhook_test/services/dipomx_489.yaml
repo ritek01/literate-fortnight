@@ -1,7 +1,0 @@
-service:
-  name: gypsdpfi
-  identifier: gypsdpfi
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

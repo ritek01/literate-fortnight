@@ -1,0 +1,8 @@
+service:
+  name: sokvnxvk
+  identifier: sokvnxvk
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

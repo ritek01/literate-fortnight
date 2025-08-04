@@ -1,0 +1,8 @@
+service:
+  name: pfkwuzxt
+  identifier: pfkwuzxt
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

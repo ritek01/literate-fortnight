@@ -1,7 +1,0 @@
-service:
-  name: bydhslmo
-  identifier: bydhslmo
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

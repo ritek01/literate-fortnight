@@ -1,0 +1,8 @@
+service:
+  name: wfrmtyam
+  identifier: wfrmtyam
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

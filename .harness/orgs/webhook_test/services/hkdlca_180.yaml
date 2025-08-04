@@ -1,7 +1,0 @@
-service:
-  name: ljccavjf
-  identifier: ljccavjf
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

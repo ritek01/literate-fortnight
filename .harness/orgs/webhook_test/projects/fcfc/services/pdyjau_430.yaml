@@ -1,0 +1,8 @@
+service:
+  name: wbvlfudx
+  identifier: wbvlfudx
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

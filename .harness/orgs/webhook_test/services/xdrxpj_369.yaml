@@ -1,7 +1,0 @@
-service:
-  name: ncfwssce
-  identifier: ncfwssce
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

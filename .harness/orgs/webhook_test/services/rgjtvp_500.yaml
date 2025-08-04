@@ -1,7 +1,0 @@
-service:
-  name: onbcdesd
-  identifier: onbcdesd
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

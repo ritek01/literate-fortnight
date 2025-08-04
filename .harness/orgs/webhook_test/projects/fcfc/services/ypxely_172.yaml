@@ -1,0 +1,8 @@
+service:
+  name: axenggtt
+  identifier: axenggtt
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

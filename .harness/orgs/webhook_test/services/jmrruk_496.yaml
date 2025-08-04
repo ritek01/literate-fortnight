@@ -1,7 +1,0 @@
-service:
-  name: paeitiih
-  identifier: paeitiih
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

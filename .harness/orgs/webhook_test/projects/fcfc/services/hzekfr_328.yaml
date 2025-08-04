@@ -1,0 +1,8 @@
+service:
+  name: zeswhefz
+  identifier: zeswhefz
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

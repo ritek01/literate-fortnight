@@ -1,7 +1,0 @@
-service:
-  name: ozfkzcrh
-  identifier: ozfkzcrh
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

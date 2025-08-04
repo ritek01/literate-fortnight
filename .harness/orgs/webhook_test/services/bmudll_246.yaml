@@ -1,7 +1,0 @@
-service:
-  name: ohjccyhj
-  identifier: ohjccyhj
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,7 +1,0 @@
-service:
-  name: qisqmshz
-  identifier: qisqmshz
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

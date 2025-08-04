@@ -15,6 +15,7 @@ def create_yaml_file(file_path, name, identifier):
   name: {name}
   identifier: {identifier}
   orgIdentifier: webhook_test
+  projectIdentifier: fcfc
   serviceDefinition:
     spec: {{}}
     type: Kubernetes
@@ -30,13 +31,13 @@ def create_yaml_file(file_path, name, identifier):
 def main():
     """Generate 541 YAML files with random names and identifiers."""
     # Create .harness directory if it doesn't exist
-    harness_dir = os.path.join(os.getcwd(), '.harness/orgs/webhook_test/services')
+    harness_dir = os.path.join(os.getcwd(), '.harness/orgs/webhook_test/projects/fcfc/services')
     os.makedirs(harness_dir, exist_ok=True)
     
     print(f"Generating 521 YAML files in {harness_dir}...")
     
     # Generate 541 files
-    for i in range(1, 2):
+    for i in range(1, 523):
         # Generate random name for the file
         file_name = f"{generate_random_string(6)}_{i}.yaml"
         file_path = os.path.join(harness_dir, file_name)

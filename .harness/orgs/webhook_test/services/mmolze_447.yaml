@@ -1,7 +1,0 @@
-service:
-  name: gpwddlmy
-  identifier: gpwddlmy
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

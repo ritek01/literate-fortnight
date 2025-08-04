@@ -1,7 +1,0 @@
-service:
-  name: pwmtehkc
-  identifier: pwmtehkc
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

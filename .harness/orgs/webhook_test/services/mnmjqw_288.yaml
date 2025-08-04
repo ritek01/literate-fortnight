@@ -1,7 +1,0 @@
-service:
-  name: kwztcufc
-  identifier: kwztcufc
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

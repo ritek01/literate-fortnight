@@ -1,7 +1,0 @@
-service:
-  name: odrspffa
-  identifier: odrspffa
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

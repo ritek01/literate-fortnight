@@ -1,7 +1,0 @@
-service:
-  name: xorwnzxf
-  identifier: xorwnzxf
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

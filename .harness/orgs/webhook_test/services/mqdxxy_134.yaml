@@ -1,7 +1,0 @@
-service:
-  name: anddlbdi
-  identifier: anddlbdi
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

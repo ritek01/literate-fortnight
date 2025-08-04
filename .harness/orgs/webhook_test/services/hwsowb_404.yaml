@@ -1,7 +1,0 @@
-service:
-  name: zrvextnf
-  identifier: zrvextnf
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

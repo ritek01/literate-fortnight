@@ -1,7 +1,0 @@
-service:
-  name: shkbjate
-  identifier: shkbjate
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

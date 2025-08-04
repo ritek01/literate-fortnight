@@ -1,7 +1,0 @@
-service:
-  name: yrypqlzr
-  identifier: yrypqlzr
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

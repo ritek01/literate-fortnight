@@ -1,7 +1,0 @@
-service:
-  name: fallgkht
-  identifier: fallgkht
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

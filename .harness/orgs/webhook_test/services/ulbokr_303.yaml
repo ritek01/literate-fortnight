@@ -1,7 +1,0 @@
-service:
-  name: fkrfgnnw
-  identifier: fkrfgnnw
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

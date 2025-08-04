@@ -1,7 +1,0 @@
-service:
-  name: paoywruv
-  identifier: paoywruv
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

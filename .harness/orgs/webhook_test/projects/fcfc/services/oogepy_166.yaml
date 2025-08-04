@@ -1,0 +1,8 @@
+service:
+  name: gcrchuhv
+  identifier: gcrchuhv
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

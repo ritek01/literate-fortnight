@@ -1,7 +1,0 @@
-service:
-  name: wcoukeiz
-  identifier: wcoukeiz
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

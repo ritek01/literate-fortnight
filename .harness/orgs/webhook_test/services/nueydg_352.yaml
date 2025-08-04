@@ -1,7 +1,0 @@
-service:
-  name: ezyiirtu
-  identifier: ezyiirtu
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: udxfmhct
+  identifier: udxfmhct
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: mmqlmxbi
+  identifier: mmqlmxbi
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

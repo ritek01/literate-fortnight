@@ -1,7 +1,0 @@
-service:
-  name: ctbkynjs
-  identifier: ctbkynjs
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

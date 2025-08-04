@@ -1,7 +1,0 @@
-service:
-  name: jxpewrkr
-  identifier: jxpewrkr
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

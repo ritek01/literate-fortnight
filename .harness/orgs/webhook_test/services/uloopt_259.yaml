@@ -1,7 +1,0 @@
-service:
-  name: kcbtvlir
-  identifier: kcbtvlir
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

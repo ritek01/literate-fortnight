@@ -1,7 +1,0 @@
-service:
-  name: skemvaxr
-  identifier: skemvaxr
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

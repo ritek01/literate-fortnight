@@ -1,7 +1,0 @@
-service:
-  name: dbfhgxjk
-  identifier: dbfhgxjk
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

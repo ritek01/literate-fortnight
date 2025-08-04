@@ -1,7 +1,0 @@
-service:
-  name: eztxhobq
-  identifier: eztxhobq
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

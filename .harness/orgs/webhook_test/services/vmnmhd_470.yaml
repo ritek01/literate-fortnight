@@ -1,7 +1,0 @@
-service:
-  name: odlqywzy
-  identifier: odlqywzy
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

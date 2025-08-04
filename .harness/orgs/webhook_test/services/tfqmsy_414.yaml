@@ -1,7 +1,0 @@
-service:
-  name: zcydaqyd
-  identifier: zcydaqyd
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

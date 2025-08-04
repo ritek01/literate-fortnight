@@ -1,7 +1,0 @@
-service:
-  name: cwvrxtqf
-  identifier: cwvrxtqf
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

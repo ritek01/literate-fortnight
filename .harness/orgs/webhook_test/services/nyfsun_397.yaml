@@ -1,7 +1,0 @@
-service:
-  name: lgutdqri
-  identifier: lgutdqri
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

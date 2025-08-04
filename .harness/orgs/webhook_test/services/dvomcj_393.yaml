@@ -1,7 +1,0 @@
-service:
-  name: kadeizwy
-  identifier: kadeizwy
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

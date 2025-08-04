@@ -1,7 +1,0 @@
-service:
-  name: fbtuypio
-  identifier: fbtuypio
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

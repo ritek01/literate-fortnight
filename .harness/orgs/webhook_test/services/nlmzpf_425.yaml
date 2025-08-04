@@ -1,7 +1,0 @@
-service:
-  name: sznfauao
-  identifier: sznfauao
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

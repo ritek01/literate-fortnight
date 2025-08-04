@@ -1,7 +1,0 @@
-service:
-  name: tggljbeb
-  identifier: tggljbeb
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

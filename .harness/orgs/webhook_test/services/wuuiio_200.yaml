@@ -1,7 +1,0 @@
-service:
-  name: ptomktlu
-  identifier: ptomktlu
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

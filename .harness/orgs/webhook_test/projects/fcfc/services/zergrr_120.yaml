@@ -1,0 +1,8 @@
+service:
+  name: bxhpavoz
+  identifier: bxhpavoz
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

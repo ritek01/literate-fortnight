@@ -1,7 +1,0 @@
-service:
-  name: rubanhbh
-  identifier: rubanhbh
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,7 +1,0 @@
-service:
-  name: soepcxil
-  identifier: soepcxil
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: kqbmldqw
+  identifier: kqbmldqw
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

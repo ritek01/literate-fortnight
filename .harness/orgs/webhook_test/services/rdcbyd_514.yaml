@@ -1,7 +1,0 @@
-service:
-  name: xvxbinij
-  identifier: xvxbinij
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

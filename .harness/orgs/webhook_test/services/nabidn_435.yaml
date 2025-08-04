@@ -1,7 +1,0 @@
-service:
-  name: buhpsysv
-  identifier: buhpsysv
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

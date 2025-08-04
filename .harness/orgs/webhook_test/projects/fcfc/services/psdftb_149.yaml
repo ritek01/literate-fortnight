@@ -1,0 +1,8 @@
+service:
+  name: puphqoly
+  identifier: puphqoly
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

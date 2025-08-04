@@ -1,7 +1,0 @@
-service:
-  name: prpzjazn
-  identifier: prpzjazn
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

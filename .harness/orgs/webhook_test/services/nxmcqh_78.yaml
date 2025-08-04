@@ -1,7 +1,0 @@
-service:
-  name: hxetbpds
-  identifier: hxetbpds
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

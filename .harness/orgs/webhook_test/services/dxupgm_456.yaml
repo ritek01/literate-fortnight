@@ -1,7 +1,0 @@
-service:
-  name: pknwuqxv
-  identifier: pknwuqxv
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,7 +1,0 @@
-service:
-  name: zszxrqro
-  identifier: zszxrqro
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

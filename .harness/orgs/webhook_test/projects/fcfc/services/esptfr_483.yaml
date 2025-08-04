@@ -1,0 +1,8 @@
+service:
+  name: quovniat
+  identifier: quovniat
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

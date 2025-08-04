@@ -1,7 +1,0 @@
-service:
-  name: ibewxunn
-  identifier: ibewxunn
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

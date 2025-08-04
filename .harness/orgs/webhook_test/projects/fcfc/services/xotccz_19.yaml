@@ -1,0 +1,8 @@
+service:
+  name: lauxqezk
+  identifier: lauxqezk
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

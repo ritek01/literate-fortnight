@@ -1,7 +1,0 @@
-service:
-  name: rlubrgnb
-  identifier: rlubrgnb
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

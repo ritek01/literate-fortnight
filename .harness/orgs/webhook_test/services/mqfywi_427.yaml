@@ -1,7 +1,0 @@
-service:
-  name: kxinpypk
-  identifier: kxinpypk
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,7 +1,0 @@
-service:
-  name: ixitwcth
-  identifier: ixitwcth
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

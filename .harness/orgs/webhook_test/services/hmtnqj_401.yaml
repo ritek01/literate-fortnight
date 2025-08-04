@@ -1,7 +1,0 @@
-service:
-  name: jvfncvcx
-  identifier: jvfncvcx
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

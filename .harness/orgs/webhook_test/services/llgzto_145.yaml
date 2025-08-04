@@ -1,7 +1,0 @@
-service:
-  name: wifcuiey
-  identifier: wifcuiey
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

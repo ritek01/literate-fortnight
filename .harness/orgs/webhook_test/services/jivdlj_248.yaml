@@ -1,7 +1,0 @@
-service:
-  name: fweesdqv
-  identifier: fweesdqv
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

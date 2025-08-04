@@ -1,7 +1,0 @@
-service:
-  name: qgldeyiz
-  identifier: qgldeyiz
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

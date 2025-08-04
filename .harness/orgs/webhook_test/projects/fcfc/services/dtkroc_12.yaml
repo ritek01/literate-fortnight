@@ -1,0 +1,8 @@
+service:
+  name: pvqurexd
+  identifier: pvqurexd
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

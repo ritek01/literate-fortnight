@@ -1,7 +1,0 @@
-service:
-  name: gqqsqtio
-  identifier: gqqsqtio
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,7 +1,0 @@
-service:
-  name: vgasuvti
-  identifier: vgasuvti
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,7 +1,0 @@
-service:
-  name: qudkxqch
-  identifier: qudkxqch
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

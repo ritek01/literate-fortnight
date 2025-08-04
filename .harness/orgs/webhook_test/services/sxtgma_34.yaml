@@ -1,7 +1,0 @@
-service:
-  name: okfgjpmt
-  identifier: okfgjpmt
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

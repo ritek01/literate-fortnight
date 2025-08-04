@@ -1,7 +1,0 @@
-service:
-  name: raicopkp
-  identifier: raicopkp
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

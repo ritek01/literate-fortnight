@@ -1,7 +1,0 @@
-service:
-  name: ywvmfqaj
-  identifier: ywvmfqaj
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

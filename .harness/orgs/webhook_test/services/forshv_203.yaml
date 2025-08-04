@@ -1,7 +1,0 @@
-service:
-  name: iwuoecse
-  identifier: iwuoecse
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

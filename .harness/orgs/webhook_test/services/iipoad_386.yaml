@@ -1,7 +1,0 @@
-service:
-  name: mndxdcqk
-  identifier: mndxdcqk
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

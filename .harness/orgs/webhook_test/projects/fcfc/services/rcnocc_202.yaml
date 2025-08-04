@@ -1,0 +1,8 @@
+service:
+  name: zpneghev
+  identifier: zpneghev
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

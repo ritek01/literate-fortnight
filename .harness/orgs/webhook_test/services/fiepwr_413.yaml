@@ -1,7 +1,0 @@
-service:
-  name: ictitces
-  identifier: ictitces
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

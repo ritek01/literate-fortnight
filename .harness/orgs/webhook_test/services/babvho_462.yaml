@@ -1,7 +1,0 @@
-service:
-  name: xbjfqizw
-  identifier: xbjfqizw
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

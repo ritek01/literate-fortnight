@@ -1,7 +1,0 @@
-service:
-  name: fmsqreqe
-  identifier: fmsqreqe
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

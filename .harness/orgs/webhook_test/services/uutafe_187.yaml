@@ -1,7 +1,0 @@
-service:
-  name: emjtjfdv
-  identifier: emjtjfdv
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,7 +1,0 @@
-service:
-  name: wbeiowlz
-  identifier: wbeiowlz
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

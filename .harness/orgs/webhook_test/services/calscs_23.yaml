@@ -1,7 +1,0 @@
-service:
-  name: ryodirzm
-  identifier: ryodirzm
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

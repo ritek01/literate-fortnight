@@ -1,7 +1,0 @@
-service:
-  name: aduhnkvd
-  identifier: aduhnkvd
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

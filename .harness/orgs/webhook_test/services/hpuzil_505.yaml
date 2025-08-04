@@ -1,7 +1,0 @@
-service:
-  name: tyenmaoy
-  identifier: tyenmaoy
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

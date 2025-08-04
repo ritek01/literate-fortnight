@@ -1,7 +1,0 @@
-service:
-  name: dhrjqnyt
-  identifier: dhrjqnyt
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

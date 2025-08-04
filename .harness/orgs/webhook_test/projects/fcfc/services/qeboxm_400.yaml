@@ -1,0 +1,8 @@
+service:
+  name: azgbxnbb
+  identifier: azgbxnbb
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

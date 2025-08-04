@@ -1,7 +1,0 @@
-service:
-  name: duarsjxp
-  identifier: duarsjxp
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

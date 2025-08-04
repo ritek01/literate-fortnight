@@ -1,7 +1,0 @@
-service:
-  name: yjomtbzs
-  identifier: yjomtbzs
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

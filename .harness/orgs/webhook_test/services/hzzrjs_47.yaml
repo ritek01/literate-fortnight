@@ -1,7 +1,0 @@
-service:
-  name: lpiddqmk
-  identifier: lpiddqmk
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,7 +1,0 @@
-service:
-  name: otmxbaqj
-  identifier: otmxbaqj
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

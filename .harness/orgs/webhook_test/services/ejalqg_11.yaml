@@ -1,7 +1,0 @@
-service:
-  name: btklfdlh
-  identifier: btklfdlh
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

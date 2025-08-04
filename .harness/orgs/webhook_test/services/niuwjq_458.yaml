@@ -1,7 +1,0 @@
-service:
-  name: ovocwxlt
-  identifier: ovocwxlt
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

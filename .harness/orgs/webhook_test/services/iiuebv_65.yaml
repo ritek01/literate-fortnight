@@ -1,7 +1,0 @@
-service:
-  name: ogmuywvb
-  identifier: ogmuywvb
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

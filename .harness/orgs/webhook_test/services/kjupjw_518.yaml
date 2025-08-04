@@ -1,7 +1,0 @@
-service:
-  name: zlogalbx
-  identifier: zlogalbx
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

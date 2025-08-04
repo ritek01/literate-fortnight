@@ -1,0 +1,8 @@
+service:
+  name: lzqyrfua
+  identifier: lzqyrfua
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

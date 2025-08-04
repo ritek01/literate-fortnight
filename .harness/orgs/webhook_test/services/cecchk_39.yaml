@@ -1,7 +1,0 @@
-service:
-  name: amrqnzzc
-  identifier: amrqnzzc
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

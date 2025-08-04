@@ -1,7 +1,0 @@
-service:
-  name: aveaejbo
-  identifier: aveaejbo
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

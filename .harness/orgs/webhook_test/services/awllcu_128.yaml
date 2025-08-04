@@ -1,7 +1,0 @@
-service:
-  name: rkvwzjuu
-  identifier: rkvwzjuu
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

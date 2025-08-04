@@ -1,7 +1,0 @@
-service:
-  name: enhfhnvc
-  identifier: enhfhnvc
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

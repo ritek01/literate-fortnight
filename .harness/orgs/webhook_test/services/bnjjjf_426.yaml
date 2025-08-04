@@ -1,7 +1,0 @@
-service:
-  name: qpbyzxmk
-  identifier: qpbyzxmk
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,7 +1,0 @@
-service:
-  name: gbpgqahv
-  identifier: gbpgqahv
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,7 +1,0 @@
-service:
-  name: sojtpqgq
-  identifier: sojtpqgq
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

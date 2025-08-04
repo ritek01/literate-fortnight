@@ -1,7 +1,0 @@
-service:
-  name: vahlcsgl
-  identifier: vahlcsgl
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,7 +1,0 @@
-service:
-  name: mocntbmt
-  identifier: mocntbmt
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,7 +1,0 @@
-service:
-  name: vemosaap
-  identifier: vemosaap
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

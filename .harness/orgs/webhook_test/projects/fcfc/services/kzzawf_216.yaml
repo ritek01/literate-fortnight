@@ -1,0 +1,8 @@
+service:
+  name: fnfmmyvx
+  identifier: fnfmmyvx
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

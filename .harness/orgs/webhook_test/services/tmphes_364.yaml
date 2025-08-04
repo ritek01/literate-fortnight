@@ -1,7 +1,0 @@
-service:
-  name: kgszjzuz
-  identifier: kgszjzuz
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

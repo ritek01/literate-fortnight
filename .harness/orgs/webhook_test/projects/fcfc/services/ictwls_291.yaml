@@ -1,0 +1,8 @@
+service:
+  name: sjklikwn
+  identifier: sjklikwn
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

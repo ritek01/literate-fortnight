@@ -1,0 +1,8 @@
+service:
+  name: uvbxbdaz
+  identifier: uvbxbdaz
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

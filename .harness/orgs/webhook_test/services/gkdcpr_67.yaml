@@ -1,7 +1,0 @@
-service:
-  name: vdnidmrd
-  identifier: vdnidmrd
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

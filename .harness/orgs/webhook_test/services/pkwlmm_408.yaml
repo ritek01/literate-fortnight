@@ -1,7 +1,0 @@
-service:
-  name: glylbhdl
-  identifier: glylbhdl
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

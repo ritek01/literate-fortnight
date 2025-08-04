@@ -1,7 +1,0 @@
-service:
-  name: dazydcfp
-  identifier: dazydcfp
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

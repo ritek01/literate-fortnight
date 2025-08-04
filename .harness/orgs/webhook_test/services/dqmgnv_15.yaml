@@ -1,7 +1,0 @@
-service:
-  name: seezdnix
-  identifier: seezdnix
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

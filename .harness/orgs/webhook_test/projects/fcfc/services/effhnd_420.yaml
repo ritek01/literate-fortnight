@@ -1,0 +1,8 @@
+service:
+  name: fptlfhsn
+  identifier: fptlfhsn
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

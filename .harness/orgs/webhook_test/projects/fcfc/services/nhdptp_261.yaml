@@ -1,0 +1,8 @@
+service:
+  name: cmrlksfc
+  identifier: cmrlksfc
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

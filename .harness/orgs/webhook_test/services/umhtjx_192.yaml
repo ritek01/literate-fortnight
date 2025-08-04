@@ -1,7 +1,0 @@
-service:
-  name: tjfvibob
-  identifier: tjfvibob
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

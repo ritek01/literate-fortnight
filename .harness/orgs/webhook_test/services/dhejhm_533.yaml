@@ -1,7 +1,0 @@
-service:
-  name: fpacxtod
-  identifier: fpacxtod
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

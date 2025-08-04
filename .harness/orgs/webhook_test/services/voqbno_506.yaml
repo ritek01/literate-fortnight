@@ -1,7 +1,0 @@
-service:
-  name: lybigdcz
-  identifier: lybigdcz
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

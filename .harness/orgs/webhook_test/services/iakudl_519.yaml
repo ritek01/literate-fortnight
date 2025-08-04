@@ -1,7 +1,0 @@
-service:
-  name: pndoekmn
-  identifier: pndoekmn
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

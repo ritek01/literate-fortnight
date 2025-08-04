@@ -1,7 +1,0 @@
-service:
-  name: jybeewgb
-  identifier: jybeewgb
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

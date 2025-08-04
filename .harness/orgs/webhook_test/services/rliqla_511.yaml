@@ -1,7 +1,0 @@
-service:
-  name: vzhoxjvi
-  identifier: vzhoxjvi
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

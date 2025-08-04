@@ -1,7 +1,0 @@
-service:
-  name: jgrtjbmu
-  identifier: jgrtjbmu
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

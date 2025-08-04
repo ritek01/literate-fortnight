@@ -1,0 +1,8 @@
+service:
+  name: coalptpx
+  identifier: coalptpx
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

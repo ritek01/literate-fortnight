@@ -1,7 +1,0 @@
-service:
-  name: rkhknpbx
-  identifier: rkhknpbx
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

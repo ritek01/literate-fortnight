@@ -1,0 +1,8 @@
+service:
+  name: kanpwobb
+  identifier: kanpwobb
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

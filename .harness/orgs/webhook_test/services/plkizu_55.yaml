@@ -1,7 +1,0 @@
-service:
-  name: ufaaycwe
-  identifier: ufaaycwe
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

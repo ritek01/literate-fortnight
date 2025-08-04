@@ -1,7 +1,0 @@
-service:
-  name: jxobcpgb
-  identifier: jxobcpgb
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

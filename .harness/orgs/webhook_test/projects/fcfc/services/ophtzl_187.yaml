@@ -1,0 +1,8 @@
+service:
+  name: xqsljhpf
+  identifier: xqsljhpf
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

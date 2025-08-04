@@ -1,0 +1,8 @@
+service:
+  name: cgyneujr
+  identifier: cgyneujr
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: xeedhujj
+  identifier: xeedhujj
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

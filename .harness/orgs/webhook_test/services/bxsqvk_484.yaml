@@ -1,7 +1,0 @@
-service:
-  name: ksdfvbpu
-  identifier: ksdfvbpu
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

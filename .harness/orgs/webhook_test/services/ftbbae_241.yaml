@@ -1,7 +1,0 @@
-service:
-  name: ybrndsjs
-  identifier: ybrndsjs
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

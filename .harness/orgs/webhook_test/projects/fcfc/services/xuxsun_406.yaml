@@ -1,0 +1,8 @@
+service:
+  name: pmqhdyoe
+  identifier: pmqhdyoe
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,7 +1,0 @@
-service:
-  name: mpxxmkzj
-  identifier: mpxxmkzj
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

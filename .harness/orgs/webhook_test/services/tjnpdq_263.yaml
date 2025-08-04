@@ -1,7 +1,0 @@
-service:
-  name: lxybgwrr
-  identifier: lxybgwrr
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

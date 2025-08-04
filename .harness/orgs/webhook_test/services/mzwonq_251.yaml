@@ -1,7 +1,0 @@
-service:
-  name: fvndslfb
-  identifier: fvndslfb
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: osqhuptv
+  identifier: osqhuptv
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

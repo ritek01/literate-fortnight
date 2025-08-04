@@ -1,7 +1,0 @@
-service:
-  name: vabugrsj
-  identifier: vabugrsj
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

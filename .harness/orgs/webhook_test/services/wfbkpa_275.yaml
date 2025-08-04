@@ -1,7 +1,0 @@
-service:
-  name: emivbsmy
-  identifier: emivbsmy
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

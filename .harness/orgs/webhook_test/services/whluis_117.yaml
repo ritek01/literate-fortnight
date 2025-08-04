@@ -1,7 +1,0 @@
-service:
-  name: uoendjvj
-  identifier: uoendjvj
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

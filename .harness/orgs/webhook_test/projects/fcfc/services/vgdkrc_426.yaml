@@ -1,0 +1,8 @@
+service:
+  name: typqmepo
+  identifier: typqmepo
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

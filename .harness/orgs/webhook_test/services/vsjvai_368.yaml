@@ -1,7 +1,0 @@
-service:
-  name: ymapwlti
-  identifier: ymapwlti
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

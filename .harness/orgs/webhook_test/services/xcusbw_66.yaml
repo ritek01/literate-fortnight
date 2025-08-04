@@ -1,7 +1,0 @@
-service:
-  name: iagbkecc
-  identifier: iagbkecc
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

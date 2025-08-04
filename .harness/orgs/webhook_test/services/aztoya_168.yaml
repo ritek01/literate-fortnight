@@ -1,7 +1,0 @@
-service:
-  name: gjtslsgx
-  identifier: gjtslsgx
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

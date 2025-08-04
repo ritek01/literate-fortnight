@@ -1,7 +1,0 @@
-service:
-  name: higiqbby
-  identifier: higiqbby
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

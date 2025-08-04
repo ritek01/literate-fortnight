@@ -1,7 +1,0 @@
-service:
-  name: dexojtqn
-  identifier: dexojtqn
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

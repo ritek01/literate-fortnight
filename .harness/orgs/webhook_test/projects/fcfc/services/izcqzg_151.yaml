@@ -1,0 +1,8 @@
+service:
+  name: xwimgisf
+  identifier: xwimgisf
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,7 +1,0 @@
-service:
-  name: tyubrjkq
-  identifier: tyubrjkq
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

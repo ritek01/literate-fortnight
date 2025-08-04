@@ -1,7 +1,0 @@
-service:
-  name: izubxbhy
-  identifier: izubxbhy
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

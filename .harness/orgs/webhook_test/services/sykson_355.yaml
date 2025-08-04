@@ -1,7 +1,0 @@
-service:
-  name: eeghicay
-  identifier: eeghicay
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

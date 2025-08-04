@@ -1,7 +1,0 @@
-service:
-  name: vwnoeeqm
-  identifier: vwnoeeqm
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

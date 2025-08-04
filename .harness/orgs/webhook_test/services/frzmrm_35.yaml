@@ -1,7 +1,0 @@
-service:
-  name: tjmgfvhm
-  identifier: tjmgfvhm
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

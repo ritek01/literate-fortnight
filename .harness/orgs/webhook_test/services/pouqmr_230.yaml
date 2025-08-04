@@ -1,7 +1,0 @@
-service:
-  name: pfgrmgxb
-  identifier: pfgrmgxb
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,7 +1,0 @@
-service:
-  name: dwhwxgad
-  identifier: dwhwxgad
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

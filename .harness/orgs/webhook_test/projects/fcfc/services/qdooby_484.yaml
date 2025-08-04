@@ -1,0 +1,8 @@
+service:
+  name: qkbwpcta
+  identifier: qkbwpcta
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

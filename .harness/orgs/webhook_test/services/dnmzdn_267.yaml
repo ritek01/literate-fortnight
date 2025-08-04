@@ -1,7 +1,0 @@
-service:
-  name: sdlhluap
-  identifier: sdlhluap
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

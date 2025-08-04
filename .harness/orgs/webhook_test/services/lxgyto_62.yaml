@@ -1,7 +1,0 @@
-service:
-  name: vroegrvt
-  identifier: vroegrvt
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

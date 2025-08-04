@@ -1,0 +1,8 @@
+service:
+  name: rhljvwio
+  identifier: rhljvwio
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

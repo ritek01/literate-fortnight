@@ -1,7 +1,0 @@
-service:
-  name: pbokkuvk
-  identifier: pbokkuvk
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

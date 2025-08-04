@@ -1,7 +1,0 @@
-service:
-  name: dyaozvxt
-  identifier: dyaozvxt
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

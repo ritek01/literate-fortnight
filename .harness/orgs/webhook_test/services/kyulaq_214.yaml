@@ -1,7 +1,0 @@
-service:
-  name: ietipyed
-  identifier: ietipyed
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

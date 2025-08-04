@@ -1,0 +1,8 @@
+service:
+  name: ugsnrtal
+  identifier: ugsnrtal
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

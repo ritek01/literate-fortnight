@@ -1,7 +1,0 @@
-service:
-  name: svgurwyt
-  identifier: svgurwyt
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

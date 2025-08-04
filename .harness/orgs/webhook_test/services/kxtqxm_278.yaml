@@ -1,7 +1,0 @@
-service:
-  name: odrupoeh
-  identifier: odrupoeh
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

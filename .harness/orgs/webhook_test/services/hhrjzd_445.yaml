@@ -1,7 +1,0 @@
-service:
-  name: vohjuzwx
-  identifier: vohjuzwx
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

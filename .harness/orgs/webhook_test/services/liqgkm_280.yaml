@@ -1,7 +1,0 @@
-service:
-  name: tzogrtvt
-  identifier: tzogrtvt
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: txqmdppq
+  identifier: txqmdppq
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

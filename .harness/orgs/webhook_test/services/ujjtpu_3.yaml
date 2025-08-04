@@ -1,7 +1,0 @@
-service:
-  name: njfoacqy
-  identifier: njfoacqy
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

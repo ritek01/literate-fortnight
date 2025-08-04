@@ -1,0 +1,8 @@
+service:
+  name: nuwhydbr
+  identifier: nuwhydbr
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

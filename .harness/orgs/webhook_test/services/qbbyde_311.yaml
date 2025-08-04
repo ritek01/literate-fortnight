@@ -1,7 +1,0 @@
-service:
-  name: fmawydun
-  identifier: fmawydun
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

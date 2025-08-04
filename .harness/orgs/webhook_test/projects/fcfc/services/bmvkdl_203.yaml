@@ -1,0 +1,8 @@
+service:
+  name: xmyxlqjk
+  identifier: xmyxlqjk
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

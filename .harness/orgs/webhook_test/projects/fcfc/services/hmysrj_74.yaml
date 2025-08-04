@@ -1,0 +1,8 @@
+service:
+  name: whahxbqu
+  identifier: whahxbqu
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

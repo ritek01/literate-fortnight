@@ -1,7 +1,0 @@
-service:
-  name: ioujpulh
-  identifier: ioujpulh
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

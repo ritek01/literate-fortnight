@@ -1,7 +1,0 @@
-service:
-  name: mfydrojq
-  identifier: mfydrojq
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

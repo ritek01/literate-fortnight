@@ -1,7 +1,0 @@
-service:
-  name: yckbbsld
-  identifier: yckbbsld
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

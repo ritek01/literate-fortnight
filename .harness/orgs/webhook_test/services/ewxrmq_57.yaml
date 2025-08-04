@@ -1,7 +1,0 @@
-service:
-  name: mwhiumdm
-  identifier: mwhiumdm
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

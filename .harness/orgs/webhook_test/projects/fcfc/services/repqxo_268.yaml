@@ -1,0 +1,8 @@
+service:
+  name: hgtlnavj
+  identifier: hgtlnavj
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

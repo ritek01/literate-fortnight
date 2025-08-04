@@ -1,7 +1,0 @@
-service:
-  name: pdfbyxko
-  identifier: pdfbyxko
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

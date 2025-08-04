@@ -1,7 +1,0 @@
-service:
-  name: xfhxmeps
-  identifier: xfhxmeps
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,7 +1,0 @@
-service:
-  name: uvstgowk
-  identifier: uvstgowk
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

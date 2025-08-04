@@ -1,7 +1,0 @@
-service:
-  name: jnvexgvn
-  identifier: jnvexgvn
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

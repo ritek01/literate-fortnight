@@ -1,7 +1,0 @@
-service:
-  name: sreupchx
-  identifier: sreupchx
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

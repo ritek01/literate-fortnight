@@ -1,7 +1,0 @@
-service:
-  name: nnpfplwm
-  identifier: nnpfplwm
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

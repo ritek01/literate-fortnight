@@ -1,7 +1,0 @@
-service:
-  name: cpkdxyiz
-  identifier: cpkdxyiz
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

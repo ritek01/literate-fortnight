@@ -1,7 +1,0 @@
-service:
-  name: zrlznycv
-  identifier: zrlznycv
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,7 +1,0 @@
-service:
-  name: huuykmdq
-  identifier: huuykmdq
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,7 +1,0 @@
-service:
-  name: gmqffekz
-  identifier: gmqffekz
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

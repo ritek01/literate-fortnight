@@ -1,7 +1,0 @@
-service:
-  name: jfmtvjbi
-  identifier: jfmtvjbi
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

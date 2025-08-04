@@ -1,7 +1,0 @@
-service:
-  name: ejfzbhwc
-  identifier: ejfzbhwc
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,7 +1,0 @@
-service:
-  name: qbodpbmd
-  identifier: qbodpbmd
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

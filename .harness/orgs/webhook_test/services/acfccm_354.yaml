@@ -1,7 +1,0 @@
-service:
-  name: eosutmhe
-  identifier: eosutmhe
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,7 +1,0 @@
-service:
-  name: eamohwyz
-  identifier: eamohwyz
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

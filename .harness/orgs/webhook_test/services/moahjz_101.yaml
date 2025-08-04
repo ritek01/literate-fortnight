@@ -1,7 +1,0 @@
-service:
-  name: llxfymua
-  identifier: llxfymua
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

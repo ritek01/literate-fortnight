@@ -1,7 +1,0 @@
-service:
-  name: jertvzrp
-  identifier: jertvzrp
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

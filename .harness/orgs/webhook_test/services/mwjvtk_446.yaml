@@ -1,7 +1,0 @@
-service:
-  name: diegzqxh
-  identifier: diegzqxh
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

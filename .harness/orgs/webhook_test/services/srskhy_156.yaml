@@ -1,7 +1,0 @@
-service:
-  name: cmqsrsyb
-  identifier: cmqsrsyb
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

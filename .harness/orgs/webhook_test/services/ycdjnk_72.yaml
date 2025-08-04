@@ -1,7 +1,0 @@
-service:
-  name: izujofdm
-  identifier: izujofdm
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

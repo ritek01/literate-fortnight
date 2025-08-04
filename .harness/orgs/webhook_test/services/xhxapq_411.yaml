@@ -1,7 +1,0 @@
-service:
-  name: yrdzahtj
-  identifier: yrdzahtj
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,7 +1,0 @@
-service:
-  name: bpwarpbo
-  identifier: bpwarpbo
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

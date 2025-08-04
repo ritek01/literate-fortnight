@@ -1,7 +1,0 @@
-service:
-  name: whrsezzi
-  identifier: whrsezzi
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

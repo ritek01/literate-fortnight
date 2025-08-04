@@ -1,0 +1,8 @@
+service:
+  name: vkcfvvbu
+  identifier: vkcfvvbu
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

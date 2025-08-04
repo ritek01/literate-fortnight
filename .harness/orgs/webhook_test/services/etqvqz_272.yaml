@@ -1,7 +1,0 @@
-service:
-  name: mycqikme
-  identifier: mycqikme
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

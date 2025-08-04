@@ -1,7 +1,0 @@
-service:
-  name: isiuimej
-  identifier: isiuimej
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

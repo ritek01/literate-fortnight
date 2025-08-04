@@ -1,0 +1,8 @@
+service:
+  name: wmaeclcc
+  identifier: wmaeclcc
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

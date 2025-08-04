@@ -1,0 +1,8 @@
+service:
+  name: migytdqx
+  identifier: migytdqx
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

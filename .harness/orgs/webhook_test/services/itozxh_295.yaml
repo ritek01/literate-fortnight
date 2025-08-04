@@ -1,7 +1,0 @@
-service:
-  name: fnahxfma
-  identifier: fnahxfma
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

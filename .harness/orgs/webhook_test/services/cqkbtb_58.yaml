@@ -1,7 +1,0 @@
-service:
-  name: lhkxkqps
-  identifier: lhkxkqps
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

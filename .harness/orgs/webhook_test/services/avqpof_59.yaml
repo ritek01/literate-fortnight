@@ -1,7 +1,0 @@
-service:
-  name: mbinyufc
-  identifier: mbinyufc
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

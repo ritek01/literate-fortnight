@@ -1,7 +1,0 @@
-service:
-  name: pidghxwn
-  identifier: pidghxwn
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

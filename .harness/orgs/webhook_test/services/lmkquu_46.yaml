@@ -1,7 +1,0 @@
-service:
-  name: lrmmrnmg
-  identifier: lrmmrnmg
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

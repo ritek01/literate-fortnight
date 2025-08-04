@@ -1,7 +1,0 @@
-service:
-  name: rlgbgbib
-  identifier: rlgbgbib
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

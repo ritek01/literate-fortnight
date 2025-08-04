@@ -1,7 +1,0 @@
-service:
-  name: phdtwsoj
-  identifier: phdtwsoj
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

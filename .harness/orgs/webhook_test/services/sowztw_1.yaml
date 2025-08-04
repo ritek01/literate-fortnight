@@ -1,7 +1,0 @@
-service:
-  name: nllkhhbz
-  identifier: nllkhhbz
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

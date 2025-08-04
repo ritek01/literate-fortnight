@@ -1,7 +1,0 @@
-service:
-  name: ililckuf
-  identifier: ililckuf
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

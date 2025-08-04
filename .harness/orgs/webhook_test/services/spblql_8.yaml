@@ -1,7 +1,0 @@
-service:
-  name: frpwcixq
-  identifier: frpwcixq
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

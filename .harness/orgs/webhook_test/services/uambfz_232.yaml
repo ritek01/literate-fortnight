@@ -1,7 +1,0 @@
-service:
-  name: vretoocg
-  identifier: vretoocg
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

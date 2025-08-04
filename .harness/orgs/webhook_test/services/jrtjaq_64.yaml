@@ -1,7 +1,0 @@
-service:
-  name: opuyntwc
-  identifier: opuyntwc
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

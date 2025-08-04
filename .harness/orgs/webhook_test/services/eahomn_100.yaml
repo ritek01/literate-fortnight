@@ -1,7 +1,0 @@
-service:
-  name: kycxgkgr
-  identifier: kycxgkgr
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,7 +1,0 @@
-service:
-  name: kynihukp
-  identifier: kynihukp
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

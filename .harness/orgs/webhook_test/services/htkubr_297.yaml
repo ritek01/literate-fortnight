@@ -1,7 +1,0 @@
-service:
-  name: htgapisu
-  identifier: htgapisu
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

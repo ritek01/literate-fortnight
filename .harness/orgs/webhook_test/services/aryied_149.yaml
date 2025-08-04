@@ -1,7 +1,0 @@
-service:
-  name: vvxzlwxr
-  identifier: vvxzlwxr
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,7 +1,0 @@
-service:
-  name: otwluacj
-  identifier: otwluacj
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

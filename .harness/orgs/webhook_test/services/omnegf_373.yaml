@@ -1,7 +1,0 @@
-service:
-  name: alfskjtt
-  identifier: alfskjtt
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

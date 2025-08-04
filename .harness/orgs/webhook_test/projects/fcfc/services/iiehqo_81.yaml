@@ -1,0 +1,8 @@
+service:
+  name: sihkatfw
+  identifier: sihkatfw
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

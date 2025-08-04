@@ -1,7 +1,0 @@
-service:
-  name: hofgwvtb
-  identifier: hofgwvtb
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

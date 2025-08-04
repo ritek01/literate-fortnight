@@ -1,7 +1,0 @@
-service:
-  name: iweegyzb
-  identifier: iweegyzb
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

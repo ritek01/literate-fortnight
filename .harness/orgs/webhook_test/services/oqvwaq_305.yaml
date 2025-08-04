@@ -1,7 +1,0 @@
-service:
-  name: inbqddgj
-  identifier: inbqddgj
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

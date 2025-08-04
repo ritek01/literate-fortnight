@@ -1,7 +1,0 @@
-service:
-  name: fncvnfei
-  identifier: fncvnfei
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

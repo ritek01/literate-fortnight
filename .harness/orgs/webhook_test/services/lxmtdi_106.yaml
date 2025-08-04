@@ -1,7 +1,0 @@
-service:
-  name: ccmalklh
-  identifier: ccmalklh
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

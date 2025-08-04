@@ -1,7 +1,0 @@
-service:
-  name: ynrlaofw
-  identifier: ynrlaofw
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

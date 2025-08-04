@@ -1,0 +1,8 @@
+service:
+  name: jpevmhcj
+  identifier: jpevmhcj
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

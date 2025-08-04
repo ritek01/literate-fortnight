@@ -1,7 +1,0 @@
-service:
-  name: diclugrx
-  identifier: diclugrx
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,7 +1,0 @@
-service:
-  name: cdhbkzhh
-  identifier: cdhbkzhh
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

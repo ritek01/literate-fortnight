@@ -1,7 +1,0 @@
-service:
-  name: wkbwkuwv
-  identifier: wkbwkuwv
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

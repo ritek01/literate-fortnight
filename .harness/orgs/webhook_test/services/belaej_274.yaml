@@ -1,7 +1,0 @@
-service:
-  name: oyijfbab
-  identifier: oyijfbab
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

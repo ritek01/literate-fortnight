@@ -1,7 +1,0 @@
-service:
-  name: qqkzhwgi
-  identifier: qqkzhwgi
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

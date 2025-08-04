@@ -1,7 +1,0 @@
-service:
-  name: kwhlyyly
-  identifier: kwhlyyly
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

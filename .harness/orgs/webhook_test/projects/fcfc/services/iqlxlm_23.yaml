@@ -1,0 +1,8 @@
+service:
+  name: oumklpdx
+  identifier: oumklpdx
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

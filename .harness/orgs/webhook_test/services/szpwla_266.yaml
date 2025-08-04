@@ -1,7 +1,0 @@
-service:
-  name: doaorhqv
-  identifier: doaorhqv
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

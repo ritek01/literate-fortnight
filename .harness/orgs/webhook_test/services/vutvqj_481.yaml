@@ -1,7 +1,0 @@
-service:
-  name: nnpavira
-  identifier: nnpavira
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

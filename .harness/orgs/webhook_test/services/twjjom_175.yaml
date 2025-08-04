@@ -1,7 +1,0 @@
-service:
-  name: aejyaiqf
-  identifier: aejyaiqf
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

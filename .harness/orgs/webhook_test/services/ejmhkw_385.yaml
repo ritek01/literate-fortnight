@@ -1,7 +1,0 @@
-service:
-  name: vqlwgljc
-  identifier: vqlwgljc
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

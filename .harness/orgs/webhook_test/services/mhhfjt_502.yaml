@@ -1,7 +1,0 @@
-service:
-  name: cwzeqstm
-  identifier: cwzeqstm
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

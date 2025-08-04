@@ -1,7 +1,0 @@
-service:
-  name: cjlexhqf
-  identifier: cjlexhqf
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

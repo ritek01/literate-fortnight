@@ -1,0 +1,8 @@
+service:
+  name: lunmlevb
+  identifier: lunmlevb
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

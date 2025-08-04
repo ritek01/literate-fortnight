@@ -1,0 +1,8 @@
+service:
+  name: feuexcox
+  identifier: feuexcox
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

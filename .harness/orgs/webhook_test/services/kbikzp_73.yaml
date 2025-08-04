@@ -1,7 +1,0 @@
-service:
-  name: loefrvdt
-  identifier: loefrvdt
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

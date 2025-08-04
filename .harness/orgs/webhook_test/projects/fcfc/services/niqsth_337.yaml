@@ -1,0 +1,8 @@
+service:
+  name: tstmpehq
+  identifier: tstmpehq
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

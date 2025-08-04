@@ -1,0 +1,8 @@
+service:
+  name: zciiybfo
+  identifier: zciiybfo
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

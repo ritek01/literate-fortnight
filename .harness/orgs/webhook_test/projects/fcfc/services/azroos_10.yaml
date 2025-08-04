@@ -1,0 +1,8 @@
+service:
+  name: rvisfvoi
+  identifier: rvisfvoi
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

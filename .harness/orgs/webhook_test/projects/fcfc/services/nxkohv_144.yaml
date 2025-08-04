@@ -1,0 +1,8 @@
+service:
+  name: irrjkgdj
+  identifier: irrjkgdj
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

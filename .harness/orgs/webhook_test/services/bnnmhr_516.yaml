@@ -1,7 +1,0 @@
-service:
-  name: moimvsrj
-  identifier: moimvsrj
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

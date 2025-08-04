@@ -1,7 +1,0 @@
-service:
-  name: nvedjdzm
-  identifier: nvedjdzm
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

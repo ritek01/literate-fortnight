@@ -1,7 +1,0 @@
-service:
-  name: bgiuyjsp
-  identifier: bgiuyjsp
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

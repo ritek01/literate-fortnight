@@ -1,7 +1,0 @@
-service:
-  name: igpqdvbx
-  identifier: igpqdvbx
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

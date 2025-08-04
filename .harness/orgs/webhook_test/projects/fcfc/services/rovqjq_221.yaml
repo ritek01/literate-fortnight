@@ -1,0 +1,8 @@
+service:
+  name: ircfobej
+  identifier: ircfobej
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

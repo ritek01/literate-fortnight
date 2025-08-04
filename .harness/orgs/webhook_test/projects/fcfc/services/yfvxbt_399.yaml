@@ -1,0 +1,8 @@
+service:
+  name: tcpdjech
+  identifier: tcpdjech
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

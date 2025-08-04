@@ -1,7 +1,0 @@
-service:
-  name: qyovghck
-  identifier: qyovghck
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,7 +1,0 @@
-service:
-  name: wzdrcyal
-  identifier: wzdrcyal
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

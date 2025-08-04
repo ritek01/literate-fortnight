@@ -1,7 +1,0 @@
-service:
-  name: mahzblch
-  identifier: mahzblch
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

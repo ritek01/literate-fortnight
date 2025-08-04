@@ -1,0 +1,8 @@
+service:
+  name: teotqkri
+  identifier: teotqkri
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

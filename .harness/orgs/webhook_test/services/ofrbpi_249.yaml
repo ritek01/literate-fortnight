@@ -1,7 +1,0 @@
-service:
-  name: xcpyzziv
-  identifier: xcpyzziv
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

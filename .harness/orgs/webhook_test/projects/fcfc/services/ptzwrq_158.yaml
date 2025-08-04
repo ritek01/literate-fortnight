@@ -1,0 +1,8 @@
+service:
+  name: amhutzlr
+  identifier: amhutzlr
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

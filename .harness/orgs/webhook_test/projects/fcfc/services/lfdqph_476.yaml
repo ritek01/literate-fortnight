@@ -1,0 +1,8 @@
+service:
+  name: khqdkspb
+  identifier: khqdkspb
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

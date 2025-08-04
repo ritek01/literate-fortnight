@@ -1,0 +1,8 @@
+service:
+  name: zidjpaxg
+  identifier: zidjpaxg
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

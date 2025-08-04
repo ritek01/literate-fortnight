@@ -1,7 +1,0 @@
-service:
-  name: xtcbycdj
-  identifier: xtcbycdj
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

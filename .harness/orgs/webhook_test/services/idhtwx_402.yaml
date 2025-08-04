@@ -1,7 +1,0 @@
-service:
-  name: uagwtohu
-  identifier: uagwtohu
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,7 +1,0 @@
-service:
-  name: rvjxctdt
-  identifier: rvjxctdt
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

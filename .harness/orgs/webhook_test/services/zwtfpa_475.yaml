@@ -1,7 +1,0 @@
-service:
-  name: nxljskmk
-  identifier: nxljskmk
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

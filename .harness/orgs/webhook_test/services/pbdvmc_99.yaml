@@ -1,7 +1,0 @@
-service:
-  name: caysrkwp
-  identifier: caysrkwp
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

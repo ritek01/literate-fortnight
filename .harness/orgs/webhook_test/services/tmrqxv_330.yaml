@@ -1,7 +1,0 @@
-service:
-  name: equkuboj
-  identifier: equkuboj
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

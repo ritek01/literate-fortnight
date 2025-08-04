@@ -1,7 +1,0 @@
-service:
-  name: knkwhmih
-  identifier: knkwhmih
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,7 +1,0 @@
-service:
-  name: tveunhab
-  identifier: tveunhab
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

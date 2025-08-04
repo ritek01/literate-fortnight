@@ -1,7 +1,0 @@
-service:
-  name: vyqagxop
-  identifier: vyqagxop
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

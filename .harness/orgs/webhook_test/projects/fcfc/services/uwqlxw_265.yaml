@@ -1,0 +1,8 @@
+service:
+  name: duwncrcy
+  identifier: duwncrcy
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

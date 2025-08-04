@@ -1,0 +1,8 @@
+service:
+  name: elvjaqdj
+  identifier: elvjaqdj
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

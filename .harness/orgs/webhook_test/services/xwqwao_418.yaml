@@ -1,7 +1,0 @@
-service:
-  name: dndxlzmy
-  identifier: dndxlzmy
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

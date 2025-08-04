@@ -1,7 +1,0 @@
-service:
-  name: hwnhdghl
-  identifier: hwnhdghl
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

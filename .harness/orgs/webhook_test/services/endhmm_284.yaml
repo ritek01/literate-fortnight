@@ -1,7 +1,0 @@
-service:
-  name: nxpwsfoi
-  identifier: nxpwsfoi
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,7 +1,0 @@
-service:
-  name: gvemfvir
-  identifier: gvemfvir
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

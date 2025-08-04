@@ -1,7 +1,0 @@
-service:
-  name: sdfexycu
-  identifier: sdfexycu
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

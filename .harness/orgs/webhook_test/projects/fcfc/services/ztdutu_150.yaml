@@ -1,0 +1,8 @@
+service:
+  name: mwarxuqq
+  identifier: mwarxuqq
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

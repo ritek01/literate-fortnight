@@ -1,7 +1,0 @@
-service:
-  name: yvrmizvk
-  identifier: yvrmizvk
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

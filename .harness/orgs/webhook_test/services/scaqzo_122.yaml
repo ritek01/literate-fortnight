@@ -1,7 +1,0 @@
-service:
-  name: laecqkah
-  identifier: laecqkah
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

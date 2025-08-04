@@ -1,7 +1,0 @@
-service:
-  name: hgsqnfhu
-  identifier: hgsqnfhu
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

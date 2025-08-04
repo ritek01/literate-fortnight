@@ -1,7 +1,0 @@
-service:
-  name: glwgozwn
-  identifier: glwgozwn
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

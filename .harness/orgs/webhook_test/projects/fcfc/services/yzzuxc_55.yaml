@@ -1,0 +1,8 @@
+service:
+  name: okrqdqmg
+  identifier: okrqdqmg
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

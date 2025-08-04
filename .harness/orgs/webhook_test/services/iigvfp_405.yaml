@@ -1,7 +1,0 @@
-service:
-  name: keyfvnli
-  identifier: keyfvnli
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

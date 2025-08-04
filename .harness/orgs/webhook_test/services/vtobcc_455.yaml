@@ -1,7 +1,0 @@
-service:
-  name: ayzoyalr
-  identifier: ayzoyalr
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

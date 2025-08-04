@@ -1,0 +1,8 @@
+service:
+  name: kmtqlobm
+  identifier: kmtqlobm
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

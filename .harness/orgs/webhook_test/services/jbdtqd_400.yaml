@@ -1,7 +1,0 @@
-service:
-  name: cwetptff
-  identifier: cwetptff
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

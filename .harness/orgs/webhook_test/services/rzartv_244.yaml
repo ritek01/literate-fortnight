@@ -1,7 +1,0 @@
-service:
-  name: hwzumurx
-  identifier: hwzumurx
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

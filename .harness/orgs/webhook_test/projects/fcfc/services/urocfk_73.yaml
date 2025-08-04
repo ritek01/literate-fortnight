@@ -1,0 +1,8 @@
+service:
+  name: addaqmit
+  identifier: addaqmit
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

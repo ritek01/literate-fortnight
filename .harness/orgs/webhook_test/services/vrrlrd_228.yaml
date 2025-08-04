@@ -1,7 +1,0 @@
-service:
-  name: bzinmqod
-  identifier: bzinmqod
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

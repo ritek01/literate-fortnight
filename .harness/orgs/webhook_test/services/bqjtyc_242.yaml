@@ -1,7 +1,0 @@
-service:
-  name: yorawvex
-  identifier: yorawvex
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

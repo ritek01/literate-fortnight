@@ -1,0 +1,8 @@
+service:
+  name: ysdzzcxe
+  identifier: ysdzzcxe
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

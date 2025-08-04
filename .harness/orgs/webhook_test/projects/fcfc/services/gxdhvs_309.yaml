@@ -1,0 +1,8 @@
+service:
+  name: pdsektzd
+  identifier: pdsektzd
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

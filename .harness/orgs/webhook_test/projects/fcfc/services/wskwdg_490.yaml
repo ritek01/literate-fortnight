@@ -1,0 +1,8 @@
+service:
+  name: oqjooubl
+  identifier: oqjooubl
+  orgIdentifier: webhook_test
+  projectIdentifier: fcfc
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

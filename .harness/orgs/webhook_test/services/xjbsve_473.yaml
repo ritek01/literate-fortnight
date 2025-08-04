@@ -1,7 +1,0 @@
-service:
-  name: iiiftjwu
-  identifier: iiiftjwu
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

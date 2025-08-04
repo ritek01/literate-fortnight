@@ -1,7 +1,0 @@
-service:
-  name: jijlgvhe
-  identifier: jijlgvhe
-  orgIdentifier: webhook_test
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes
