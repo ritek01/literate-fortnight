@@ -1,6 +1,0 @@
-service:
-  name: gljkpkmj
-  identifier: gljkpkmj
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,6 +1,0 @@
-service:
-  name: ifnkorfd
-  identifier: ifnkorfd
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

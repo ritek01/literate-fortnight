@@ -1,6 +1,0 @@
-service:
-  name: mccblbat
-  identifier: mccblbat
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

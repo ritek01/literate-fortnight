@@ -1,6 +1,0 @@
-service:
-  name: zzztscch
-  identifier: zzztscch
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,6 +1,0 @@
-service:
-  name: cxbibalq
-  identifier: cxbibalq
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,6 +1,0 @@
-service:
-  name: vkksrcvc
-  identifier: vkksrcvc
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

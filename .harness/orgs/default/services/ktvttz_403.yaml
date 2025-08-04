@@ -1,6 +1,0 @@
-service:
-  name: bilkkjnq
-  identifier: bilkkjnq
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

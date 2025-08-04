@@ -1,6 +1,0 @@
-service:
-  name: ykxwixuo
-  identifier: ykxwixuo
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

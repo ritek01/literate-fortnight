@@ -1,6 +1,0 @@
-service:
-  name: pqqhdqzy
-  identifier: pqqhdqzy
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

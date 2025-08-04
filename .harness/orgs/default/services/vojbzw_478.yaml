@@ -1,6 +1,0 @@
-service:
-  name: xgtjcccr
-  identifier: xgtjcccr
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

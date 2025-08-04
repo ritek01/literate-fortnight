@@ -1,6 +1,0 @@
-service:
-  name: qefewqeh
-  identifier: qefewqeh
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

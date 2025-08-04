@@ -1,6 +1,0 @@
-service:
-  name: klgrxdmr
-  identifier: klgrxdmr
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

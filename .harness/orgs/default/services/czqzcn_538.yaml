@@ -1,6 +1,0 @@
-service:
-  name: tknvizvh
-  identifier: tknvizvh
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

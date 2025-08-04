@@ -1,6 +1,0 @@
-service:
-  name: moinocuq
-  identifier: moinocuq
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

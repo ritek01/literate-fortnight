@@ -1,6 +1,0 @@
-service:
-  name: cdfpyodg
-  identifier: cdfpyodg
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

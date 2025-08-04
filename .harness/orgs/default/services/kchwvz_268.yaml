@@ -1,6 +1,0 @@
-service:
-  name: vomsvgdn
-  identifier: vomsvgdn
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,6 +1,0 @@
-service:
-  name: dudyunlz
-  identifier: dudyunlz
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

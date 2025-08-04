@@ -1,6 +1,0 @@
-service:
-  name: uquniemr
-  identifier: uquniemr
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

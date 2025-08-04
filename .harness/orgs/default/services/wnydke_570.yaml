@@ -1,6 +1,0 @@
-service:
-  name: xycbldcu
-  identifier: xycbldcu
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

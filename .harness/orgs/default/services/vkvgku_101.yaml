@@ -1,6 +1,0 @@
-service:
-  name: wmcbfjtc
-  identifier: wmcbfjtc
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,6 +1,0 @@
-service:
-  name: ougquilm
-  identifier: ougquilm
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

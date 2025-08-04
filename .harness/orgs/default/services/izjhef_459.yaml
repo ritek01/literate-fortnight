@@ -1,6 +1,0 @@
-service:
-  name: avdfnewq
-  identifier: avdfnewq
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,6 +1,0 @@
-service:
-  name: qsyptqjn
-  identifier: qsyptqjn
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

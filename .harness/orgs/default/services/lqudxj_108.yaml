@@ -1,6 +1,0 @@
-service:
-  name: phzhcnyq
-  identifier: phzhcnyq
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

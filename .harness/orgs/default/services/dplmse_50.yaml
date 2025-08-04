@@ -1,6 +1,0 @@
-service:
-  name: ntyvdhis
-  identifier: ntyvdhis
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

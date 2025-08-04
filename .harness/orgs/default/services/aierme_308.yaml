@@ -1,6 +1,0 @@
-service:
-  name: wbevxktw
-  identifier: wbevxktw
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

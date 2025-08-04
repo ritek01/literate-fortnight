@@ -1,6 +1,0 @@
-service:
-  name: lbnggkue
-  identifier: lbnggkue
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

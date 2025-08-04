@@ -1,6 +1,0 @@
-service:
-  name: tdkbivct
-  identifier: tdkbivct
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

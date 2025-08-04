@@ -1,6 +1,0 @@
-service:
-  name: hmrwntzw
-  identifier: hmrwntzw
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,6 +1,0 @@
-service:
-  name: nxcfmszd
-  identifier: nxcfmszd
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

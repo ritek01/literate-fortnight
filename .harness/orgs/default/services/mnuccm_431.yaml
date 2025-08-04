@@ -1,6 +1,0 @@
-service:
-  name: uszdhflf
-  identifier: uszdhflf
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

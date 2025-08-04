@@ -1,6 +1,0 @@
-service:
-  name: zbowkbqq
-  identifier: zbowkbqq
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,6 +1,0 @@
-service:
-  name: kywxtbcw
-  identifier: kywxtbcw
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,6 +1,0 @@
-service:
-  name: xonilzlv
-  identifier: xonilzlv
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

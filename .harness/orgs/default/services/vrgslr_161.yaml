@@ -1,6 +1,0 @@
-service:
-  name: iredjokn
-  identifier: iredjokn
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,6 +1,0 @@
-service:
-  name: dfznimri
-  identifier: dfznimri
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

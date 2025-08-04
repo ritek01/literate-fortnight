@@ -1,6 +1,0 @@
-service:
-  name: cmebykhw
-  identifier: cmebykhw
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

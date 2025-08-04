@@ -1,6 +1,0 @@
-service:
-  name: bhkykqkt
-  identifier: bhkykqkt
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,6 +1,0 @@
-service:
-  name: gtpuepgn
-  identifier: gtpuepgn
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

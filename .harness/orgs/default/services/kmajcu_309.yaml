@@ -1,6 +1,0 @@
-service:
-  name: atqgjeuo
-  identifier: atqgjeuo
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

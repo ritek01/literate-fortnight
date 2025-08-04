@@ -1,6 +1,0 @@
-service:
-  name: qlekhiri
-  identifier: qlekhiri
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

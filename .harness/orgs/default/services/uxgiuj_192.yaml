@@ -1,6 +1,0 @@
-service:
-  name: cjziyrkq
-  identifier: cjziyrkq
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

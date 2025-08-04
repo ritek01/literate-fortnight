@@ -1,6 +1,0 @@
-service:
-  name: rrnldmbt
-  identifier: rrnldmbt
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

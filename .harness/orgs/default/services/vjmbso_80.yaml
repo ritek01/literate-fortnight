@@ -1,6 +1,0 @@
-service:
-  name: bncbkarc
-  identifier: bncbkarc
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

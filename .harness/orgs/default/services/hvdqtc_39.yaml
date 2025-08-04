@@ -1,6 +1,0 @@
-service:
-  name: cqsmaiig
-  identifier: cqsmaiig
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

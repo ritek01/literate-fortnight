@@ -1,6 +1,0 @@
-service:
-  name: dwowyqfz
-  identifier: dwowyqfz
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

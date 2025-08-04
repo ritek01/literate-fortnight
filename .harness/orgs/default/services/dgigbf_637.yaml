@@ -1,6 +1,0 @@
-service:
-  name: ohxylmlf
-  identifier: ohxylmlf
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,6 +1,0 @@
-service:
-  name: dawgtuug
-  identifier: dawgtuug
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

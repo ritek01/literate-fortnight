@@ -1,6 +1,0 @@
-service:
-  name: rrozdvsh
-  identifier: rrozdvsh
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

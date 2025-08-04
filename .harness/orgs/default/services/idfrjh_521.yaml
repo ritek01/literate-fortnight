@@ -1,6 +1,0 @@
-service:
-  name: yubbyttx
-  identifier: yubbyttx
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,6 +1,0 @@
-service:
-  name: lswaqjxr
-  identifier: lswaqjxr
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,6 +1,0 @@
-service:
-  name: tqecopib
-  identifier: tqecopib
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

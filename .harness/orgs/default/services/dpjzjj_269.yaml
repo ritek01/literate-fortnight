@@ -1,6 +1,0 @@
-service:
-  name: zdhhxepn
-  identifier: zdhhxepn
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,6 +1,0 @@
-service:
-  name: voqkwlgy
-  identifier: voqkwlgy
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

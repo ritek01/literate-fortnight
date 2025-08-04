@@ -1,6 +1,0 @@
-service:
-  name: rrwqefif
-  identifier: rrwqefif
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

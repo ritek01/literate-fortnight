@@ -1,6 +1,0 @@
-service:
-  name: rcjwpddx
-  identifier: rcjwpddx
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

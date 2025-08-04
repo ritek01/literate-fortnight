@@ -1,6 +1,0 @@
-service:
-  name: ityrsnyz
-  identifier: ityrsnyz
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

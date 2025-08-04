@@ -1,6 +1,0 @@
-service:
-  name: oglfdmbb
-  identifier: oglfdmbb
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

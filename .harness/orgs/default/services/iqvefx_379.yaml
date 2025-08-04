@@ -1,6 +1,0 @@
-service:
-  name: tdndsgqn
-  identifier: tdndsgqn
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

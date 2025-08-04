@@ -1,6 +1,0 @@
-service:
-  name: vbadtwzq
-  identifier: vbadtwzq
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

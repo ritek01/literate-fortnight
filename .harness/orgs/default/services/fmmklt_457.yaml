@@ -1,6 +1,0 @@
-service:
-  name: atdqwpvy
-  identifier: atdqwpvy
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

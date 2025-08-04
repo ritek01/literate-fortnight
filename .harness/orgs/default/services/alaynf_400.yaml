@@ -1,6 +1,0 @@
-service:
-  name: pqsrecbi
-  identifier: pqsrecbi
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,6 +1,0 @@
-service:
-  name: ckjayhwp
-  identifier: ckjayhwp
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

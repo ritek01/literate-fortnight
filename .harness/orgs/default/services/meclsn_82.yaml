@@ -1,6 +1,0 @@
-service:
-  name: yqwinuzz
-  identifier: yqwinuzz
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

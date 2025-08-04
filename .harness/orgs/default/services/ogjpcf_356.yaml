@@ -1,6 +1,0 @@
-service:
-  name: nywivfnv
-  identifier: nywivfnv
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

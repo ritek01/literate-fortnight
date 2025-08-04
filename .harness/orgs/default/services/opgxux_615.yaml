@@ -1,6 +1,0 @@
-service:
-  name: gfuazrxw
-  identifier: gfuazrxw
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

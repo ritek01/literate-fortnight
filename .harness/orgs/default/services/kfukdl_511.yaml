@@ -1,6 +1,0 @@
-service:
-  name: uanekkla
-  identifier: uanekkla
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

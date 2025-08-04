@@ -1,6 +1,0 @@
-service:
-  name: viwmzwsr
-  identifier: viwmzwsr
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,6 +1,0 @@
-service:
-  name: luddwefh
-  identifier: luddwefh
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

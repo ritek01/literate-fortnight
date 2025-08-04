@@ -1,6 +1,0 @@
-service:
-  name: bzpfbqrt
-  identifier: bzpfbqrt
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

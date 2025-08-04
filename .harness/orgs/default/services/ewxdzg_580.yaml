@@ -1,6 +1,0 @@
-service:
-  name: wzwgihpf
-  identifier: wzwgihpf
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

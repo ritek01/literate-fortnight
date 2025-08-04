@@ -1,6 +1,0 @@
-service:
-  name: pzxoynnb
-  identifier: pzxoynnb
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

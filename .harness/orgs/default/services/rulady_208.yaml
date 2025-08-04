@@ -1,6 +1,0 @@
-service:
-  name: kikbjxwu
-  identifier: kikbjxwu
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

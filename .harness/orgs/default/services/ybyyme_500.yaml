@@ -1,6 +1,0 @@
-service:
-  name: fruhdhpy
-  identifier: fruhdhpy
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

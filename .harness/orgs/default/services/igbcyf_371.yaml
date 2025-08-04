@@ -1,6 +1,0 @@
-service:
-  name: nbmeobjc
-  identifier: nbmeobjc
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

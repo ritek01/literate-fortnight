@@ -1,6 +1,0 @@
-service:
-  name: ckqtxmnb
-  identifier: ckqtxmnb
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

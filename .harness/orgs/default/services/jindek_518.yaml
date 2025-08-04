@@ -1,6 +1,0 @@
-service:
-  name: tcmzaqng
-  identifier: tcmzaqng
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

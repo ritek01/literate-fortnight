@@ -1,6 +1,0 @@
-service:
-  name: gulppwoi
-  identifier: gulppwoi
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

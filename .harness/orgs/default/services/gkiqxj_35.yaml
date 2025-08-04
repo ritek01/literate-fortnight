@@ -1,6 +1,0 @@
-service:
-  name: xyugcrvi
-  identifier: xyugcrvi
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

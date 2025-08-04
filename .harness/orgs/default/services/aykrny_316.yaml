@@ -1,6 +1,0 @@
-service:
-  name: jukidyjx
-  identifier: jukidyjx
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

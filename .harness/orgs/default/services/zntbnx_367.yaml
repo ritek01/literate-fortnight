@@ -1,6 +1,0 @@
-service:
-  name: lrxvzzaj
-  identifier: lrxvzzaj
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,6 +1,0 @@
-service:
-  name: sqktxpwn
-  identifier: sqktxpwn
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,6 +1,0 @@
-service:
-  name: vfrvsovi
-  identifier: vfrvsovi
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

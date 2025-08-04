@@ -1,6 +1,0 @@
-service:
-  name: ggmljsfq
-  identifier: ggmljsfq
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

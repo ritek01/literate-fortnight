@@ -1,6 +1,0 @@
-service:
-  name: zwykgtgb
-  identifier: zwykgtgb
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

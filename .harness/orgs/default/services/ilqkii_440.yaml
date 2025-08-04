@@ -1,6 +1,0 @@
-service:
-  name: akxzdibz
-  identifier: akxzdibz
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

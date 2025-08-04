@@ -1,6 +1,0 @@
-service:
-  name: wbdzxqhy
-  identifier: wbdzxqhy
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

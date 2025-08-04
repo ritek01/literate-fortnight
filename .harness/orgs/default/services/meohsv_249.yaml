@@ -1,6 +1,0 @@
-service:
-  name: yyqlxqin
-  identifier: yyqlxqin
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

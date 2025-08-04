@@ -1,6 +1,0 @@
-service:
-  name: qsxrlntd
-  identifier: qsxrlntd
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

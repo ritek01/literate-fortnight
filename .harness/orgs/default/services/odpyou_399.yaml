@@ -1,6 +1,0 @@
-service:
-  name: oaedirwa
-  identifier: oaedirwa
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

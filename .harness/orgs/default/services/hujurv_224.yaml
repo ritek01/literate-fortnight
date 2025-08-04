@@ -1,6 +1,0 @@
-service:
-  name: rzkzdiwf
-  identifier: rzkzdiwf
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

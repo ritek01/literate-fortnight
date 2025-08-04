@@ -1,6 +1,0 @@
-service:
-  name: mfswupzc
-  identifier: mfswupzc
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

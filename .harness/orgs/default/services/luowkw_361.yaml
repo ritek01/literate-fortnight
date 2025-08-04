@@ -1,6 +1,0 @@
-service:
-  name: qldfjjat
-  identifier: qldfjjat
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

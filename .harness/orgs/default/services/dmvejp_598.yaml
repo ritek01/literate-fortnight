@@ -1,6 +1,0 @@
-service:
-  name: yjbxqiax
-  identifier: yjbxqiax
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

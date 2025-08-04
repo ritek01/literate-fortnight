@@ -1,6 +1,0 @@
-service:
-  name: recjmnpk
-  identifier: recjmnpk
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

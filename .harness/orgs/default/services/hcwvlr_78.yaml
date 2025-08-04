@@ -1,6 +1,0 @@
-service:
-  name: ykcitpwb
-  identifier: ykcitpwb
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

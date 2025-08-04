@@ -1,6 +1,0 @@
-service:
-  name: mzdooshv
-  identifier: mzdooshv
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

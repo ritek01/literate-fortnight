@@ -1,6 +1,0 @@
-service:
-  name: xglqfvoq
-  identifier: xglqfvoq
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

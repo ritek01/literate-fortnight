@@ -1,6 +1,0 @@
-service:
-  name: hipbqlxn
-  identifier: hipbqlxn
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,6 +1,0 @@
-service:
-  name: mkrgwajd
-  identifier: mkrgwajd
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

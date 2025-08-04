@@ -1,6 +1,0 @@
-service:
-  name: bphvixvy
-  identifier: bphvixvy
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

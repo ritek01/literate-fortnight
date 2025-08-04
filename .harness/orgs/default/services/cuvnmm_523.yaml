@@ -1,6 +1,0 @@
-service:
-  name: opinmsyj
-  identifier: opinmsyj
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

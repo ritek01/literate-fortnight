@@ -1,6 +1,0 @@
-service:
-  name: lyciqzfl
-  identifier: lyciqzfl
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

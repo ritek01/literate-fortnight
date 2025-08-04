@@ -1,6 +1,0 @@
-service:
-  name: zuokzfhh
-  identifier: zuokzfhh
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

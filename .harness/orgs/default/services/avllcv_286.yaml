@@ -1,6 +1,0 @@
-service:
-  name: gwhgzjwl
-  identifier: gwhgzjwl
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

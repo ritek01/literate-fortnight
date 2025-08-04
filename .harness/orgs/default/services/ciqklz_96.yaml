@@ -1,6 +1,0 @@
-service:
-  name: iqalbdjw
-  identifier: iqalbdjw
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

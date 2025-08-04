@@ -1,6 +1,0 @@
-service:
-  name: aimtunma
-  identifier: aimtunma
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

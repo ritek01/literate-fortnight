@@ -1,6 +1,0 @@
-service:
-  name: kokjqdbs
-  identifier: kokjqdbs
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

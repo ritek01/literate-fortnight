@@ -1,6 +1,0 @@
-service:
-  name: pdofbiqk
-  identifier: pdofbiqk
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,6 +1,0 @@
-service:
-  name: cfdacfpo
-  identifier: cfdacfpo
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

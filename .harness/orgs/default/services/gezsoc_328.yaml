@@ -1,6 +1,0 @@
-service:
-  name: rglblniw
-  identifier: rglblniw
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

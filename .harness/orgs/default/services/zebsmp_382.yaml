@@ -1,6 +1,0 @@
-service:
-  name: wgjpnyjl
-  identifier: wgjpnyjl
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

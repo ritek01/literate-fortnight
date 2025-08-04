@@ -1,6 +1,0 @@
-service:
-  name: xfhvvubw
-  identifier: xfhvvubw
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

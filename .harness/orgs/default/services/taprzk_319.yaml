@@ -1,6 +1,0 @@
-service:
-  name: ifpvtfwf
-  identifier: ifpvtfwf
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

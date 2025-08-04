@@ -1,6 +1,0 @@
-service:
-  name: dzjakwfw
-  identifier: dzjakwfw
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

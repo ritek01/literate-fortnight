@@ -1,6 +1,0 @@
-service:
-  name: rlmrivtu
-  identifier: rlmrivtu
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

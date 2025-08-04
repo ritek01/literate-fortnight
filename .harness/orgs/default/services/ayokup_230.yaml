@@ -1,6 +1,0 @@
-service:
-  name: klufdajx
-  identifier: klufdajx
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

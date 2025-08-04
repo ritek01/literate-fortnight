@@ -1,6 +1,0 @@
-service:
-  name: jsmteoge
-  identifier: jsmteoge
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

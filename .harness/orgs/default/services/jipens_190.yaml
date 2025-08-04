@@ -1,6 +1,0 @@
-service:
-  name: vdmbgurp
-  identifier: vdmbgurp
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

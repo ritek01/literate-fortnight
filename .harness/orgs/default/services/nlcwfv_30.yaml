@@ -1,6 +1,0 @@
-service:
-  name: txzyhzvv
-  identifier: txzyhzvv
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

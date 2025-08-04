@@ -1,6 +1,0 @@
-service:
-  name: ftsnjrhb
-  identifier: ftsnjrhb
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,6 +1,0 @@
-service:
-  name: klhtndmn
-  identifier: klhtndmn
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

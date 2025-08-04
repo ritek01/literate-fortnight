@@ -1,6 +1,0 @@
-service:
-  name: adngvlmi
-  identifier: adngvlmi
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

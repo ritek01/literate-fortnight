@@ -1,6 +1,0 @@
-service:
-  name: hzesbhfv
-  identifier: hzesbhfv
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

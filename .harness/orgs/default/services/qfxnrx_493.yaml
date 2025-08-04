@@ -1,6 +1,0 @@
-service:
-  name: hpordbmd
-  identifier: hpordbmd
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

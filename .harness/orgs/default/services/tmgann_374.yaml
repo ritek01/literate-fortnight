@@ -1,6 +1,0 @@
-service:
-  name: hxqwnhyg
-  identifier: hxqwnhyg
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

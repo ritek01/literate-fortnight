@@ -1,6 +1,0 @@
-service:
-  name: qemziyhl
-  identifier: qemziyhl
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

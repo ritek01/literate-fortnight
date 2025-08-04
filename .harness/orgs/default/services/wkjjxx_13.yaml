@@ -1,6 +1,0 @@
-service:
-  name: vizzluzb
-  identifier: vizzluzb
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

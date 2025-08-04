@@ -1,6 +1,0 @@
-service:
-  name: uuounsgt
-  identifier: uuounsgt
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,6 +1,0 @@
-service:
-  name: scpcoehq
-  identifier: scpcoehq
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

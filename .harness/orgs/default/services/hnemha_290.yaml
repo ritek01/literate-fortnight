@@ -1,6 +1,0 @@
-service:
-  name: wdyccohp
-  identifier: wdyccohp
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

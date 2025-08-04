@@ -1,6 +1,0 @@
-service:
-  name: idqgyuku
-  identifier: idqgyuku
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

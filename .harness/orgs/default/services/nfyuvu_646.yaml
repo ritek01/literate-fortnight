@@ -1,6 +1,0 @@
-service:
-  name: uycyocog
-  identifier: uycyocog
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

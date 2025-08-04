@@ -1,6 +1,0 @@
-service:
-  name: kuaocqjk
-  identifier: kuaocqjk
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

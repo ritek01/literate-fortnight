@@ -1,6 +1,0 @@
-service:
-  name: vszulyyw
-  identifier: vszulyyw
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,6 +1,0 @@
-service:
-  name: mwmkgeqs
-  identifier: mwmkgeqs
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

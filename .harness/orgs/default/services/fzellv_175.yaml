@@ -1,6 +1,0 @@
-service:
-  name: tmkflydg
-  identifier: tmkflydg
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

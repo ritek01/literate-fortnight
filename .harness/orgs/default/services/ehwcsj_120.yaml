@@ -1,6 +1,0 @@
-service:
-  name: hepezpup
-  identifier: hepezpup
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

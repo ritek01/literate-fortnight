@@ -1,6 +1,0 @@
-service:
-  name: nwckecbd
-  identifier: nwckecbd
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

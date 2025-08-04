@@ -1,6 +1,0 @@
-service:
-  name: kvdvrlvw
-  identifier: kvdvrlvw
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

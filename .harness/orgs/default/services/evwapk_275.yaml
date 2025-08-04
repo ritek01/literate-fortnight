@@ -1,6 +1,0 @@
-service:
-  name: bydzeljf
-  identifier: bydzeljf
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

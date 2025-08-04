@@ -1,6 +1,0 @@
-service:
-  name: kijwliuc
-  identifier: kijwliuc
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,6 +1,0 @@
-service:
-  name: uzawohzc
-  identifier: uzawohzc
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,6 +1,0 @@
-service:
-  name: yetfqkea
-  identifier: yetfqkea
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

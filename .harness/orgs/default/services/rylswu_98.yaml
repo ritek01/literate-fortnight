@@ -1,6 +1,0 @@
-service:
-  name: ngemybit
-  identifier: ngemybit
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

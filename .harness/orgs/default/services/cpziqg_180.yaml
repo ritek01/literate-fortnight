@@ -1,6 +1,0 @@
-service:
-  name: cceccwai
-  identifier: cceccwai
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

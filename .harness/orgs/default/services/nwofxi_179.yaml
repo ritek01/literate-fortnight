@@ -1,6 +1,0 @@
-service:
-  name: lesptxdr
-  identifier: lesptxdr
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

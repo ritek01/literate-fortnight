@@ -1,6 +1,0 @@
-service:
-  name: rgwzfxod
-  identifier: rgwzfxod
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

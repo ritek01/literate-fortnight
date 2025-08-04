@@ -1,6 +1,0 @@
-service:
-  name: mvnjtemi
-  identifier: mvnjtemi
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

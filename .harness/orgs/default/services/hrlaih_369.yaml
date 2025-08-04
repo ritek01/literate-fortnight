@@ -1,6 +1,0 @@
-service:
-  name: aaifubgn
-  identifier: aaifubgn
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

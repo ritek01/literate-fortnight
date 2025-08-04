@@ -1,6 +1,0 @@
-service:
-  name: iqzrytie
-  identifier: iqzrytie
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

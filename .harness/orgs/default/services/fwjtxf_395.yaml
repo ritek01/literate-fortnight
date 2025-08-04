@@ -1,6 +1,0 @@
-service:
-  name: agcjikjj
-  identifier: agcjikjj
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

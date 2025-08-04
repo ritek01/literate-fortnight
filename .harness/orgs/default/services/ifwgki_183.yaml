@@ -1,6 +1,0 @@
-service:
-  name: qasembsm
-  identifier: qasembsm
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

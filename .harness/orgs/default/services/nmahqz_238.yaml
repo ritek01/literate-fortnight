@@ -1,6 +1,0 @@
-service:
-  name: urzqebux
-  identifier: urzqebux
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,6 +1,0 @@
-service:
-  name: udizbuzt
-  identifier: udizbuzt
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

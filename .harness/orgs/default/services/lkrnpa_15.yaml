@@ -1,6 +1,0 @@
-service:
-  name: hanqepgi
-  identifier: hanqepgi
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

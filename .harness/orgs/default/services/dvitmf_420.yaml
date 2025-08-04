@@ -1,6 +1,0 @@
-service:
-  name: rpffywhg
-  identifier: rpffywhg
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

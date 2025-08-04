@@ -1,6 +1,0 @@
-service:
-  name: ppwjzlko
-  identifier: ppwjzlko
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

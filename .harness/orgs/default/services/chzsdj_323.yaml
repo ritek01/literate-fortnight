@@ -1,6 +1,0 @@
-service:
-  name: zidjhqlj
-  identifier: zidjhqlj
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

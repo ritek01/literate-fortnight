@@ -1,6 +1,0 @@
-service:
-  name: rqrvimqg
-  identifier: rqrvimqg
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

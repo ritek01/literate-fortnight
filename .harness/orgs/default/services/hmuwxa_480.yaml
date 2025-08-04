@@ -1,6 +1,0 @@
-service:
-  name: twehcavv
-  identifier: twehcavv
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

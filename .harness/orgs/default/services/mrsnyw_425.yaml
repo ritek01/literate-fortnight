@@ -1,6 +1,0 @@
-service:
-  name: cfcgpwrz
-  identifier: cfcgpwrz
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

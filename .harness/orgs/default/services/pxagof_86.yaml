@@ -1,6 +1,0 @@
-service:
-  name: dgqxqyio
-  identifier: dgqxqyio
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

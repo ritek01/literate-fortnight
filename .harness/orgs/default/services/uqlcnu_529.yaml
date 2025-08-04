@@ -1,6 +1,0 @@
-service:
-  name: ozrpphce
-  identifier: ozrpphce
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

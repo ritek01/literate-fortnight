@@ -1,6 +1,0 @@
-service:
-  name: itsphuxc
-  identifier: itsphuxc
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

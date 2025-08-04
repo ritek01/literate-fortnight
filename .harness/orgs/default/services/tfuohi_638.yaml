@@ -1,6 +1,0 @@
-service:
-  name: yfjnbmfz
-  identifier: yfjnbmfz
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

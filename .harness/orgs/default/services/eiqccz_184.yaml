@@ -1,6 +1,0 @@
-service:
-  name: jftoicpj
-  identifier: jftoicpj
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,6 +1,0 @@
-service:
-  name: nkzzpctl
-  identifier: nkzzpctl
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

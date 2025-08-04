@@ -1,6 +1,0 @@
-service:
-  name: hvzsropv
-  identifier: hvzsropv
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,6 +1,0 @@
-service:
-  name: dpvsiinz
-  identifier: dpvsiinz
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

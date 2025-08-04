@@ -1,6 +1,0 @@
-service:
-  name: wwnebiry
-  identifier: wwnebiry
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

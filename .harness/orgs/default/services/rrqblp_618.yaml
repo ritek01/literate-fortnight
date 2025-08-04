@@ -1,6 +1,0 @@
-service:
-  name: zahprbmv
-  identifier: zahprbmv
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

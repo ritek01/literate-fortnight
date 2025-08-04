@@ -1,6 +1,0 @@
-service:
-  name: gqzkclhk
-  identifier: gqzkclhk
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

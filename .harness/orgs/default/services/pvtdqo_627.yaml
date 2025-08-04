@@ -1,6 +1,0 @@
-service:
-  name: sgcvwmfy
-  identifier: sgcvwmfy
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

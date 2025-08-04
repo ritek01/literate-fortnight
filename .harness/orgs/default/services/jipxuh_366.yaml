@@ -1,6 +1,0 @@
-service:
-  name: ivujcwlp
-  identifier: ivujcwlp
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

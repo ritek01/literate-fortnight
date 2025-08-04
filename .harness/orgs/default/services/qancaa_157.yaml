@@ -1,6 +1,0 @@
-service:
-  name: yvkfawjn
-  identifier: yvkfawjn
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,6 +1,0 @@
-service:
-  name: xzemllrz
-  identifier: xzemllrz
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

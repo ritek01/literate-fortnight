@@ -1,6 +1,0 @@
-service:
-  name: echkbtxt
-  identifier: echkbtxt
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

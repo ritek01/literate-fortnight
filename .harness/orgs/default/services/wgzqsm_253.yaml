@@ -1,6 +1,0 @@
-service:
-  name: ziqlvfgk
-  identifier: ziqlvfgk
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,6 +1,0 @@
-service:
-  name: ihiwqgje
-  identifier: ihiwqgje
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

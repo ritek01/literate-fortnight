@@ -1,6 +1,0 @@
-service:
-  name: jieozrsa
-  identifier: jieozrsa
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

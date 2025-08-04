@@ -1,6 +1,0 @@
-service:
-  name: wufrrmoe
-  identifier: wufrrmoe
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

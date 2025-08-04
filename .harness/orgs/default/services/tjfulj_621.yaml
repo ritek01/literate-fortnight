@@ -1,6 +1,0 @@
-service:
-  name: zsgowsvn
-  identifier: zsgowsvn
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

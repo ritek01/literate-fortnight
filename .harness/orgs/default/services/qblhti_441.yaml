@@ -1,6 +1,0 @@
-service:
-  name: cyucbylb
-  identifier: cyucbylb
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

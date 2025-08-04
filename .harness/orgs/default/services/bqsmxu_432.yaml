@@ -1,6 +1,0 @@
-service:
-  name: ixnvkcau
-  identifier: ixnvkcau
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

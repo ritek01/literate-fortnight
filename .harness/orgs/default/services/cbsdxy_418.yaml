@@ -1,6 +1,0 @@
-service:
-  name: ualfcdji
-  identifier: ualfcdji
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,6 +1,0 @@
-service:
-  name: liieyiuz
-  identifier: liieyiuz
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

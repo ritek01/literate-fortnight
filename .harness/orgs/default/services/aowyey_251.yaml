@@ -1,6 +1,0 @@
-service:
-  name: whkauiut
-  identifier: whkauiut
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

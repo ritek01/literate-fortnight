@@ -1,6 +1,0 @@
-service:
-  name: bdmwhqrp
-  identifier: bdmwhqrp
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,6 +1,0 @@
-service:
-  name: egswihfu
-  identifier: egswihfu
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

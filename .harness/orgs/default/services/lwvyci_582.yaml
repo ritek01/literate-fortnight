@@ -1,6 +1,0 @@
-service:
-  name: drofwdkq
-  identifier: drofwdkq
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

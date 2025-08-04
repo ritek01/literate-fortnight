@@ -1,6 +1,0 @@
-service:
-  name: knwogojv
-  identifier: knwogojv
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

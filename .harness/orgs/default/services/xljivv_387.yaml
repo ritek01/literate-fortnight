@@ -1,6 +1,0 @@
-service:
-  name: eyvlukob
-  identifier: eyvlukob
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

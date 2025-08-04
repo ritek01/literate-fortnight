@@ -1,6 +1,0 @@
-service:
-  name: kygiufcb
-  identifier: kygiufcb
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,6 +1,0 @@
-service:
-  name: fbwfmyda
-  identifier: fbwfmyda
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

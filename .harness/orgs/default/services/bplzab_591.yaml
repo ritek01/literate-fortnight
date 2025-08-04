@@ -1,6 +1,0 @@
-service:
-  name: vatfudkv
-  identifier: vatfudkv
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

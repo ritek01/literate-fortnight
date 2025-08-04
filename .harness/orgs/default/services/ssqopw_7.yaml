@@ -1,6 +1,0 @@
-service:
-  name: fmjrfqkf
-  identifier: fmjrfqkf
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

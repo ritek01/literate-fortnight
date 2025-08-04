@@ -1,6 +1,0 @@
-service:
-  name: lkasbagf
-  identifier: lkasbagf
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

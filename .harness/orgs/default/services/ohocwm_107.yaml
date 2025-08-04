@@ -1,6 +1,0 @@
-service:
-  name: sikfnoei
-  identifier: sikfnoei
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

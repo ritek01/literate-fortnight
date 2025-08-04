@@ -1,6 +1,0 @@
-service:
-  name: rlmhxsln
-  identifier: rlmhxsln
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,6 +1,0 @@
-service:
-  name: mgftuidy
-  identifier: mgftuidy
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

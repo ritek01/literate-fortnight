@@ -1,6 +1,0 @@
-service:
-  name: eugajmla
-  identifier: eugajmla
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

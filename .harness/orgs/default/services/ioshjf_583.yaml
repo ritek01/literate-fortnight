@@ -1,6 +1,0 @@
-service:
-  name: mquphpbc
-  identifier: mquphpbc
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

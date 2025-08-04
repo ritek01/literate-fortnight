@@ -1,6 +1,0 @@
-service:
-  name: zwqrdcdk
-  identifier: zwqrdcdk
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

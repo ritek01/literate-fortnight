@@ -1,6 +1,0 @@
-service:
-  name: samoeiti
-  identifier: samoeiti
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

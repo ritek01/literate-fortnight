@@ -1,6 +1,0 @@
-service:
-  name: yndifclx
-  identifier: yndifclx
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

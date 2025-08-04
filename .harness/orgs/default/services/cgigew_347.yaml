@@ -1,6 +1,0 @@
-service:
-  name: qqoakcea
-  identifier: qqoakcea
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

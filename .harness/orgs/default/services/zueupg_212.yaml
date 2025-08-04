@@ -1,6 +1,0 @@
-service:
-  name: doltaeun
-  identifier: doltaeun
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

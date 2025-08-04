@@ -1,6 +1,0 @@
-service:
-  name: gqlntmcc
-  identifier: gqlntmcc
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,6 +1,0 @@
-service:
-  name: svhqtyyp
-  identifier: svhqtyyp
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

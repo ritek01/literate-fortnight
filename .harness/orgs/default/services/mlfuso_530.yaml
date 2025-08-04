@@ -1,6 +1,0 @@
-service:
-  name: lrwgdifl
-  identifier: lrwgdifl
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

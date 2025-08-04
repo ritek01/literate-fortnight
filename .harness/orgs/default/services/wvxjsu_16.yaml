@@ -1,6 +1,0 @@
-service:
-  name: wahxgzij
-  identifier: wahxgzij
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

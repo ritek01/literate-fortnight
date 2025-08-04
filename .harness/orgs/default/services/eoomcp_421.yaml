@@ -1,6 +1,0 @@
-service:
-  name: gvqnexel
-  identifier: gvqnexel
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

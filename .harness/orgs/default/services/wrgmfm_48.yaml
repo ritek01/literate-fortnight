@@ -1,6 +1,0 @@
-service:
-  name: szfgggrx
-  identifier: szfgggrx
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

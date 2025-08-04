@@ -1,6 +1,0 @@
-service:
-  name: glgwyhse
-  identifier: glgwyhse
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

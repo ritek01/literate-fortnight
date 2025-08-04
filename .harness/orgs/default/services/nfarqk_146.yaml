@@ -1,6 +1,0 @@
-service:
-  name: jrktotcg
-  identifier: jrktotcg
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

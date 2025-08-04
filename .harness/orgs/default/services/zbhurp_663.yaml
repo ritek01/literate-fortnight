@@ -1,6 +1,0 @@
-service:
-  name: dlyqbcvv
-  identifier: dlyqbcvv
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

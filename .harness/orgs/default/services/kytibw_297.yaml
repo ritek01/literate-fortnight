@@ -1,6 +1,0 @@
-service:
-  name: kdjxyygd
-  identifier: kdjxyygd
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,6 +1,0 @@
-service:
-  name: skylwwzo
-  identifier: skylwwzo
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

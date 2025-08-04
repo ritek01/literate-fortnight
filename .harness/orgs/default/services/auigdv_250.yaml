@@ -1,6 +1,0 @@
-service:
-  name: brzfqbaq
-  identifier: brzfqbaq
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

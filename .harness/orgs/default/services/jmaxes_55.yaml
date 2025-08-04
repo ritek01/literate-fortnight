@@ -1,6 +1,0 @@
-service:
-  name: hadpcrci
-  identifier: hadpcrci
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

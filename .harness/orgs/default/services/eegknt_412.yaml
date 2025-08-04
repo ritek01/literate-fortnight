@@ -1,6 +1,0 @@
-service:
-  name: rpekeydk
-  identifier: rpekeydk
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,6 +1,0 @@
-service:
-  name: zubwetzx
-  identifier: zubwetzx
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

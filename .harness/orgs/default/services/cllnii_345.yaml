@@ -1,6 +1,0 @@
-service:
-  name: wvreijpf
-  identifier: wvreijpf
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

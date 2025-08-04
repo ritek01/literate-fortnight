@@ -1,6 +1,0 @@
-service:
-  name: iokriqcw
-  identifier: iokriqcw
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

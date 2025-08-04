@@ -1,6 +1,0 @@
-service:
-  name: lsicwahg
-  identifier: lsicwahg
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,6 +1,0 @@
-service:
-  name: weyuxjbv
-  identifier: weyuxjbv
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

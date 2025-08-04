@@ -1,6 +1,0 @@
-service:
-  name: gnvdjahj
-  identifier: gnvdjahj
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

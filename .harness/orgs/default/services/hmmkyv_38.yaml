@@ -1,6 +1,0 @@
-service:
-  name: gdfmqmxw
-  identifier: gdfmqmxw
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

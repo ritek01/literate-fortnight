@@ -1,6 +1,0 @@
-service:
-  name: jyfspaqa
-  identifier: jyfspaqa
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

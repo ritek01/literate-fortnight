@@ -1,6 +1,0 @@
-service:
-  name: lxnswgzg
-  identifier: lxnswgzg
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

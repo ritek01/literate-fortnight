@@ -1,6 +1,0 @@
-service:
-  name: ojzcylar
-  identifier: ojzcylar
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

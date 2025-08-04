@@ -1,6 +1,0 @@
-service:
-  name: hyaohwdu
-  identifier: hyaohwdu
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

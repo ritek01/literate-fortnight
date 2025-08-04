@@ -1,6 +1,0 @@
-service:
-  name: rkesuojk
-  identifier: rkesuojk
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

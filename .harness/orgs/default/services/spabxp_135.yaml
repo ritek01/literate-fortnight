@@ -1,6 +1,0 @@
-service:
-  name: rrfjpivx
-  identifier: rrfjpivx
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

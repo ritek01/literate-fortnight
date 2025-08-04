@@ -1,6 +1,0 @@
-service:
-  name: snnyeume
-  identifier: snnyeume
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

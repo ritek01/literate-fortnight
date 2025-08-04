@@ -1,6 +1,0 @@
-service:
-  name: vgbyccnv
-  identifier: vgbyccnv
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

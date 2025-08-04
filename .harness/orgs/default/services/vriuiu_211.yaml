@@ -1,6 +1,0 @@
-service:
-  name: giodlddr
-  identifier: giodlddr
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,6 +1,0 @@
-service:
-  name: dncwjwwd
-  identifier: dncwjwwd
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

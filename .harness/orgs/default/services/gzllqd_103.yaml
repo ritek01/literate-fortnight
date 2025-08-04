@@ -1,6 +1,0 @@
-service:
-  name: adhiezpe
-  identifier: adhiezpe
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

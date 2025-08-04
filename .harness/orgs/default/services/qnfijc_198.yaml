@@ -1,6 +1,0 @@
-service:
-  name: ikxfccxa
-  identifier: ikxfccxa
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

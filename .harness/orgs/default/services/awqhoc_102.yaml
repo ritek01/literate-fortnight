@@ -1,6 +1,0 @@
-service:
-  name: auqztiio
-  identifier: auqztiio
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

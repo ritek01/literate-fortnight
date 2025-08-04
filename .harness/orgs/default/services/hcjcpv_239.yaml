@@ -1,6 +1,0 @@
-service:
-  name: edbyqvra
-  identifier: edbyqvra
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

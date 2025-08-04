@@ -1,6 +1,0 @@
-service:
-  name: mygrcpnu
-  identifier: mygrcpnu
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

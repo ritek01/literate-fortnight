@@ -1,6 +1,0 @@
-service:
-  name: hlqomzhf
-  identifier: hlqomzhf
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

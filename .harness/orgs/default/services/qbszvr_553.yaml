@@ -1,6 +1,0 @@
-service:
-  name: xnnkjzrn
-  identifier: xnnkjzrn
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

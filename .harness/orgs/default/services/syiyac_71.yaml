@@ -1,6 +1,0 @@
-service:
-  name: fkygablm
-  identifier: fkygablm
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

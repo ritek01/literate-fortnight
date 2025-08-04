@@ -1,6 +1,0 @@
-service:
-  name: ylklbqgo
-  identifier: ylklbqgo
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

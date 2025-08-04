@@ -1,6 +1,0 @@
-service:
-  name: cvgtzttb
-  identifier: cvgtzttb
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

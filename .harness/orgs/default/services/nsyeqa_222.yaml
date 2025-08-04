@@ -1,6 +1,0 @@
-service:
-  name: rirgkwix
-  identifier: rirgkwix
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

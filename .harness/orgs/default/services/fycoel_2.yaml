@@ -1,6 +1,0 @@
-service:
-  name: uujixqgl
-  identifier: uujixqgl
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

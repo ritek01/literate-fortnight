@@ -1,6 +1,0 @@
-service:
-  name: xrynwvkp
-  identifier: xrynwvkp
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

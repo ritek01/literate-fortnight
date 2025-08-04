@@ -1,6 +1,0 @@
-service:
-  name: otrsizsx
-  identifier: otrsizsx
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

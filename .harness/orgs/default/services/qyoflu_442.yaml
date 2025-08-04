@@ -1,6 +1,0 @@
-service:
-  name: afvqfjmp
-  identifier: afvqfjmp
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,6 +1,0 @@
-service:
-  name: eonqwrci
-  identifier: eonqwrci
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

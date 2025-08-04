@@ -1,6 +1,0 @@
-service:
-  name: ujloikkv
-  identifier: ujloikkv
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,6 +1,0 @@
-service:
-  name: poayjnsb
-  identifier: poayjnsb
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

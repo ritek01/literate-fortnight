@@ -1,6 +1,0 @@
-service:
-  name: eqhptzit
-  identifier: eqhptzit
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

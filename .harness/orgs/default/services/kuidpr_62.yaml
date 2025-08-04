@@ -1,6 +1,0 @@
-service:
-  name: lutwuwjq
-  identifier: lutwuwjq
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

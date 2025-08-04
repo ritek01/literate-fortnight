@@ -1,6 +1,0 @@
-service:
-  name: kcloiwwc
-  identifier: kcloiwwc
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,6 +1,0 @@
-service:
-  name: bghkrwpo
-  identifier: bghkrwpo
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

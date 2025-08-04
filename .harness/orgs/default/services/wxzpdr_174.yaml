@@ -1,6 +1,0 @@
-service:
-  name: coywatiu
-  identifier: coywatiu
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

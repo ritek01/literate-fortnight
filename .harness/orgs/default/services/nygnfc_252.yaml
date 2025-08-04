@@ -1,6 +1,0 @@
-service:
-  name: jkntifth
-  identifier: jkntifth
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

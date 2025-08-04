@@ -1,6 +1,0 @@
-service:
-  name: kmrrztyv
-  identifier: kmrrztyv
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

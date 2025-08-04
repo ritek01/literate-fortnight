@@ -1,6 +1,0 @@
-service:
-  name: pgqkggit
-  identifier: pgqkggit
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,6 +1,0 @@
-service:
-  name: qbzzrpxo
-  identifier: qbzzrpxo
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

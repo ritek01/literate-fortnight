@@ -1,6 +1,0 @@
-service:
-  name: yqedjmum
-  identifier: yqedjmum
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

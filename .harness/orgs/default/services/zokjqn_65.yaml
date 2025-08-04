@@ -1,6 +1,0 @@
-service:
-  name: jjiyczyf
-  identifier: jjiyczyf
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

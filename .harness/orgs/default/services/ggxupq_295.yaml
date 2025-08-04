@@ -1,6 +1,0 @@
-service:
-  name: ivmnameg
-  identifier: ivmnameg
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

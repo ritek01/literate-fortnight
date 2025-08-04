@@ -1,6 +1,0 @@
-service:
-  name: xagkuqfr
-  identifier: xagkuqfr
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

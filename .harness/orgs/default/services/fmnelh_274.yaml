@@ -1,6 +1,0 @@
-service:
-  name: dlbvbvom
-  identifier: dlbvbvom
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

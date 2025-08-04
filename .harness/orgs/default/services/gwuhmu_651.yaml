@@ -1,6 +1,0 @@
-service:
-  name: pjjqnyni
-  identifier: pjjqnyni
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

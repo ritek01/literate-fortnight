@@ -1,6 +1,0 @@
-service:
-  name: mhysvaif
-  identifier: mhysvaif
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

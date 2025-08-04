@@ -1,6 +1,0 @@
-service:
-  name: kevegeoz
-  identifier: kevegeoz
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

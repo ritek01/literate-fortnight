@@ -1,6 +1,0 @@
-service:
-  name: sguvxttl
-  identifier: sguvxttl
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

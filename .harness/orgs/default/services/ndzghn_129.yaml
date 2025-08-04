@@ -1,6 +1,0 @@
-service:
-  name: vjiduypt
-  identifier: vjiduypt
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

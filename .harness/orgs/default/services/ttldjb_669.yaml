@@ -1,6 +1,0 @@
-service:
-  name: jwgiywgu
-  identifier: jwgiywgu
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

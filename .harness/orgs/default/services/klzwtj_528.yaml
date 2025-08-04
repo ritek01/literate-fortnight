@@ -1,6 +1,0 @@
-service:
-  name: mywmqrbi
-  identifier: mywmqrbi
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

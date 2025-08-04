@@ -1,6 +1,0 @@
-service:
-  name: zmoylcft
-  identifier: zmoylcft
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

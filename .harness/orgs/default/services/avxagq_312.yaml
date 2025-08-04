@@ -1,6 +1,0 @@
-service:
-  name: klpquoez
-  identifier: klpquoez
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

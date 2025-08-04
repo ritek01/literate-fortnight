@@ -1,6 +1,0 @@
-service:
-  name: itfzvqcf
-  identifier: itfzvqcf
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

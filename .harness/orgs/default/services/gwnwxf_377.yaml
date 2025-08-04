@@ -1,6 +1,0 @@
-service:
-  name: etpbpryf
-  identifier: etpbpryf
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,6 +1,0 @@
-service:
-  name: ehcbtlqk
-  identifier: ehcbtlqk
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

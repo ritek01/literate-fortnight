@@ -1,6 +1,0 @@
-service:
-  name: uctccrup
-  identifier: uctccrup
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

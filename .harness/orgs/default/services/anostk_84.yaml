@@ -1,6 +1,0 @@
-service:
-  name: ytuokwws
-  identifier: ytuokwws
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

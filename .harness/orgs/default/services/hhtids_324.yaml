@@ -1,6 +1,0 @@
-service:
-  name: nnlzusmn
-  identifier: nnlzusmn
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

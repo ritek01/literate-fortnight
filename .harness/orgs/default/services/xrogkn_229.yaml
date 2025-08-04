@@ -1,6 +1,0 @@
-service:
-  name: xzqnsijk
-  identifier: xzqnsijk
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

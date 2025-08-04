@@ -1,6 +1,0 @@
-service:
-  name: mbhrmjgs
-  identifier: mbhrmjgs
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

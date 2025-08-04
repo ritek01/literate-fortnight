@@ -1,6 +1,0 @@
-service:
-  name: wwpmdgcn
-  identifier: wwpmdgcn
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

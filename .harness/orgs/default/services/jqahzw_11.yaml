@@ -1,6 +1,0 @@
-service:
-  name: fkengbyg
-  identifier: fkengbyg
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

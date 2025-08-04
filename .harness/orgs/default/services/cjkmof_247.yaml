@@ -1,6 +1,0 @@
-service:
-  name: apyvbfxw
-  identifier: apyvbfxw
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

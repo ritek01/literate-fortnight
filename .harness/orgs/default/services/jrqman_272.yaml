@@ -1,6 +1,0 @@
-service:
-  name: kghndzuu
-  identifier: kghndzuu
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,6 +1,0 @@
-service:
-  name: sjpwmdra
-  identifier: sjpwmdra
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

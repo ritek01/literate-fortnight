@@ -1,6 +1,0 @@
-service:
-  name: caizmahd
-  identifier: caizmahd
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

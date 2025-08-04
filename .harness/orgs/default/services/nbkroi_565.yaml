@@ -1,6 +1,0 @@
-service:
-  name: tgwqwwpp
-  identifier: tgwqwwpp
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

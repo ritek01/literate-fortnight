@@ -1,6 +1,0 @@
-service:
-  name: bvssfjjo
-  identifier: bvssfjjo
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

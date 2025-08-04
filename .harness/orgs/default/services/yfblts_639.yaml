@@ -1,6 +1,0 @@
-service:
-  name: uqykdkbe
-  identifier: uqykdkbe
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

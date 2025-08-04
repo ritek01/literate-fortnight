@@ -1,6 +1,0 @@
-service:
-  name: ykxzbetd
-  identifier: ykxzbetd
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

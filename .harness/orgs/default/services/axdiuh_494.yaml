@@ -1,6 +1,0 @@
-service:
-  name: jzjxjrud
-  identifier: jzjxjrud
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

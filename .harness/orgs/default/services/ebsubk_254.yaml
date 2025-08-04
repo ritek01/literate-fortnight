@@ -1,6 +1,0 @@
-service:
-  name: empwceqd
-  identifier: empwceqd
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

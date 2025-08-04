@@ -1,6 +1,0 @@
-service:
-  name: jephxplf
-  identifier: jephxplf
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

@@ -1,6 +1,0 @@
-service:
-  name: mvrxogjd
-  identifier: mvrxogjd
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes

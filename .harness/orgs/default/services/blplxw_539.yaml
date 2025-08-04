@@ -1,6 +1,0 @@
-service:
-  name: lggulihq
-  identifier: lggulihq
-  serviceDefinition:
-    spec: {}
-    type: Kubernetes
