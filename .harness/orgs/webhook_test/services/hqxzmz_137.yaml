@@ -1,0 +1,7 @@
+service:
+  name: bqkvfafb
+  identifier: bqkvfafb
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

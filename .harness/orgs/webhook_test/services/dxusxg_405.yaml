@@ -1,0 +1,7 @@
+service:
+  name: fcttebgd
+  identifier: fcttebgd
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

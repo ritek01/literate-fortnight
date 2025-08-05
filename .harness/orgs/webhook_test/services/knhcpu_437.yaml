@@ -1,0 +1,7 @@
+service:
+  name: uiisworq
+  identifier: uiisworq
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: ucaomnyj
+  identifier: ucaomnyj
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

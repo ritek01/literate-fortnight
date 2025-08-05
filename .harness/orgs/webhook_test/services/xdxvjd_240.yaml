@@ -1,0 +1,7 @@
+service:
+  name: abcauvrt
+  identifier: abcauvrt
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

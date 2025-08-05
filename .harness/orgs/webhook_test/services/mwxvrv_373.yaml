@@ -1,0 +1,7 @@
+service:
+  name: bzicqjyz
+  identifier: bzicqjyz
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: mlejhemv
+  identifier: mlejhemv
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

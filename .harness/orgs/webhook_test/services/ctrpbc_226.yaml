@@ -1,0 +1,7 @@
+service:
+  name: xuysgfbi
+  identifier: xuysgfbi
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

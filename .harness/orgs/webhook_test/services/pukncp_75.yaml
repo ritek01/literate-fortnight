@@ -1,0 +1,7 @@
+service:
+  name: hpoekamv
+  identifier: hpoekamv
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

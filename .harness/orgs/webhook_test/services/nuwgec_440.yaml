@@ -1,0 +1,7 @@
+service:
+  name: ootwjfag
+  identifier: ootwjfag
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

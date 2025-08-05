@@ -1,0 +1,7 @@
+service:
+  name: wkvxagqz
+  identifier: wkvxagqz
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

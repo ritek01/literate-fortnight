@@ -1,0 +1,7 @@
+service:
+  name: sfvosowo
+  identifier: sfvosowo
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

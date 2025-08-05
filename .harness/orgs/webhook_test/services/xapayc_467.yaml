@@ -1,0 +1,7 @@
+service:
+  name: rxixxdqm
+  identifier: rxixxdqm
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

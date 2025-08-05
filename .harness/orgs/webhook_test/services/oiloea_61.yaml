@@ -1,0 +1,7 @@
+service:
+  name: biccrudu
+  identifier: biccrudu
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

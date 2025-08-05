@@ -1,0 +1,7 @@
+service:
+  name: ldqfgrpe
+  identifier: ldqfgrpe
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: fksdgmnd
+  identifier: fksdgmnd
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

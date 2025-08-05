@@ -1,0 +1,7 @@
+service:
+  name: zdqwlszs
+  identifier: zdqwlszs
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

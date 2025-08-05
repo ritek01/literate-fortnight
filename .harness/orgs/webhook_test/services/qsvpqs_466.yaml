@@ -1,0 +1,7 @@
+service:
+  name: tcwyslan
+  identifier: tcwyslan
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

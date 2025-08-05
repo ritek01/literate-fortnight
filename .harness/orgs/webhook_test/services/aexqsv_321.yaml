@@ -1,0 +1,7 @@
+service:
+  name: jcuaolmf
+  identifier: jcuaolmf
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

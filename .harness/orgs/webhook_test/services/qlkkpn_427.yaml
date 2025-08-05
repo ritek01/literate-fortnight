@@ -1,0 +1,7 @@
+service:
+  name: igvvnyqg
+  identifier: igvvnyqg
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: ousotkgn
+  identifier: ousotkgn
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

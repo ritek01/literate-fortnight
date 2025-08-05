@@ -1,0 +1,7 @@
+service:
+  name: sysjcsmm
+  identifier: sysjcsmm
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

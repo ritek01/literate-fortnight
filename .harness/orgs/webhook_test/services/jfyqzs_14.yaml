@@ -1,0 +1,7 @@
+service:
+  name: kgyzpvux
+  identifier: kgyzpvux
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

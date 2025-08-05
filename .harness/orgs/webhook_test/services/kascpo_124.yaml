@@ -1,0 +1,7 @@
+service:
+  name: sbjfcdcz
+  identifier: sbjfcdcz
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

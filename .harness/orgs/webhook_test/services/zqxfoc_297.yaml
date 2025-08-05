@@ -1,0 +1,7 @@
+service:
+  name: ucigmsnx
+  identifier: ucigmsnx
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

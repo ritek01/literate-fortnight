@@ -1,0 +1,7 @@
+service:
+  name: opnkgycl
+  identifier: opnkgycl
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

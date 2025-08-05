@@ -1,0 +1,7 @@
+service:
+  name: irmklhkd
+  identifier: irmklhkd
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

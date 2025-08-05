@@ -1,0 +1,7 @@
+service:
+  name: audxxocx
+  identifier: audxxocx
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

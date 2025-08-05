@@ -1,0 +1,7 @@
+service:
+  name: ckytamhf
+  identifier: ckytamhf
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

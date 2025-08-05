@@ -1,0 +1,7 @@
+service:
+  name: vwrqmlbh
+  identifier: vwrqmlbh
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: fjmouebj
+  identifier: fjmouebj
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

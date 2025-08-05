@@ -1,0 +1,7 @@
+service:
+  name: rqyhubsf
+  identifier: rqyhubsf
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

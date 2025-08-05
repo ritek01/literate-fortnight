@@ -1,0 +1,7 @@
+service:
+  name: zsgflbme
+  identifier: zsgflbme
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: jrolexbi
+  identifier: jrolexbi
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

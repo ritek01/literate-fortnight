@@ -1,0 +1,7 @@
+service:
+  name: fjuxcjfm
+  identifier: fjuxcjfm
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: ivjiqibl
+  identifier: ivjiqibl
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

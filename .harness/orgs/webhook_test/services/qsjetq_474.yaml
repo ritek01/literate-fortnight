@@ -1,0 +1,7 @@
+service:
+  name: oehnfazw
+  identifier: oehnfazw
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

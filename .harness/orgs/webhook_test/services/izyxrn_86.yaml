@@ -1,0 +1,7 @@
+service:
+  name: wyxhgekn
+  identifier: wyxhgekn
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: emitquou
+  identifier: emitquou
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

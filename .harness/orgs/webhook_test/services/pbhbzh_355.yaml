@@ -1,0 +1,7 @@
+service:
+  name: bbssuryg
+  identifier: bbssuryg
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

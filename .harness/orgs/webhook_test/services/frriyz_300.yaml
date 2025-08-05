@@ -1,0 +1,7 @@
+service:
+  name: xawrcyau
+  identifier: xawrcyau
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: lztvuzbb
+  identifier: lztvuzbb
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

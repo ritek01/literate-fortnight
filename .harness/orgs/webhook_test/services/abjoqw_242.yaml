@@ -1,0 +1,7 @@
+service:
+  name: yatzrqlx
+  identifier: yatzrqlx
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

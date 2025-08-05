@@ -1,0 +1,7 @@
+service:
+  name: zvahhqwh
+  identifier: zvahhqwh
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: mpkxzruq
+  identifier: mpkxzruq
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

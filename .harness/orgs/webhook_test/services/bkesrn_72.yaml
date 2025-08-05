@@ -1,0 +1,7 @@
+service:
+  name: pycvsomc
+  identifier: pycvsomc
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

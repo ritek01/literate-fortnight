@@ -1,0 +1,7 @@
+service:
+  name: jerepzkr
+  identifier: jerepzkr
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

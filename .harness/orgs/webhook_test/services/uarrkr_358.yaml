@@ -1,0 +1,7 @@
+service:
+  name: ucfuuglb
+  identifier: ucfuuglb
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

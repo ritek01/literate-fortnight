@@ -1,0 +1,7 @@
+service:
+  name: cfhdhrll
+  identifier: cfhdhrll
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

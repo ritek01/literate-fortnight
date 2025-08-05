@@ -1,0 +1,7 @@
+service:
+  name: dzapbdlt
+  identifier: dzapbdlt
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: pcnuxbwg
+  identifier: pcnuxbwg
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

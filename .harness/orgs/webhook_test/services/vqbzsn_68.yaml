@@ -1,0 +1,7 @@
+service:
+  name: iyxofels
+  identifier: iyxofels
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

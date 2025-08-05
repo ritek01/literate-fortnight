@@ -1,0 +1,7 @@
+service:
+  name: orwxjwxo
+  identifier: orwxjwxo
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

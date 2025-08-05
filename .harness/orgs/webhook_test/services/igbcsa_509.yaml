@@ -1,0 +1,7 @@
+service:
+  name: lmqtkifs
+  identifier: lmqtkifs
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

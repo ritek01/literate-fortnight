@@ -1,0 +1,7 @@
+service:
+  name: ctulqfee
+  identifier: ctulqfee
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: lmhvveki
+  identifier: lmhvveki
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: drdvrzqh
+  identifier: drdvrzqh
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

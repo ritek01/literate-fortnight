@@ -1,0 +1,7 @@
+service:
+  name: lkqndhyy
+  identifier: lkqndhyy
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: jvxqounr
+  identifier: jvxqounr
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

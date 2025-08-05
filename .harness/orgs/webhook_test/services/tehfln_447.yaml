@@ -1,0 +1,7 @@
+service:
+  name: cmhxiifz
+  identifier: cmhxiifz
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

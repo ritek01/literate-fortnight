@@ -1,0 +1,7 @@
+service:
+  name: xqardpru
+  identifier: xqardpru
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

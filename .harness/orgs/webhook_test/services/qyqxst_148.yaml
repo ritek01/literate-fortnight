@@ -1,0 +1,7 @@
+service:
+  name: vfditevk
+  identifier: vfditevk
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

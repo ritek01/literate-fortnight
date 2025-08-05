@@ -1,0 +1,7 @@
+service:
+  name: fznzqlhw
+  identifier: fznzqlhw
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

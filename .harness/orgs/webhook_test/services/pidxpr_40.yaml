@@ -1,0 +1,7 @@
+service:
+  name: phtiweab
+  identifier: phtiweab
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

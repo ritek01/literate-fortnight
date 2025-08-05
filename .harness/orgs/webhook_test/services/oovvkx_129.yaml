@@ -1,0 +1,7 @@
+service:
+  name: nqukupte
+  identifier: nqukupte
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

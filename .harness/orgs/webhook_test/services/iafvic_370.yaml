@@ -1,0 +1,7 @@
+service:
+  name: ukxzlikg
+  identifier: ukxzlikg
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

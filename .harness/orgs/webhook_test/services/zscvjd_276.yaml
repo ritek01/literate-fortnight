@@ -1,0 +1,7 @@
+service:
+  name: wdqhfhnc
+  identifier: wdqhfhnc
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

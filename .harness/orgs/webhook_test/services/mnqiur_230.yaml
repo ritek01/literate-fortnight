@@ -1,0 +1,7 @@
+service:
+  name: udpoykfg
+  identifier: udpoykfg
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

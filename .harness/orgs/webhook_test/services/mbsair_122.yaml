@@ -1,0 +1,7 @@
+service:
+  name: gqgkeaxo
+  identifier: gqgkeaxo
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

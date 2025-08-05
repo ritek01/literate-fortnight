@@ -1,0 +1,7 @@
+service:
+  name: xpsjpybm
+  identifier: xpsjpybm
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: iodwluyq
+  identifier: iodwluyq
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

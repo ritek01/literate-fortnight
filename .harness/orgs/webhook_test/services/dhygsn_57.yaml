@@ -1,0 +1,7 @@
+service:
+  name: wnsbjdzg
+  identifier: wnsbjdzg
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

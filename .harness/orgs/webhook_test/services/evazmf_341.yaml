@@ -1,0 +1,7 @@
+service:
+  name: zimgbgvt
+  identifier: zimgbgvt
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

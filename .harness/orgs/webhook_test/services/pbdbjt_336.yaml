@@ -1,0 +1,7 @@
+service:
+  name: azvoounz
+  identifier: azvoounz
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

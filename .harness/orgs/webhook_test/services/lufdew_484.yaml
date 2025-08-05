@@ -1,0 +1,7 @@
+service:
+  name: xpqvuvlp
+  identifier: xpqvuvlp
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: rsdkmvjb
+  identifier: rsdkmvjb
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

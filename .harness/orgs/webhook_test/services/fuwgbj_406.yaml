@@ -1,0 +1,7 @@
+service:
+  name: sxyntvxh
+  identifier: sxyntvxh
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: ldwqfnjh
+  identifier: ldwqfnjh
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: umkxasta
+  identifier: umkxasta
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: ywivratv
+  identifier: ywivratv
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

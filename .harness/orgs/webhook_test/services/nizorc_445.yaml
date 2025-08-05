@@ -1,0 +1,7 @@
+service:
+  name: aepkfkac
+  identifier: aepkfkac
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: gtowzxnp
+  identifier: gtowzxnp
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

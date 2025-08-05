@@ -1,0 +1,7 @@
+service:
+  name: ymtawwxq
+  identifier: ymtawwxq
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: lghsdwrp
+  identifier: lghsdwrp
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

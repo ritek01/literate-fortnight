@@ -1,0 +1,7 @@
+service:
+  name: nlecfkpn
+  identifier: nlecfkpn
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

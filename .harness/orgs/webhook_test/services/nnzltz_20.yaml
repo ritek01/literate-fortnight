@@ -1,0 +1,7 @@
+service:
+  name: gthogncf
+  identifier: gthogncf
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

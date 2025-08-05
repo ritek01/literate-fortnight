@@ -1,0 +1,7 @@
+service:
+  name: ewigpakr
+  identifier: ewigpakr
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

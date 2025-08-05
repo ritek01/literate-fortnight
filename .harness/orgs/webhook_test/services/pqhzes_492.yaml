@@ -1,0 +1,7 @@
+service:
+  name: apxatusb
+  identifier: apxatusb
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

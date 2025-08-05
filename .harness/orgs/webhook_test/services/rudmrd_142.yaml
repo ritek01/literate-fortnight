@@ -1,0 +1,7 @@
+service:
+  name: mscrernc
+  identifier: mscrernc
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

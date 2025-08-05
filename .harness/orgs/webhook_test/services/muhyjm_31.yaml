@@ -1,0 +1,7 @@
+service:
+  name: gnuodrmi
+  identifier: gnuodrmi
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

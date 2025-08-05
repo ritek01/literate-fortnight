@@ -1,0 +1,7 @@
+service:
+  name: zrsevmsf
+  identifier: zrsevmsf
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

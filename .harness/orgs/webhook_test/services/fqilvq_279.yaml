@@ -1,0 +1,7 @@
+service:
+  name: qmkzemeh
+  identifier: qmkzemeh
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

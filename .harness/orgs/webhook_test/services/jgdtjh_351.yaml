@@ -1,0 +1,7 @@
+service:
+  name: dvzhobji
+  identifier: dvzhobji
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

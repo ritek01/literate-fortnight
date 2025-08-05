@@ -1,0 +1,7 @@
+service:
+  name: xtlcimhn
+  identifier: xtlcimhn
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

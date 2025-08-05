@@ -1,0 +1,7 @@
+service:
+  name: trcifavo
+  identifier: trcifavo
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

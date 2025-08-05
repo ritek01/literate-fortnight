@@ -1,0 +1,7 @@
+service:
+  name: hzyaolyo
+  identifier: hzyaolyo
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

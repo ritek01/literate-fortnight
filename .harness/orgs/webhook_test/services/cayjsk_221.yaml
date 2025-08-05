@@ -1,0 +1,7 @@
+service:
+  name: yeflatnp
+  identifier: yeflatnp
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

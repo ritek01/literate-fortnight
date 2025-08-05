@@ -1,0 +1,7 @@
+service:
+  name: wwglrlgq
+  identifier: wwglrlgq
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

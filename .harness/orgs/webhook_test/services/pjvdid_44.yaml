@@ -1,0 +1,7 @@
+service:
+  name: ciijuptv
+  identifier: ciijuptv
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

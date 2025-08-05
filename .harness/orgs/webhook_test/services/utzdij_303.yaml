@@ -1,0 +1,7 @@
+service:
+  name: tiianxrr
+  identifier: tiianxrr
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

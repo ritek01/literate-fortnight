@@ -1,0 +1,7 @@
+service:
+  name: xlovdqia
+  identifier: xlovdqia
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

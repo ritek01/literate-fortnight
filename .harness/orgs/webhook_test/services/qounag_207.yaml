@@ -1,0 +1,7 @@
+service:
+  name: hepeipjc
+  identifier: hepeipjc
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: zflyvdth
+  identifier: zflyvdth
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

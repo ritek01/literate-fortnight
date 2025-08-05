@@ -1,0 +1,7 @@
+service:
+  name: rmcgvrjq
+  identifier: rmcgvrjq
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: bjjfhmue
+  identifier: bjjfhmue
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

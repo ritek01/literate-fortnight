@@ -1,0 +1,7 @@
+service:
+  name: yzykovbg
+  identifier: yzykovbg
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

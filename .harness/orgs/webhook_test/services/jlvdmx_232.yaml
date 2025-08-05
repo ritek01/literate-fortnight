@@ -1,0 +1,7 @@
+service:
+  name: rxzsvrdl
+  identifier: rxzsvrdl
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

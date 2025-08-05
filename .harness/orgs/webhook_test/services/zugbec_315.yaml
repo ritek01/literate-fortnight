@@ -1,0 +1,7 @@
+service:
+  name: kiwadniy
+  identifier: kiwadniy
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: cldbmgnz
+  identifier: cldbmgnz
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

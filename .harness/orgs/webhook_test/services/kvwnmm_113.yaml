@@ -1,0 +1,7 @@
+service:
+  name: eqjrfleo
+  identifier: eqjrfleo
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

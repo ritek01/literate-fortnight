@@ -1,0 +1,7 @@
+service:
+  name: azfyycwe
+  identifier: azfyycwe
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

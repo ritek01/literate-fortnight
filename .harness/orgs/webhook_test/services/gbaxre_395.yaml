@@ -1,0 +1,7 @@
+service:
+  name: xihzafgr
+  identifier: xihzafgr
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

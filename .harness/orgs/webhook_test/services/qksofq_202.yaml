@@ -1,0 +1,7 @@
+service:
+  name: zckmsejo
+  identifier: zckmsejo
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

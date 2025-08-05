@@ -1,0 +1,7 @@
+service:
+  name: mwggbyxp
+  identifier: mwggbyxp
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

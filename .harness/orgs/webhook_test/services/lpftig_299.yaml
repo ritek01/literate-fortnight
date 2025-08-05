@@ -1,0 +1,7 @@
+service:
+  name: zmwavgvq
+  identifier: zmwavgvq
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

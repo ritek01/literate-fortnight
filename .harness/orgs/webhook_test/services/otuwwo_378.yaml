@@ -1,0 +1,7 @@
+service:
+  name: vazosdeg
+  identifier: vazosdeg
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

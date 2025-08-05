@@ -1,0 +1,7 @@
+service:
+  name: yqueclbn
+  identifier: yqueclbn
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

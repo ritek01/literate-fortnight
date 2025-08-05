@@ -1,0 +1,7 @@
+service:
+  name: qnqnzsye
+  identifier: qnqnzsye
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

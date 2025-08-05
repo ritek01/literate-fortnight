@@ -1,0 +1,7 @@
+service:
+  name: qjlzbmfu
+  identifier: qjlzbmfu
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

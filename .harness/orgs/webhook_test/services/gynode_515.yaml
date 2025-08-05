@@ -1,0 +1,7 @@
+service:
+  name: gknzlkqv
+  identifier: gknzlkqv
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

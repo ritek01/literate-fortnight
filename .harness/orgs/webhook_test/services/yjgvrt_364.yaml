@@ -1,0 +1,7 @@
+service:
+  name: txfteawk
+  identifier: txfteawk
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: wtvmypxe
+  identifier: wtvmypxe
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: jfhpwzmd
+  identifier: jfhpwzmd
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

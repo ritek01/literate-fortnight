@@ -1,0 +1,7 @@
+service:
+  name: fmxoggrk
+  identifier: fmxoggrk
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

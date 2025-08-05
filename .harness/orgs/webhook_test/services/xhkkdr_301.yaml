@@ -1,0 +1,7 @@
+service:
+  name: fdjtxwau
+  identifier: fdjtxwau
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: iqiyxxqz
+  identifier: iqiyxxqz
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

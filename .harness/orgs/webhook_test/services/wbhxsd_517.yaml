@@ -1,0 +1,7 @@
+service:
+  name: udlpwyxz
+  identifier: udlpwyxz
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

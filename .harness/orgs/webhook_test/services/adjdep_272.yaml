@@ -1,0 +1,7 @@
+service:
+  name: owkpxjpe
+  identifier: owkpxjpe
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

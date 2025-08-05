@@ -1,0 +1,7 @@
+service:
+  name: gdhkjmim
+  identifier: gdhkjmim
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

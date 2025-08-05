@@ -1,0 +1,7 @@
+service:
+  name: cmglfdtj
+  identifier: cmglfdtj
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

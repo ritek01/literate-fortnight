@@ -1,0 +1,7 @@
+service:
+  name: iieixezk
+  identifier: iieixezk
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

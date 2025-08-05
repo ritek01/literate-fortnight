@@ -1,0 +1,7 @@
+service:
+  name: xmhwlarr
+  identifier: xmhwlarr
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

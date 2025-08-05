@@ -1,0 +1,7 @@
+service:
+  name: bnfqtglt
+  identifier: bnfqtglt
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

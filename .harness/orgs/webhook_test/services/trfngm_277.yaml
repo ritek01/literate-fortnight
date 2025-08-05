@@ -1,0 +1,7 @@
+service:
+  name: cygwmagt
+  identifier: cygwmagt
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

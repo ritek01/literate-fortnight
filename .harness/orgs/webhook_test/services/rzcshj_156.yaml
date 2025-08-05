@@ -1,0 +1,7 @@
+service:
+  name: aidwyndv
+  identifier: aidwyndv
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

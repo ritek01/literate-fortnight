@@ -1,0 +1,7 @@
+service:
+  name: mnwrrpjj
+  identifier: mnwrrpjj
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: yavmxhad
+  identifier: yavmxhad
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

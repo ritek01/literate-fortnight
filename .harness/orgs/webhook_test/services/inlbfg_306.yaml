@@ -1,0 +1,7 @@
+service:
+  name: zayxqmph
+  identifier: zayxqmph
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

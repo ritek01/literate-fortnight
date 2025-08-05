@@ -1,0 +1,7 @@
+service:
+  name: xagdnmpp
+  identifier: xagdnmpp
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

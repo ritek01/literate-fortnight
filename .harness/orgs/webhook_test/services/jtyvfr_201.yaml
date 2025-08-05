@@ -1,0 +1,7 @@
+service:
+  name: zrgscgmz
+  identifier: zrgscgmz
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

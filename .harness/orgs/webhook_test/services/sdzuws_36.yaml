@@ -1,0 +1,7 @@
+service:
+  name: hmzjtnhr
+  identifier: hmzjtnhr
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

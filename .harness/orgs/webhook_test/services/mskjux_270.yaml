@@ -1,0 +1,7 @@
+service:
+  name: lkxwtzpb
+  identifier: lkxwtzpb
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: xgscgjxc
+  identifier: xgscgjxc
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

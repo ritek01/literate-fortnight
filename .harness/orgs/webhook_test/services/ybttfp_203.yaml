@@ -1,0 +1,7 @@
+service:
+  name: vjxemvzo
+  identifier: vjxemvzo
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

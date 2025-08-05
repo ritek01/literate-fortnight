@@ -1,0 +1,7 @@
+service:
+  name: kayphvfx
+  identifier: kayphvfx
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

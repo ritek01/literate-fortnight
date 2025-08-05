@@ -1,0 +1,7 @@
+service:
+  name: jupabmel
+  identifier: jupabmel
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

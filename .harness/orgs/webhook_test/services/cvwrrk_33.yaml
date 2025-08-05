@@ -1,0 +1,7 @@
+service:
+  name: guuwrldm
+  identifier: guuwrldm
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

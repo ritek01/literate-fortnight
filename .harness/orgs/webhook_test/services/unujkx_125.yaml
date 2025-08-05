@@ -1,0 +1,7 @@
+service:
+  name: lbsqzwlf
+  identifier: lbsqzwlf
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

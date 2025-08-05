@@ -1,0 +1,7 @@
+service:
+  name: ldvvnfup
+  identifier: ldvvnfup
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

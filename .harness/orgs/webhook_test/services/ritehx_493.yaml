@@ -1,0 +1,7 @@
+service:
+  name: qzgupucp
+  identifier: qzgupucp
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

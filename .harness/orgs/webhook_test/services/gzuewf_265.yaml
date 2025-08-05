@@ -1,0 +1,7 @@
+service:
+  name: lgjiinje
+  identifier: lgjiinje
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

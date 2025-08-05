@@ -1,0 +1,7 @@
+service:
+  name: ismuivay
+  identifier: ismuivay
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

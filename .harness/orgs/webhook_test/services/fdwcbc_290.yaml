@@ -1,0 +1,7 @@
+service:
+  name: rbnfgwcp
+  identifier: rbnfgwcp
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

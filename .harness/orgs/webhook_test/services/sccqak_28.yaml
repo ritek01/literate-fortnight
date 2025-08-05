@@ -1,0 +1,7 @@
+service:
+  name: uknmqegy
+  identifier: uknmqegy
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

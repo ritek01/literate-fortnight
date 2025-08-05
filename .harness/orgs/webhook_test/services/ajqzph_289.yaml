@@ -1,0 +1,7 @@
+service:
+  name: honracrc
+  identifier: honracrc
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

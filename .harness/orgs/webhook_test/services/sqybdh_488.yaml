@@ -1,0 +1,7 @@
+service:
+  name: koglwtgf
+  identifier: koglwtgf
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

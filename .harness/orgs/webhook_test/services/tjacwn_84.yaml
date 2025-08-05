@@ -1,0 +1,7 @@
+service:
+  name: mrxionxp
+  identifier: mrxionxp
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

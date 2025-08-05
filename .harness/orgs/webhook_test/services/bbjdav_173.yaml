@@ -1,0 +1,7 @@
+service:
+  name: jxkkhfvo
+  identifier: jxkkhfvo
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

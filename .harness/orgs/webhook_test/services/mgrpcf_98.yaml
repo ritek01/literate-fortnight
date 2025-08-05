@@ -1,0 +1,7 @@
+service:
+  name: bntigsle
+  identifier: bntigsle
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

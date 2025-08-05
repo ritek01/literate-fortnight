@@ -1,0 +1,7 @@
+service:
+  name: smznpphk
+  identifier: smznpphk
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

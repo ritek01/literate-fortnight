@@ -1,0 +1,7 @@
+service:
+  name: tzpatcjt
+  identifier: tzpatcjt
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

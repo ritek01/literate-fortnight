@@ -1,0 +1,7 @@
+service:
+  name: rymijaeq
+  identifier: rymijaeq
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

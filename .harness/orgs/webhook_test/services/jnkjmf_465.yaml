@@ -1,0 +1,7 @@
+service:
+  name: mewqcfnh
+  identifier: mewqcfnh
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

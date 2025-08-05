@@ -1,0 +1,7 @@
+service:
+  name: utodpuun
+  identifier: utodpuun
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

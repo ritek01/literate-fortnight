@@ -1,0 +1,7 @@
+service:
+  name: hbvinfqt
+  identifier: hbvinfqt
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

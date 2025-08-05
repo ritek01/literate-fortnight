@@ -1,0 +1,7 @@
+service:
+  name: uxiqpwom
+  identifier: uxiqpwom
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

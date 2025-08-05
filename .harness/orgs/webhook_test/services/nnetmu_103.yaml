@@ -1,0 +1,7 @@
+service:
+  name: wdlrxxhe
+  identifier: wdlrxxhe
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: epcplfsm
+  identifier: epcplfsm
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

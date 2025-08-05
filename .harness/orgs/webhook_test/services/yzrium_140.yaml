@@ -1,0 +1,7 @@
+service:
+  name: fjueamtr
+  identifier: fjueamtr
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

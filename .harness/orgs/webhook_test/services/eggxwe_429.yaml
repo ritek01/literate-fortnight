@@ -1,0 +1,7 @@
+service:
+  name: pxlzhhsy
+  identifier: pxlzhhsy
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: mofowxet
+  identifier: mofowxet
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

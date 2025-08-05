@@ -1,0 +1,7 @@
+service:
+  name: wuyrgfmv
+  identifier: wuyrgfmv
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

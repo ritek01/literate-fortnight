@@ -1,0 +1,7 @@
+service:
+  name: udozriwh
+  identifier: udozriwh
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

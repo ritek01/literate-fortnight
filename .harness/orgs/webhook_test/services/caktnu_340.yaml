@@ -1,0 +1,7 @@
+service:
+  name: ttaolzkk
+  identifier: ttaolzkk
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

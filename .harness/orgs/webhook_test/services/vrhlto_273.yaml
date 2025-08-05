@@ -1,0 +1,7 @@
+service:
+  name: eflibrnj
+  identifier: eflibrnj
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

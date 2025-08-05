@@ -1,0 +1,7 @@
+service:
+  name: uttwubgm
+  identifier: uttwubgm
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

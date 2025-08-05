@@ -1,0 +1,7 @@
+service:
+  name: hhivjyum
+  identifier: hhivjyum
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

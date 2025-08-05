@@ -1,0 +1,7 @@
+service:
+  name: yyhqpdri
+  identifier: yyhqpdri
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: sphbqzgi
+  identifier: sphbqzgi
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

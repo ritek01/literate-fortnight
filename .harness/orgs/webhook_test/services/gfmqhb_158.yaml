@@ -1,0 +1,7 @@
+service:
+  name: ckvfcxrt
+  identifier: ckvfcxrt
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

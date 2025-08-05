@@ -1,0 +1,7 @@
+service:
+  name: whprzfod
+  identifier: whprzfod
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

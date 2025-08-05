@@ -1,0 +1,7 @@
+service:
+  name: tzazsaau
+  identifier: tzazsaau
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

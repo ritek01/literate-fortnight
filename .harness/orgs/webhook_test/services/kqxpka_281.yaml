@@ -1,0 +1,7 @@
+service:
+  name: bhdtfnno
+  identifier: bhdtfnno
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: gryuuvmt
+  identifier: gryuuvmt
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

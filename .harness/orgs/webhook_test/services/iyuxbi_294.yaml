@@ -1,0 +1,7 @@
+service:
+  name: cvvcockl
+  identifier: cvvcockl
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

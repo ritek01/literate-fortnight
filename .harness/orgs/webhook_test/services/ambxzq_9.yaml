@@ -1,0 +1,7 @@
+service:
+  name: eentibdk
+  identifier: eentibdk
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

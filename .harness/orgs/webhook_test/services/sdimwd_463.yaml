@@ -1,0 +1,7 @@
+service:
+  name: gbhcqzip
+  identifier: gbhcqzip
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

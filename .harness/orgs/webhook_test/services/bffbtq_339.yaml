@@ -1,0 +1,7 @@
+service:
+  name: flzebhxk
+  identifier: flzebhxk
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

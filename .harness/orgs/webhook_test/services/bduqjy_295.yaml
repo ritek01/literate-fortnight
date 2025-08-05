@@ -1,0 +1,7 @@
+service:
+  name: hduvdboo
+  identifier: hduvdboo
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

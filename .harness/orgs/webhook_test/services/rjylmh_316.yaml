@@ -1,0 +1,7 @@
+service:
+  name: voiwxbrl
+  identifier: voiwxbrl
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

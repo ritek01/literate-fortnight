@@ -1,0 +1,7 @@
+service:
+  name: gydpcxgd
+  identifier: gydpcxgd
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

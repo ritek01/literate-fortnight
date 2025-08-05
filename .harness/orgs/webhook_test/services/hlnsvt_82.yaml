@@ -1,0 +1,7 @@
+service:
+  name: pocfnazk
+  identifier: pocfnazk
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

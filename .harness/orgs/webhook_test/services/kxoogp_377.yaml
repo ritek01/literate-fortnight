@@ -1,0 +1,7 @@
+service:
+  name: ouvmkzlf
+  identifier: ouvmkzlf
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

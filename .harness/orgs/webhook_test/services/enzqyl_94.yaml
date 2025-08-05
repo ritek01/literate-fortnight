@@ -1,0 +1,7 @@
+service:
+  name: eucbiwud
+  identifier: eucbiwud
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

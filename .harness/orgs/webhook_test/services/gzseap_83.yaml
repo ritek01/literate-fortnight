@@ -1,0 +1,7 @@
+service:
+  name: izcioqpa
+  identifier: izcioqpa
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

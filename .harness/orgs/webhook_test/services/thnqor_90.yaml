@@ -1,0 +1,7 @@
+service:
+  name: hlkxzaaa
+  identifier: hlkxzaaa
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: ryxwvzid
+  identifier: ryxwvzid
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

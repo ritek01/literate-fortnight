@@ -1,0 +1,7 @@
+service:
+  name: jxmndwwq
+  identifier: jxmndwwq
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

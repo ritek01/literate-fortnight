@@ -1,0 +1,7 @@
+service:
+  name: agboutiu
+  identifier: agboutiu
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

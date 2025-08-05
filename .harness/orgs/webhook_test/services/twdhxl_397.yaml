@@ -1,0 +1,7 @@
+service:
+  name: qlpumjes
+  identifier: qlpumjes
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

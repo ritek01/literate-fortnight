@@ -1,0 +1,7 @@
+service:
+  name: fnlwwrhd
+  identifier: fnlwwrhd
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

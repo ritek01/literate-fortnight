@@ -1,0 +1,7 @@
+service:
+  name: zvqptoad
+  identifier: zvqptoad
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

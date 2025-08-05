@@ -1,0 +1,7 @@
+service:
+  name: himrxdsa
+  identifier: himrxdsa
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

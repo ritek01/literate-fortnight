@@ -1,0 +1,7 @@
+service:
+  name: jsoirurl
+  identifier: jsoirurl
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

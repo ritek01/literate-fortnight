@@ -1,0 +1,7 @@
+service:
+  name: owlqvzdy
+  identifier: owlqvzdy
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

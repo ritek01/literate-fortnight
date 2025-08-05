@@ -1,0 +1,7 @@
+service:
+  name: reuujaun
+  identifier: reuujaun
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

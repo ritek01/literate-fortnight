@@ -1,0 +1,7 @@
+service:
+  name: pqfqfwvp
+  identifier: pqfqfwvp
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

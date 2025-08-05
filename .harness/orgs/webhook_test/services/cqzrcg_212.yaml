@@ -1,0 +1,7 @@
+service:
+  name: kadgtvtn
+  identifier: kadgtvtn
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: lidpxpfi
+  identifier: lidpxpfi
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

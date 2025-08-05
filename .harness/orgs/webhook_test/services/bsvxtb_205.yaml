@@ -1,0 +1,7 @@
+service:
+  name: vtsgplam
+  identifier: vtsgplam
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

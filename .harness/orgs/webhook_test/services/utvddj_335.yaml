@@ -1,0 +1,7 @@
+service:
+  name: wbouerok
+  identifier: wbouerok
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: pcwsfwbf
+  identifier: pcwsfwbf
+  orgIdentifier: webhook_test
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
