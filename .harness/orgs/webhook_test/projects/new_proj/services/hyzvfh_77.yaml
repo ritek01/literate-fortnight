@@ -1,0 +1,8 @@
+service:
+  name: pwxlwgqs
+  identifier: pwxlwgqs
+  orgIdentifier: webhook_test
+  projectIdentifier: new_proj
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

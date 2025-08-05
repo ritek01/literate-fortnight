@@ -1,0 +1,8 @@
+service:
+  name: olwdfjwd
+  identifier: olwdfjwd
+  orgIdentifier: webhook_test
+  projectIdentifier: new_proj
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

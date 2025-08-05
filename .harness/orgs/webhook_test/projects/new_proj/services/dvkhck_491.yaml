@@ -1,0 +1,8 @@
+service:
+  name: yruxyedu
+  identifier: yruxyedu
+  orgIdentifier: webhook_test
+  projectIdentifier: new_proj
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

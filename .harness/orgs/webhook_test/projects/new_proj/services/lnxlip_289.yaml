@@ -1,0 +1,8 @@
+service:
+  name: ijlzjtlv
+  identifier: ijlzjtlv
+  orgIdentifier: webhook_test
+  projectIdentifier: new_proj
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

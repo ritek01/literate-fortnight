@@ -1,0 +1,8 @@
+service:
+  name: qvvayfvk
+  identifier: qvvayfvk
+  orgIdentifier: webhook_test
+  projectIdentifier: new_proj
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

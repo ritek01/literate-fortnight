@@ -1,0 +1,8 @@
+service:
+  name: imxxnvnk
+  identifier: imxxnvnk
+  orgIdentifier: webhook_test
+  projectIdentifier: new_proj
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

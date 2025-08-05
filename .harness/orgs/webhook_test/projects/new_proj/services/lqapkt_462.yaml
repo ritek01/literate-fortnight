@@ -1,0 +1,8 @@
+service:
+  name: ypvgxnlh
+  identifier: ypvgxnlh
+  orgIdentifier: webhook_test
+  projectIdentifier: new_proj
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

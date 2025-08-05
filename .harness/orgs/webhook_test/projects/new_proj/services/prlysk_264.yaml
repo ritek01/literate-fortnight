@@ -1,0 +1,8 @@
+service:
+  name: nevvzodz
+  identifier: nevvzodz
+  orgIdentifier: webhook_test
+  projectIdentifier: new_proj
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

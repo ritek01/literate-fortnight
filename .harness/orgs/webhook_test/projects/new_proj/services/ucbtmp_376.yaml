@@ -1,0 +1,8 @@
+service:
+  name: vcogkymw
+  identifier: vcogkymw
+  orgIdentifier: webhook_test
+  projectIdentifier: new_proj
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

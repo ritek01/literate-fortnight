@@ -1,0 +1,8 @@
+service:
+  name: weczbler
+  identifier: weczbler
+  orgIdentifier: webhook_test
+  projectIdentifier: new_proj
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

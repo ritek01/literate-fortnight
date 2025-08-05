@@ -1,0 +1,8 @@
+service:
+  name: pyhrrjxd
+  identifier: pyhrrjxd
+  orgIdentifier: webhook_test
+  projectIdentifier: new_proj
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

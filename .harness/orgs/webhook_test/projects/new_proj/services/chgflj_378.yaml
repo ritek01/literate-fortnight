@@ -1,0 +1,8 @@
+service:
+  name: wnhmnmuh
+  identifier: wnhmnmuh
+  orgIdentifier: webhook_test
+  projectIdentifier: new_proj
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

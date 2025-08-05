@@ -1,0 +1,8 @@
+service:
+  name: jfkpjbub
+  identifier: jfkpjbub
+  orgIdentifier: webhook_test
+  projectIdentifier: new_proj
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

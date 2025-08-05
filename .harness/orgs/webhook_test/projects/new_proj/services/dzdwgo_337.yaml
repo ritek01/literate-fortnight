@@ -1,0 +1,8 @@
+service:
+  name: tgpqwnsn
+  identifier: tgpqwnsn
+  orgIdentifier: webhook_test
+  projectIdentifier: new_proj
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

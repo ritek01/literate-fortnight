@@ -1,0 +1,8 @@
+service:
+  name: ccspbznx
+  identifier: ccspbznx
+  orgIdentifier: webhook_test
+  projectIdentifier: new_proj
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

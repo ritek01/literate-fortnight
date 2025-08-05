@@ -1,0 +1,8 @@
+service:
+  name: qezqkjio
+  identifier: qezqkjio
+  orgIdentifier: webhook_test
+  projectIdentifier: new_proj
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: cprzthfm
+  identifier: cprzthfm
+  orgIdentifier: webhook_test
+  projectIdentifier: new_proj
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: gdvfiwwp
+  identifier: gdvfiwwp
+  orgIdentifier: webhook_test
+  projectIdentifier: new_proj
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

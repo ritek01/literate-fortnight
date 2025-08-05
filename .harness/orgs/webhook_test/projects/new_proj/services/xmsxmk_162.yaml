@@ -1,0 +1,8 @@
+service:
+  name: eketzqod
+  identifier: eketzqod
+  orgIdentifier: webhook_test
+  projectIdentifier: new_proj
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

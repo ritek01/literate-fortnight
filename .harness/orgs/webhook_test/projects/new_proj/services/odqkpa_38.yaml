@@ -1,0 +1,8 @@
+service:
+  name: fbwvuqcq
+  identifier: fbwvuqcq
+  orgIdentifier: webhook_test
+  projectIdentifier: new_proj
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

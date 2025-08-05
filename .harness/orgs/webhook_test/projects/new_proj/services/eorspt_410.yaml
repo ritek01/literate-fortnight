@@ -1,0 +1,8 @@
+service:
+  name: tcrfmvdr
+  identifier: tcrfmvdr
+  orgIdentifier: webhook_test
+  projectIdentifier: new_proj
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

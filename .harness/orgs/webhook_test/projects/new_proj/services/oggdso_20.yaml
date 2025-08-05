@@ -1,0 +1,8 @@
+service:
+  name: dokfywco
+  identifier: dokfywco
+  orgIdentifier: webhook_test
+  projectIdentifier: new_proj
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

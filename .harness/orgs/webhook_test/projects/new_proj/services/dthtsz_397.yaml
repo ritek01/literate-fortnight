@@ -1,0 +1,8 @@
+service:
+  name: zjvkdguy
+  identifier: zjvkdguy
+  orgIdentifier: webhook_test
+  projectIdentifier: new_proj
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

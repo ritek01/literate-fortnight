@@ -1,0 +1,8 @@
+service:
+  name: hyvemfph
+  identifier: hyvemfph
+  orgIdentifier: webhook_test
+  projectIdentifier: new_proj
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: dyorectw
+  identifier: dyorectw
+  orgIdentifier: webhook_test
+  projectIdentifier: new_proj
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

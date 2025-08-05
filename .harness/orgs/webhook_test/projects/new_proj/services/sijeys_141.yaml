@@ -1,0 +1,8 @@
+service:
+  name: mfdgxusy
+  identifier: mfdgxusy
+  orgIdentifier: webhook_test
+  projectIdentifier: new_proj
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

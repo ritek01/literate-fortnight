@@ -1,0 +1,8 @@
+service:
+  name: xqpqrdxz
+  identifier: xqpqrdxz
+  orgIdentifier: webhook_test
+  projectIdentifier: new_proj
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

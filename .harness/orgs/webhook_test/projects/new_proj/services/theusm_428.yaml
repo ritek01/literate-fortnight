@@ -1,0 +1,8 @@
+service:
+  name: zhtmsvcu
+  identifier: zhtmsvcu
+  orgIdentifier: webhook_test
+  projectIdentifier: new_proj
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

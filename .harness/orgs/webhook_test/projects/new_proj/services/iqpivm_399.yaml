@@ -1,0 +1,8 @@
+service:
+  name: atoxrxoa
+  identifier: atoxrxoa
+  orgIdentifier: webhook_test
+  projectIdentifier: new_proj
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

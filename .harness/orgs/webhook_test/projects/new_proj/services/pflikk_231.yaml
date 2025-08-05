@@ -1,0 +1,8 @@
+service:
+  name: ywxfeflb
+  identifier: ywxfeflb
+  orgIdentifier: webhook_test
+  projectIdentifier: new_proj
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

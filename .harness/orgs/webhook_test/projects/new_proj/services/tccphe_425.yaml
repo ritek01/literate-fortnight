@@ -1,0 +1,8 @@
+service:
+  name: mclrfzla
+  identifier: mclrfzla
+  orgIdentifier: webhook_test
+  projectIdentifier: new_proj
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: sgmgroxm
+  identifier: sgmgroxm
+  orgIdentifier: webhook_test
+  projectIdentifier: new_proj
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

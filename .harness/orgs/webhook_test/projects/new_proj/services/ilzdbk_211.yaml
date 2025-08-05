@@ -1,0 +1,8 @@
+service:
+  name: gobldadg
+  identifier: gobldadg
+  orgIdentifier: webhook_test
+  projectIdentifier: new_proj
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

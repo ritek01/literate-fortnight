@@ -1,0 +1,8 @@
+service:
+  name: zcdffjit
+  identifier: zcdffjit
+  orgIdentifier: webhook_test
+  projectIdentifier: new_proj
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

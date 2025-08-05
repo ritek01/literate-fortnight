@@ -1,0 +1,8 @@
+service:
+  name: odmlobqw
+  identifier: odmlobqw
+  orgIdentifier: webhook_test
+  projectIdentifier: new_proj
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

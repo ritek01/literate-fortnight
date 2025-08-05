@@ -1,0 +1,8 @@
+service:
+  name: qoqgfulh
+  identifier: qoqgfulh
+  orgIdentifier: webhook_test
+  projectIdentifier: new_proj
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: guynnelm
+  identifier: guynnelm
+  orgIdentifier: webhook_test
+  projectIdentifier: new_proj
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

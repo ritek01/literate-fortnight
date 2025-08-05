@@ -1,0 +1,8 @@
+service:
+  name: coosdwdu
+  identifier: coosdwdu
+  orgIdentifier: webhook_test
+  projectIdentifier: new_proj
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

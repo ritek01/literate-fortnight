@@ -1,0 +1,8 @@
+service:
+  name: rahlfoex
+  identifier: rahlfoex
+  orgIdentifier: webhook_test
+  projectIdentifier: new_proj
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

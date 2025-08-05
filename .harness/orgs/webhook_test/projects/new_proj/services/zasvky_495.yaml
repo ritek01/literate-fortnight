@@ -1,0 +1,8 @@
+service:
+  name: kecxbtom
+  identifier: kecxbtom
+  orgIdentifier: webhook_test
+  projectIdentifier: new_proj
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

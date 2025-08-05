@@ -1,0 +1,8 @@
+service:
+  name: cyuwgfla
+  identifier: cyuwgfla
+  orgIdentifier: webhook_test
+  projectIdentifier: new_proj
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,8 @@
+service:
+  name: mhimnlwv
+  identifier: mhimnlwv
+  orgIdentifier: webhook_test
+  projectIdentifier: new_proj
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

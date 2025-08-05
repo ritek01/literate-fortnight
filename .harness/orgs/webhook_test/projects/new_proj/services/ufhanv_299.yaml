@@ -1,0 +1,8 @@
+service:
+  name: lzlkuqgz
+  identifier: lzlkuqgz
+  orgIdentifier: webhook_test
+  projectIdentifier: new_proj
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

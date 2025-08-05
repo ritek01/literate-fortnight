@@ -1,0 +1,8 @@
+service:
+  name: haekolsw
+  identifier: haekolsw
+  orgIdentifier: webhook_test
+  projectIdentifier: new_proj
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
