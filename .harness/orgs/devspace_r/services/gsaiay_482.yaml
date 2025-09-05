@@ -1,0 +1,7 @@
+service:
+  name: ridagvyj
+  identifier: ridagvyj
+  orgIdentifier: devspace_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

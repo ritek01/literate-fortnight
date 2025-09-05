@@ -1,0 +1,7 @@
+service:
+  name: rpwbchot
+  identifier: rpwbchot
+  orgIdentifier: devspace_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

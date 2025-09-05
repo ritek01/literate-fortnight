@@ -1,0 +1,7 @@
+service:
+  name: ptxbbeel
+  identifier: ptxbbeel
+  orgIdentifier: devspace_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

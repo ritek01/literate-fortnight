@@ -1,0 +1,7 @@
+service:
+  name: gfuwknin
+  identifier: gfuwknin
+  orgIdentifier: devspace_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

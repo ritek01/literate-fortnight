@@ -1,0 +1,7 @@
+service:
+  name: xccqykyu
+  identifier: xccqykyu
+  orgIdentifier: devspace_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: jyqiuabe
+  identifier: jyqiuabe
+  orgIdentifier: devspace_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

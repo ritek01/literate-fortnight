@@ -1,0 +1,7 @@
+service:
+  name: fxtwzpng
+  identifier: fxtwzpng
+  orgIdentifier: devspace_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

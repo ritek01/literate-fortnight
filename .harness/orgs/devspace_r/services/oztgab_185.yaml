@@ -1,0 +1,7 @@
+service:
+  name: iunbgwuv
+  identifier: iunbgwuv
+  orgIdentifier: devspace_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

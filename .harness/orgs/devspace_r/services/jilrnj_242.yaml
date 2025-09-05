@@ -1,0 +1,7 @@
+service:
+  name: empgyrog
+  identifier: empgyrog
+  orgIdentifier: devspace_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

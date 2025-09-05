@@ -1,0 +1,7 @@
+service:
+  name: pdzrdzll
+  identifier: pdzrdzll
+  orgIdentifier: devspace_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

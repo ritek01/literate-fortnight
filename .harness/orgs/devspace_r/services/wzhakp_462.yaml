@@ -1,0 +1,7 @@
+service:
+  name: mgxuwhvi
+  identifier: mgxuwhvi
+  orgIdentifier: devspace_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: popbukjk
+  identifier: popbukjk
+  orgIdentifier: devspace_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: fbprnolp
+  identifier: fbprnolp
+  orgIdentifier: devspace_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

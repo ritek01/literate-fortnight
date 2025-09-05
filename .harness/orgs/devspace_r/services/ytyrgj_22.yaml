@@ -1,0 +1,7 @@
+service:
+  name: nvjlqtor
+  identifier: nvjlqtor
+  orgIdentifier: devspace_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

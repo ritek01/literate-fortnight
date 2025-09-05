@@ -1,0 +1,7 @@
+service:
+  name: gvectson
+  identifier: gvectson
+  orgIdentifier: devspace_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

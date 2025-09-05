@@ -1,0 +1,7 @@
+service:
+  name: vlxbsvyx
+  identifier: vlxbsvyx
+  orgIdentifier: devspace_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

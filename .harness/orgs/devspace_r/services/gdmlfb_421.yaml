@@ -1,0 +1,7 @@
+service:
+  name: lfmvnump
+  identifier: lfmvnump
+  orgIdentifier: devspace_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

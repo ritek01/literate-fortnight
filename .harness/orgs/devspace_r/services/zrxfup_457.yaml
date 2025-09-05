@@ -1,0 +1,7 @@
+service:
+  name: vvsvtjfv
+  identifier: vvsvtjfv
+  orgIdentifier: devspace_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

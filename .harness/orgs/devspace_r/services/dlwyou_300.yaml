@@ -1,0 +1,7 @@
+service:
+  name: atawgflz
+  identifier: atawgflz
+  orgIdentifier: devspace_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

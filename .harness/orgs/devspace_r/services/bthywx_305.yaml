@@ -1,0 +1,7 @@
+service:
+  name: ytyydoua
+  identifier: ytyydoua
+  orgIdentifier: devspace_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

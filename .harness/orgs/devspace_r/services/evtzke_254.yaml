@@ -1,0 +1,7 @@
+service:
+  name: okmcebqc
+  identifier: okmcebqc
+  orgIdentifier: devspace_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

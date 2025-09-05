@@ -1,0 +1,7 @@
+service:
+  name: xgvyxdri
+  identifier: xgvyxdri
+  orgIdentifier: devspace_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

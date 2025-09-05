@@ -1,0 +1,7 @@
+service:
+  name: zqwplzgc
+  identifier: zqwplzgc
+  orgIdentifier: devspace_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

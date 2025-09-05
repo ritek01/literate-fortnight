@@ -1,0 +1,7 @@
+service:
+  name: pqrwxzue
+  identifier: pqrwxzue
+  orgIdentifier: devspace_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

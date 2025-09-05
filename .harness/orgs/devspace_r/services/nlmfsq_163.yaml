@@ -1,0 +1,7 @@
+service:
+  name: nwwoptcm
+  identifier: nwwoptcm
+  orgIdentifier: devspace_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

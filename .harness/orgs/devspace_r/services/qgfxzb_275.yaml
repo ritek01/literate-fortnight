@@ -1,0 +1,7 @@
+service:
+  name: vhsfljws
+  identifier: vhsfljws
+  orgIdentifier: devspace_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

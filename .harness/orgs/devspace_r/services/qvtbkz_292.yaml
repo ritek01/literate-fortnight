@@ -1,0 +1,7 @@
+service:
+  name: jsebfmeo
+  identifier: jsebfmeo
+  orgIdentifier: devspace_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: zxfxpwpe
+  identifier: zxfxpwpe
+  orgIdentifier: devspace_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
