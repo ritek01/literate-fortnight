@@ -1,0 +1,7 @@
+service:
+  name: pwpwylmt
+  identifier: pwpwylmt
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

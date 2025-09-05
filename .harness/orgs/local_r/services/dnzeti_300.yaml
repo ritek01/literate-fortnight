@@ -1,0 +1,7 @@
+service:
+  name: ywofodja
+  identifier: ywofodja
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: nxekpaac
+  identifier: nxekpaac
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

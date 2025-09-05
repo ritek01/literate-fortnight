@@ -1,0 +1,7 @@
+service:
+  name: fnlvqtzg
+  identifier: fnlvqtzg
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

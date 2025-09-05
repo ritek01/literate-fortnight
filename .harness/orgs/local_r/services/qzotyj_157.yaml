@@ -1,0 +1,7 @@
+service:
+  name: spzkpsot
+  identifier: spzkpsot
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

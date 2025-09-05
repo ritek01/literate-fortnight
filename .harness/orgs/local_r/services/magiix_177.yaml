@@ -1,0 +1,7 @@
+service:
+  name: rcsmopvb
+  identifier: rcsmopvb
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

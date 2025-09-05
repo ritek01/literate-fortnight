@@ -1,0 +1,7 @@
+service:
+  name: vxvtphfh
+  identifier: vxvtphfh
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

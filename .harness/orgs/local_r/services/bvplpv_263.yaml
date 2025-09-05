@@ -1,0 +1,7 @@
+service:
+  name: dfxtybvu
+  identifier: dfxtybvu
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: hdueznxt
+  identifier: hdueznxt
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: vpdgkkno
+  identifier: vpdgkkno
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: rtqtaxbo
+  identifier: rtqtaxbo
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

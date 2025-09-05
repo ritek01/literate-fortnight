@@ -1,0 +1,7 @@
+service:
+  name: czqlrzta
+  identifier: czqlrzta
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

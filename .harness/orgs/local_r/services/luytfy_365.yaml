@@ -1,0 +1,7 @@
+service:
+  name: nugplgje
+  identifier: nugplgje
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

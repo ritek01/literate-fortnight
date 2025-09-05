@@ -1,0 +1,7 @@
+service:
+  name: pyitostu
+  identifier: pyitostu
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

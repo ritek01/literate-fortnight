@@ -1,0 +1,7 @@
+service:
+  name: pyrkmafq
+  identifier: pyrkmafq
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

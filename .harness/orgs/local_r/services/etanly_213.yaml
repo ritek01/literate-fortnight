@@ -1,0 +1,7 @@
+service:
+  name: xqopwdel
+  identifier: xqopwdel
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

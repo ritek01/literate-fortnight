@@ -1,0 +1,7 @@
+service:
+  name: occczcei
+  identifier: occczcei
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: dxyumbjx
+  identifier: dxyumbjx
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

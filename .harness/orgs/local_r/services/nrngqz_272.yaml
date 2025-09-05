@@ -1,0 +1,7 @@
+service:
+  name: zdwblovf
+  identifier: zdwblovf
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

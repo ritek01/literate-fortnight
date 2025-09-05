@@ -1,0 +1,7 @@
+service:
+  name: yrnhcath
+  identifier: yrnhcath
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

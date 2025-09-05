@@ -1,0 +1,7 @@
+service:
+  name: nfcdrnpl
+  identifier: nfcdrnpl
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

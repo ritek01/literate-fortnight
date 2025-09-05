@@ -1,0 +1,7 @@
+service:
+  name: uvkyxoue
+  identifier: uvkyxoue
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: svmqpkjn
+  identifier: svmqpkjn
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

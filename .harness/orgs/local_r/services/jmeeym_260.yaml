@@ -1,0 +1,7 @@
+service:
+  name: rgmukuco
+  identifier: rgmukuco
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

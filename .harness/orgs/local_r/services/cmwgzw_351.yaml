@@ -1,0 +1,7 @@
+service:
+  name: mvkjnoet
+  identifier: mvkjnoet
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: ngpcfxab
+  identifier: ngpcfxab
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

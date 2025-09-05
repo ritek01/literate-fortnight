@@ -1,0 +1,7 @@
+service:
+  name: sathfiqm
+  identifier: sathfiqm
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

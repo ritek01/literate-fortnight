@@ -1,0 +1,7 @@
+service:
+  name: zhzvqxnk
+  identifier: zhzvqxnk
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

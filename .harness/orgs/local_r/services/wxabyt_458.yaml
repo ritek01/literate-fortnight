@@ -1,0 +1,7 @@
+service:
+  name: rcsulyub
+  identifier: rcsulyub
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

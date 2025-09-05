@@ -1,0 +1,7 @@
+service:
+  name: powdvmfw
+  identifier: powdvmfw
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

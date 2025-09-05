@@ -1,0 +1,7 @@
+service:
+  name: mujfnhyz
+  identifier: mujfnhyz
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

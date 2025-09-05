@@ -1,0 +1,7 @@
+service:
+  name: ziiaabby
+  identifier: ziiaabby
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

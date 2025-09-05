@@ -1,0 +1,7 @@
+service:
+  name: vhukxkxi
+  identifier: vhukxkxi
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

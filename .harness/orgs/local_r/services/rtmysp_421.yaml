@@ -1,0 +1,7 @@
+service:
+  name: jkjjltfc
+  identifier: jkjjltfc
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

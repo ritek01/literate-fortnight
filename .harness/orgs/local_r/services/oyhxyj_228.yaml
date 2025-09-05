@@ -1,0 +1,7 @@
+service:
+  name: vwqobbpo
+  identifier: vwqobbpo
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

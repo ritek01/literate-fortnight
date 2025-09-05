@@ -1,0 +1,7 @@
+service:
+  name: ewiwbzrh
+  identifier: ewiwbzrh
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

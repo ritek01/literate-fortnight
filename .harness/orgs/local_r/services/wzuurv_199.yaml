@@ -1,0 +1,7 @@
+service:
+  name: ilgfclqt
+  identifier: ilgfclqt
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

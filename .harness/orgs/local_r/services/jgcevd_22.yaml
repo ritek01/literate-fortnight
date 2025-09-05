@@ -1,0 +1,7 @@
+service:
+  name: ajbegaey
+  identifier: ajbegaey
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

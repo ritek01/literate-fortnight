@@ -1,0 +1,7 @@
+service:
+  name: uazaqucc
+  identifier: uazaqucc
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

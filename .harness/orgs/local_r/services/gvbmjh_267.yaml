@@ -1,0 +1,7 @@
+service:
+  name: wfsfshjc
+  identifier: wfsfshjc
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

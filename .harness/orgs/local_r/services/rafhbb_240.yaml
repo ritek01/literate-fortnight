@@ -1,0 +1,7 @@
+service:
+  name: zrwwhqpj
+  identifier: zrwwhqpj
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

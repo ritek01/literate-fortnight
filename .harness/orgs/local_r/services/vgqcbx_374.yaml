@@ -1,0 +1,7 @@
+service:
+  name: hxdrdvux
+  identifier: hxdrdvux
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

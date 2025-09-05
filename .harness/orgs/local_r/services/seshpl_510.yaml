@@ -1,0 +1,7 @@
+service:
+  name: rjwyfoif
+  identifier: rjwyfoif
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

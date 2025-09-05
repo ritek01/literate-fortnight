@@ -1,0 +1,7 @@
+service:
+  name: fiwxkjhh
+  identifier: fiwxkjhh
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

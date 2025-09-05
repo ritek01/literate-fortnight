@@ -1,0 +1,7 @@
+service:
+  name: qlkemuoz
+  identifier: qlkemuoz
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

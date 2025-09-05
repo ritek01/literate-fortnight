@@ -1,0 +1,7 @@
+service:
+  name: ofdmvozq
+  identifier: ofdmvozq
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

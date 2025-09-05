@@ -1,0 +1,7 @@
+service:
+  name: hpclsagd
+  identifier: hpclsagd
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

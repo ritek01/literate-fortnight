@@ -1,0 +1,7 @@
+service:
+  name: hfsdqyyl
+  identifier: hfsdqyyl
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

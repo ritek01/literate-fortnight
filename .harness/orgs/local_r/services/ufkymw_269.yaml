@@ -1,0 +1,7 @@
+service:
+  name: hzvhniab
+  identifier: hzvhniab
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

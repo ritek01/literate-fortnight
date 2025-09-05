@@ -1,0 +1,7 @@
+service:
+  name: cmsmtikj
+  identifier: cmsmtikj
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

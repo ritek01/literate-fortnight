@@ -1,0 +1,7 @@
+service:
+  name: utvesmww
+  identifier: utvesmww
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

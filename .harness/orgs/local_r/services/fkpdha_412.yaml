@@ -1,0 +1,7 @@
+service:
+  name: fhxqtkiz
+  identifier: fhxqtkiz
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

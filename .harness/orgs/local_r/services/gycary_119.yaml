@@ -1,0 +1,7 @@
+service:
+  name: cjjeaism
+  identifier: cjjeaism
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

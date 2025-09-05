@@ -1,0 +1,7 @@
+service:
+  name: gefgmyzo
+  identifier: gefgmyzo
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: vahffzlm
+  identifier: vahffzlm
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

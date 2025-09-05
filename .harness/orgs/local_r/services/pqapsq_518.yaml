@@ -1,0 +1,7 @@
+service:
+  name: bzsrydju
+  identifier: bzsrydju
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

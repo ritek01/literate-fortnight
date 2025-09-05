@@ -1,0 +1,7 @@
+service:
+  name: pvcsuoyc
+  identifier: pvcsuoyc
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

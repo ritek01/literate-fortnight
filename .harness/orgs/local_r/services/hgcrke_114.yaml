@@ -1,0 +1,7 @@
+service:
+  name: ugqphbjn
+  identifier: ugqphbjn
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

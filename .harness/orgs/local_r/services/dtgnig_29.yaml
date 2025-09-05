@@ -1,0 +1,7 @@
+service:
+  name: nxllrgms
+  identifier: nxllrgms
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

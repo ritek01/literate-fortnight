@@ -1,0 +1,7 @@
+service:
+  name: sccqplyu
+  identifier: sccqplyu
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

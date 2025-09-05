@@ -1,0 +1,7 @@
+service:
+  name: wutvtmax
+  identifier: wutvtmax
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

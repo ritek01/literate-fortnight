@@ -1,0 +1,7 @@
+service:
+  name: fpcibxct
+  identifier: fpcibxct
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

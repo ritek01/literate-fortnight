@@ -1,0 +1,7 @@
+service:
+  name: kzvfedaj
+  identifier: kzvfedaj
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

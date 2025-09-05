@@ -1,0 +1,7 @@
+service:
+  name: mxkxliyp
+  identifier: mxkxliyp
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

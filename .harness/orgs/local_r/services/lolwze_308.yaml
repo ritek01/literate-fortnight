@@ -1,0 +1,7 @@
+service:
+  name: qbkqbvnx
+  identifier: qbkqbvnx
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

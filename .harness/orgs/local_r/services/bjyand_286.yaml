@@ -1,0 +1,7 @@
+service:
+  name: nxtktmkc
+  identifier: nxtktmkc
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

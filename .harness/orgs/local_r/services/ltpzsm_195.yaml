@@ -1,0 +1,7 @@
+service:
+  name: dbrlvznd
+  identifier: dbrlvznd
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: ebnrnezi
+  identifier: ebnrnezi
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

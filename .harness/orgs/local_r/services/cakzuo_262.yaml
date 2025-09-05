@@ -1,0 +1,7 @@
+service:
+  name: uhcsihab
+  identifier: uhcsihab
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

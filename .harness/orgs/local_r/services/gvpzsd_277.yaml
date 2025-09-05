@@ -1,0 +1,7 @@
+service:
+  name: rdgmjskx
+  identifier: rdgmjskx
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

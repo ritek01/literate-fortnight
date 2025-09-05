@@ -1,0 +1,7 @@
+service:
+  name: ljpibfkr
+  identifier: ljpibfkr
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

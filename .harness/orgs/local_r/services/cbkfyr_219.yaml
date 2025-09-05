@@ -1,0 +1,7 @@
+service:
+  name: sioerhem
+  identifier: sioerhem
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

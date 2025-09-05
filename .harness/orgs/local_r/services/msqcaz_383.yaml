@@ -1,0 +1,7 @@
+service:
+  name: efbntyzh
+  identifier: efbntyzh
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

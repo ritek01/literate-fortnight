@@ -1,0 +1,7 @@
+service:
+  name: wptodlij
+  identifier: wptodlij
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

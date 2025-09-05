@@ -1,0 +1,7 @@
+service:
+  name: bazlvgjz
+  identifier: bazlvgjz
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

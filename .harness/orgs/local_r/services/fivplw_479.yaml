@@ -1,0 +1,7 @@
+service:
+  name: rcuntdeg
+  identifier: rcuntdeg
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: cnzrfnos
+  identifier: cnzrfnos
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

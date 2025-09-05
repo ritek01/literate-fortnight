@@ -1,0 +1,7 @@
+service:
+  name: wqpmtfuz
+  identifier: wqpmtfuz
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

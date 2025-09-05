@@ -1,0 +1,7 @@
+service:
+  name: shuvcptd
+  identifier: shuvcptd
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

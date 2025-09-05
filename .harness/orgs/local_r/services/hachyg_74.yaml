@@ -1,0 +1,7 @@
+service:
+  name: yebqphtt
+  identifier: yebqphtt
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

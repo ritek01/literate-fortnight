@@ -1,0 +1,7 @@
+service:
+  name: ixtrbzlu
+  identifier: ixtrbzlu
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

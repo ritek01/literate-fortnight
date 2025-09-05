@@ -1,0 +1,7 @@
+service:
+  name: useyttto
+  identifier: useyttto
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

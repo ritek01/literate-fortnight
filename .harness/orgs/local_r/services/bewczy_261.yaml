@@ -1,0 +1,7 @@
+service:
+  name: rffswxkc
+  identifier: rffswxkc
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

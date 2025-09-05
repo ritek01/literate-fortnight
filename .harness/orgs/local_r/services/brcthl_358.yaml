@@ -1,0 +1,7 @@
+service:
+  name: gcwecwrf
+  identifier: gcwecwrf
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

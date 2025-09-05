@@ -1,0 +1,7 @@
+service:
+  name: ofvpqbze
+  identifier: ofvpqbze
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: qshfqhls
+  identifier: qshfqhls
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

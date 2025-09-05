@@ -1,0 +1,7 @@
+service:
+  name: iiziochb
+  identifier: iiziochb
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

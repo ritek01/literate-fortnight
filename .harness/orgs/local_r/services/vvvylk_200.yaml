@@ -1,0 +1,7 @@
+service:
+  name: qxraxrlf
+  identifier: qxraxrlf
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

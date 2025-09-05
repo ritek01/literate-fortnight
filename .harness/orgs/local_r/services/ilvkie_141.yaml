@@ -1,0 +1,7 @@
+service:
+  name: xpfgdphn
+  identifier: xpfgdphn
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

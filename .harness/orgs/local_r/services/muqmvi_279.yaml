@@ -1,0 +1,7 @@
+service:
+  name: qhnxyfkx
+  identifier: qhnxyfkx
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

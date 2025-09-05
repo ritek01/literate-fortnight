@@ -1,0 +1,7 @@
+service:
+  name: qrovfxxg
+  identifier: qrovfxxg
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

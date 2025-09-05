@@ -1,0 +1,7 @@
+service:
+  name: fgyrnrim
+  identifier: fgyrnrim
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

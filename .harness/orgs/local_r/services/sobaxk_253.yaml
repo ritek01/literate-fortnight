@@ -1,0 +1,7 @@
+service:
+  name: iitbiaoc
+  identifier: iitbiaoc
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

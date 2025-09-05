@@ -1,0 +1,7 @@
+service:
+  name: mvalzgvg
+  identifier: mvalzgvg
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

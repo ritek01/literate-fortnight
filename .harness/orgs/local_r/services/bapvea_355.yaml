@@ -1,0 +1,7 @@
+service:
+  name: tnpoxzvl
+  identifier: tnpoxzvl
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

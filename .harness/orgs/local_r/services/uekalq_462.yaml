@@ -1,0 +1,7 @@
+service:
+  name: xrjpjxpk
+  identifier: xrjpjxpk
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

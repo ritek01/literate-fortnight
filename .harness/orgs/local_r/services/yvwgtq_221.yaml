@@ -1,0 +1,7 @@
+service:
+  name: zaqhoabx
+  identifier: zaqhoabx
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

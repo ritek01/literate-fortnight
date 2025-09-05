@@ -1,0 +1,7 @@
+service:
+  name: siltnfer
+  identifier: siltnfer
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

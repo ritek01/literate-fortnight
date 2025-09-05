@@ -1,0 +1,7 @@
+service:
+  name: pkwbeccf
+  identifier: pkwbeccf
+  orgIdentifier: local_r
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
