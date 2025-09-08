@@ -1,0 +1,7 @@
+service:
+  name: blagtmgz
+  identifier: blagtmgz
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

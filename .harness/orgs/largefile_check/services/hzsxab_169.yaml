@@ -1,0 +1,7 @@
+service:
+  name: ooavftvc
+  identifier: ooavftvc
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

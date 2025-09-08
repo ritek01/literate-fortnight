@@ -1,0 +1,7 @@
+service:
+  name: hsavrmtq
+  identifier: hsavrmtq
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

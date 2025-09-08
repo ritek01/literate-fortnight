@@ -1,0 +1,7 @@
+service:
+  name: rdajehqi
+  identifier: rdajehqi
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

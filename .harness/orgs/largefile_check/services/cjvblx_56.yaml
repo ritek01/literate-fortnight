@@ -1,0 +1,7 @@
+service:
+  name: ktefgaij
+  identifier: ktefgaij
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

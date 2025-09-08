@@ -1,0 +1,7 @@
+service:
+  name: faicixsw
+  identifier: faicixsw
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

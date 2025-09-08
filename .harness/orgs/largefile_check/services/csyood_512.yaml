@@ -1,0 +1,7 @@
+service:
+  name: ggdozyxd
+  identifier: ggdozyxd
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: izfbkbmq
+  identifier: izfbkbmq
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

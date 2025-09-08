@@ -1,0 +1,7 @@
+service:
+  name: nxyxtsll
+  identifier: nxyxtsll
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

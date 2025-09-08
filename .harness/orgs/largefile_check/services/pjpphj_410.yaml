@@ -1,0 +1,7 @@
+service:
+  name: jwbixqas
+  identifier: jwbixqas
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

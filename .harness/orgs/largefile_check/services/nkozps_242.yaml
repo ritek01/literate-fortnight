@@ -1,0 +1,7 @@
+service:
+  name: mahxnqij
+  identifier: mahxnqij
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

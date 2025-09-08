@@ -1,0 +1,7 @@
+service:
+  name: fnsfqsjr
+  identifier: fnsfqsjr
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

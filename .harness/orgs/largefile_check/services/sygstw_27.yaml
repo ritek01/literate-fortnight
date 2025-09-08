@@ -1,0 +1,7 @@
+service:
+  name: zjdmunwh
+  identifier: zjdmunwh
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

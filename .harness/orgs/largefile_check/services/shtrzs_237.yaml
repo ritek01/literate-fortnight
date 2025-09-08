@@ -1,0 +1,7 @@
+service:
+  name: eigesrjj
+  identifier: eigesrjj
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

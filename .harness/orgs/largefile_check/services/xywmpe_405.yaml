@@ -1,0 +1,7 @@
+service:
+  name: lgtjrfwl
+  identifier: lgtjrfwl
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: ogjcdfjs
+  identifier: ogjcdfjs
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: izchuaty
+  identifier: izchuaty
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

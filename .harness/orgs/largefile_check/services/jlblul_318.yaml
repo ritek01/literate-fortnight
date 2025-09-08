@@ -1,0 +1,7 @@
+service:
+  name: tcalipuw
+  identifier: tcalipuw
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

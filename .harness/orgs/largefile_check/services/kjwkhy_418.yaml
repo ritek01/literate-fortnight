@@ -1,0 +1,7 @@
+service:
+  name: oldrvqeg
+  identifier: oldrvqeg
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: shmuogks
+  identifier: shmuogks
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

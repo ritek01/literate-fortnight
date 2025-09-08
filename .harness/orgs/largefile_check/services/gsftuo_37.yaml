@@ -1,0 +1,7 @@
+service:
+  name: ejsdompa
+  identifier: ejsdompa
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: ugxywtof
+  identifier: ugxywtof
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

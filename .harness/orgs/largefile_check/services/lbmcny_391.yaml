@@ -1,0 +1,7 @@
+service:
+  name: rneqefqi
+  identifier: rneqefqi
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

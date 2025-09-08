@@ -1,0 +1,7 @@
+service:
+  name: fpaviilc
+  identifier: fpaviilc
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

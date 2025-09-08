@@ -1,0 +1,7 @@
+service:
+  name: xktrrsyj
+  identifier: xktrrsyj
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: oqitcvkk
+  identifier: oqitcvkk
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

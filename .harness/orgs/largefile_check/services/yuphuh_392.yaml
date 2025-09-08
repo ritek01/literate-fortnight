@@ -1,0 +1,7 @@
+service:
+  name: klceyyuo
+  identifier: klceyyuo
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

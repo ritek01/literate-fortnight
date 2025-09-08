@@ -1,0 +1,7 @@
+service:
+  name: hduijywm
+  identifier: hduijywm
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

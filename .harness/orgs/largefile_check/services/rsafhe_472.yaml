@@ -1,0 +1,7 @@
+service:
+  name: wykdrlrb
+  identifier: wykdrlrb
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: jzsikkjs
+  identifier: jzsikkjs
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

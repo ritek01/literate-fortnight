@@ -1,0 +1,7 @@
+service:
+  name: gbnqisjk
+  identifier: gbnqisjk
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

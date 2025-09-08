@@ -1,0 +1,7 @@
+service:
+  name: oxzhdjdj
+  identifier: oxzhdjdj
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

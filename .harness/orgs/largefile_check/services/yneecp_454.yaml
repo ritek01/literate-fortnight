@@ -1,0 +1,7 @@
+service:
+  name: bzrtvxal
+  identifier: bzrtvxal
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

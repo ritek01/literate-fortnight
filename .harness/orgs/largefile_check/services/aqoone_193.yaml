@@ -1,0 +1,7 @@
+service:
+  name: hyxyqmeq
+  identifier: hyxyqmeq
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

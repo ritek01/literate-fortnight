@@ -1,0 +1,7 @@
+service:
+  name: smspdfgv
+  identifier: smspdfgv
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

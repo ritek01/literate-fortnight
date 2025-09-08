@@ -1,0 +1,7 @@
+service:
+  name: idojsqij
+  identifier: idojsqij
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

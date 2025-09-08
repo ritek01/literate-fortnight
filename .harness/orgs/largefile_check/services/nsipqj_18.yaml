@@ -1,0 +1,7 @@
+service:
+  name: jbwimknd
+  identifier: jbwimknd
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

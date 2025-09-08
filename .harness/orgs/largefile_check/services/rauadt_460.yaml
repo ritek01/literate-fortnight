@@ -1,0 +1,7 @@
+service:
+  name: axkzolgq
+  identifier: axkzolgq
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

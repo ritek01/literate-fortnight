@@ -1,0 +1,7 @@
+service:
+  name: trbsfwsx
+  identifier: trbsfwsx
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

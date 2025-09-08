@@ -1,0 +1,7 @@
+service:
+  name: kdcpvqfb
+  identifier: kdcpvqfb
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

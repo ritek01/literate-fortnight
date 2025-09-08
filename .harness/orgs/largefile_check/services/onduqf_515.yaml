@@ -1,0 +1,7 @@
+service:
+  name: xtemoysn
+  identifier: xtemoysn
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: khzdbmoy
+  identifier: khzdbmoy
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

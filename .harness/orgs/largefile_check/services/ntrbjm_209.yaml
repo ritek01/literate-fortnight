@@ -1,0 +1,7 @@
+service:
+  name: qoymhlhy
+  identifier: qoymhlhy
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

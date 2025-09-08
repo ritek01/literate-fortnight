@@ -1,0 +1,7 @@
+service:
+  name: fzefexrq
+  identifier: fzefexrq
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

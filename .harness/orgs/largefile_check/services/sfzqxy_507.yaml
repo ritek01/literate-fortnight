@@ -1,0 +1,7 @@
+service:
+  name: vtpmmfbn
+  identifier: vtpmmfbn
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

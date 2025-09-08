@@ -1,0 +1,7 @@
+service:
+  name: hzxisqdi
+  identifier: hzxisqdi
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

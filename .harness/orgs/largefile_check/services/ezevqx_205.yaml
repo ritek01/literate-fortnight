@@ -1,0 +1,7 @@
+service:
+  name: xnuqoojm
+  identifier: xnuqoojm
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

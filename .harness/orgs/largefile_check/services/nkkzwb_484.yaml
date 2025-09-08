@@ -1,0 +1,7 @@
+service:
+  name: bbhiuvuj
+  identifier: bbhiuvuj
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

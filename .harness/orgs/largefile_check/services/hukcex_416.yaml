@@ -1,0 +1,7 @@
+service:
+  name: grjbirwu
+  identifier: grjbirwu
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

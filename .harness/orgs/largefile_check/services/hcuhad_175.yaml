@@ -1,0 +1,7 @@
+service:
+  name: upuvyzfk
+  identifier: upuvyzfk
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

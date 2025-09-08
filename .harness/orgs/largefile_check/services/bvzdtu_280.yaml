@@ -1,0 +1,7 @@
+service:
+  name: gprtcgyp
+  identifier: gprtcgyp
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

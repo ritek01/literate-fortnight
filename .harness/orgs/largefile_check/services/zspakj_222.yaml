@@ -1,0 +1,7 @@
+service:
+  name: tpjnliso
+  identifier: tpjnliso
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

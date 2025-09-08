@@ -1,0 +1,7 @@
+service:
+  name: acwirloc
+  identifier: acwirloc
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

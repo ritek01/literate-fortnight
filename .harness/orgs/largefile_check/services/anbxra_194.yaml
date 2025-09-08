@@ -1,0 +1,7 @@
+service:
+  name: rvlbolpn
+  identifier: rvlbolpn
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: kmsdsbmb
+  identifier: kmsdsbmb
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

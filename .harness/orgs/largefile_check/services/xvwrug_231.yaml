@@ -1,0 +1,7 @@
+service:
+  name: sxxylyxu
+  identifier: sxxylyxu
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

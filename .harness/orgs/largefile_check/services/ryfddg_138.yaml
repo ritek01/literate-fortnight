@@ -1,0 +1,7 @@
+service:
+  name: cfwcsfvm
+  identifier: cfwcsfvm
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

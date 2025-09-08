@@ -1,0 +1,7 @@
+service:
+  name: szxycoce
+  identifier: szxycoce
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

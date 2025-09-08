@@ -1,0 +1,7 @@
+service:
+  name: cccvxeih
+  identifier: cccvxeih
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

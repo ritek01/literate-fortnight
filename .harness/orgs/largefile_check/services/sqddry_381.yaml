@@ -1,0 +1,7 @@
+service:
+  name: rbbvjdvo
+  identifier: rbbvjdvo
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

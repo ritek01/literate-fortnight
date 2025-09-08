@@ -1,0 +1,7 @@
+service:
+  name: bodjkykv
+  identifier: bodjkykv
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

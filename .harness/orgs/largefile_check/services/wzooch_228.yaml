@@ -1,0 +1,7 @@
+service:
+  name: iqzqogtk
+  identifier: iqzqogtk
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

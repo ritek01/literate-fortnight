@@ -1,0 +1,7 @@
+service:
+  name: sxnhytio
+  identifier: sxnhytio
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

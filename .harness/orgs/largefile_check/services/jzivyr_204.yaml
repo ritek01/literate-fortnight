@@ -1,0 +1,7 @@
+service:
+  name: nkvifwau
+  identifier: nkvifwau
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

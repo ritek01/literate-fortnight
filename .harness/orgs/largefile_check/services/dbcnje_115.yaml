@@ -1,0 +1,7 @@
+service:
+  name: bfkdntlc
+  identifier: bfkdntlc
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

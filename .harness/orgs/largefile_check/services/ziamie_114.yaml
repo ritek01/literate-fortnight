@@ -1,0 +1,7 @@
+service:
+  name: aulxgrkv
+  identifier: aulxgrkv
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

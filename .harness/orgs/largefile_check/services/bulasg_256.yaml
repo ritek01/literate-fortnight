@@ -1,0 +1,7 @@
+service:
+  name: rmuzuggf
+  identifier: rmuzuggf
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

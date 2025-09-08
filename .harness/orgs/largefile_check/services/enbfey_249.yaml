@@ -1,0 +1,7 @@
+service:
+  name: qmfkkvmn
+  identifier: qmfkkvmn
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

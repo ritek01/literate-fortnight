@@ -1,0 +1,7 @@
+service:
+  name: amudtaua
+  identifier: amudtaua
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

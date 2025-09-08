@@ -1,0 +1,7 @@
+service:
+  name: glbjubah
+  identifier: glbjubah
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

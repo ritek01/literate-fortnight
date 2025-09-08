@@ -1,0 +1,7 @@
+service:
+  name: tnukvzrp
+  identifier: tnukvzrp
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

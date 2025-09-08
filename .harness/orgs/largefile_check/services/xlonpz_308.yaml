@@ -1,0 +1,7 @@
+service:
+  name: mxztxbna
+  identifier: mxztxbna
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

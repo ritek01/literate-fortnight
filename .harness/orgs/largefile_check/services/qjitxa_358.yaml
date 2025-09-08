@@ -1,0 +1,7 @@
+service:
+  name: dqimsanj
+  identifier: dqimsanj
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

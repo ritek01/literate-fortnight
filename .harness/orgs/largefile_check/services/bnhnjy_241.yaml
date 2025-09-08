@@ -1,0 +1,7 @@
+service:
+  name: ljepwbwx
+  identifier: ljepwbwx
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

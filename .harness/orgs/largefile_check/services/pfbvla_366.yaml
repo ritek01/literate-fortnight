@@ -1,0 +1,7 @@
+service:
+  name: pnstrqtw
+  identifier: pnstrqtw
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: wgjhfdzh
+  identifier: wgjhfdzh
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

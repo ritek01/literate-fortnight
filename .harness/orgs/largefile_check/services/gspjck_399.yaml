@@ -1,0 +1,7 @@
+service:
+  name: lmqaqefq
+  identifier: lmqaqefq
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

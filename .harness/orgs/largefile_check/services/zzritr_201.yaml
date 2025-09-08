@@ -1,0 +1,7 @@
+service:
+  name: qhykjgmc
+  identifier: qhykjgmc
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

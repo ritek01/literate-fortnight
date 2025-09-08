@@ -1,0 +1,7 @@
+service:
+  name: voiaamnh
+  identifier: voiaamnh
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: tmrpcbmu
+  identifier: tmrpcbmu
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

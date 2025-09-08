@@ -1,0 +1,7 @@
+service:
+  name: lwsscwsf
+  identifier: lwsscwsf
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

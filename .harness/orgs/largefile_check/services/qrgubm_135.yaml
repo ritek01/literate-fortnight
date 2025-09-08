@@ -1,0 +1,7 @@
+service:
+  name: yuaddynm
+  identifier: yuaddynm
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: ukadnckq
+  identifier: ukadnckq
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

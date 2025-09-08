@@ -1,0 +1,7 @@
+service:
+  name: uzlmvyzq
+  identifier: uzlmvyzq
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

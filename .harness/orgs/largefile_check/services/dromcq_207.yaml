@@ -1,0 +1,7 @@
+service:
+  name: iroutyfe
+  identifier: iroutyfe
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

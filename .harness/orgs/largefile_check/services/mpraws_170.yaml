@@ -1,0 +1,7 @@
+service:
+  name: ridbdlvl
+  identifier: ridbdlvl
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

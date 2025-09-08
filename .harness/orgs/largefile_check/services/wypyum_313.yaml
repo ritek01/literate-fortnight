@@ -1,0 +1,7 @@
+service:
+  name: onnhklvl
+  identifier: onnhklvl
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

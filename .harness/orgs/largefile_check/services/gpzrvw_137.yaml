@@ -1,0 +1,7 @@
+service:
+  name: rtsilysc
+  identifier: rtsilysc
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

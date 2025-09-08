@@ -1,0 +1,7 @@
+service:
+  name: yrwzubxa
+  identifier: yrwzubxa
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

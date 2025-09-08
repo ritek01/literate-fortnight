@@ -1,0 +1,7 @@
+service:
+  name: qslvqzgi
+  identifier: qslvqzgi
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

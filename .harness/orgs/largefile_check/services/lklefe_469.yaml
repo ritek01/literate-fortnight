@@ -1,0 +1,7 @@
+service:
+  name: ytgxdchj
+  identifier: ytgxdchj
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

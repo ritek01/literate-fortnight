@@ -1,0 +1,7 @@
+service:
+  name: eknvlpwn
+  identifier: eknvlpwn
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

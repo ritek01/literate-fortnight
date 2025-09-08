@@ -1,0 +1,7 @@
+service:
+  name: salmewol
+  identifier: salmewol
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

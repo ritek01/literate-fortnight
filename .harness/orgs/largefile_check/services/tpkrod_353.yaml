@@ -1,0 +1,7 @@
+service:
+  name: fodkpllv
+  identifier: fodkpllv
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

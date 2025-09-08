@@ -1,0 +1,7 @@
+service:
+  name: iklaaxeh
+  identifier: iklaaxeh
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

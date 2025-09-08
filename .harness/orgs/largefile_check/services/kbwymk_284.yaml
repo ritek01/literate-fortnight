@@ -1,0 +1,7 @@
+service:
+  name: mljhodze
+  identifier: mljhodze
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: zehosbvf
+  identifier: zehosbvf
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

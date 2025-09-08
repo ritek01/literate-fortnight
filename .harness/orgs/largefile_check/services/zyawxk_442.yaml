@@ -1,0 +1,7 @@
+service:
+  name: lkcxntex
+  identifier: lkcxntex
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

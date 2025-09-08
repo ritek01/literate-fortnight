@@ -1,0 +1,7 @@
+service:
+  name: zyfewiwr
+  identifier: zyfewiwr
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

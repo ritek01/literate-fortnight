@@ -1,0 +1,7 @@
+service:
+  name: suuwhqmv
+  identifier: suuwhqmv
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

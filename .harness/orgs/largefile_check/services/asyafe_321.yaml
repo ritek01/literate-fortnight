@@ -1,0 +1,7 @@
+service:
+  name: tfsmknac
+  identifier: tfsmknac
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

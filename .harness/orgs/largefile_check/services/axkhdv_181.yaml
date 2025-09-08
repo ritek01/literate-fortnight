@@ -1,0 +1,7 @@
+service:
+  name: ylkigfvc
+  identifier: ylkigfvc
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

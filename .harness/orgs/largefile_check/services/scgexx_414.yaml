@@ -1,0 +1,7 @@
+service:
+  name: xcesqxia
+  identifier: xcesqxia
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: dmdwbavh
+  identifier: dmdwbavh
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

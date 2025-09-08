@@ -1,0 +1,7 @@
+service:
+  name: angcbryl
+  identifier: angcbryl
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

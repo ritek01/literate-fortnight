@@ -1,0 +1,7 @@
+service:
+  name: biugpzop
+  identifier: biugpzop
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

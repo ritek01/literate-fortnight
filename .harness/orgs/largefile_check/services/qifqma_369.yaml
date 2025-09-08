@@ -1,0 +1,7 @@
+service:
+  name: uxzvvlge
+  identifier: uxzvvlge
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

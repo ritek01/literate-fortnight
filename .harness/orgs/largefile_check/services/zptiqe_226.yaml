@@ -1,0 +1,7 @@
+service:
+  name: gzsjeaik
+  identifier: gzsjeaik
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

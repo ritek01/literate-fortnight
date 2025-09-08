@@ -1,0 +1,7 @@
+service:
+  name: vzyrvyog
+  identifier: vzyrvyog
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

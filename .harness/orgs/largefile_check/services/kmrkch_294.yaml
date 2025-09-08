@@ -1,0 +1,7 @@
+service:
+  name: mmpfmlwj
+  identifier: mmpfmlwj
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

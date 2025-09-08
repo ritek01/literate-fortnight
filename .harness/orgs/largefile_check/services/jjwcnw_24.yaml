@@ -1,0 +1,7 @@
+service:
+  name: uopklueb
+  identifier: uopklueb
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: umjcuadx
+  identifier: umjcuadx
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: nwizhhne
+  identifier: nwizhhne
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

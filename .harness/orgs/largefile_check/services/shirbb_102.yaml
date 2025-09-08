@@ -1,0 +1,7 @@
+service:
+  name: dthcdfoi
+  identifier: dthcdfoi
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

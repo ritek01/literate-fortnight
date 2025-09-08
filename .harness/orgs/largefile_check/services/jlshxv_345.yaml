@@ -1,0 +1,7 @@
+service:
+  name: phajzexu
+  identifier: phajzexu
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

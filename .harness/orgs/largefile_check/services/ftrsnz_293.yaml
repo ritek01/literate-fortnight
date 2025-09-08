@@ -1,0 +1,7 @@
+service:
+  name: aahrjmng
+  identifier: aahrjmng
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

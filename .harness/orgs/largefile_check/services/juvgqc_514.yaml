@@ -1,0 +1,7 @@
+service:
+  name: qlaibccc
+  identifier: qlaibccc
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

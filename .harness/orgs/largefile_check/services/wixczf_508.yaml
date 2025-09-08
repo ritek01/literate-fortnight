@@ -1,0 +1,7 @@
+service:
+  name: cihferly
+  identifier: cihferly
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: maqhzgfv
+  identifier: maqhzgfv
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

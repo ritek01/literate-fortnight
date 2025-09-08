@@ -1,0 +1,7 @@
+service:
+  name: viilccoj
+  identifier: viilccoj
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

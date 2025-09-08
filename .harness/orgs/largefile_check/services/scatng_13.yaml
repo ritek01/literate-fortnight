@@ -1,0 +1,7 @@
+service:
+  name: czmocqpw
+  identifier: czmocqpw
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

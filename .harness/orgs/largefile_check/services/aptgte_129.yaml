@@ -1,0 +1,7 @@
+service:
+  name: djgwvwxt
+  identifier: djgwvwxt
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

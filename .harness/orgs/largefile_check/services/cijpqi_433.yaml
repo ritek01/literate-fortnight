@@ -1,0 +1,7 @@
+service:
+  name: lkutdjal
+  identifier: lkutdjal
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

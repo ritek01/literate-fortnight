@@ -1,0 +1,7 @@
+service:
+  name: okhohqdu
+  identifier: okhohqdu
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

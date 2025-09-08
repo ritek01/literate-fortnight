@@ -1,0 +1,7 @@
+service:
+  name: ifdszhjt
+  identifier: ifdszhjt
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

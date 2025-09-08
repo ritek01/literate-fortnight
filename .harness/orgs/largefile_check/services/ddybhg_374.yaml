@@ -1,0 +1,7 @@
+service:
+  name: xexnyynd
+  identifier: xexnyynd
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

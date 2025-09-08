@@ -1,0 +1,7 @@
+service:
+  name: oqmmsrit
+  identifier: oqmmsrit
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

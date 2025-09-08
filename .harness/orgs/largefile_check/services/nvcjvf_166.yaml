@@ -1,0 +1,7 @@
+service:
+  name: dtljcpob
+  identifier: dtljcpob
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

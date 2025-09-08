@@ -1,0 +1,7 @@
+service:
+  name: lrlhsezs
+  identifier: lrlhsezs
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: ecbxuedc
+  identifier: ecbxuedc
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

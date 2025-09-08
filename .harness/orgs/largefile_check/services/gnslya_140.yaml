@@ -1,0 +1,7 @@
+service:
+  name: wgcfhqre
+  identifier: wgcfhqre
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

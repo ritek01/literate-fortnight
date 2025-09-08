@@ -1,0 +1,7 @@
+service:
+  name: mzofpykz
+  identifier: mzofpykz
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

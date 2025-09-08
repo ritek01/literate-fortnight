@@ -1,0 +1,7 @@
+service:
+  name: ppsrqjet
+  identifier: ppsrqjet
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

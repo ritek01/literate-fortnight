@@ -1,0 +1,7 @@
+service:
+  name: hlvytkpn
+  identifier: hlvytkpn
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

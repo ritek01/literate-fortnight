@@ -1,0 +1,7 @@
+service:
+  name: meksghfr
+  identifier: meksghfr
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

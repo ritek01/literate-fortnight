@@ -1,0 +1,7 @@
+service:
+  name: tlejmxts
+  identifier: tlejmxts
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: cgftwmnx
+  identifier: cgftwmnx
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

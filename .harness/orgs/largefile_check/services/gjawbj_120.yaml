@@ -1,0 +1,7 @@
+service:
+  name: nmdotaqt
+  identifier: nmdotaqt
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

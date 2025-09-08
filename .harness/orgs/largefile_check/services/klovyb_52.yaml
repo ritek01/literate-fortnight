@@ -1,0 +1,7 @@
+service:
+  name: yyljmzsi
+  identifier: yyljmzsi
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

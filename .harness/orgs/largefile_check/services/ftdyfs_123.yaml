@@ -1,0 +1,7 @@
+service:
+  name: ccqlzztl
+  identifier: ccqlzztl
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

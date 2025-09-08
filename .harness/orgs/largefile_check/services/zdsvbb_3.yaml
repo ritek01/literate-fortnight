@@ -1,0 +1,7 @@
+service:
+  name: sakaopqu
+  identifier: sakaopqu
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

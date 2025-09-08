@@ -1,0 +1,7 @@
+service:
+  name: chbntgci
+  identifier: chbntgci
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

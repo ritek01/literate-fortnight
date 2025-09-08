@@ -1,0 +1,7 @@
+service:
+  name: lmmsrglz
+  identifier: lmmsrglz
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

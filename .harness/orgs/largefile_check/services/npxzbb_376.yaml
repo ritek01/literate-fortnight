@@ -1,0 +1,7 @@
+service:
+  name: xdxtyase
+  identifier: xdxtyase
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

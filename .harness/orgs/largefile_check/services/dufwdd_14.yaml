@@ -1,0 +1,7 @@
+service:
+  name: jeiodexd
+  identifier: jeiodexd
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

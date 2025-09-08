@@ -1,0 +1,7 @@
+service:
+  name: hhenbdse
+  identifier: hhenbdse
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

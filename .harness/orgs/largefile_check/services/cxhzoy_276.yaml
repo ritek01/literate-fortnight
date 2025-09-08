@@ -1,0 +1,7 @@
+service:
+  name: hnuzrfjm
+  identifier: hnuzrfjm
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

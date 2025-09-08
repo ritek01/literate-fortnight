@@ -1,0 +1,7 @@
+service:
+  name: jtksmkjf
+  identifier: jtksmkjf
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

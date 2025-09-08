@@ -1,0 +1,7 @@
+service:
+  name: xbvbsgpx
+  identifier: xbvbsgpx
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

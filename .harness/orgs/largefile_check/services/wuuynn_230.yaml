@@ -1,0 +1,7 @@
+service:
+  name: cewttjdr
+  identifier: cewttjdr
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: fcvnejnf
+  identifier: fcvnejnf
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

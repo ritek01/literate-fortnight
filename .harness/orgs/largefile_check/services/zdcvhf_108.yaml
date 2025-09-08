@@ -1,0 +1,7 @@
+service:
+  name: xhhygtbl
+  identifier: xhhygtbl
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

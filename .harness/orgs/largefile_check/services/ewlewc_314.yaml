@@ -1,0 +1,7 @@
+service:
+  name: vgfzvgrf
+  identifier: vgfzvgrf
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

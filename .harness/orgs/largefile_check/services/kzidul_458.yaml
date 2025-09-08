@@ -1,0 +1,7 @@
+service:
+  name: wqgebopo
+  identifier: wqgebopo
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

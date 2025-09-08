@@ -1,0 +1,7 @@
+service:
+  name: tazkhqtq
+  identifier: tazkhqtq
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: zzjkzapv
+  identifier: zzjkzapv
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

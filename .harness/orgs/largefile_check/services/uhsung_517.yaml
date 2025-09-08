@@ -1,0 +1,7 @@
+service:
+  name: irfqdsvf
+  identifier: irfqdsvf
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

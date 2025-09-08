@@ -1,0 +1,7 @@
+service:
+  name: djhrdbxw
+  identifier: djhrdbxw
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

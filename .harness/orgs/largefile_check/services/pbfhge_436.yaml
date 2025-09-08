@@ -1,0 +1,7 @@
+service:
+  name: kzvympln
+  identifier: kzvympln
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

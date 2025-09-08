@@ -1,0 +1,7 @@
+service:
+  name: vslrunxn
+  identifier: vslrunxn
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

@@ -1,0 +1,7 @@
+service:
+  name: jmppfklj
+  identifier: jmppfklj
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

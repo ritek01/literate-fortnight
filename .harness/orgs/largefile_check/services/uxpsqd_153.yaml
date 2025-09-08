@@ -1,0 +1,7 @@
+service:
+  name: tgmzkvzk
+  identifier: tgmzkvzk
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

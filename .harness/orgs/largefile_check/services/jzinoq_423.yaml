@@ -1,0 +1,7 @@
+service:
+  name: jkqfchjn
+  identifier: jkqfchjn
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

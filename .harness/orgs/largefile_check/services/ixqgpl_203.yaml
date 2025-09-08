@@ -1,0 +1,7 @@
+service:
+  name: lxrxkzcc
+  identifier: lxrxkzcc
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

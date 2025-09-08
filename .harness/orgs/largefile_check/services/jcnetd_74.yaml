@@ -1,0 +1,7 @@
+service:
+  name: xzgkoisd
+  identifier: xzgkoisd
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

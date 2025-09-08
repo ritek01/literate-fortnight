@@ -1,0 +1,7 @@
+service:
+  name: qmszdvvi
+  identifier: qmszdvvi
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

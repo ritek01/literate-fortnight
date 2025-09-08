@@ -1,0 +1,7 @@
+service:
+  name: biuibijh
+  identifier: biuibijh
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

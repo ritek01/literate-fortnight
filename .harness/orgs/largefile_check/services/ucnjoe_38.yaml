@@ -1,0 +1,7 @@
+service:
+  name: kayladgu
+  identifier: kayladgu
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

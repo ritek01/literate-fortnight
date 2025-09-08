@@ -1,0 +1,7 @@
+service:
+  name: ujxlrhbr
+  identifier: ujxlrhbr
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

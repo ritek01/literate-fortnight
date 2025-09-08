@@ -1,0 +1,7 @@
+service:
+  name: xermoimz
+  identifier: xermoimz
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

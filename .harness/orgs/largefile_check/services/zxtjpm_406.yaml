@@ -1,0 +1,7 @@
+service:
+  name: cqnssbve
+  identifier: cqnssbve
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

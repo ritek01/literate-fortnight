@@ -1,0 +1,7 @@
+service:
+  name: dnqyyaum
+  identifier: dnqyyaum
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

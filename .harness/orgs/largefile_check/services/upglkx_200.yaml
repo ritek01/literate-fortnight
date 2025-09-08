@@ -1,0 +1,7 @@
+service:
+  name: syidynnz
+  identifier: syidynnz
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

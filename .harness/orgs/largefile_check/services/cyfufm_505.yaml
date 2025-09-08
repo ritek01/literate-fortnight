@@ -1,0 +1,7 @@
+service:
+  name: aarwcttf
+  identifier: aarwcttf
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

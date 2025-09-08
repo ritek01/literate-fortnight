@@ -1,0 +1,7 @@
+service:
+  name: bdhsdlih
+  identifier: bdhsdlih
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

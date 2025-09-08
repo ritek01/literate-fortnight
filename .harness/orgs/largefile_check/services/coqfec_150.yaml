@@ -1,0 +1,7 @@
+service:
+  name: idzjctlf
+  identifier: idzjctlf
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

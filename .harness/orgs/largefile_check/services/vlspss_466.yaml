@@ -1,0 +1,7 @@
+service:
+  name: klpatnug
+  identifier: klpatnug
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

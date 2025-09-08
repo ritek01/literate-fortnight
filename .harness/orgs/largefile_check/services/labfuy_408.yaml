@@ -1,0 +1,7 @@
+service:
+  name: jxnxojda
+  identifier: jxnxojda
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

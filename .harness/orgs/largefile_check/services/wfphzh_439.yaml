@@ -1,0 +1,7 @@
+service:
+  name: jywkefwp
+  identifier: jywkefwp
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

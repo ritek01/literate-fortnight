@@ -1,0 +1,7 @@
+service:
+  name: algnzivk
+  identifier: algnzivk
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

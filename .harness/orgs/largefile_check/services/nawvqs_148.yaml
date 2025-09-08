@@ -1,0 +1,7 @@
+service:
+  name: lkceohfl
+  identifier: lkceohfl
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

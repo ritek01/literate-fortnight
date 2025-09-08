@@ -1,0 +1,7 @@
+service:
+  name: sxrtyvmv
+  identifier: sxrtyvmv
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

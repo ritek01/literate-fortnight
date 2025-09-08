@@ -1,0 +1,7 @@
+service:
+  name: zdtionrf
+  identifier: zdtionrf
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

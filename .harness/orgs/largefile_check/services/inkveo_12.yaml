@@ -1,0 +1,7 @@
+service:
+  name: vxuekang
+  identifier: vxuekang
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

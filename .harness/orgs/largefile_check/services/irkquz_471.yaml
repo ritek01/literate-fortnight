@@ -1,0 +1,7 @@
+service:
+  name: dcedngtc
+  identifier: dcedngtc
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

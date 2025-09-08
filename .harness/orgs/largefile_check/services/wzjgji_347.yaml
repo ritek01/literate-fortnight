@@ -1,0 +1,7 @@
+service:
+  name: ikpstvrs
+  identifier: ikpstvrs
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

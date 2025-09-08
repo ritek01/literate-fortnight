@@ -1,0 +1,7 @@
+service:
+  name: hfeaaven
+  identifier: hfeaaven
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

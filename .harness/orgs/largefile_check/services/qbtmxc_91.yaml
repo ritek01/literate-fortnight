@@ -1,0 +1,7 @@
+service:
+  name: erivjpqx
+  identifier: erivjpqx
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

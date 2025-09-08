@@ -1,0 +1,7 @@
+service:
+  name: nssuvqyz
+  identifier: nssuvqyz
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

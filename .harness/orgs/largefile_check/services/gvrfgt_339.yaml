@@ -1,0 +1,7 @@
+service:
+  name: ilnophuz
+  identifier: ilnophuz
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

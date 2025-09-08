@@ -1,0 +1,7 @@
+service:
+  name: isbkyhdm
+  identifier: isbkyhdm
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

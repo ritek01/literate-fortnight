@@ -1,0 +1,7 @@
+service:
+  name: nvslsemv
+  identifier: nvslsemv
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

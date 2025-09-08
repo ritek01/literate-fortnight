@@ -1,0 +1,7 @@
+service:
+  name: lcqsyzkt
+  identifier: lcqsyzkt
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

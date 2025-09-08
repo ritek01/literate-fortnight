@@ -1,0 +1,7 @@
+service:
+  name: zdpyozsa
+  identifier: zdpyozsa
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

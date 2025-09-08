@@ -1,0 +1,7 @@
+service:
+  name: pzioazib
+  identifier: pzioazib
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

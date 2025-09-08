@@ -1,0 +1,7 @@
+service:
+  name: caiygbvr
+  identifier: caiygbvr
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

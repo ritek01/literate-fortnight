@@ -1,0 +1,7 @@
+service:
+  name: dffildmp
+  identifier: dffildmp
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

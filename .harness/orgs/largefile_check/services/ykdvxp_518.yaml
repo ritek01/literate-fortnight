@@ -1,0 +1,7 @@
+service:
+  name: kobqzgpj
+  identifier: kobqzgpj
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

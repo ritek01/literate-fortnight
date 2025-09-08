@@ -1,0 +1,7 @@
+service:
+  name: xljojcno
+  identifier: xljojcno
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

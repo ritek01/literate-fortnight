@@ -1,0 +1,7 @@
+service:
+  name: lwgtgegi
+  identifier: lwgtgegi
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

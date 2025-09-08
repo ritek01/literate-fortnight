@@ -1,0 +1,7 @@
+service:
+  name: uwaxcyxh
+  identifier: uwaxcyxh
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

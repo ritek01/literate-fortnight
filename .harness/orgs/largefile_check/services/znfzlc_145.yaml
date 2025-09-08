@@ -1,0 +1,7 @@
+service:
+  name: tdzafdmo
+  identifier: tdzafdmo
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

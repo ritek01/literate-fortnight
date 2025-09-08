@@ -1,0 +1,7 @@
+service:
+  name: agrmmffj
+  identifier: agrmmffj
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

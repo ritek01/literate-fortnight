@@ -1,0 +1,7 @@
+service:
+  name: fbkvhnfc
+  identifier: fbkvhnfc
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes

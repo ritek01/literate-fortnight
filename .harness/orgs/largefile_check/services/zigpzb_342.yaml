@@ -1,0 +1,7 @@
+service:
+  name: qavqdfoa
+  identifier: qavqdfoa
+  orgIdentifier: largefile_check
+  serviceDefinition:
+    spec: {}
+    type: Kubernetes
