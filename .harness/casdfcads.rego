@@ -5,7 +5,7 @@ package pipeline
 deny[msg] {
 	# Find all stages that are Deployments ...
 	input.pipeline.stages[i].stage.type == "Deployment"
-
+dw
 	# ... that are not in the set of stages with HarnessApproval steps
 	not stages_with_approval[i]
 
